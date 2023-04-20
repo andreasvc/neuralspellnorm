@@ -54,7 +54,7 @@
 18-3|Ik had gedurende de jaren dat ik met hem in Baker-Street had samen gewoond , meermalen opgemerkt , dat aan het kalm en meesterachtig uiterlijk van mijn metgezel een weinig ijdelheid ten grondslag lag .
 18-4|Ik maakte echter geen tegenwerping , maar zat zwijgend mijn gewond been te wrijven .
 18-5|Ik had [ @alt enige eenigen ] tijd geleden er een kogel door ontvangen , en hoewel ik er weder op gaan kon , kondigde het op pijnlijke wijze elke weersverandering aan .
-19-1|" Kort geleden heeft mijn [ @alt praktijk practijk ] zich zelfs uitgestrekt tot het Vasteland , " zei Holmes na een poos , terwijl hij zijn oude pijp van rozeboomenhout stopte , " ik werd in de laatste week namelijk geraadpleegd door François le Villard , die [ @alt zoals zooals ] je waarschijnlijk bekend is , in [ @alt de den ] [ @alt laatste laatsten ] tijd op [ @alt de den ] voorgrond is getreden in dienst van de [ @alt Franse Fransche ] [ @alt detectives detectiven ] .
+19-1|" Kort geleden heeft mijn [ @alt praktijk practijk ] zich zelfs uitgestrekt tot het Vasteland , " zei Holmes na een poos , terwijl hij zijn oude pijp van [ @alt rozenbomen rozeboomenhout ] [ @phantom hout ] stopte , " ik werd in de laatste week namelijk geraadpleegd door François le Villard , die [ @alt zoals zooals ] je waarschijnlijk bekend is , in [ @alt de den ] [ @alt laatste laatsten ] tijd op [ @alt de den ] voorgrond is getreden in dienst van de [ @alt Franse Fransche ] [ @alt detectives detectiven ] .
 19-2|Hij bezit al de [ @alt Keltische Celtische ] kracht van snelle waarneming , maar hij schiet [ @mwu_alt tekort te kort ] in de juiste [ @alt beoordeling beoordeeling ] der feiten en de [ @alt algemene algemeene ] kennis die onmisbaar is voor de [ @alt hogere hoogere ] ontwikkeling van zijn kunst .
 19-3|Het geval stond in verband met een testament en scheen [ @alt enigszins eenigszins ] ingewikkeld .
 19-4|Ik was in staat hem op de hoogte te stellen van twee gelijksoortige gevallen , het een te Riga in 1857 en het ander te St. Louis in 1871 , waardoor hij tot de juiste oplossing gekomen is .
@@ -64,7 +64,7 @@
 21-1|" Hij spreekt gelijk een leerling tot zijn meester , " zeide ik .
 21-2|" O , hij schat mijn hulp te hoog , " zei Sherlock Holmes , " hij bezit zelf [ @alt grote groote ] gaven .
 21-3|Hij heeft twee van de drie eigenschappen die voor [ @alt de den ] [ @alt werkelijke werkelijken ] detective [ @alt vereist vereischt ] worden .
-21-4|Hij bezit namelijk opmerkingsen onthullings-vermogen .
+21-4|Hij bezit namelijk [ @alt opmerkingen opmerkingsen ] onthullings-vermogen .
 21-5|Het ontbreekt hem alleen aan kennis en die kan hij mettertijd verwerven .
 21-6|Hij is nu bezig [ @alt mijn mijne ] kleine werken in het [ @alt Frans Fransch ] te vertalen . "
 22-1|" [ @alt Uw Uwe ] werken ? "
@@ -149,7 +149,7 @@
 44-6|Er behoort gewis niet [ @alt zoveel zooveel ] vernuft toe om de gevolgtrekking te maken , dat hij , die [ @alt zo zoo ] netjes met een horloge van vijftig guinjes omspringt , een zorgeloos man is .
 44-7|En evenmin is het [ @alt zo zoo ] wonderlijk te begrijpen , dat een man die een voorwerp van zulke [ @alt grote groote ] waarde erft , niet van middelen ontbloot is . "
 44-8|Ik knikte , ten bewijze dat ik [ @alt zijn zijne ] [ @alt redenering redeneering ] volgde .
-45-1|" Het is bij [ @alt pandbeleners pand-beleeners ] in Engeland algemeen gebruikelijk om het [ @alt nummer nommer ] van het bewijs met een graveernaald op de binnenzijde der kast te schrijven .
+45-1|" Het is bij [ @alt pandbeleners [ @alt pand-beleners pand-beleeners ] in Engeland algemeen gebruikelijk om het [ @alt nummer nommer ] van het bewijs met een graveernaald op de binnenzijde der kast te schrijven .
 45-2|Dit is een maatregel tegen het verloren gaan van het bewijs .
 45-3|Er zijn niet minder dan vier zulke [ @alt nummers nommers ] door mijn lens op de binnenzijde der kast zichtbaar .
 45-4|Gevolgtrekking : dat uw broeder zeer dikwijls op zwart zaad zat .
@@ -208,18 +208,18 @@
 62-2|[ @alt Mijn Mijne ] moeder was overleden , en ik had [ @alt geen geene ] betrekkingen in Engeland .
 62-3|Ik werd echter in een net opvoedingsgesticht te Edinburgh geplaatst , waar ik tot mijn zeventiende jaar vertoefde .
 62-4|In het jaar 1878 verkreeg mijn vader , die toen de oudste kapitein bij zijn regiment was , een jaar verlof , en kwam naar Engeland .
-62-5|Hij telegrafeerde mij uit Londen dat hij gezond en wel was aangekomen en [ @alt nodigde noodigde ] mij uit om onmiddellijk over te komen , terwijl hij mij het Langham Hôtel als zijn adres opgaf .
+62-5|Hij telegrafeerde mij uit Londen dat hij gezond en wel was aangekomen en [ @alt nodigde noodigde ] mij uit om onmiddellijk over te komen , terwijl hij mij het Langham [ @alt Hotel Hôtel ] als zijn adres opgaf .
 62-6|Ik herinner mij dat zijn bericht van verlangen en liefde getuigde .
 62-7|Toen ik te Londen aankwam , reed ik naar Langham en vernam daar dat kapitein Morstan er logeerde , doch dat hij [ @alt de den ] [ @alt vorige vorigen ] avond was uitgegaan en tot nog toe niet teruggekeerd was .
 62-8|Ik wachtte [ @alt de den ] [ @alt ganse ganschen ] dag , zonder iets van hem te vernemen .
-62-9|Des avonds stelde ik , op aanraden van [ @alt de den ] hôtelhouder , de politie hiermede in kennis en [ @alt de den ] [ @alt volgende volgenden ] morgen plaatsten wij [ @alt een eene ] oproeping in alle bladen .
+62-9|Des avonds stelde ik , op aanraden van [ @alt de den ] [ @alt hotelhouder hôtelhouder ] , de politie hiermede in kennis en [ @alt de den ] [ @alt volgende volgenden ] morgen plaatsten wij [ @alt een eene ] oproeping in alle bladen .
 62-10|Onze onderzoekingen leverden echter niet het minste resultaat op ; en vanaf [ @alt die dien ] dag tot op heden heb ik nooit weder een woord van mijn [ @alt ongelukkige ongelukkigen ] vader vernomen .
 62-11|Hij kwam naar het vaderland met een hart vol hoop en liefde , om er [ @alt enige eenige ] rust en vaderlijk genoegen te vinden , en in stede daarvan .... "
 63-1|Zij bracht haar hand aan [ @alt haar hare ] keel , en een korte snik besloot [ @alt de den ] volzin .
 64-1|" De datum ? " vroeg Holmes , zijn notitie-boek openende .
 65-1|" Hij verdween op [ @alt de den ] 3en December 1878 , dus omstreeks tien jaren geleden . "
 66-1|" Zijn bagage ? "
-67-1|" Bleef in het hôtel .
+67-1|" Bleef in het [ @alt hotel hôtel ] .
 67-2|Er was echter niets in dat tot [ @alt enige eenige ] opheldering kon dienen : wat [ @alt kleren kleêren ] , [ @alt enige eenige ] boeken en een groot aantal curiositeiten van de Andaman-eilanden .
 67-3|Hij was een der officieren geweest die met de bewaking der daar verbannen misdadigers belast zijn . "
 68-1|" Had hij een of ander vriend in de stad ? "
@@ -228,7 +228,7 @@
 69-3|Wij stelden hem natuurlijk van het geval in kennis , maar het was hem zelfs onbekend dat zijn mede-officier in Engeland was . "
 70-1|" Een vreemdsoortig geval , " merkte Holmes aan .
 71-1|" Het vreemdsoortige ervan heb ik u echter nog niet beschreven .
-71-2|Omstreeks zes jaren geleden - of om nauwkeurig te werk te gaan : op [ @alt de den ] 4en Mei 1882 , - verscheen er een advertentie in de " =Times= " , waarin gevraagd werd naar het adres van Miss Mary Morstan , met de verklaring dat het in haar belang zoude zijn , zich bekend te maken .
+71-2|Omstreeks zes jaren geleden - of om nauwkeurig te werk te gaan : op [ @alt de den ] 4en Mei 1882 , - verscheen er een advertentie in de " Times " , waarin gevraagd werd naar het adres van Miss Mary Morstan , met de verklaring dat het in haar belang zoude zijn , zich bekend te maken .
 71-3|Er werd noch naam , noch adres bij vermeld .
 71-4|Ik was op dat tijdstip juist in het gezin van Mrs. Cecil Forrester als gouvernante in betrekking gekomen .
 71-5|Op haar raad maakte ik per advertentie mijn adres bekend .
@@ -260,7 +260,7 @@
 78-1|" Dan zullen wij zeer zeker gaan , - gij en ik en - ja , wel Dr. Watson is juist de rechte man .
 78-2|Uw briefschrijver spreekt van twee vrienden .
 78-3|Hij en ik hebben reeds vroeger samengewerkt . "
-79-1|" Maar zou hij willen komen ? " vroeg zij met iets smeekends in haar stem .
+79-1|" Maar zou hij willen komen ? " vroeg zij met iets [ @alt smekend smeekends ] in haar stem .
 79-2|" Ik zal mij gelukkig achten en er [ @alt een eene ] eer in stellen , " zeide ik gejaagd , " als ik u in [ @alt enig eenig ] opzicht van dienst zal kunnen zijn . "
 79-3|" Gij zijt beiden zeer vriendelijk , " antwoordde zij , " ik heb een afgezonderd leven geleid en bezit [ @alt geen geene ] vrienden waarop ik mij zou kunnen beroepen .
 79-4|Als ik om zes uur hier ben , zal het , naar ik denk , vroeg genoeg zijn ? "
@@ -279,8 +279,8 @@
 84-3|Wees [ @alt zo zoo ] goed en laat mij de papieren behouden .
 84-4|Dan kan ik de zaak eens overzien .
 84-5|Het is nu pas half-vier .
-84-6|=Au revoir= , dus . "
-85-1|" =Au revoir= , " zei onze bezoekster , en met een [ @alt vriendelijke vriendelijken ] blik op ons beiden , verborg zei haar doos met paarlen weder in [ @alt haar haren ] boezem , en verliet haastig het vertrek .
+84-6|Au revoir , dus . "
+85-1|" Au revoir , " zei onze bezoekster , en met een [ @alt vriendelijke vriendelijken ] blik op ons beiden , verborg zei haar doos met paarlen weder in [ @alt haar haren ] boezem , en verliet haastig het vertrek .
 85-2|Mij voor het venster plaatsende zag ik haar snel de straat [ @alt aflopen afloopen ] , terwijl haar grijs hoedje met de witte veder op een vogel geleek [ @alt tussen tusschen ] de dichte menigte .
 86-1|" Wat een aantrekkelijke vrouw ! " riep ik uit , mij tot mijn metgezel wendende .
 87-1|Hij had zijn pijp weder opgestoken en lag met halfgesloten [ @alt ogen oogen ] achterover in zijn fauteuil .
@@ -290,10 +290,10 @@
 90-1|" Het is van het grootste belang , " antwoordde hij , " uw oordeel niet te laten leiden door persoonlijke eigenschappen .
 90-2|Een cliënt is voor mij slechts [ @alt een eene ] eenheid , een factor in een vraagstuk .
 90-3|De op het gemoed werkende eigenschappen staan een zuivere [ @alt redenering redeneering ] in [ @alt de den ] weg .
-90-4|Ik geef u de verzekering dat de bekoorlijkste vrouw , die ik ooit gezien heb , werd opgehangen wegens het vermoorden van drie kleine kinderen om [ @alt hun hunne ] levensverzekeringssom machtig te worden , terwijl de terugstootendste man onder [ @alt mijn mijne ] bekenden een filantroop is , die omstreeks een kwart [ @alt miljoen millioen ] aan de armen van Londen besteed heeft . "
+90-4|Ik geef u de verzekering dat de bekoorlijkste vrouw , die ik ooit gezien heb , werd opgehangen wegens het vermoorden van drie kleine kinderen om [ @alt hun hunne ] levensverzekeringssom machtig te worden , terwijl de [ @alt terugstotende terugstootendste ] man onder [ @alt mijn mijne ] bekenden een filantroop is , die omstreeks een kwart [ @alt miljoen millioen ] aan de armen van Londen besteed heeft . "
 91-1|" In dit geval , echter - "
 92-1|" Ik maak nimmer uitzonderingen .
-92-2|Een uitzondering " wederlegt " [ @alt de den ] regel .
+92-2|Een uitzondering " [ @alt weerlegt wederlegt ] " [ @alt de den ] regel .
 92-3|Zijt gij ooit in de gelegenheid geweest om door middel van een handschrift een karakter-studie te maken ?
 92-4|Wat is dan uw oordeel omtrent het geschrijf van [ @alt deze dezen ] knaap ? "
 93-1|" Het is net en regelmatig , " antwoordde ik .
@@ -390,7 +390,7 @@
 115-1|" Zijt gij de partijen die hier komen met Miss Morstan ? " vroeg hij .
 115-2|" Ik ben Miss Morstan , en deze twee [ @alt heren heeren ] zijn [ @alt mijn mijne ] vrienden , " antwoordde zij .
 115-3|Hij richtte een paar doordringende en vragende [ @alt ogen oogen ] op ons .
-115-4|" Gij zult het mij ten goede houden , Miss , " zeide hij op [ @alt scherpe scherpen ] toon , " maar het is mij opgedragen u te verzoeken mij uw woord te willen geven dat geen uwer metgezellen een ambtenaar der politie is . "
+115-4|" Gij zult het mij ten goede houden , Miss , " zeide hij op [ @alt scherpe scherpen ] toon , " maar het is mij opgedragen u te verzoeken mij uw woord te willen geven dat geen [ @alt uw uwer ] metgezellen een ambtenaar der politie is . "
 115-5|" Daar geef ik u mijn woord op , " antwoordde zij .
 116-1|Daarop deed hij een schril gefluit [ @alt horen hooren ] , waarop onmiddellijk een huurkoetsier naderde met een vierwielig rijtuig en het portier opende .
 116-2|De man die ons aangesproken had steeg op [ @alt de den ] bok , terwijl wij ons in het rijtuig plaatsten .
@@ -508,7 +508,7 @@
 145-10|Wèl wisten wij , dat [ @alt enig eenig ] geheim , [ @alt enig eenig ] bepaald gevaar [ @alt onze onzen ] vader bezwaarde .
 145-11|Hij was steeds zeer beangst om alleen uit te gaan , en hij hield altijd twee prijs-vechters als portiers van Pondicherry Lodge .
 145-12|Williams , die u hedenavond gereden heeft , was een hunner .
-145-13|Hij was eens de kampioen-athleet van Engeland .
+145-13|Hij was eens de [ @alt kampioen-atleet kampioen-athleet ] van Engeland .
 145-14|Onze vader wilde ons nimmer zeggen wat het was dat hem [ @alt zo zoo ] beangstigde , maar hij legde altijd een [ @alt grote grooten ] afkeer aan [ @alt de den ] dag voor mannen met houten [ @alt benen beenen ] .
 145-15|Bij zekere gelegenheid vuurde hij eens zijn revolver op zulk een gebrekkige af , die niets anders bleek te zijn dan een rustig besteller die een boodschap kwam verrichten .
 145-16|Het kostte ons een aanzienlijke som , om de zaak te sussen .
@@ -520,13 +520,13 @@
 147-1|Toen wij zijn kamer binnentraden , werd hij door kussens overeind gehouden , en ademde hij zwaar .
 147-2|Hij verzocht ons de deur te sluiten , en ons elk aan [ @alt een eene ] zijde van het bed te plaatsen .
 147-3|Toen greep hij onze handen , en deed ons een merkwaardige bekentenis , met een stem , die evenzeer afgebroken werd door ontroering , als door zijn lijden .
-147-4|Ik zal trachten u die met zijn eigen woorden weêr te geven :
+147-4|Ik zal trachten u die met zijn eigen woorden [ @alt weer weêr ] te geven :
 148-1|" Ik heb slechts éen zaak , " zeide hij , " die mij in dit uiterste [ @alt ogenblik oogenblik ] bezwaart .
 148-2|Dat is [ @alt mijn mijne ] behandeling van Morstan's arme [ @alt weze weeze ] .
 148-3|De [ @alt verwenste verwenschte ] gelddorst , die mijn gemoed gedurende mijn [ @alt ganse gansche ] leven [ @alt beheerst beheerscht ] heeft , onthield haar [ @alt de den ] schat , waarvan minstens de helft haar toebehoorde .
 148-4|En toch heb ik er voor [ @mwu_alt mijzelf mij zelven ] geen gebruik van gemaakt , [ @alt zo zoo ] verblind en onzinnig is de gierigheid .
 148-5|Het enkel bewustzijn van het bezit was mij [ @alt zo zoo ] dierbaar , dat ik er niet toe kon besluiten dit met een ander te [ @alt delen deelen ] .
-148-6|Ziet [ @alt deze dezen ] krans met paarlen bezet , naast de [ @alt kininefles kinine-flesch ] .
+148-6|Ziet [ @alt deze dezen ] krans met paarlen bezet , naast de [ @alt kinine-fles kinine-flesch ] .
 148-7|Zelfs daarvan kon ik niet scheiden , hoewel ik hem had achtergehouden om hem aan haar te zenden .
 148-8|Gij , mijn zoons , zult haar een eerlijk deel geven van [ @alt de den ] Agra-schat .
 148-9|Doch , zendt haar niets , - zelfs niet [ @alt deze dezen ] krans , - alvorens ik zal gestorven zijn .

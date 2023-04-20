@@ -1,12 +1,12 @@
 1-1|EERSTE HOOFDSTUK
 2-1|Ik ben makelaar in koffie , en woon op de Lauriergracht , N ° 37 .
-2-2|Het is mijn gewoonte niet , romans te schrijven , of zulke dingen , en het heeft dan ook lang geduurd , voor ik er toe overging een paar riem papier extra te bestellen , en het werk aantevangen , dat gij , lieve lezer , zoo-even in de hand hebt genomen , en dat ge lezen moet als ge makelaar in koffie zijt , of als ge wat anders zijt .
+2-2|Het is mijn gewoonte niet , romans te schrijven , of zulke dingen , en het heeft dan ook lang geduurd , voor ik er toe overging een paar riem papier extra te bestellen , en het werk aantevangen , dat gij , lieve lezer , [ @alt zo-even zoo-even ] in de hand hebt genomen , en dat ge lezen moet als ge makelaar in koffie zijt , of als ge wat anders zijt .
 2-3|Niet alleen dat ik nooit iets schreef wat naar een roman geleek , maar ik houd er zelfs niet van , iets dergelijks te lezen , omdat ik een man van zaken ben .
 2-4|Sedert jaren vraag ik mij af , waartoe zulke dingen dienen , en ik sta verbaasd over de onbeschaamdheid , waarmede een dichter of romanverteller u iets op de mouw durft spelden , dat nooit gebeurd is , en meestal niet gebeuren kan .
 2-5|Als ik in mijn vak - ik ben makelaar in koffie , en woon op de Lauriergracht N ° 37 - aan een principaal - een principaal is iemand die koffie verkoopt - een opgave deed , waarin maar een klein gedeelte der onwaarheden voorkwam , die in gedichten en romans de hoofdzaak uitmaken , zou hij terstond Busselinck & Waterman nemen .
 2-6|Dat zijn ook makelaars in koffie , doch hun adres behoeft ge niet te weten .
 2-7|Ik pas er dus wel op , dat ik geen romans schrijf , of andere [ @alt valse valsche ] opgaven doe .
-2-8|Ik heb dan ook altijd opgemerkt dat [ @alt mensen menschen ] die zich met [ @alt zo zoo ] -iets inlaten , gewoonlijk slecht wegkomen .
+2-8|Ik heb dan ook altijd opgemerkt dat [ @alt mensen menschen ] die zich met [ @mwu_alt zoiets zoo -iets ] inlaten , gewoonlijk slecht wegkomen .
 2-9|Ik ben drie en veertig jaren oud , bezoek sedert twintig jaren de beurs , en kan dus voor [ @alt de den ] dag treden , als men iemand roept die ondervinding heeft .
 2-10|Ik heb al wat huizen zien vallen !
 2-11|En gewoonlijk , wanneer ik de oorzaken naging , kwam het me voor , dat die moesten gezocht worden in de verkeerde richting die aan de meesten gegeven was in hun jeugd .
@@ -24,7 +24,7 @@
 3-12|Het nieuwe [ @alt zusje zusjen ] is van de groenvrouw gekomen in een [ @alt grote groote ] kool .
 3-13|Alle Hollanders zijn dapper en edelmoedig .
 3-14|De Romeinen waren blij dat de Batavieren hen lieten leven .
-3-15|De Beij van Tunis kreeg een [ @alt koliek kolijk ] als hij het wapperen hoorde van de nederlandsche vlag .
+3-15|De Beij van Tunis kreeg een [ @alt koliek kolijk ] als hij het wapperen hoorde van de [ @alt Nederlandse nederlandsche ] vlag .
 3-16|De hertog van Alva was een ondier .
 3-17|De eb , in 1672 geloof ik , duurde wat langer dan gewoonlijk , expres om Nederland te beschermen .
 3-18|Leugens !
@@ -38,7 +38,7 @@
 4-6|De aarde heeft geen einden , en die liefde is ook gekheid .
 4-7|Niemand kan zeggen dat ik niet goed leef met mijn vrouw - zij is een dochter van Last & Co , makelaars in koffie - niemand kan iets op ons huwelijk aanmerken .
 4-8|Ik ben lid van Artis , zij heeft een sjaallong van twee-en-negentig gulden , en van zulk een malle liefde die volstrekt aan het einde der aarde wil wonen , is toch [ @alt tussen tusschen ] ons nooit spraak geweest .
-4-9|Toen we getrouwd zijn , hebben wij een toertje naar den Haag gemaakt - ze heeft daar flanel gekocht , waarvan ik nog borstrokken draag - en verder heeft ons de liefde nooit de wereld ingejaagd .
+4-9|Toen we getrouwd zijn , hebben wij een toertje naar Den Haag gemaakt - ze heeft daar flanel gekocht , waarvan ik nog borstrokken draag - en verder heeft ons de liefde nooit de wereld ingejaagd .
 4-10|Dus : alles gekheid en leugens !
 4-11|En zou mijn huwelijk nu minder gelukkig wezen , dan van de [ @alt mensen menschen ] die zich uit liefde de tering op [ @alt de den ] hals haalden , of de haren uit het hoofd ?
 4-12|Of denkt ge dat mijn huishouden iets minder wel geregeld is , dan het wezen zou als ik voor zeventien jaar mijn [ @alt meisje meisjen ] in verzen gezegd had dat ik haar trouwen wilde ?
@@ -46,7 +46,7 @@
 4-14|Ik had dit toch even goed kunnen doen als ieder ander , want verzenmaken is een ambacht , zeker minder [ @alt moeilijk moeielijk ] dan ivoordraaien .
 4-15|Hoe zouden anders de ulevellen met deviezen [ @alt zo zoo ] goedkoop wezen ?
 4-16|- Frits zegt : " Uhlefeldjes " ik weet niet , waarom ?
-4-17|- En vraag eens naar [ @alt de den ] prijs van een stel billardballen !
+4-17|- En vraag eens naar [ @alt de den ] prijs van een stel [ @alt biljartballen billardballen ] !
 5-1|Ik heb niets tegen verzen op-zichzelf .
 5-2|Wil men de woorden in gelid 't zetten , goed !
 5-3|Maar zeg niets wat niet waar is .
@@ -103,7 +103,7 @@
 9-8|Alles leugens !
 10-1|En dan die beloonde deugd !
 10-2|O , o , o !
-10-3|Ik ben sedert zeventien jaren makelaar in koffie - Lauriergracht , N ° 37 - en heb dus al [ @alt zo zoo ] -iets bijgewoond , maar het stuit mij altijd [ @alt vreselijk vreeselijk ] , als ik de goede lieve waarheid [ @alt zó zóó ] zie verdraaien .
+10-3|Ik ben sedert zeventien jaren makelaar in koffie - Lauriergracht , N ° 37 - en heb dus al [ @mwu_alt zoiets zoo -iets ] bijgewoond , maar het stuit mij altijd [ @alt vreselijk vreeselijk ] , als ik de goede lieve waarheid [ @alt zó zóó ] zie verdraaien .
 10-4|Beloonde deugd ?
 10-5|Is 't niet om van de deugd een handelsartikel te maken ?
 10-6|Het is [ @alt zo zoo ] niet in de wereld , en 't is goed dat het niet [ @alt zo zoo ] is .
@@ -175,12 +175,12 @@
 30-1|Dit alles is de zuivere waarheid , lezer !
 30-2|Weet ge wel , dat de jonge [ @alt Duitser Duitscher ] , die op de beurs bij pilaar 17 stond , [ @alt weggelopen weggeloopen ] is met de dochter van Busselinck & Waterman ?
 30-3|Onze Marie wordt ook al dertien in September .
-31-1|... dat ik de eer had gehad van [ @alt de den ] heer Saffeler te vernemen - Saffeler reist voor Stern - dat de geachte chef der firma , de heer Ludwig Stern , een zoon had , [ @alt de den ] heer Ernest Stern , die ter volmaking zijner [ @alt commerciele kommercieele ] kennis , [ @alt enige eenigen ] tijd in een [ @alt hollands hollandsch ] huis [ @alt wenste wenschte ] geëmploieerd te zijn .
+31-1|... dat ik de eer had gehad van [ @alt de den ] heer Saffeler te vernemen - Saffeler reist voor Stern - dat de geachte chef der firma , de heer Ludwig Stern , een zoon had , [ @alt de den ] heer Ernest Stern , die ter volmaking zijner [ @alt commerciele kommercieele ] kennis , [ @alt enige eenigen ] tijd in een [ @alt hollands hollandsch ] huis [ @alt wenste wenschte ] [ @alt geëmployeerd geëmploieerd ] te zijn .
 31-2|Dat ik met het oog op ...
 32-1|Hier herhaalde ik weer al die onzedelijkheid , en vertelde de geschiedenis der dochter van Busselinck & Waterman .
 32-2|Niet om iemand zwart te maken ... neen , bekladden ligt nu juist [ @alt helemaal heelemaal ] niet in mijn manier !
 32-3|Maar ... het kan nooit kwaad dat ze 't weten , dunkt me .
-33-1|... dat ik met het oog dáárop , niets liever [ @alt wenste wenschte ] dan [ @alt de den ] heer Ernest Stern belast te zien met de duitsche korrespondentie van ons huis .
+33-1|... dat ik met het oog dáárop , niets liever [ @alt wenste wenschte ] dan [ @alt de den ] heer Ernest Stern belast te zien met de [ @alt Duitse duitsche ] [ @alt correspondentie korrespondentie ] van ons huis .
 34-1|Uit kiesheid vermeed ik alle toespeling op honorarium of salaris .
 34-2|Maar ik voegde er bij :
 35-1|Dat , indien de heer Ernest Stern het verblijf ten onzen huize - Lauriergracht N ° 37 - wilde voor lief nemen , mijn vrouw zich bereid verklaarde als een moeder voor hem te zorgen , en dat zijn linnengoed in huis zou versteld worden .
@@ -192,7 +192,7 @@
 38-3|Ge begrijpt dat de oude Stern niet goedschiks bij Busselinck & Waterman kan overgaan , als de jonge bij ons aan 't kantoor is .
 38-4|Ik ben zeer benieuwd naar het antwoord .
 39-1|Om nu terug te komen op mijn boek .
-39-2|Voor [ @alt enige eenigen ] tijd kom ik 's avends door de Kalverstraat , en bleef staan kijken naar [ @alt de den ] winkel van een kruienier , die zich bezighield met het [ @alt sorteren sorteeren ] van een partijtje Java , ordinair , mooi-geel , Cheribonaard , iets gebroken , met veegsel , dat me zeer interesseerde , want ik let altijd op alles .
+39-2|Voor [ @alt enige eenigen ] tijd kom ik 's [ @alt avonds avends ] door de Kalverstraat , en bleef staan kijken naar [ @alt de den ] winkel van een [ @alt kruidenier kruienier ] , die zich bezighield met het [ @alt sorteren sorteeren ] van een partijtje Java , ordinair , mooi-geel , Cheribonaard , iets gebroken , met veegsel , dat me zeer interesseerde , want ik let altijd op alles .
 39-3|Daar viel mij op-eenmaal een heer in 't oog , die daarnaast voor een boekwinkel stond en me bekend voorkwam .
 39-4|Hij scheen ook mij te herkennen , want onze blikken ontmoetten elkander gedurig .
 39-5|Ik moet betuigen dat ik te verdiept was in 't veegsel , om terstond [ @phantom op ] [ @phantom te ] [ @alt merken optemerken ] , wat ik namelijk later zag , dat hij vrij kaal in de [ @alt kleren kleeren ] stak .
@@ -222,7 +222,7 @@
 43-3|Had ik eenvoudig gezegd , " we zijn met ons dertienen , en ... goeien [ @alt avond avend ] verder ! " dan was ik van hem af geweest .
 43-4|Maar door dat vragen en antwoorden werd het hoe langer hoe [ @alt moeilijker moeielijker ] - Frits zegt : hoe langs [ @alt zo zoo ] [ @alt moeilijker moeielijker ] , maar dit doe ik niet – hoe [ @alt moeilijker moeielijker ] dus , om van hem verlost te worden .
 43-5|Aan [ @alt de den ] [ @alt andere anderen ] kant moet ik ook weer erkennen dat ge dan dit boek niet [ @alt had hadt ] te lezen gekregen , want het is een gevolg van die ontmoeting .
-43-6|Ik houd er van , het goede optemerken , en wie dit niet doen , zijn ontevreden [ @alt mensen menschen ] die ik niet lijden kan .
+43-6|Ik houd er van , het goede [ @phantom op ] [ @phantom te ] [ @alt merken optemerken ] , en wie dit niet doen , zijn ontevreden [ @alt mensen menschen ] die ik niet lijden kan .
 44-1|Ja , ja , hij was het , die mij uit de handen van [ @alt de den ] Griek had verlost !
 44-2|Denk nu niet dat ik ooit door [ @alt zeerovers zeeroovers ] ben genomen geweest , of dat ik twist heb gehad in [ @alt de den ] Levant .
 44-3|Ik heb u reeds gezegd dat ik na mijn trouwen , met mijn vrouw naar den Haag ben gegaan .
@@ -250,7 +250,7 @@
 45-18|Er werd geloot , en het lot viel op mij .
 45-19|Nu erken ik , dat ik niet gaarne gevaren trotseer .
 45-20|Ik ben man en vader , en houd ieder die het gevaar zoekt , voor een gek , wat ook in de Schrift staat .
-45-21|Het is mij inderdaad aangenaam optemerken hoe ik mij in mijn denkbeelden over gevaar en zulke dingen , gelijk ben gebleven , daar ik thans over [ @alt zo zoo ] -iets nog juist dezelfde [ @alt mening meening ] koester , als [ @alt die dien ] [ @alt avond avend ] toen ik daar bij de kraam van [ @alt de den ] Griek stond , met de twaalf stuivers die we [ @alt samengelegd saamgelegd ] hadden , in de hand .
+45-21|Het is mij inderdaad aangenaam [ @phantom op ] [ @phantom te ] [ @alt merken optemerken ] hoe ik mij in mijn denkbeelden over gevaar en zulke dingen , gelijk ben gebleven , daar ik thans over [ @mwu_alt zoiets zoo -iets ] nog juist dezelfde [ @alt mening meening ] koester , als [ @alt die dien ] [ @alt avond avend ] toen ik daar bij de kraam van [ @alt de den ] Griek stond , met de twaalf stuivers die we [ @alt samengelegd saamgelegd ] hadden , in de hand .
 45-22|Maar zie , uit [ @alt valse valsche ] schaamte durfde ik niet zeggen dat ik niet durfde , en bovendien , ik moest wel vooruit , want mijn makkers drongen me , en weldra stond ik voor de kraam .
 46-1|Het meisje zag ik niet : ik zag niets !
 46-2|Alles werd me groen en geel voor de [ @alt ogen oogen ] .
@@ -401,7 +401,7 @@
 89-8|Toen vertelde Frits , die , geloof ik , meende dat hij een groot stuk had uitgevoerd , dat hij 't ding in dat pak had gevonden van [ @alt de den ] man die een sjaal droeg , en ik legde aan de [ @alt heren heeren ] uit , hoe dat in mijn huis kwam .
 89-9|Maar van de Griekin sprak ik niet , omdat Frits er bij was , en ook [ @alt zei zeide ] ik niets van de Kapelsteeg .
 89-10|Ieder vond dat ik heel goed had gehandeld , me van [ @alt die dien ] man aftehelpen .
-89-11|Straks zult ge zien dat er ook andere dingen in dat pak waren van meer [ @alt solide solieden ] aard , en daarvan komt een-en-ander in dit boek , omdat de Koffiveilingen van de Handelmaatschappij er mee in verband staan .
+89-11|Straks zult ge zien dat er ook andere dingen in dat pak waren van meer [ @alt solide solieden ] aard , en daarvan komt een-en-ander in dit boek , omdat de [ @alt Koffieveilingen Koffiveilingen ] van de Handelmaatschappij er mee in verband staan .
 89-12|Want ik leef voor mijn vak .
 89-13|Later vroeg mij de uitgever of ik hier niet bij voegen wilde , wat Frits gereciteerd had .
 89-14|Ik wil 't wel doen , mits men [ @alt weet wete ] dat ik me niet ophoud met zulke dingen . ( 4 ) Alles leugens en gekheid !
@@ -509,7 +509,7 @@
 187-1|En een hart , dat [ @alt zó zóó ] zich hechtte
 188-1|Aan het schoon dat even blonk ,
 189-1|Dat me niets dan doornen schonk ,
-190-1|En geen enkel bloempje vlechtte ...
+190-1|En geen enkel bloempje [ @alt vlocht vlechtte ] ...
 191-1|Zou datzelfde hart de trouw
 192-1|Van het moederhart vergeten ?
 193-1|En de liefde van de vrouw
@@ -574,7 +574,7 @@
 233-10|Ik deed Frits , die dat ding nu eenmaal " uitwendig wist " [ @alt zoals zooals ] Stern dit noemt , beloven dat hij 't nooit weer opzeggen zou - althans niet voor hij lid van Doctrina wezen zal , omdat daar geen jonge meisjes komen - en toen borg ik het in mijn lessenaar , het vers meen ik .
 233-11|Maar ik moest weten of er niet meer in dat pak was , dat aanstoot geven kon .
 233-12|Daar ging ik aan 't zoeken en bladeren .
-233-13|Alles lezen kon ik niet , want ik vond er talen in , die ik niet verstond , maar zie , daar viel mijn oog op een bundel : " Verslag over de Koffikultuur in de Residentie Menado . "
+233-13|Alles lezen kon ik niet , want ik vond er talen in , die ik niet verstond , maar zie , daar viel mijn oog op een bundel : " Verslag over de [ @alt Koffiecultuur Koffikultuur ] in de Residentie Menado . "
 234-1|Mijn hart sprong op , omdat ik makelaar in koffie ben - Lauriergracht , N ° 37 - en Menado is een goed merk .
 234-2|Dus die Sjaalman , die zulke onzedelijke verzen maakte , had ook in koffie gewerkt .
 234-3|Ik zag nu 't pak met een heel ander oog aan , en vond er stukken in , die ik wel niet alle begreep , maar die werkelijk kennis van zaken aantoonden .
@@ -586,7 +586,7 @@
 235-2|'t Werd mij inderdaad duizelig , toen ik [ @alt zo zoo ] [ @alt de den ] [ @alt ene eenen ] bundel vóór , [ @alt de den ] anderen na , opnam , en de opschriften las .
 235-3|Het is waar , er waren veel verzen onder , maar ik vond veel nuttigs ook , en ik stond verbaasd over de verscheidenheid der behandelde onderwerpen .
 235-4|Ik erken - want ik houd van de waarheid - dat ik , die altijd in koffie gedaan heb , niet in staat ben de waarde van alles te [ @alt beoordelen beoordeelen ] , maar , ook zonder deze [ @alt beoordeling beoordeeling ] , de lijst der opschriften alleen was reeds [ @alt curieus kurieus ] .
-235-5|Daar ik u de geschiedenis van [ @alt de den ] Griek verteld heb , weet ge reeds dat ik in mijn jeugd [ @alt enigszins eenigszins ] ben gelatinizeerd geworden , en hoezeer ik mij in [ @alt correspondentie korrespondentie ] onthoud van alle citaten - wat op een makelaars kantoor ook niet te-pas komen zou - dacht ik echter bij het zien van dat alles : multa , non multum .
+235-5|Daar ik u de geschiedenis van [ @alt de den ] Griek verteld heb , weet ge reeds dat ik in mijn jeugd [ @alt enigszins eenigszins ] ben [ @alt gelatiniseerd gelatinizeerd ] geworden , en hoezeer ik mij in [ @alt correspondentie korrespondentie ] onthoud van alle citaten - wat op een makelaars kantoor ook niet te-pas komen zou - dacht ik echter bij het zien van dat alles : multa , non multum .
 235-6|Of : de omnibus aliquid , de toto nihil .
 236-1|Maar dit was eigenlijk meer uit een soort van wrevel , en uit [ @alt zekere zekeren ] aandrang om de geleerdheid die voor mij lag , in 't latijn aantespreken , dan wel omdat ik het precies meende .
 236-2|Want , waar ik 't een of ander stuk wat langer inzag , moest ik erkennen dat de schrijver me toescheen wel op de hoogte van zijn taak te staan , en zelfs dat hij een [ @alt grote groote ] soliditeit in zijn [ @alt redeneringen redeneeringen ] aan [ @alt de den ] dag legde .
