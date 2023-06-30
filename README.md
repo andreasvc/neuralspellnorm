@@ -27,7 +27,7 @@ This directory contains the code used for finetuning and testing the different T
 Where _T5Trainer_ and _T5Predict_ are used to train and test the models.
 
 __Example:__
-To run the _T5Trainer script for finetuning ByT5 with a custom set of parameters, use the command:
+To run the _T5Trainer_ script for finetuning ByT5 with a custom set of parameters, use the command:
 ```
 python3 T5Trainer.py -tf google/byt5-small -train training_data.txt -dev validation_data.txt -lr 5e-5 -bs 32 -sl_train 155 -sl_dev 455 -ep 20 -es val_accuracy -es_p 3
 ```
@@ -39,7 +39,7 @@ python3 T5Predict.py -tf 'google/byt5-small' -weights 'byt5-small_weights.h5' -t
 ```
 
 _Gutenberg_Data.ipynb_ is the notebook used to extract and download novels from Project Gutenberg.
-This notebook uses the [DutchCoref](https://github.com/andreasvc/dutchcoref) repository from Van Cranenburgh.  
+This notebook uses the [Dutch Literature Pipeline](https://github.com/andreasvc/dutchlitpreproc) repository from Van Cranenburgh.  
 
 ### Pretraining
 
