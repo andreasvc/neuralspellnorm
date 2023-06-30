@@ -8,6 +8,7 @@ import datasets
 
 
 def create_data(data):
+    '''Splitting Alpino format data into source and target sentences'''
     source_text = []
     target_text = []
     for d in data:
@@ -61,6 +62,7 @@ def create_data(data):
 
 
 def cal_err(raw, gold, pred):
+    '''Calculates the error reduction rath, script taken from Rob van der Goot'''
     cor = 0
     changed = 0
     total = 0
@@ -85,6 +87,7 @@ def cal_err(raw, gold, pred):
 
 
 def cal_pre_rec(gold, pred):
+    '''Calculate precision and recall for a whole .txt file'''
     gold_novel = []
     pred_novel = []
  
@@ -103,6 +106,7 @@ def cal_pre_rec(gold, pred):
 
 
 def cal_chrf(gold, pred, word_order, model_type, chrf_type):
+    '''Calculate ChrF and ChrF++ between prediction and gold sentences'''
     chrf = datasets.load_metric('chrf')
     nested_gold = []
     for g in gold:
@@ -118,6 +122,8 @@ def cal_chrf(gold, pred, word_order, model_type, chrf_type):
         
         
 def cal_chrf_split(gold, pred, word_order, model_type, chrf_type):
+    '''Calculate ChrF and ChrF++ between prediction and gold sentences,
+    sentences are splitted on word level'''
     chrf = datasets.load_metric('chrf')
     nested_gold = []
     join_pred = []
@@ -137,6 +143,7 @@ def cal_chrf_split(gold, pred, word_order, model_type, chrf_type):
 
 
 def align_gold(gold):
+    '''Align gold sentences'''
     gold = ' '.join(gold).strip()
     combin_words_gold = [('aan te spreken', 'aan@te@spreken'), ('op aan', 'op@aan'),
                          ('op te merken', 'op@te@merken'), ('om mijnentwille', 'om@mijnentwille'),
@@ -156,6 +163,7 @@ def align_gold(gold):
 
 
 def align_pred(pred):
+    '''Align prediction sentences'''
     pred = ' '.join(pred).strip()
     combin_words_pred = [(' der ', ' der - '), (' des ', ' des - '), ('S .', 'S.'), ('A .', 'A.'), 
                          ('D .', 'D.'), ('P .', 'P.'), ('Z .', 'Z.'), ('V .', 'V.'), ('I .', 'I.'),
@@ -175,6 +183,7 @@ def align_pred(pred):
 
 
 def align_silver(pred):
+    '''Align rule-based sentences'''
     pred = ' '.join(pred).strip()
     combin_words_pred = [(' om mijnentwille ', ' om@mijnentwille '), (' aan te spreken ', ' aan@te@spreken '), 
                          (' zo -iets ', ' zo@-iets '), (' op te merken ', ' op@te@merken '), 
@@ -199,6 +208,7 @@ def align_silver(pred):
 
 
 def evaluate_T5(gold_data, predictions, model_type, verbose=False):
+    '''Evaluate T5 models for the four metrics'''
     gold = []
     pred = []
     raw = []
@@ -267,6 +277,7 @@ def evaluate_T5(gold_data, predictions, model_type, verbose=False):
 
 
 def evaluate_rulebased(gold_data, predictions, model_type, verbose=False):
+    '''Evaluate Rule-based system for the four metrics'''
     mis_gold = []
     mis_pred = []
     gold = []
@@ -310,3 +321,4 @@ def evaluate_rulebased(gold_data, predictions, model_type, verbose=False):
 
 if __name__ == '__main__':
     main()
+    
