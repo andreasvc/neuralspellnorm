@@ -163,7 +163,7 @@
 46-1|" Het is [ @alt zo zoo ] klaar als de dag , " antwoordde ik , " ik betreur het onrecht dat ik u aandeed .
 46-2|Ik had meer vertrouwen moeten stellen in uw wonderbaarlijk vermogen .
 46-3|Mag ik vragen of gij thans nog op een of ander onderzoek uit moet ? "
-47-1|" [ @alt Nee Neen ] , daarom gebruikte ik de cocaïne .
+47-1|" Neen , daarom gebruikte ik de cocaïne .
 47-2|Ik kan niet leven zonder hersen-inspanning .
 47-3|Waartoe anders dient het leven ?
 47-4|Hier voor het raam gaan staan ?
@@ -177,7 +177,7 @@
 49-1|" Miss Mary Morstan , " las hij .
 49-2|" Hm ! ik herinner mij [ @alt die dien ] naam niet .
 49-3|Verzoek de jonge dame boven te komen , Mrs. Hudson .
-49-4|- [ @alt Nee Neen ] , ga niet heen , dokter .
+49-4|- Neen , ga niet heen , dokter .
 49-5|Ik zou gaarne zien dat gij hier [ @alt bleef bleeft ] . "
 50-1|TWEEDE HOOFDSTUK .
 51-1|De beschrijving van het geval .
@@ -467,7 +467,7 @@
 138-2|Of Tokayer ?
 138-3|Andere wijnen houd ik er niet op na .
 138-4|Zal ik een [ @alt fles flesch ] opentrekken ?
-138-5|[ @alt Nee Neen ] ?
+138-5|Neen ?
 138-6|Welnu dan , ik vertrouw dat gij geen hinder zult hebben van tabaks-rook , vooral niet van [ @alt de den ] [ @alt balsamieke balsamieken ] geur van [ @alt Oosterse Oostersche ] tobacco ?
 138-7|Ik ben een weinig zenuwachtig en daarvoor is [ @alt mijn mijne ] hookah een onschatbaar geneesmiddel . "
 139-1|Hij hechtte een mondstuk aan [ @alt de den ] [ @alt grote grooten ] bol , en de rook dwarrelde onmiddellijk door het rozenwater .
@@ -493,7 +493,7 @@
 142-1|" Indien wij nog naar Norwood moeten , was het wellicht beter als wij ons onmiddellijk op weg begaven , " waagde ik op te merken .
 143-1|Hij lachte totdat zelfs zijn [ @alt oren ooren ] vuurrood waren .
 144-1|" Dat zou bezwaarlijk gaan , " riep hij , " ik weet niet wat hij zou zeggen als ik u [ @alt zo zoo ] plotseling bij hem bracht .
-144-2|[ @alt Nee Neen ] , ik moet u voorbereiden door u te [ @alt tonen toonen ] op [ @alt welke welken ] voet wij met elkander staan .
+144-2|Neen , ik moet u voorbereiden door u te [ @alt tonen toonen ] op [ @alt welke welken ] voet wij met elkander staan .
 144-3|In de eerste plaats moet ik u zeggen dat er verscheidene punten in de geschiedenis zijn , die mij zelf onbekend zijn .
 144-4|Ik kan u dus de feiten slechts [ @alt mededelen mededeelen ] voor [ @alt zoverre zooverre ] ik ermede vertrouwd ben :
 145-1|" Mijn vader was , [ @alt zoals zooals ] gij zeker reeds gegist hebt , Majoor John Sholto , vroeger in [ @alt Indische Indischen ] dienst .
