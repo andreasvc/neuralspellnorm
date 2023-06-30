@@ -1,0 +1,398 @@
+1-1|VOGELS VAN DIVERSE PLUIMAGE
+2-1|door
+3-1|CAREL VOSMAER
+4-1|GEÏLLUSTREERD NAAR TEEKENINGEN VAN Ch. ROCHUS
+5-1|Carl Vosmaer
+6-1|INHOUD
+7-1|INLEIDING
+8-1|TWEE KUNSTENAARS
+9-1|EEN OUDE STRIJD
+10-1|EENE PREEK IN 1629
+11-1|BLADEN UIT EEN LEVENSBOEK
+12-1|EEN BOUWVISIOEN
+13-1|WANDELINGEN DOOR DE WERELD
+14-1|VAN TWEE KONINGSKINDEREN
+15-1|EEN PELGRIMSTOCHT NAAR DE WEDDESTEEG
+16-1|MONA
+17-1|INLEIDING .
+18-1|Hij liegt alsof het gedrukt was , [ @alt zei zeide ] men vroeger met een spreekwoord , dat uit [ @alt de den ] [ @alt grote grooten ] eerbied voor boeken geboren werd .
+18-2|Hij liegt [ @alt zo zoo ] mooi , [ @alt zo zoo ] glad , [ @alt zo zoo ] juist , dat het uit een boek schijnt genomen .
+18-3|Oudtijds heette het : " daar staat geschreven , " maar de spreekwoorden nemen de zeden der tijden aan en na de uitvinding van de typographie [ @alt betekende beteekende ] het gedrukte hetzelfde gezag als vroeger het geschrevene .
+19-1|[ @alt Zo Zoo ] [ @alt zei zeide ] men ook eens , om iets onbegrijpelijks uit te drukken , dat is [ @alt Grieks Grieksch ] en Latijn voor mij , of als het erg liep , dat zijn hiërogliefen .
+19-2|Maar het [ @alt Grieks Grieksch ] en Latijn is niet meer voor enkelen en de hiërogliefen zijn ontcijferd .
+19-3|Welke taal zullen wij nu voor de vergelijking kiezen ?
+19-4|Men kan zelfs niet meer met voeg zeggen , dat is Sanskriet of [ @alt Chinees Chineesch ] voor mij , want ook die talen zijn niet onbereikbaar .
+19-5|Hoogstens mag een gewoon [ @alt mens mensch ] beweren , dat iets er voor hem uitziet als spijkerschrift .
+19-6|Ja , de spreekwoorden verouderen en veranderen .
+19-7|Een uitgezocht deel van het [ @alt vlees vleesch ] , dat in de oudheid een godenstuk heette , werd in de goede dagen , toen de geestelijken de praerogatieven der godheid voor zich namen , een paterstuk .
+19-8|De Hervorming , die [ @alt zo zoo ] veel veranderde , verbeterde dit in een domineestuk , totdat eindelijk het ongeloof ook dit weder seculariseerde en algemeen [ @alt menselijk menschelijk ] maakte .
+20-1|En [ @alt zo zoo ] is het ook met de boeken gegaan .
+20-2|Dat spreekt als een boek , zei men , en daarmee was het uit .
+20-3|Maar de boeken hebben hun prestige verloren .
+20-4|Iedereen maakt boeken en snel ook .
+20-5|Negen jaren over een boek te broeden , [ @alt zoals zooals ] Horatius aanraadde , wie zou er aan denken !
+20-6|In negen jaren is een boek al weer verouderd .
+20-7|Zij zijn ephemeriden , zij strekken om de gedachten en beelden van het [ @alt ogenblik oogenblik ] uit te drukken , en maar weinige zijn duurzamer .
+21-1|Op een morgen had ik eindelijk een niet zeer vermakelijk werk ten einde gebracht .
+21-2|Ik had het laatste blad gelezen van een [ @alt grote grooten ] hoop boeken , waarover mij gevraagd was of zij [ @alt ene eene ] heruitgaaf verdienen .
+21-3|Het waren novellen , gedichten , tooneelstukken .
+21-4|Titels , papier , letter , toonden al [ @alt ene eene ] herkomst van voor ruim twintig jaren .
+21-5|En de illustraties - verluchten , verlichten noemden onze middeleeuwers die versiering naar het oude illummare , waarvan het nieuwere [ @alt illustreren illustreeren ] een aanmatigender vorm is - de illustraties , die deze boeken nog niet illuster hadden gemaakt , waren even verouderd .
+21-6|Welke onredzame steenteekeningen , waardig [ @alt ~de~den den ] komischen vloek van Bilderdijk :
+22-1|Een [ @alt stenen steenen ] hart , een hoofd gevoed met keien ,
+23-1|Beelde aap of hond in kouden steendruk uit ,
+24-1|Waar gloed noch smaak hun warmen glans in spreien
+25-1|En 't zielsgevoel de teedre borst voor sluit !
+26-1|...
+26-2|... ...
+26-3|... ...
+26-4|... ...
+26-5|... ...
+26-6|... ...
+26-7|... ...
+26-8|... ...
+26-9|... ...
+26-10|... ... .
+27-1|Maar weg dat tuig , dat kunstverwoestend knoeien !
+28-1|Welke wonderlijk uitgedoste poppen , die [ @alt heren heeren ] en dames , eens zich [ @alt zo zoo ] elegant en nieuwmodisch wanende , nu [ @alt zo zoo ] dwaas in hun verouderde [ @alt klederen kleederen ] , weergegeven zonder [ @alt ~die~dien dien ] tact , waardoor een kunstenaar aan elke snede der mode iets kan [ @alt verlenen verleenen ] , dat de dragers boven het bespottelijke van het verouderen verheft .
+29-1|En wat zou ik zeggen over [ @alt ~de~den den ] inhoud ?
+29-2|Het was een [ @alt moeilijk moeielijk ] geval .
+29-3|Denkt men aan [ @alt de den ] [ @alt rijke rijken ] schat van werken , wier schoonheid of [ @alt betekenis beteekenis ] onvergankelijk is - dan vraagt men , waartoe [ @alt zoveel zooveel ] middelmatigs gedrukt of althans herdrukt , en moedeloosheid dreigt onszelven de pen te doen nederleggen .
+29-4|Toch blijft de aandrift onverwinlijk en ook wij schrijven , ieder [ @alt zo zoo ] goed en kwaad als wij kunnen , ieder [ @alt zoals zooals ] [ @alt ~zijn~zijne zijne ] pen gebekt is , omdat wij het niet laten kunnen .
+30-1|En wij hebben toch gelijk , want ook onze tijd , onze denkbeelden en gevoelens hebben recht zich af te beelden ; en kan het niet geschieden in eeuwenverdurend marmer , dan in vergankelijke [ @alt fotografieën photographieën ] .
+30-2|Dus een minder volstrekte maat genomen .
+31-1|Zijn dan deze stukken goed , naar onzen tijd , naar onze omstandigheden gerekend ?
+31-2|Zit er kracht , oorspronkelijkheid , durven in ?
+31-3|Zijn die novellen en tooneelstukken de , afbeelding van wat de veelbewogen gemoederen in het moderne leven vervult ?
+31-4|Draagt de vorm [ @alt ~de~den den ] stempel van een karakter ?
+31-5|Geven deze gedichten iets kernigs voor [ @alt ~de~den den ] geest , iets teeders voor het hart , [ @alt enige eenige ] winst voor [ @alt ~de~den den ] versbouw en de muziek der taal ?
+32-1|[ @alt Zo Zoo ] ver was ik gekomen , en bij elk gewicht in de schaal geworpen rezen de stukken , en rezen , zij werden [ @alt zo zoo ] licht ... toen de uitgever van de Vogels van diverse pluimage binnentrad en , een pakje op [ @alt ~mijn~mijne mijne ] tafel leggende , [ @alt zei zeide ] :
+33-1|- Doe mij 't plezier , dat eens door te kijken en te zeggen of je die stukken voor een herdruk goed vindt .
+34-1|- Alweer ! zei ik , jij ook al ; ik heb pas [ @alt die dien ] [ @alt hele heelen ] hoop doorgeworsteld , ... niet goed , niet slecht , maar ... .
+35-1|Ik had dit pakje [ @alt intussen intusschen ] geopend en zag wat oude werken van [ @alt mijzelf mijzelven ] .
+36-1|Mijn waarde uitgever keek mij met een [ @alt fijne fijnen ] glimlach aan en [ @alt zei zeide ] :
+37-1|- Dat heb ik op de laatste fondsveiling gekocht , en nu kom ik je vragen of je ze nog eens wilt laten drukken .
+38-1|Maar , menige [ @alt argeloze argelooze ] lezer weet niet wat [ @alt ene eene ] fondsveiling is .
+39-1|Een uitgever , die [ @alt enige eenige ] jaren lang heeft uitgegeven , krijgt allengs een berg kopij .
+39-2|Kopij , [ @alt argeloze argelooze ] lezer , [ @alt betekent beteekent ] niet , [ @alt zoals zooals ] gij waarschijnlijk denkt , een nabeeldsel , [ @alt ene eene ] navolging ; en de benaming is ook [ @alt gene geene ] satire op de twijfelachtige oorspronkelijkheid van [ @alt zo zoo ] vele boeken .
+39-3|Neen , in de boekenwereld [ @alt betekent beteekent ] kopij juist het omgekeerde , namelijk het oorspronkelijke handschrift , waarnaar de boeken gedrukt worden .
+39-4|Verder [ @alt betekent beteekent ] kopij in het algemeen het werk van een schrijver , en vertegenwoordigt ook het recht tot uitgaaf van [ @alt ~zijn~zijne zijne ] geschriften .
+40-1|Nu heeft dan een uitgever een hoop kopij van verschillende schrijvers en deze vormt zijn fonds .
+40-2|Als de eerste uitgaaf heeft uitgewerkt , kan men er later op [ @alt ene eene ] of andere wijze altijd weer wat van maken .
+40-3|Andere letter , vernieuwing , opfrissching , verguldsel en een bandje , en - het boek gaat [ @alt ~zijn~zijne zijne ] tweede incarnatie te gemoet .
+41-1|Deze is een voorrecht der boeken boven de [ @alt mensen menschen ] .
+41-2|Wij [ @alt mensen menschen ] verschijnen maar eens , en als onze eerste en [ @alt enige eenige ] uitgaaf niet goed opgaat of verkeerd uitvalt , is onze [ @alt menselijke menschelijke ] kopij verloren , het is een mislukt leven .
+41-3|Maar [ @alt zowel zoowel ] deze vergeten , miskende of mislukte kopij , als de beste on schitterendste tekst , gaat eindelijk ten grave , naar [ @alt ~de~den den ] papiermolen , om nieuwe grondstof te worden .
+41-4|Doch van herdruk , gezuiverd van errata en taalfouten , verbeterd en vermeerderd , met verguld en een bandje , is hierbeneden voor [ @alt ~de~den den ] [ @alt mens mensch ] [ @alt gene geene ] spraak meer .
+41-5|Men heeft de bezwaren hiervan gevoeld en de onsterfelijkheidsleer heeft [ @alt ene eene ] poging gedaan om een metaphysischen herdruk van ons te bezorgen .
+41-6|Maar van deze [ @alt bovenaardse bovenaardsche ] herdrukken is zelfs [ @alt ~de~den den ] fijnsten bouquinist nog geen exemplaar onder de [ @alt ogen oogen ] gekomen ; het blijft [ @alt ene eene ] hypothese , [ @alt ene eene ] speculatie ; misschien ook zou zulk [ @alt ene eene ] tweede uitgaaf [ @alt ene eene ] slechte speculatie blijken , die de kosten niet loonde .
+42-1|Maar voor een boek is [ @alt ene eene ] tweede of zelfs derde incarnatie een herleven en dikwijls pas een eigenlijk leven .
+42-2|Het is bij lange na niet de eigen verdienste , die de fata libelli bepaalt .
+42-3|Daar hangt zeer veel van [ @alt ~de~den den ] smaak , van [ @alt ~de~den den ] ijver , van de betrekkingen der uitgevers af , en menig degelijk voortbrengsel gaat , verloren , omdat het verscholen bleef , en het bleef verscholen , omdat de uitgever het slecht uitgaf en verkeerd exploiteerde .
+43-1|De oude kopij is dus niet alleen bruikbaar en wat waard , soms is zij even goed als nieuw .
+44-1|Maar het kan gebeuren dat een uitgever er het [ @alt ~zijn~zijne zijne ] van gehad heeft en te veel kopij bezit .
+44-2|Daarom brengt hij een deel van zijn fonds , van zijn voorraad kopij aan de markt .
+44-3|Dan worden er veilingen gehouden van het fonds van een of meer uitgevers .
+44-4|Zulke fondsveilingen hebben veel van slavenmarkten .
+44-5|Zelfs [ @alt dode doode ] auteurs worden daar verkocht .
+44-6|Maar de levende worden er evenals in het Oosten uitgestald , bekeken , betast , becijferd en geveild .
+44-7|Voor gebreken wordt niet ingestaan , en wie er bekocht is , heeft het zijn eigen [ @alt ogen oogen ] te wijten .
+44-8|Men moet weten voor [ @alt welke welken ] arbeid [ @alt ene eene ] kopij nog dienen kan ; of zij huiswerk kan doen , of zij gezond is en hard kan werken , dan wel of zij jong , of zij schoon is en geschikt om te pronken en te verleiden .
+45-1|Op die markt kunt gij ook [ @alt ene eene ] prijscourant der letterkunde opmaken .
+45-2|Luimig goed blijft genoteerd : zeer willig en veel navraag .
+45-3|Gedichten , de puike , zeer wisselvallig , maar doorgaans in het geheel geen animo .
+45-4|Naar verzen , mooi ordinair , is evenwel redelijke vraag .
+45-5|Novellen , de goede qualiteit , met levendigen omzet .
+45-6|Theologie , men noteert lichte , middel en zware ; tegenwoordig flauw ; de koopers zeer geretireerd ; bijna van de markt genomen .
+45-7|Alleen stichtelijke lectuur , de fijne soort , gunstige stemming .
+46-1|Gij kunt deze beurstermen ook achter de namen der [ @alt Nederlandse Nederlandsche ] auteurs zetten .
+46-2|Dat wordt ook op die slavenmarkten gedaan , maar hier wil ik liever geen namen noemen .
+47-1|De geldswaarden van al die marktproducten wordt meer bepaald door de werkkracht dan door de schoonheid .
+47-2|Schoonheid is dikwijls te hoog en te onhandelbaar .
+47-3|Bevalligheid geldt meer , en modieuze zwier , die zich [ @alt vrolijk vroolijk ] en lachend voordoet , het meest .
+47-4|Maar bovenal er moet mede gepronkt kunnen worden .
+48-1|Neen , de eerbied voor de boeken is verdwenen .
+48-2|Hoe ver zijn wij verwijderd van de gevoelens , die Thomas a Kempis uitdrukt .
+48-3|Met een gebed , [ @alt zei zeide ] hij , moest men zich voorbereiden voor het lezen .
+48-4|Die een boek sloot had Gode dank te zeggen voor de geestelijke weldaad hem bewezen .
+48-5|Met gereinigde schoenzool moest men [ @alt ene eene ] librerie binnentreden , en met eerbiedig stilzwijgen , want die grond was heilig .
+48-6|Geen stofje mocht kleven op de banden , geen vocht of ongedierte de bladen beschadigen .
+48-7|En die een boek in de hand nam , moest het doen met de gevoelens , die [ @alt ~de~den den ] ouden Simeon vervulden , toen hij in [ @alt ~de~den den ] tempel het kindeke Jezus in [ @alt ~zijn~zijne zijne ] armen hield .
+49-1|[ @alt Zo Zoo ] sprak de gemoedelijke Broeder des gemeenen levens ; in [ @alt ~de~den den ] tijd toen de boeken groot of dik waren , zware [ @alt klederen kleederen ] droegen en de kostbaarste aan kettingen vastlagen in de librerie .
+49-2|Sedert die dingen zijn zij aan de kettingen en sloten ontsnapt , altijd lichter , en dunner , en vluchtiger geworden ; zij hebben luchtige , fijne kleedjes gekregen en bonte [ @alt veren veeren ] en als vrije wilde vogels zijn zij pan vliegen , de wereld door .
+50-1|Van zulk [ @alt ene eene ] markt nu waren ook [ @alt ~mijn~mijne mijne ] boeken afkomstig , die ik nu opeens weer voor mij zag .
+51-1|- Kijk ze eens in , zei mijn bezoeker , en zie of ik ze kan herdrukken .
+52-1|- Daarover zal ik eens moeten denken , antwoordde ik ; ... dit niet , ... dat niet ... dat is twijfelachtig , - wij zullen zien .
+53-1|- Kan het niet een tweede bundel van je Vogels ( 1 ) worden ?
+54-1|- Men heeft [ @alt ~die~dien dien ] titel vreemd , gezocht gevonden - zal ik er nu weer mee aankomen ?
+55-1|- De titel is goed , zeer goed ; hij spreekt , hij schildert , en geeft juist wat het is .
+55-2|Geloof mij , wij weten wat titels zijn en doen .
+56-1|- Daarin heb [ @alt je ie ] gelijk , - welnu , het zou kunnen ; het zijn dan weer andere vogels , sommige zwakker .
+56-2|Maar ik moet eerst zien of ze nog vliegen kunnen .
+57-1|En daar zat ik dan met [ @alt ~mijn~mijne mijne ] vroegere , nu half vergeten schepselen voor mij .
+57-2|[ @alt Enige Eenige ] van die bladen zijn al vele jaren oud en hun inhoud vaak veel ouder - lang of kort geleden , [ @alt zoals zooals ] gij wilt - maar mij ontsloten zij [ @alt ene eene ] andere , soms geheel afgestorvene wereld .
+57-3|[ @alt Ene Eene ] mengeling van aangename en droevige herinneringen .
+57-4|Johannes heeft het uitstekend voor mij uitgedrukt , toen hij op Patmos schreef :
+58-1|" En ik nam het boeksken uit de hand des engels , en ik at dat op ; en het was in mijn mond zoet als honig - en als ik het gegeten had , werd mijn ingewand bitter . "
+59-1|Hier zijn liefelijke herinneringen uit de eerste vaag van het leven ; jonge [ @alt dromen droomen ] , wier bloesem vrucht belooft ; rooskleurige wolkjes , die de schoonste gestalten voorspiegelen .
+59-2|Maar de werkelijkheid is gekomen , en de [ @alt dromen droomen ] wekken nu soms een glimlach ; onverwachte vruchten zijn gerijpt ; en uit de wolkjes zijn andere dingen te voorschijngekomen dan wij dachten .
+59-3|Soms ook was de werkelijkheid [ @alt grootser grootscher ] en [ @alt schoner schooner ] dan de [ @alt dromen droomen ] .
+59-4|Maar in ieder geval , de tijd , die ons heeft voortgejaagd , heeft een afstand gesteld [ @alt tussen tusschen ] die bladen en ons , en schoon de denkbeelden en herinneringen ons lief zijn , [ @alt ~hun~hunne hunne ] vormen zijn anders dan die , waarin wij ze nu zouden [ @alt boetseren boetseeren ] .
+59-5|Vandaar dat vreemde gevoel van lust en onvoldaanheid .
+60-1|Hier is de Oude haard ( 2 ) met alles wat er omheen behoorde .
+60-2|Hij is begroeid met herinneringen , als de muren met de oude gebaarde takken en telkens jonge bladeren van het klimop .
+60-3|Het vuur , dat er in gloort , verlicht [ @alt de den ] [ @alt antieke antieken ] schoorsteen met [ @alt ~zijn~zijne zijne ] beschilderde tegels en eikenhouten beeldsnijwerk , en het goudleer aan [ @alt ~de~den den ] wand .
+60-4|De oude portretten aan [ @alt ~de~den den ] muur bewegen zich en willen uit de zwarte lijsten komen ; zij knippen met de [ @alt ogen oogen ] en knikken met de hoofden en de lippen zeggen fluisterend : zijt gij daar terug ?
+61-1|En het vuur knettert en vlamt , terwijl ik er in zit te staren , als , vanouds , en uit de vonken en vlammen springen beeldjes en gedachten te voorschijn .
+61-2|O jonge , eens bij het haardvuur gekweekte , [ @alt tedere teedere ] gemoeds-orchydaeën , phantastieke figuren , droomverbeeldingen , wat wilt gij , wat hebt gij mij nu te zeggen ?
+61-3|Welke zonderlinge schimmen dansen weer in de kamer , trillende schaduwen der voorwerpen , caricaturen van vorm , geworpen op [ @alt ~de~den den ] geheimzinnig schemerigen muur !
+61-4|Kleine kabouters zitten op de smeulende turven en klauteren heen en weer , onmogelijke , onleefbare schepsels , half idee en half vorm , maar die niet aan [ @alt zo zoo ] veel [ @alt vlees vleesch ] en been konden geraken als [ @alt nodig noodig ] is om te bestaan .
+61-5|Geboren bij het staren en mijmeren in [ @alt ~de~den den ] kunstmatigen gloed van het vuur , vervliegen zij [ @alt zodra zoodra ] het uitgaat .
+61-6|Als ik wil toegrijpen , is het enkel [ @alt as asch ] .
+62-1|Nevelige , schichtige , tamme piepkuikens , uitgestorven dodo's , met de nieuwe vlucht kunt gij niet meer meedoen .
+63-1|Daarna is het een boek , een Levensboek .
+63-2|Dat is een stuk waarachtig leven .
+63-3|Hier komen weer liefelijke beelden op .
+63-4|Geen marmeren beelden en geen [ @alt fors forsch ] gekleurde schilderijen : het zijn zachte frescokleuren met gedommelde vormen .
+63-5|Kinderlijk soms en gebrekkig van behandeling , maar [ @alt daartussen daartusschen ] goed geslaagde figuren , en allengs worden duidelijker , sterker en bestand tegen weer en wind .
+64-1|Dit alles hernieuwt zich voor [ @alt ~de~den den ] geest en ik leef een dubbel leven , met de bewustheid van het heden en de bewustheid van het verledene .
+64-2|En wat oordeelt het heden over het verledene ?
+65-1|[ @alt Zoals Zooals ] men op zeker tijdstip gevaar loopt zijn werk beter te vinden dan het is , [ @alt zo zoo ] is er ook na een lang tijdsverloop kans dat men het slechter acht dan het is .
+65-2|Ontwikkeling en omstandigheden hebben [ @alt ~de~den den ] geest gewijzigd .
+65-3|[ @alt De Den ] [ @alt oude ouden ] toestand ontgroeid , is men er vreemd aan geworden .
+65-4|Wij hebben andere denkbeelden , andere idolen , of , [ @alt zo zoo ] zij al dezelfde zijn , zij [ @alt eisen eischen ] andere vormen .
+65-5|Laat de [ @alt doden dooden ] de [ @alt doden dooden ] begraven .
+65-6|Eenmaal hebben zij geleefd , kunnen zij weer levend worden ?
+66-1|En toch zijn zij ons [ @alt zo zoo ] lief , toch willen wij er veel van behouden , ook in [ @alt ~die~dien dien ] vorm .
+66-2|Men hecht aan [ @alt ~zijn~zijne zijne ] jeugd en de kindergestalten zijner [ @alt fantasie phantasie ] .
+67-1|Zouden zij thans ook wel beter geschreven zijn geworden ?
+67-2|Zijn zij voor anderen , buiten ons eigen heden staande , niet even goed alsof zij pas ontstonden ?
+67-3|Hebben zij althans niet iets , dat duurzamer is ?
+67-4|Hier en daar zal iets gezuiverd , hier en daar iets tams versterkt , iets transcendentaal gehoofdletters genivelleerd , een [ @alt ouderwetse ouderwetsche ] muts gemoderniseerd moeten worden .
+67-5|Mogen zij [ @alt zo zoo ] verbeterd niet weer opnieuw de wereld in ?
+68-1|Of - want straks was ik [ @alt zo zoo ] streng voor anderen - of , is dit de lokstem , der eigenliefde , en moeten wij [ @alt vrezen vreezen ] :
+69-1|Nochtans 't geschiet op liste ,
+70-1|[ @alt Alzo Alzoo ] ik mercken kan ,
+71-1|[ @alt Daar Daer ] [ @alt praat praet ] een blau sophiste
+72-1|Met [ @alt ~de~den den ] armen lettermann .
+73-1|Laten zij dan als [ @alt ene eene ] vlucht vogels maar weer uitvliegen , de vorige bende achterna .
+73-2|Eerst zullen wij ze monsteren .
+73-3|Daar zijn er wier slagpennen nog stevig zijn .
+73-4|Andere , niet [ @alt zo zoo ] sterk , zullen zich toch nog goed houden .
+73-5|Andere weder kunnen op [ @alt ~hun~hunne hunne ] eigen wieken niet drijven ; ach , zij hadden eigenlijk [ @alt gene geene ] wieken .
+73-6|Sommige van de vroeg gekweekte hadden hun vollen wasdom nog niet bereikt en waren dun in de [ @alt veren veeren ] .
+73-7|Nu , na hun [ @alt ~lange~langen langen ] tocht , zijn zij geheel krachteloos en tam geworden en hun gevederte [ @alt zo zoo ] kaal , dat zij op [ @alt gene geene ] pluimage meer aanspraak kunnen maken .
+73-8|Zij hebben te weinig meer gemeen met de overige om in staat te zijn nog eens met hen uit te vliegen .
+73-9|Daarom zal ik ze liever in [ @alt ene eene ] kooi zetten .
+73-10|Dat is beter voor zwakke of gebrekkige vogels .
+73-11|Het is er al mede als met de [ @alt mensen menschen ] - er zitten er vele in kooien , met verlof om in [ @alt ene eene ] beperkte ruimte rond te fladderen , en die niet sterk en maar dun in de [ @alt veren veeren ] zijn bevinden zich daar het best bij .
+73-12|Soms kan er een ook [ @alt ene eene ] veer [ @alt lenen leenen ] , die een ander afgeschud heeft , en maakt dan zelfs onder [ @alt ~zijn~zijne zijne ] kooikameraden nog heel wat [ @alt vertoning vertooning ] .
+74-1|Maar wat zich vrij en krachtig voelt , verlaat de beperkte ruimte , vliegt uit en zoekt zijn eigen weg en bestemming .
+74-2|Waarheen ?
+74-3|Vooruit !
+74-4|Op eigen sterke wieken gedragen , jaagt hij voort in de onbegrensde ruimten .
+75-1|Sommige , door een [ @alt gunstige gunstigen ] wind voortgestuwd , duizelen van hun eigen vaart , worden angstig , willen [ @alt terugkeren terugkeeren ] , en bij het wenden van hun koers storten zij neer en verpletteren zich [ @alt ~de~den den ] kop .
+75-2|Andere , die gauw duizelig werden en niet [ @alt zo zoo ] hoog vlogen , breken maar een vlerk of poot en krabbelen stilletjes weer naar de kooi terug .
+76-1|De beste en sterkste kampen gewoonlijk met veel tegenwind ; menige [ @alt schone schoone ] veder wordt hun ontrukt , bij het zoeken naar [ @alt ~hun~hunne hunne ] bestemming en het moeitevol vergaderen van voedsel , doch naar de kooi , al konden zij het er nog [ @alt zo zoo ] goed hebben , [ @alt keren keeren ] zij nooit weer .
+77-1|Laten zij dan uitvliegen .
+77-2|Ik verzamel ze en roep ze op ,
+78-1|Kom hier , gij , deze on gene van mijn pluimgeslacht .
+79-1|Maar ik geef daartoe liever het woord aan [ @alt ~de~den den ] hop ; die weet beter hoe men dat volkje moet toespreken :
+80-1|Ehophophophophophophophophophop
+81-1|Io io , ito ito ito ito
+82-1|Kom hier , gij deze en gene van mijn pluimgeslacht ,
+83-1|Die 't bouwveld der landlien in vruchten rijk
+84-1|Beweidt , ontelbare vluchten op koren belust ,
+85-1|Zaadkorrellezende bent ,
+86-1|Snel van vleugelen , verbroldend zoetklinkende zangen ,
+87-1|Die in scharen de voren
+88-1|Vullend , om de kluiten fladdrend [ @alt zachtjes zachtkens ] orgelt
+89-1|Lieflijk met zoeten zang
+90-1|Tio tio tio tio tio tio tio tio
+91-1|Wie er van u in de tuinen en klimop
+92-1|twijgen het voedsel u leest ,
+93-1|Wie op de bergen , gij ook wildevijgenverslinders , aardbeziënpikkers ,
+94-1|Vliegt haastig nu hierheen op [ @alt ~de~den den ] roep van mijn stem ,
+95-1|Trioto trioto totobrix .
+96-1|Die , op de lage moerassen , de bijtende
+97-1|Muggen opsnapt , of de waterstreken
+98-1|Bewoont en het schoon Marathonische grasland ,
+99-1|Vogel , gij bontgevleugelde ,
+100-1|Hazelhoen , hazelhoen ,
+101-1|Gij ook , die over [ @alt ~de~den den ] golfslag der zeeën
+102-1|[ @alt Samen Saam ] met de scharen der ijsvogels vliegt .
+103-1|Komt hier , komt hier , om te [ @alt horen hooren ] de nieuwigheid !
+104-1|Al de geslachten verzaamlen wij hier nu
+105-1|Van 't langhalzig vogelenvolkjen .
+106-1|Want , hier komt een wijze grijsaard ,
+107-1|Vol van nieuwheid ,
+108-1|Nieuwe dingen komt hij stichten .
+109-1|Komt hier ter vergaadring allen ,
+110-1|Haast u , haast u , haast u , haast u ,
+111-1|Torotorotorotorotorotix
+112-1|Kikkabau , kikkabau ,
+113-1|Torotorotorotorolililix !
+114-1|Dit heerlijke vogellied , echte vogelmuziek met woorden van Aristofanes , is in het jaar 414 voor het eerst op het Atheensche [ @alt toneel tooneel ] gezongen en gespeeld ; het is uit [ @alt ~zijn~zijne zijne ] [ @alt komedie comedie ] De Vogels .
+115-1|Ik mag van deze " lustige , geflügelte buntgefiederte Dichtung , " [ @alt zoals zooals ] Schlegel ze noemt , toch wel spreken zonder dat de kwade tongen mij de domheid toedichten [ @alt ~mijn~mijne mijne ] dieren daarmee te vergelijken ?
+115-2|Toch is misschien de waarschuwing niet overbodig .
+115-3|O , lustige , geflügelte , buntgefiederte Dichtung , welk een libretto voor Mozart's Papagenen - melodieën !
+115-4|Dat zijn eerst Vogels , waarde lezer , en van schitterende pluimage .
+115-5|Dat is een van die boeckxkens - wat een letters had men vroeger [ @alt nodig noodig ] - om gelijk Simeon als " het kindeke Jezus " in [ @alt ~zijn~zijne zijne ] armen te drukken , en te juichen dat men die heerlijkheid aanschouwt .
+116-1|Maar het is toch geen boekje voor iemand als onze gemoedelijke Thomas a Kempis .
+116-2|Het is een goddeloos boek , vol Atheensche Witze en Attisch zout , vol dolle idealen en snijdende parodieën , met wat obsceniteiten , afgewisseld door de zangerigste melodieën - fijne poëzie en nachtegaalsslag , - en bovendien met [ @alt ene eene ] foliopersiflage van de goden , [ @alt ene eene ] persiflage , die Aristofanes [ @alt de den ] [ @alt tweede tweeden ] prijs niet deed missen , terwijl het zachtstwijsgeerig rationalisme Sokrates het leven kostte .
+116-3|[ @alt Zo Zoo ] waren de Atheners .
+116-4|Aristofanes voert er in [ @alt ~zijn~zijne zijne ] Vogels een paar exemplaren van op .
+116-5|Peisthetairos , een plannenmaker en speculant , en Euelpides , groot van verwachtingen , klein van moed , lustig van zinnen .
+117-1|Zij verlaten Athene om ergens op of boven de aarde [ @alt ene eene ] betere plaats te zoeken , waar niet altijd geprocedeerd wordt , waar men [ @alt ~zijn~zijne zijne ] schulden niet behoeft te betalen en waar men [ @alt ~zijn~zijne~zijnen zijnen ] lust kan vieren .
+117-2|Zij komen in de streken , waar de vogels wonen ; zij ontmoeten [ @alt ~de~den den ] hop en stellen hem voor , in de lucht [ @alt ene eene ] [ @alt grote groote ] vogelstad te bouwen .
+117-3|Prachtige gedachte , zegt de hop en roept al de vogels , met het lied , dat ik mededeelde .
+117-4|Daar [ @alt stromen stroomen ] zij toe , [ @alt ene eene ] onheilspellende wolk van gevogelte .
+117-5|Zij dreigen de Atheners ; het zijn vogelvangers , zeggen zij en willen hen met bek en klauw te lijf .
+117-6|Deze verweren zich met schotel en braadspit , totdat de hop betoogt dat het vrienden zijn .
+117-7|Peisthetairos vertelt hun , dat de vogels de oudste [ @alt heren heeren ] en meesters der wereld zijn , dat de goden [ @alt zelf zelve ] zich van vleugels en de hulp der vogels bedienen , dat de [ @alt mensen menschen ] zich in alle handelingen naar hen richten .
+117-8|De vogels moeten dus hun rang en heerschappij boven goden en [ @alt mensen menschen ] weer innemen .
+117-9|Zij moeten [ @alt ene eene ] stad bouwen [ @alt tussen tusschen ] hemel en aarde , [ @alt zodat zoodat ] de reuk der offers niet meer tot de goden kan opstijgen en deze van gebrek moeten omkomen , als zij de heerschappij der vogels niet aannemen .
+117-10|Dat plan wordt met vleugelapplaudissement toegejuicht en uitgevoerd .
+117-11|Peisthetairos wordt koning van de nieuwe , weldra verrezen Wolkenkoekoekstad .
+118-1|Met [ @alt ene eene ] wonderbare tegenstelling [ @alt horen hooren ] wij dan uit zijn mond allerlei verstandige en eerlijke uitspraken tegen de fortuinzoekers , die allengs op de stad afkomen .
+118-2|Maar ten slotte stijgt de komische toon weer tot de hoogste luim .
+118-3|Daar komt Prometheus , zich achter een zonnescherm verschuilend , opdat Zeus hem niet zou zien , [ @alt meedelen meedeelen ] , dat het met diens macht gedaan raakt , dat de reuk der vette offerstukken niet meer omhoogstijgt en de goden daarboven hongeren als op een vastendag .
+119-1|Weldra zenden zij drie gezanten , Herakles , Poseidoon en [ @alt enen eenen ] Triballos , een caricatuurgod der barbaren , die koeterwaalsch praat .
+119-2|Zij komen beleefd tot Peisthetairos , maar deze doet alsof hij ze niet ziet en gaat voort met de toebereidselen veer een smakelijk gebraad , dat [ @alt ~de~den den ] lekkerbek Herakles allengs verteedert en verleidt .
+119-3|Peisthetairos is geneigd tot vrede met de goden , maar vooreerst moet Zeus hem [ @alt ~de~den den ] heerschersstaf geven , en dan zal hij de goden ten eten vragen .
+120-1|Onmogelijk , zegt Poseidoon ; maar Herakles ruikt het gebraad en stemt al toe .
+121-1|Vervolgens moet Zeus hem [ @alt ~zijn~zijne zijne ] dochter Basileia - het koningsgezag - tot vrouw geven .
+122-1|Onmogelijk , zegt Poseidoon .
+123-1|Ga maar mede in [ @alt ~de~den den ] hemel met hen om Basileia en al wat gij wilt te halen , zegt Herakles ; ik zal [ @alt intussen intusschen ] hier het gebraad klaarmaken .
+124-1|Het stuk sluit hiermede dat Peisthetairos terugkomt , reeds van verre schitterend als de zon , en naast hem de [ @alt schone schoone ] bruid Basileia .
+124-2|Hij zwaait [ @alt ~de~den den ] bliksem , het gevleugelde werptuig van Zeus , en een heerlijke geur stroomt door alles heen .
+124-3|Het koor jubelt hem een hymenlied te gemoet en bezingt de macht van [ @alt ~de~den den ] bliksem , gevoerd door [ @alt ~de~den den ] [ @alt ~nieuwe~nieuwen nieuwen ] Zeus , en [ @alt ~zijn~zijne zijne ] prachtige bruid Basileia .
+125-1|En [ @alt zo zoo ] eindigt deze halsbrekende vogelutopie .
+126-1|Maar wij , hoe komen wij weer heelhuids uit deze wolkenvogelstad op de gewone aarde en bij ons eenvoudig pluimgedierte ?
+127-1|Doch [ @alt zo zoo ] gaat het in het leven .
+127-2|De lezer dient er zich mee te troosten , dat het plotseling geschiede , zonder overgang .
+127-3|[ @alt Evenzo Evenzoo ] worden wij met een schok wakker uit de schoonste [ @alt dromen droomen ] , en na de omzwervingen in [ @alt ~de~den den ] ether zien wij opeens onze voeten op de [ @alt straatstenen straatsteenen ] staan .
+127-4|Toch blijft van dat zweven in de wolken altijd iets in de herinnering rondzingen .
+128-1|NOTEN :
+129-1|( 1 )
+129-2|Deze bundel , ofschoon de oudste stukken bevattende , verscheen eerst in 1874 na anderen van jongeren oorsprong , die in 1872 het licht had gezien .
+130-1|( 2 )
+130-2|Een stuk van ouden datum , niet herdrukt .
+130-3|Verscheen in Nederland , 1856
+131-1|TWEE KUNSTENAARS .
+132-1|Eens waren de geesten overal .
+132-2|Van alle stof waren zij de bezieling , zij woonden in de lucht , in de [ @alt stromen stroomen ] , in de zon , in de starren , in [ @alt ~de~den den ] bloemkelk en de kleine beek , in [ @alt ~de~den den ] [ @alt mens mensch ] en [ @alt ~zijn~zijne zijne ] omgeving , in zijn denken en voelen , en heel het leven was van hen vervuld .
+132-3|In de lucht en de [ @alt bossen bosschen ] maakten zij muziek , aan de starren en wolken gaven zij spraak , en leerden haar , evenals [ @alt ~de~den den ] bergen , [ @alt bomen boomen ] en wateren , de heerlijkste dingen vertellen ; aan de bloemen schonken zij de poëzie der kleuren , [ @alt ~de~den den ] [ @alt mens mensch ] de verbeelding , en [ @alt zowel zoowel ] in als buiten hem ontstond door hen de liefelijkste wereld .
+133-1|Het is niet de schuld der wetenschap , dat het niet meer [ @alt zo zoo ] is .
+133-2|Integendeel .
+133-3|Dat hebben de geestverdrijvers , waarvan sommige de wetenschap tot hun doel gebruiken , verspreid om [ @alt ~de~den den ] smet van zich af te werpen .
+133-4|Het was aan de domheid te wijten en aan de [ @alt mensen menschen ] , die niet denken en gevoelen , maar alleen grof zinnelijk waarnemen .
+134-1|En de geesten verdwenen .
+135-1|Hoe verdwenen zij ?
+136-1|Toen de [ @alt mensen menschen ] de geesten niet meer begrepen en kenden , beweerden zij dat deze niet bestonden .
+136-2|Zij knepen hun [ @alt ogen oogen ] dicht en spraken : de zon is weg .
+136-3|- Ziet ! zeiden de geestendooders , men heeft ons vroeger wijsgemaakt dat er geesten waren in de natuur , maar wij weten het nu beter .
+137-1|En zij namen een boom en zaagden hem door , tot anderen , die nog twijfelden zeggende : - Ziet gij wel dat er geen geest in zit ; het is alleen schors , spint en hout .
+138-1|Anderen namen een schoon beeld .
+138-2|- Als er geest in zit , zeiden zij , dan moet hij er ook uitkomen , - en zij braken het open .
+138-3|Eerst de [ @alt benen beenen ] , en toen zij niets vonden , het lijf , en toen het hoofd , en toen alles te morzel lag , riepen alle omstanders uit : - Zij hebben gelijk , daar is geen geest in ; ook in de kunst is geen geest .
+139-1|Daarna kwamen er , die hun [ @alt ~dikke~dikken dikken ] , vetten buik en hun dikke , vette wangen bevoelende , uitriepen : - Kijk , dat eerst is werkelijkheid , maar wat men niet tasten kan , bestaat niet .
+139-2|- En alle [ @alt mensen menschen ] vonden het ook [ @alt zo zoo ] .
+140-1|In [ @alt ~de~den den ] staat maakten zij [ @alt ene eene ] wet , dat niemand meer van geest mocht spreken , want dat geesten gebleken waren ijdele hersenspooksels te zijn , die niet bestaan en volstrekt van geen practisch nut zijn .
+141-1|- Ach , waar zijn de geesten heengevlogen ? klaagden de kinderen , - waarom komen zij niet meer [ @alt zo zoo ] heerlijk voor ons zingen , en ons van allerlei goeds en schoons vertellen ?
+141-2|Ach , waar zijn de geesten ?
+142-1|- In [ @alt ~de~den den ] kelder , in het turfhok , stoute bengels ! riepen de [ @alt mensen menschen ] .
+143-1|Toen er aldus bewezen was , dat in alles wat er goed , waar en schoon op aarde verschijnt , [ @alt gene geene ] geesten zaten ; toen de beste en verstandigste der [ @alt mensen menschen ] elkander geleerd hadden en overgeleverd , dat nergens meer geest is , en het maar alleen de kinderen waren , met de oude bestjes en zwakke zielen , die slechts een duister besef hadden , dat er toch behalve al die stoffen ook geesten waren in het heelal , toen wisten de lieden niet beter of het was op het kerkhof , en in [ @alt ~de~den den ] toren bij [ @alt ~de~den den ] nachtuil en in het spookkasteel , en bij de dwaallichten en [ @alt ~de~den den ] driesprong , en in het koffiedik , dat zij de geesten moesten zoeken ; en in de plaats van de reine etherische wezens , stelden zij ze zich niet anders voor dan als geraamten en [ @alt bleke bleeke ] spoken , katten en duivels uilen en heksen op bezemstelen , ruischende door de holle en galmende gangen van eenzame gebouwen , joelende op de hei en door de [ @alt schoorstenen schoorsteenen ] , zwierende , gierende en jankende door de nachtelijke duisternis .
+144-1|De geesten leefden ook niet meer onder de [ @alt mensen menschen ] ; zij gingen [ @alt hoger hooger ] wonen en maakten zich onzichtbaar .
+144-2|Niet langer spraken zij onmiddellijk tot de aardbewoners uit elke plant , uit het [ @alt bos bosch ] , uit het meer , uit de zon ; zij bewogen zich niet meer in het klare licht van [ @alt ~de~den den ] dag en onder de woelende , zwoegende menigte der stofaanbidders ; het waren slechts uitverkorenen , aan wie zij zich bleven [ @alt vertonen vertoonen ] .
+145-1|Doch als de nacht , de engel met het kalme , reine gelaat , de beschermende duisternis over de schepping uitspreidt , als de geestverjagers en stofaanbidders slapen , dan komen zij overal te voorschijn .
+145-2|Dan vieren zij feest en reien in de [ @alt bossen bosschen ] en op de velden , dan spelen zij met de karbonkels van [ @alt ~de~den den ] starrenhemel en dobberen wiegelend op de koppen der golven ; dan zingen zij in de suizende lucht en vermeien zich in de kelken der bloemen .
+145-3|Zij dringen door in de kamer van [ @alt ~de~den den ] werkenden dichter en omringen hem met muziek ; zij omzweven de sponde van [ @alt de den ] [ @alt slapende slapenden ] kunstenaar en kussen zijn hoofd , [ @alt ~zijn~zijne zijne ] ziel met [ @alt ~nieuwe~nieuwen nieuwen ] gloed vervullende .
+146-1|Alles , alles is dan weer bezield en over alle stof zweeft weer de geest .
+147-1|Het was winter , het was een heerlijke , bezielde nacht , toen ik eens twee van die geesten gewaarwerd , die in [ @alt ~mijn~mijne mijne ] kamer werkzaam waren .
+148-1|- Welkom , welkom , [ @alt schone schoone ] etherische verschijnselen , wie gij ook zijn [ @alt mag moogt ] , welkom , want ik gevoel , dat gij geluk aanbrengt !
+149-1|- Ik heet Lucht , [ @alt zei zeide ] de een .
+150-1|- En ik ben Vorst , sprak de ander , wij zijn van de geesten der kunst .
+151-1|- Hoe ! riep ik verbaasd , zijt gij kunstenaars ?
+151-2|Ik dacht dat lucht niet anders deed dan zuurstof , koolstof en stikstof verwerken , en wind , regen en nevels maken , en dergelijken .
+151-3|En vorst dacht ik mij slechts als een besneeuwden grijsbaard , met [ @alt nors norsch ] gelaat en ijs om zijn hoofd en zijn hart .
+151-4|Hoe ! stroomt de gloed der bezieling door uwe gedaanten , en zijt gij nog iets meer dan natuurwetten ?
+152-1|- [ @alt ~Lange~Langen Langen ] tijd , [ @alt zei zeide ] de een , hebben wij ons met vele beslommeringen en drukten moeten , bezighouden .
+152-2|Wij hebben hagel en sneeuw moeten maken , de aarde verharden en met [ @alt ene eene ] sneeuwlaag overdekken , duizenden schadelijke dieren en insecten verjagen en [ @alt doden dooden ] .
+152-3|Met machtigen adem heb ik in stormen geloeid en de bladeren afgeschud , en de [ @alt gehele geheele ] natuur tot de rust van [ @alt ~de~den den ] winter bereid .
+153-1|- Ja , zei Vorst , ik heb mijn gezel moeten helpen , [ @alt sloten slooten ] en wateren met [ @alt ene eene ] dichte , doorschijnende korst bevloeren .
+153-2|Dat was onze nuttige arbeid , de [ @alt aardse aardsche ] en stoffelijker zijde van onzen werkkring , en algemeen was het alleen deze , die men beschouwde , want wat daar ook kunstigs en schoons in mocht zijn , niemand , die daar op lette of dat begreep .
+153-3|Zij vroegen maar : is het nuttig ?
+153-4|[ @alt Zo Zoo ] ja , was het goed , [ @alt zo zoo ] neen , weg er mede .
+153-5|Het was of het ijs bij de schepping slechts bestemd was voor narresleden en het vermaak van schaatsenrijders ; de bloemen op de glazen werden [ @alt verwenst verwenscht ] en weggevaagd ; de reine sneeuw met [ @alt ~haar~hare hare ] kunstige vlokken , met [ @alt ~haar~hare hare ] starren en rozen , werd bevuild , [ @alt zodra zoodra ] zij onder de [ @alt mensen menschen ] kwam .
+153-6|En die [ @alt schone schoone ] ijzelkristallen , die als een bekleedsel van edele [ @alt stenen steenen ] aan trossen de takken en bladeren der [ @alt bomen boomen ] omhulden , en waaraan wij [ @alt zo zoo ] veel kunst besteedden , wie heeft ze met kunstzin beschouwd ?
+154-1|- En wat is men wispelturig en tegenstrijdig in [ @alt ~zijn~zijne zijne ] [ @alt wensen wenschen ] en [ @alt meningen meeningen ] , riep Lucht uit , Dan eens is men kwaad , omdat Vorst uit scherts hier of daar een neus purper kleurt ; dan is men blij , omdat men schaatsenrijden kan .
+154-2|Nu wil men dooi hebben - voor de scheepvaart [ @alt zo zoo ] het heet - doch eigenlijk , omdat men zelf op reis moet ; dan wil men vorst tegen het schadelijk veldgedierte en omdat het gezonder is .
+155-1|- Dan zijn wij te streng , zei Vorst , en dan zijn wij weer te zacht .
+155-2|Velen schijnen ook geheel onverschillig omtrent ons en cijferen , eten , drinken en slapen , alsof wij niet bestonden ; anderen hebben een afkeer van ons , omdat òf stoffelijke armoede , òf armoede des geestes hen onvatbaar maakt om ons te begrijpen en te genieten .
+156-1|- En gij wordt niet ontmoedigd en staaktet uw arbeid niet ?
+157-1|- Denkt gij , sprak Lucht , denkt gij dat wij slechts werken uit vrees voor straf , of in hoop van [ @alt beloning belooning ] ?
+157-2|Weet gij dan niet dat men evenals het goede ook het [ @alt schone schoone ] moet doen om zijns zelfs wille ?
+158-1|Zij waren [ @alt intussen intusschen ] niet werkeloos geweest , maar zweefden en golfden af en aan , en waren druk bezig bij [ @alt ~mijn~mijne mijne ] ramen .
+158-2|De glazen kraakten en ik ontdekte toen een treffend schouwspel .
+159-1|- O , wat kunstige en [ @alt grootse grootsche ] arbeid riep ik verrukt .
+160-1|- Noem het geen arbeid , [ @alt zei zeide ] Lucht , het is uitspanning , het is genot , het is loutere liefde voor het [ @alt schone schoone ] .
+161-1|- Heerlijk , heerlijk , zongen zij beiden opgetogen ; - zie , [ @mwu_alt overdag des daags ] hebben de [ @alt mensen menschen ] ons verjaagd , maar des nachts , onder het geestrijk licht der maan , als de [ @alt mensen menschen ] met hun bespottelijke [ @alt eisen eischen ] en hun kunstdoodenden ijver , die zeker ons werk terstond zou vernietigd hebben , slapen , dan werken wij aan ons lievelingswerk , heerlijke goddelijke kunst !
+162-1|Welke geheimzinnige kunstenaars waren zij !
+162-2|Evenals eenmaal in de middeleeuwen de vrome meesters de kerkvensters , [ @alt zo zoo ] overdekten zij de glazen onzer huizen met de dichterlijkste en schoonste gewrochten van hun geest : waarlijk schenen zij niet om roem of eer te werken , naarom de kunst [ @alt zelf zelve ] .
+162-3|En evenals bij die oude meesters , schenen hun arbeid en [ @alt ~hun~hunne hunne ] middelen een geheim voor de menigte verborgen .
+163-1|Slechts even had ik [ @alt ~hun~hunne hunne ] handeling gezien .
+163-2|Helaas , ook ik moest in de straf [ @alt delen deelen ] , die de geestverjagers hadden [ @alt belopen beloopen ] , en ik mocht de geesten in [ @alt ~hun~hunne hunne ] kunstoefening niet langer aanschouwen .
+164-1|- Slaap , slaap , zeiden de geesten , en zij wiegden mij en legden mij [ @alt neer neder ] .
+164-2|- Slaap , slaap , gij kunt ons niet langer zien arbeiden , maar morgen zult gij onze werken zien .
+165-1|- Moeder , moeder , riepen 's morgens de kinderen , die het 't eerst ontdekten , naar de glazen [ @alt lopende loopende ] , - wat heerlijke bloemen en beelden !
+166-1|Dat hadden 's nachts de geesten gedaan .
+167-1|Herinneringen aan alle streken der aarde penseelden zij op die ruiten .
+167-2|Er was geen plekje op de aarde , waar Lucht niet geweest was , en Vorst had ook veel gezien , [ @alt zodat zoodat ] zij [ @alt ene eene ] rijke verbeelding en een schat van ideeën hadden , die onuitputtelijk was .
+168-1|Uit het verre Westen , de nieuwe wereld , brachten zij herinneringen van [ @alt brede breede ] rivieren en watervallen , van reusachtige wouden en berggevaarten .
+169-1|Uit het Zuiden had Lucht vroegere herinneringen van krachtvollen plantengroei en exotische bloemenpracht , en van de heerlijkste gedaanten uit dat land der [ @alt schone schoone ] vormen , en Vorst etste ze met fijne stift op het glas .
+170-1|Uit het Oosten bootsten zij palmen en waaierboomen , aloë's en cactussen na , en edelgesteenten , met de weelderige gedachten en vormen van het morgenland , de wieg des menschdoms .
+171-1|Al die beelden uit een lang en werkzaam leven , die herinneringen van [ @alt ~hun~hunne hunne ] veelvuldige omzwervingen en reizen op de aarde , kwamen in de schoonste vormen door hun rijk en weelderig genie te voorschijn , en werden door de kunstenaars met steeds vernieuwde oorspronkelijkheid voortgebracht .
+172-1|Onbaatzuchtig , als alle ware kunst is , werkten zij niet alleen voor rijken , maar ook voor armen ; zelfs waren er bij sommigen der aan zienlijkste lieden , waar nacht en dag in alle vertrekken [ @alt ene eene ] zoele zomerhitte [ @alt heerste heerschte ] , [ @alt gene geene ] sporen hunner kunst ontdekt , en daar waar [ @alt gene geene ] gordijnen zelfs waren om de glazen te [ @alt bekleden bekleeden ] , bedekten zij die met [ @alt ~hun~hunne hunne ] keurigste scheppingen .
+172-2|Edele [ @alt belangeloze belangelooze ] kunst , die [ @alt ~haar~hare hare ] gaven uitstrooit zonder aanzien des persoons .
+173-1|Doch hoe [ @alt groots grootsch ] en machtig het genie van [ @alt ~mijn~mijne mijne ] kunstenaars was , doorgaans werden zij weinig begrepen en geacht .
+173-2|Daar zat een geleerde te werken , terwijl [ @alt ~zijn~zijne zijne ] glazen met planten en gewassen overdekt waren , cactussen , cederen , palmen , orchydaeën , en wat al meer , vreemder en zeldzamer dan die der rijkste broeikassen of botanische tuinen ; fossielen , [ @alt vissen visschen ] , schelpen en kristallen zonder wederga ; maar de geleerde lette er niet op of keurde ze [ @alt ~zijn~zijne zijne ] aandacht niet waard .
+173-3|Het was immers maar kunstwerk !
+174-1|Wat verder stond een kantoorman voor zijn raam , en krabde er [ @alt ~de~den den ] nagel de keurige ciseleersels af , om een open plekje te maken , waar hij doorheen kon zien .
+174-2|[ @alt Zo Zoo ] moest wel het kunstwerk een [ @alt ogenblik oogenblik ] zijn oog treffen , maar toen hij onder al die voorstellingen geen enkel cijfer zag , niet eens [ @alt enige eenige ] afbeelding van een bankbrief of [ @alt ene eene ] coupon , ging hij spoedig weer aan zijn lessenaar zitten , want hij vond er niet het minste nut in .
+175-1|Hier waren weder de schoonste lijnen en vormen , de bevalligste versierselen , het weelderigste loofwerk ; maar de beschaafden waren er ongevoelig voor .
+176-1|Ginds waren het de stoutste stukken juweel , de meest verscheidene pracht van edele [ @alt stenen steenen ] , maar noch wereldlingen , noch pronk- en prachtminnaars , noch vrouwen keken er naar .
+177-1|Elders spreidden zich de vreemdste natuurtafereelen uit , zonder dat men ze vermoedde , en men reisde naar verre vreemde landen .
+178-1|[ @alt Zo Zoo ] onverschillig , ja zelfs [ @alt zo zoo ] nauw bewust van al die schoonheid waren de [ @alt mensen menschen ] ; hun brein was [ @alt zo zoo ] arm geworden , hun waarnemingsvermogen [ @alt zo zoo ] ongeoefend en verdoofd voor wat bovenzinnelijk is , dat alleen wat grof tastbaar was voor de zinnen , door die ruwe werktuigen kon worden gevat .
+178-2|- Bah ! riep de zoon der stof en der werkelijkheid , ik kan door de ruiten niet heenzien , en hij veegde terstond de kunstgewrochten weg , [ @alt zoals zooals ] hij het reeds vroeger in [ @alt ~zijn~zijne zijne ] ziel alle fijne draden en weefselen had gedaan .
+178-3|Maar de kunst en het [ @alt schone schoone ] bleven er niettemin om voortleven en de kunstenaars aan [ @alt ~hun~hunne hunne ] roeping voldoen en [ @alt ~hun~hunne hunne ] bestemming vervullen .
+179-1|Ziet , de zon komt door , de nevelen trekken weg , en de warme stralen vallen recht op de kunststukken mijner glazen .
+179-2|Heerlijk , dubbel heerlijk zien zij er nu uit .
+179-3|De [ @alt bossen bosschen ] en bergen krijgen nieuwe en verhoogde tinten , de edele [ @alt stenen steenen ] nieuwe flikkeringen en kleurspelingen , de bloemen en planten nieuwe gloed en verven .
+180-1|Maar het duurt slechts [ @alt enige eenige ] [ @alt ogenblikken oogenblikken ] en weemoedig zie ik de gedaanten veranderen en verwelken , de kleuren [ @alt verbleken verbleeken ] .
+180-2|Langzaam vormt zich een [ @alt druppel droppel ] , die meer en meer zwelt en glinstert , totdat hij , zijn toppunt bereikt hebbende , door [ @alt ~zijn~zijne zijne ] eigen ontwikkeling valt , om de aarde slechts te vermeerderen met een weinig slijk .
+180-3|Nu volgt alles [ @alt ~de~den den ] eersten [ @alt druppel droppel ] en smelt meer en meer , en eindelijk lessen zich al die kunstrijke gewrochten , in droppelen van de glazen vallende , als een liefelijke droom bij het ontwaken in louter tranen op .
+180-4|Het is of de [ @alt betovering betoovering ] is verbroken .
+180-5|[ @alt Bossen Bosschen ] , cederen , bloemen , zeegewassen , edelgesteenten , ijsbergen - weg , weggesmolten , als de idealen der maagd , als de tranen der [ @alt mensen menschen ] , als de [ @alt dromen droomen ] der wijzen , en de [ @alt schone schoone ] kunstwerken leven niet meer , dan als de herinnering van iets , dat eens groot en liefelijk geweest is .
+181-1|Is het een bewijs dat daarom het [ @alt schone schoone ] , dat wij gezien hebben , ijdel is en niet bestaat ?
+181-2|Men heeft het honderden malen beweerd en zegt het nog .
+181-3|Maar het zou even juist zijn vol te houden , dat de zon niet bestaat , omdat zij soms onzichtbaar is of onder gaat .
+182-1|[ @alt Intussen Intusschen ] begint die zon , die onze kunststukken heeft vernietigd , ons te verwarmen en te verlichten .
+182-2|Als bron van warmte en licht bezit zij beide hart en verstand , maar [ @alt verenigd vereenigd ] in harmonie en niet eenzijdig werkend als een van beide op zichzelve .
+182-3|In haar vurigen glans verschijnt zij mij als de Hindoesche godheid , met het vernielend , maar tevens het scheppend beginsel , dat zij in zich saamvat .
+182-4|Zij heeft onze kunststukken vernietigd , maar zij roept nieuwe uitkomsten in het leven .
+182-5|Vorst verdwijnt en de werking van Lucht verandert en wordt gewijzigd naar de eeuwige wetten ; in een [ @alt zoele zoelen ] wind suist het en fluistert mij in het oor :
+183-1|- Troost u , de kunstwerken zijn vergaan , maar andere en nieuwe komen weer te voorschijn en zullen verrijzen , nog schitterender en gloeiender , en oorspronkelijker dan de vorige .
+183-2|Het zijn slechts veranderlijke vormen die voorbij zijn gegaan , maar de kunst en het [ @alt schone schoone ] gaan niet voorbij : [ @alt ~hun~hunne hunne ] verschijnselen in de vormen der stof zijn vergankelijk , maar zij zijn eeuwig !
+184-1|EEN OUDE STRIJD .
+185-1|Wat de dichterlijke geest der middeleeuwen in [ @alt ~zijn~zijne zijne ] [ @alt fantastische phantastische ] doodendansen op [ @alt zo zoo ] menigvuldige wijze afbeelden , en met [ @alt zo zoo ] veel diepen en bijtenden humor op de wanden der kerken , in de [ @alt tekeningen teekeningen ] der handschriften of de initialen der eerste drukwerken voorstelde , heeft niet opgehouden te bestaan .
+185-2|Het is nog altijd de oude strijd [ @alt tussen tusschen ] leven en dood .
+185-3|Als de [ @alt Noordse Noordsche ] reuzen , Zomer en Winter , werpen zij elkander beurtelings onder .
+185-4|Altijd heeft wel Holbeins knekelman de overhand - maar slechts voor een gegeven tijd , en telkens staat een nieuw leven op om [ @alt ~de~den den ] strijd te hervatten en op [ @alt ~zijn~zijne zijne ] beurt [ @alt ~de~den den ] " koning de verschrikking " te overstelpen .
+185-5|Het gras schiet onder de zeis van [ @alt ~de~den den ] onverbiddelijken maaier toch weder op .
+185-6|Uit de stof van het vergane ontwikkelt zich een nieuwe groei .
+186-1|Noemt gij onder de vele tegenstellingen , die elkander kruisen , en elkander schijnen te [ @alt vereisen vereischen ] om elkander aan te vullen , die van leven en dood [ @alt alledaags alledaagsch ] , zij is niet minder snijdend en gedurig nieuw in de bijzondere vormen , waarin zij optreedt .
+187-1|Ziet daar [ @alt ~de~den den ] stoet , die de [ @alt doden dooden ] wegbrengt , langzaam de straten doorgaan , en de scherpste tegenstelling vormen met al wat hij ontmoet .
+187-2|Er zijn bakkers , die aan de levenden brood brengen ; artsen , die het leven gaan verdedigen ; kooplieden , die , vast op het leven steunende , twintig jaren vooruit [ @alt ~hun~hunne hunne ] plannen berekenen ; lange rijen van fraaie huizen in aanbouw gaat hij voorbij ; verder een orgel , waarvoor kinderen dansen ; het orgel houdt even op voor de zwarte mannen , en de kinderen kijken naar [ @alt ~de~den den ] stoet met een [ @alt verbaasde verbaasden ] glimlach om wat zij niet begrijpen , en het speelt weder voort .
+187-3|Verder gaat de stoet en nadert de uiteinden der stad ; eerst nog voorbij drukke pakhuizen , en fabrieken niet , [ @alt ~haar~hare hare ] stoomende , snuivende , rammelende en kletterende bezigheid ; de haven laat hij links liggen , met al [ @alt ~haar~hare hare ] schepen , waar het bootsvolk zingend bezig is de zeilen te [ @alt hijsen hijschen ] voor de reis naar een ver land om van daar de geriefelijkheden voor de levenden weer mede te brengen .
+188-1|De zwarte wagenmenner , die onder de wippende huilebalk zijn winst zit te berekenen , is de stad uitgereden , en langzaam gaat het nu door dreven , waar de natuur met haar [ @alt fris frisch ] groen , [ @alt ~haar~hare hare ] vruchten en bloemen niets dan weelderig leven verkondigt .
