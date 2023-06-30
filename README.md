@@ -77,5 +77,5 @@ python3 pretrain_jax.py \
 
 the _train_file_ and _validation_file_ arguments are where the training and validation files are given as input, which can be created with the _create_data.ipynb_ notebook.
 
-The _create_data.ipynb_ notebook is used to convert the Dutch data into a single train and validation file.
+The _create_data.ipynb_ notebook is used to convert Dutch data into a single train and validation file.
 The _convert_jax_to_torch.py_ is the script used to convert the pretrained weights in Flax format into a Pytorch format.
