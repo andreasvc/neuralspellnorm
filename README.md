@@ -37,7 +37,7 @@ To run the _T5Predict_ with a trained ByT5 model on the three gold novels, use t
 ```
 python3 T5Predict.py -tf 'google/byt5-small' -weights 'byt5-small_weights.h5' -temp 0.4 -cs 40 -n_beam 2 -test1 'Multatuli_MaxHavelaar.txt' -test2 'ConanDoyle_SherlockHolmesDeAgraSchat.txt' -test3 'Nescio_Titaantjes.txt'
 ```
-See T5Predict for a full explanation of each of the arguments.
+See _T5Predict_ for a full explanation of each of the arguments.
 
 _Gutenberg_Data.ipynb_ is the notebook used to extract and download novels from Project Gutenberg.
 This notebook uses the [Dutch Literature Pipeline](https://github.com/andreasvc/dutchlitpreproc) repository from Van Cranenburgh.  
