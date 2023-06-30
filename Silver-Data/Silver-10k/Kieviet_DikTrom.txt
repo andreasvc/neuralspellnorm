@@ -1,0 +1,474 @@
+1-1|( Inhoud )
+2-1|( Inhoud )
+3-1|Uit het leven van
+4-1|Dik Trom
+5-1|Door
+6-1|C. Joh. Kieviet
+7-1|Zesde druk
+8-1|Geïllustreerd door
+9-1|Joh. Braakensiek
+10-1|Alkmaar - P. Kluitman .
+11-1|( Inhoud )
+11-2|Boekdrukkerij Firma P. Kluitman - Alkmaar .
+12-1|( Inhoud )
+13-1|Inhoud .
+14-1|Bladz .
+15-1|Dirk wordt geboren en krijgt een naam 1
+16-1|Dirk en de baker worden kwade vrienden 7
+17-1|Dirk begint te kruipen en kattekwaad te doen 11
+18-1|Dirk wordt in een [ @alt dubbele dubbelen ] zin dik en gaat op [ @alt ~de~den den ] ingeslagen weg voort 19
+19-1|Dik ondergaat [ @alt ene eene ] gedaanteverwisseling en blijft toch dezelfde 31
+20-1|Hoe Dik uit varen ging 41
+21-1|Dik gaat naar school 51
+22-1|Dik en de juffrouw 63
+23-1|Dik en de heks van [ @alt ~de~den den ] Achterweg 75
+24-1|[ @alt Ene Eene ] eerzame weduwe en een zeldzame ezel 91
+25-1|Hoe Dik kwaad deed , en Bruin er een pak slaag voor kreeg 105
+26-1|Flipsen wordt nog [ @alt bozer boozer ] 117
+27-1|Boontje komt om zijn loontje 129
+28-1|Hoe Dik op vrije voeten geraakte en een goed besluit nam 147
+29-1|Paarden en ezels 161
+30-1|Hoe Dik de heks voorthielp 175
+31-1|Een ongeluk komt zelden alleen 191
+32-1|Het slot van de geschiedenis 205
+33-1|(
+34-1|4 )
+35-1|( Inhoud ) " Wel , wel , wat een driedubbeldikke jongen is dat ! "
+36-1|(
+37-1|1 )
+38-1|( Inhoud )
+39-1|Eerste Hoofdstuk .
+40-1|Dirk wordt geboren en krijgt een naam .
+41-1|Moeder was ziek ; al sedert vier dagen had zij hevige koortsen , die haar dwongen het bed te houden .
+41-2|Doch hoe ziek zij ook was , toch klopte haar hart van blijdschap , want [ @alt ~dezen~deze dezen ] morgen was haar liefste [ @alt wens wensch ] vervuld ; de goede God had haar een zoon geschonken .
+42-1|Haar man wist nog niet , welk groot geluk hem te beurt was gevallen , want hij werkte op [ @alt ~groten~grote grooten ] afstand van [ @alt ~zijn~zijne zijne ] woning , [ @alt zodat zoodat ] het gewoonlijk reeds laat in [ @alt ~de~den den ] avond was , als hij thuis kwam .
+42-2|Nu verwachtte Moeder hem evenwel vroeger , want zij had (
+43-1|2 ) hem een bode gezonden , om hem het [ @alt grote groote ] nieuws mede te [ @alt delen deelen ] .
+44-1|Daar ging de deur open .
+44-2|Zou hij het wezen ?
+44-3|Neen , 't was [ @alt ene eene ] buurvrouw , die eens even naar [ @alt ~de~den den ] kleine kwam zien .
+44-4|De baker nam hem uit de wieg en hield hem de buurvrouw voor .
+44-5|Doch nauwelijks zag deze hem , of zij sloeg van verbazing [ @alt ~haar~hare hare ] handen in elkander , en riep uit :
+45-1|" Wel , wel , wat een driedubbeldikke jongen is dat !
+45-2|[ @alt Zo Zoo ] 'n dikzak heb ik nog nooit gezien !
+45-3|'t Is [ @alt zo zoo ] waar een natuurwonder !
+45-4|Welke bolle wangen , en zie me die [ @alt benen beenen ] eens aan !
+45-5|Als die jongen [ @alt zo zoo ] moet blijven doorgroeien , kan hij later niet meer door de deur .
+45-6|Och , och , wat een jongen !
+45-7|Nu , moedertje , van harte gefeliciteerd , hoor ; ik wed , dat je genoegen aan [ @alt die dien ] [ @alt jonge jongen ] zult beleven .
+45-8|Hij kan wel voor twee tellen , en wat ziet hij er lief uit .
+45-9|Ik vind hem een recht lieven jongen , - maar wat zal hij kunnen eten ! "
+46-1|" Of hij , buurvrouw , " viel de baker in , " daar kun je op rekenen !
+46-2|Hij zal [ @alt ~de~den den ] hollebollen Gijs wel nadoen , die [ @alt ene eene ] koe en een kalf en een dood paard half opat .
+46-3|Och , m'n lieve mensen , wil je wel [ @alt geloven gelooven ] , dat ik van hem geschrokken ben ?
+46-4|Die jongen heeft wangen als oliebollen ! "
+47-1|" Ik zou hem nu maar in de wieg leggen , baker , " (
+48-1|3 ) zei Moeder .
+48-2|" Anders mocht hij eens kou vatten . "
+49-1|Hij zelf [ @alt zei zeide ] niets ; praten kon hij nog niet en schreeuwen scheen hij niet te willen .
+49-2|Hij blikte voor zijn leeftijd buitengewoon verstandig in het rond , alsof hij zich aan de vreemde omgeving wilde gewennen , keek toen gedurende [ @alt ~lange~langen langen ] tijd [ @alt ~zijn~zijne zijne ] moeder aan , die hem , te [ @alt oordelen oordeelen ] naar zijn tevreden gelaat , zeer goed scheen ( 4)te bevallen , en richtte zijn blik daarna op de baker .
+49-3|Deze viel blijkbaar minder in zijn smaak , want hij trok een heel vies gezicht , draaide zijn hoofd met duidelijke [ @alt tekenen teekenen ] van afkeer om en liet zijn oog op de wieg vallen , waarvan het gezicht hem , naar het scheen , veel aangenamer aandeed .
+49-4|De tevreden uitdrukking van straks gleed weer over zijn gelaat , en zijn mond plooide zich tot een welbehaaglijk glimlachje .
+50-1|De baker trok hem zijn nachtgoed aan , waarvan wel de helft te klein bleek te zijn , en legde hem in de wieg , waarin hij zich zeer op zijn gemak gevoelde .
+50-2|Met een vergenoegd gezicht sliep hij in .
+51-1|Een poosje later kwam zijn Vader thuis .
+51-2|Deze was timmermansknecht bij baas Meyer .
+51-3|Dadelijk na het ontvangen van de heuglijke tijding had hij zich op weg begeven .
+51-4|Vol blijdschap over de geboorte van zijn zoontje stapte hij de kamer binnen , gaf [ @alt ~zijn~zijne zijne ] vrouw een kus en spoedde zich toen naar de wieg , waarvan de baker het kleed al had opgeslagen .
+51-5|Hoe groot was ook [ @alt ~zijn~zijne zijne ] verbazing bij 't aanschouwen van zijn welgedanen zoon !
+51-6|Toch uitte hij die niet in een stortvloed van woorden en uitroepen .
+51-7|Hij spalkte [ @alt ~zijn~zijne zijne ] [ @alt ogen oogen ] wagenwijd open , streelde met [ @alt ~zijn~zijne zijne ] ruwe hand de dikke wangen van zijn spruitje , keek de baker [ @alt enige eenige ] seconden wezenloos aan , en ... . ging zijn boterham eten . (
+52-1|5 )
+53-1|" Nu , man , vind je het geen bijzonder lief kind ? " vroeg [ @alt ~zijn~zijne zijne ] vrouw .
+53-2|" En wat is hij dik , niet waar ? "
+54-1|Vader had juist , onverstandig genoeg , een [ @alt grote grooten ] hap brood genomen , nog vóór hij [ @alt ~de~den den ] vorigen , even [ @alt ~groten~grote grooten ] hap had doorgeslikt .
+54-2|Zijn mond was daardoor [ @alt zó zóó ] vol , dat hij met [ @alt de den ] [ @alt beste besten ] wil van de wereld geen woord kon uitbrengen .
+54-3|Het duurde dus [ @alt ~enigen~enige eenigen ] tijd , eer hij in staat was te antwoorden :
+55-1|" Dik ?
+55-2|Of hij dik is , - dat is [ @alt ~hij~je -ie ] . "
+56-1|Nauwelijks waren die gewichtige woorden zijn mond ontgleden , of met een nog [ @alt ~groteren~groteren grooteren ] hap maakte hij zich opnieuw het spreken onmogelijk .
+57-1|" Maar man , " vervolgde [ @alt ~zijn~zijne zijne ] vrouw , " hoe zullen we hem nu noemen ?
+57-2|Hij moet zeker naar je vader vernoemd worden ?
+57-3|Heette die niet Arie ? "
+58-1|" Hij zal Dirk [ @alt heten heeten ] , dat zal [ @alt ~hij~je -ie ] , " klonk het uit [ @alt de den ] [ @alt volle vollen ] mond van [ @alt ~de~den den ] heer des huizes .
+58-2|" Mijn broer , die naar Amerika is gegaan , heet ook [ @alt zo zoo ] , dat doet [ @alt ~hij~je -ie ] , en daarom , zie je ... . hap ! "
+59-1|Het laatste stuk brood verdween in 's mans mond en maakte een einde aan [ @alt ~zijn~zijne zijne ] schitterende redevoering .
+59-2|Toen hij weer spreken kon , draaide hij zich om , boog zich nog eenmaal over het wiegje , ging bedaard voor het bed van zijn vrouw staan en [ @alt zei zeide ] : (
+60-1|6 )
+61-1|" Wat zullen we er aan doen , Griet ?
+61-2|'t Is een bijzonder kind , - dat is [ @alt ~hij~je -ie ] . "
+62-1|Daarna stapte hij , bedenkelijk zijn hoofd schuddende , naar [ @alt ~de~den den ] burgemeester , om het bijzondere kind te doen inschrijven onder [ @alt ~de~den den ] naam van Dirk .
+62-2|En daar hij zelf Jan Trom genoemd werd , zou zijn zoon later luisteren naar [ @alt ~de~den den ] naam van Dirk Trom .
+63-1|(
+64-1|7 )
+65-1|( Inhoud )
+66-1|Tweede Hoofdstuk .
+67-1|Dirk en de baker worden kwade vrienden .
+68-1|Dirk Trom was geen gewone jongen , dat toonde hij duidelijk .
+68-2|Schreeuwen , wat andere kinderen blijkbaar voor [ @alt ene eene ] aangename tijdkorting houden en waarin velen van hen het soms buitengewoon ver brengen , vond hij volstrekt niet aardig , ja , hij scheen het zelfs beneden [ @alt ~zijn~zijne zijne ] waardigheid te vinden .
+68-3|Hij deed het dan ook nooit , zelfs niet , toen de baker hem per ongeluk tamelijk diep met [ @alt ene eene ] speld prikte .
+68-4|Hij gaf geen kik , maar keek haar alleen met een [ @alt zo zoo ] [ @alt verwijtende verwijtenden ] blik aan , dat zij niet wist , hoe zij het met hem had .
+68-5|Over het geheel scheen hij met deze goede (
+69-1|8 ) vrouw weinig op te hebben , en dat verdiende ze toch niet aan hem , want zij verzorgde hem [ @alt zo zoo ] goed als in haar vermogen was .
+69-2|Ook [ @alt ~zijn~zijne zijne ] zieke moeder verpleegde zij met [ @alt grote groote ] hartelijkheid .
+69-3|Doch Dirk waardeerde dat niet , integendeel , hij was [ @alt nors norsch ] en stug tegen haar .
+69-4|Hij wilde uit [ @alt ~haar~hare hare ] hand zelfs geen voedsel aannemen , hoe vriendelijk zij hem ook toelachte .
+69-5|Liever was hij in de armen van [ @alt ~zijn~zijne zijne ] moeder .
+69-6|Niet dat hij het dan uitkraaide van [ @alt plezier pleizier ] , o neen , hij was blijkbaar heel kalm van natuur en verre van luidruchtig , maar als hij bij moeder was , lag er een waas van tevredenheid over [ @alt ~zijn~zijne zijne ] dikke wangen en keek hij haar vriendelijk in de liefdevolle [ @alt ogen oogen ] , terwijl hij met [ @alt ~zijn~zijne zijne ] vingertjes op zijn buik trommelde , alsof hij piano speelde .
+70-1|Toen hij tien dagen oud was , kwam het [ @alt tussen tusschen ] hem en de baker tot [ @alt ene eene ] bepaalde vredebreuk .
+70-2|De vrouw van Meyer , [ @alt ~de~den den ] timmerman , die vrouw Trom tijdens [ @alt ~haar~hare hare ] ziekte had bezocht , stuurde een lekker soepje , met de boodschap , dat ze spoedig nog eens zou komen zien , hoe moeder en kind het maakten .
+70-3|De baker zette de soep op een vuurtje , om die warm te houden , plaatste het comfoortje vóór zich op tafel , en nam [ @alt ~de~den den ] [ @alt ~kleine~kleinen kleinen ] Dirk op haar schoot , om hem te [ @alt verkleden verkleeden ] .
+70-4|Dirks moeder , die zeer zwak was , lag in (
+71-1|9 ) een gerusten slaap .
+71-2|Af en toe roerde de baker eens in de soep , opdat deze niet zou aanbranden , en nam dan telkens een paar lepels vol , om te proeven , hoe warm ze was .
+71-3|Ze had er geen erg in , dat die handelwijze [ @alt ~de~den den ] jongeheer volstrekt niet scheen te bevallen , maar spoedig zou zij het tot haar [ @alt ~groten~grote grooten ] schrik bemerken .
+71-4|Toen zij Dirk verkleed had en gereed was , hem in de wieg te leggen , kwam het haar voor , dat de soep aanbrandde .
+71-5|Dadelijk nam zij [ @alt ~de~den den ] schotel in de hand en schoof het comfoortje op zijde .
+71-6|Nu nam zij [ @alt ~de~den den ] lepel in de andere hand , en wilde zich overtuigen , of zij zich ook bedrogen had .
+71-7|Juist bracht zij [ @alt ~de~den den ] lepel in [ @alt ~de~den den ] mond en bemerkte ze , dat zij in de haast ook een balletje gehakt had opgeschept , toen Dirk plotseling de beide [ @alt benen beenen ] met zulk [ @alt ene eene ] kracht omhoog wierp , dat hij haar [ @alt ~de~den den ] schotel uit de hand schopte , [ @alt zodat zoodat ] (
+72-1|10 ) de inhoud haar [ @alt schone schoone ] jurk in een ommezien in [ @alt ene eene ] soepjurk veranderde .
+72-2|De goede vrouw schrikte daar [ @alt zo zoo ] hevig van , dat het lekkere balletje gehakt haar in het verkeerde keelgat schoot , waardoor zij [ @alt ene eene ] hoestbui kreeg , die haar het angstzweet deed uitbreken .
+72-3|Dirk Trom keek haar zegevierend aan .
+72-4|Van dat [ @alt ogenblik oogenblik ] af vreesde de baker hem .
+73-1|Kort daarna begon Moeder langzamerhand sterker te worden , en toen zij [ @alt ~haar~hare hare ] krachten teruggekregen had , vertrok de baker .
+73-2|Bij die gelegenheid liet Dirk voor 't eerst zijn geluid [ @alt horen hooren ] : hij nam afscheid van haar met [ @alt ene eene ] langgerekte a !
+74-1|(
+75-1|11 )
+76-1|( Inhoud )
+77-1|Derde Hoofdstuk .
+78-1|Dirk begint te kruipen en kattekwaad te doen .
+79-1|Een fatsoenlijke jongen zorgt er voor , op éénjarigen leeftijd te kunnen [ @alt lopen loopen ] .
+79-2|Ook in dit opzicht was Dirk geen gewoon kind .
+79-3|Toen hij elf maanden oud was , lag hij nog even bedaard en stil in de wieg , als toen hij elf dagen was .
+79-4|Schreeuwen deed hij nooit , [ @alt zoals zooals ] ik reeds verteld heb .
+79-5|Als iets niet naar zijn zin was , gaf hij alleen door zijn voorhoofd te fronsen duidelijk zijn ongenoegen te kennen .
+79-6|Gaf men hem daarentegen reden tot tevredenheid , dan was dat te merken aan een zacht gesnor , ongeveer gelijk aan het spinnen van [ @alt ene eene ] poes .
+79-7|En was hij (
+80-1|12 ) bijzonder in [ @alt ~zijn~zijne zijne ] nopjes , dan legde hij [ @alt ~zijn~zijne zijne ] handen op zijn buik en begon zich [ @alt zo zoo ] lang heen en weer te schommelen , tot de wieg ten slotte ook in beweging kwam .
+80-2|[ @alt Zo Zoo ] kon hij zich uren lang vermaken , en misschien zou dit de [ @alt enige eenige ] lichaamsbeweging gebleven zijn , die hij nam , indien de kat niet [ @alt tussenbeide tusschenbeide ] gekomen ware .
+80-3|Dit beest was bijzonder groot , en voelde zich [ @alt zozeer zoozeer ] tot [ @alt ~de~den den ] rustigen wiegbewoner aangetrokken , dat zij hem soms uren lang gezelschap hield .
+80-4|Toen Dirk zich weer eens op [ @alt zo zoo ] 'n wonderlijke manier aan het wiegen was , [ @alt zodat zoodat ] zijn dik , rond lichaampje van de [ @alt ene eene ] naar de andere zijde rolde , sprong plotseling de kat op de wieg , juist toen deze op het punt van omvallen stond .
+80-5|Wat nu gebeurde , is licht te begrijpen : het gewicht van de kat was juist voldoende om de wieg te doen kantelen , en Dirk - plofte op [ @alt ~de~den den ] grond , rolde als een knikker een eind voort en bleef eindelijk onder de tafel liggen , omdat hij door [ @alt ene eene ] stoof in [ @alt ~zijn~zijne zijne ] vaart werd gestuit .
+80-6|Gedurende de eerste [ @alt ogenblikken oogenblikken ] was hij zeer verbaasd over dit voorval , doch toen hij de kat in het oog kreeg , die te vergeefs alle pogingen in het werk stelde , om onder het beddegoed vandaan te kruipen , dat haar bedolven had , begon hij er het vermakelijke van in te zien , en lachte hij er hartelijk om .
+80-7|[ @alt ~Zijn~Zijne Zijne ] moeder was (
+81-1|13 ) in [ @alt ~de~den den ] tuin en had er dus niets van gemerkt .
+81-2|Toen hij genoeg gelachen had , begreep hij , dat de arme kat toch verlost moest worden , want hij droeg het beest een zeer goed hart toe .
+81-3|Hij keerde zich om , [ @alt zodat zoodat ] hij op zijn buik kwam te liggen , begon met armen en [ @alt benen beenen ] tegelijk te werken , en jawel , daar kroop hij vooruit .
+81-4|Die beweging vond hij alleraardigst , [ @alt zó zóó ] aardig , dat hij de kat stilletjes liet tobben , en doodbedaard door de kamer bleef rondkruipen .
+81-5|Toen [ @alt ~zijn~zijne zijne ] moeder [ @alt enige eenige ] minuten later binnen kwam , stond ze wat verbaasd te kijken .
+81-6|Ze verloste de kat , die bijna buiten adem was van inspanning , zette de wieg overeind , en legde met het beddegoed ook [ @alt ~de~den den ] [ @alt ~kleine~kleinen kleinen ] kamergymnast er weer in .
+81-7|Vader moest het bij [ @alt ~zijn~zijne zijne ] thuiskomst dadelijk van haar [ @alt horen hooren ] ; zij vertelde hem het voorval in kleuren en geuren .
+81-8|Trom hoorde haar hoogst ernstig aan , en toen het verhaal ten einde was , keek hij [ @alt ~enigen~enige eenigen ] tijd peinzend voor zich , haalde zijn zakdoek voor [ @alt ~de~den den ] dag , stak hem dadelijk weer in [ @alt ~de~den den ] zak , en [ @alt zei zeide ] :
+82-1|" 't Is een bijzonder kind , Griet , - dat is [ @alt ~hij~je -ie ] . "
+83-1|Van [ @alt ~die~dien dien ] dag af kon moeder [ @alt ~de~den den ] [ @alt ~kleine~kleinen kleinen ] Dirk niet meer in de wieg houden .
+83-2|[ @alt Zo Zoo ] gauw het liggen hem verveelde , liet hij zich bedaard op [ @alt ~de~den den ] grond zakken en kroop hij vergenoegd rond .
+83-3|Dan wist hij zich met allerlei kleinigheden uitstekend te vermaken . (
+84-1|14 ) Hij schoof nu eens de stoof zijner moeder tamelijk onzacht over [ @alt ~de~den den ] vloer , [ @alt zodat zoodat ] het er veel van had of er [ @alt as asch ] in de kamer gezaaid was , dan weer dronk hij de melk uit het kattenschoteltje op , of wel , hij legde zich heel bedaard in de broodkast [ @alt neer neder ] , om zijn middagdutje te doen .
+84-2|Toen hij dat voor de eerste maal deed , zocht [ @alt ~zijn~zijne zijne ] moeder tevergeefs de [ @alt gehele geheele ] kamer rond , liep in haar angst zelfs [ @alt ~de~den den ] tuin in , om te zien , of hij daar ook was , en zag hem eindelijk doodkalm uit de kast te voorschijn kruipen .
+84-3|Als hij later weer eens zoek was , kon ze er staat op maken , dat hij onder de laagste kastplank lag .
+85-1|Eens had Moeder [ @alt enige eenige ] buurvrouwen op de thee [ @alt genodigd genoodigd ] .
+85-2|Dirk kreeg [ @alt ~zijn~zijne zijne ] witte jurk aan , die alleen des Zondags [ @alt ~zijn~zijne zijne ] schoonheid mocht [ @alt verhogen verhoogen ] ; [ @alt ~zijn~zijne zijne ] dikke [ @alt benen beenen ] werden in hagelwitte kousjes en [ @alt ~zijn~zijne zijne ] voeten in glimmende schoentjes gestoken .
+85-3|Toen hij [ @alt zo zoo ] op zijn mooist was uitgedost , legde Moeder hem in de wieg en spoedde zich naar de andere kamer , om zich ook wat op te knappen .
+85-4|Nog was ze niet geheel gereed , toen zij reeds de buurvrouwen hoorde binnenkomen , [ @alt zodat zoodat ] ze in allerijl de laatste hand aan haar toilet legde en zich naar binnen begaf , waar zij met luid gelach ontvangen werd .
+85-5|Verbeeld u haar schrik !
+85-6|In plaats van ordentelijk in de wieg te blijven liggen , (
+86-1|15 ) was de ondeugd over [ @alt ~de~den den ] vloer naar [ @alt ~de~den den ] steenkolenbak gekropen .
+86-2|Zijn eerste werk was geweest , er [ @alt ~zijn~zijne zijne ] beide handen in te begraven , en toen daar het nieuwtje wat af was , had hij zich eens goed met het zwarte gruis ingesmeerd en er zijn mond mee volgepropt .
+86-3|Hij zag [ @alt zo zoo ] zwart als roet , en hij niet alleen , maar óók [ @alt ~zijn~zijne zijne ] jurk , [ @alt ~zijn~zijne zijne ] kousen , ja , zelfs de vloer .
+86-4|De buurvrouwtjes lachten er smakelijk om , maar Moeder vond het niet aardig .
+86-5|Doch toen Dirk haar met de meeste gulheid ook een paar handjes steenkolen aanbood , en daarbij zijn zwart gezicht tot een vriendelijk lachje plooide , proestte ook zij het uit en noemde zij hem toch haar lieveling .
+87-1|De kat en [ @alt ~zijn~zijne zijne ] moeder had hij het meest van alles lief .
+87-2|Aan wie van die twee hij echter de voorkeur gaf , wist hij , geloof ik , [ @alt ~lange~langen langen ] tijd zelf niet , totdat het pleit ten laatste in het voordeel der kat beslist werd .
+87-3|Het beest kreeg namelijk drie jongen , over welke gebeurtenis ons [ @alt jongmens jongmensch ] [ @alt zo zoo ] verrukt was , dat hij poes [ @alt de den ] [ @alt gehele geheelen ] dag gezelschap hield .
+87-4|Moeder was volstrekt niet van plan , al die beesten [ @alt ~de~den den ] kost te geven en wilde er twee van verdrinken , doch ze vond dat [ @alt zo zoo ] 'n akelig werk , dat ze alleen bij de gedachte daaraan reeds kippevel kreeg .
+87-5|Ze besloot dus , die operatie tot [ @alt de den ] [ @alt volgende volgenden ] dag uit te stellen .
+87-6|Toen (
+88-1|16 ) was ze echter niet meer [ @alt nodig noodig ] .
+88-2|Ze ging 's morgens een paar boodschappen doen en vond , terugkomende , de kat in een zeer zenuwachtigen toestand .
+88-3|Dirk zat doodbedaard en met een hoogst ernstig gezicht bij [ @alt ~de~den den ] doofpot , terwijl poes driftig heen en weer liep en voortdurend een klagend gemauw deed [ @alt horen hooren ] .
+89-1|" Toe poes , ga naar je mandje , anders worden je kindertjes koud , " [ @alt zei zeide ] vrouw Trom .
+90-1|Maar jawel , de kat bleef onrustig [ @alt rondlopen rondloopen ] , snuffelde in alle hoeken en gaten , en sprong ten slotte tegen [ @alt ~de~den den ] doofpot op .
+90-2|Nu ging der moeder een licht op .
+90-3|Haastig liep ze naar [ @alt ~de~den den ] pot , tilde het deksel er af , en , och arme , daar vond ze de beestjes , boven op de doovekoolen , alle drie dood .
+90-4|Dirk had ze er ingestopt , zeker in de [ @alt mening meening ] , dat ze het daar beter naar hun zin zouden hebben , en hij keek heel treurig , toen hij bemerkte , dat ze zich niet meer verroerden .
+91-1|Op een [ @alt andere anderen ] keer was vader bezig zich te [ @alt kleden kleeden ] voor [ @alt ene eene ] treurige plechtigheid .
+91-2|Er was in de buurt iemand gestorven , en Trom was op de begrafenis [ @alt genodigd genoodigd ] .
+91-3|Hij trok [ @alt ~zijn~zijne zijne ] beste [ @alt kleren kleeren ] aan en legde zijn [ @alt ~hoge~hogen hoogen ] hoed op een stoel , terwijl [ @alt ~zijn~zijne zijne ] vrouw hem [ @alt ene eene ] zijden das om [ @alt ~de~den den ] hals knoopte .
+91-4|De [ @alt hoge hooge ] hoed trok weldra Dirks aandacht .
+91-5|Hij kroop er heen , richtte zich aan [ @alt ~de~den den ] stoel overeind , bemachtigde [ @alt ~zijn~zijne zijne ] (
+92-1|17 ) prooi , en rolde er heel genoeglijk mede over [ @alt ~de~den den ] vloer , om er ten slotte doodbedaard op te gaan zitten .
+93-1|" Vrouw , waar is m'n hoed , - waar is [ @alt ~hij~je -ie ] ? " vroeg Trom .
+94-1|" Je hebt hem zelf ergens neergelegd , Jan . "
+95-1|" Ja , op [ @alt ~dezen~deze dezen ] stoel , en nu zie ik hem niet meer , Griet , - dat doe ik . "
+96-1|" O , o , kijk [ @alt zo zoo ] 'n ondeugd nu toch eens !
+96-2|Kijk eens Jan , hij zit er [ @alt zo zoo ] waar boven op ! "
+97-1|[ @alt Ogenblikkelijk Oogenblikkelijk ] bevrijdde Moeder [ @alt ~de~den den ] hoed uit zijn gedrukten toestand , maar helaas , hij was in elkaar gevouwen als [ @alt ene eene ] harmonica .
+97-2|Dirks Moeder was radeloos . (
+98-1|18 ) Vader stak er echter [ @alt ~zijn~zijne zijne ] vuist in , duwde hem weer in de hoogte , en zette hem op , terwijl hij [ @alt zei zeide ] :
+99-1|" Wat zal ik er aan doen ?
+99-2|Hij is een bijzonder kind , - dat is [ @alt ~hij~je -ie ] . "
+100-1|Toen ging hij naar de begrafenis .
+101-1|(
+102-1|19 )
+103-1|( Inhoud )
+104-1|Vierde Hoofdstuk .
+105-1|Dirk wordt in een [ @alt dubbele dubbelen ] zin dik en gaat op [ @alt ~de~den den ] ingeslagen weg voort .
+106-1|Dirk was ongeveer anderhalf jaar oud , toen hij begon te [ @alt lopen loopen ] en te praten .
+106-2|Het laatste deed hij zeer weinig , hoewel geen enkele letter , behalve de r , hem veel moeite opleverde .
+106-3|Sommigen zijner kennissen waren van [ @alt mening meening ] , dat hij geen gedachten had en daarom gewoonlijk zweeg , doch die hem goed kenden , wisten wel beter .
+106-4|Hij had eenvoudig een hekel aan praten ; een ander geheim schuilde er niet achter .
+106-5|Sprak hij dus weinig , [ @alt lopen loopen ] deed hij [ @alt zoveel zooveel ] te meer , en al spoedig , nadat hij die kunst machtig (
+107-1|20 ) geworden was , begaf hij zich in alle weer en wind naar buiten , zeer tot ongerief van [ @alt ~zijn~zijne zijne ] moeder , die aldoor vreesde , dat hij in het water zou [ @alt lopen loopen ] .
+107-2|Spoedig trok hij door twee eigenaardigheden de aandacht zijner medeburgers .
+107-3|Ten eerste door [ @alt ~zijn~zijne zijne ] buitengewone dikte , en ten tweede door het zeldzaam stel [ @alt benen beenen ] , dat hij er op nahield .
+107-4|Zijn lichaampje was voor [ @alt ~zijn~zijne zijne ] onderdanen wat al te zwaar geweest , [ @alt zodat zoodat ] zij geheel uit hun fatsoen geraakt waren en langzamerhand [ @alt ~de~den den ] vorm van [ @alt ene eene ] o hadden aangenomen .
+107-5|Dirk was dus in het gelukkige bezit geraakt , van wat men wel eens een paar varkensvangertjes noemt .
+107-6|Nu , een flink biggetje kon dan ook wel [ @alt tussen tusschen ] [ @alt ~zijn~zijne zijne ] beentjes door , zonder dat hij [ @alt ~zijn~zijne zijne ] voeten van elkaar behoefde te zetten .
+107-7|De meeste [ @alt mensen menschen ] maakten wel eens een praatje met hem , of liever , zij trachtten dat te doen , want omdat hij nooit antwoord gaf , bleef het gewoonlijk bij [ @alt ene eene ] alleenspraak .
+107-8|Slechts als men hem vroeg , hoe hij heette , gaf hij antwoord , doch de r sloeg hij dan maar over , omdat hij die wat moeilijk uit te spreken vond .
+107-9|Zijn antwoord luidde dus altijd " Dik " , waarvan het gevolg was , dat hij nooit meer anders genoemd werd .
+107-10|Die naam werd [ @alt zo zoo ] algemeen , dat hij eindelijk zelf geloofde [ @alt zo zoo ] te [ @alt heten heeten ] , en ten slotte noemden zelfs [ @alt ~zijn~zijne zijne ] ouders hem [ @alt zo zoo ] .
+107-11|Hij was dus nu dik geworden in [ @alt ene eene ] dubbele [ @alt betekenis beteekenis ] . (
+108-1|21 )
+109-1|Het was de achtste Februari , Diks tweede verjaardag .
+109-2|Het had [ @alt de den ] [ @alt gehele geheelen ] morgen verbazend hard geregend , [ @alt zo zoo ] hard , dat de goten al het water niet bergen konden en overliepen .
+109-3|Dik mocht van [ @alt ~zijn~zijne zijne ] moeder niet naar buiten , wat hij erg vervelend vond , vooral nu er [ @alt zoveel zooveel ] water viel .
+109-4|Toch wist hij nog eventjes te ontsnappen , van welk [ @alt ogenblik oogenblik ] hij gebruik maakte om met een zeer tevreden en vergenoegd gezicht juist op de plaats te gaan staan , waar de [ @alt overstroming overstrooming ] het hevigst was .
+109-5|Moeder haalde hem echter gauw weer binnen , waar hij verdrietig voor het raam ging zitten .
+109-6|'s Middags hield de regen gelukkig op , en nu was Dik ook niet meer in huis te houden .
+109-7|De tuin en het erf waren geheel in een modderpoel herschapen , doch dat was juist naar zijn zin .
+109-8|Hij plompte met [ @alt ~zijn~zijne zijne ] klompjes door de plassen heen , [ @alt zodat zoodat ] de modder hem om de [ @alt oren ooren ] spatte , maakte met een stokje kanalen en meertjes en liet die vol water [ @alt lopen loopen ] , rolde driemaal midden in een plas , en vermaakte zich onder al die bedrijven kostelijk .
+109-9|Daar zag hij iemand het erf opstappen , en die iemand herkende hij dadelijk als de baker .
+109-10|Deze goede vrouw had de gewoonte , al de verjaardagen te onthouden van de kindertjes , die zij gebakerd had , en aan [ @alt ~hun~hunne hunne ] ouders op [ @alt ~die~dien dien ] dag een bezoek te brengen .
+109-11|Zij wist wel , dat die zich daardoor (
+110-1|22 ) gestreeld gevoelden en uit dankbaarheid gewoonlijk op een likeurtje en een koekje trakteerden .
+111-1|Zij kwam regelrecht op [ @alt ~de~den den ] jarige af , en [ @alt zei zeide ] :
+112-1|" Wel , wel , m'n kleine Dikje-lief , mag jij [ @alt zo zoo ] door de modder [ @alt lopen loopen ] ?
+112-2|Kind , kind , wat zie je er [ @alt vreselijk vreeselijk ] uit .
+112-3|Kom , ga mee naar je moe . "
+113-1|" Neen . "
+114-1|" Niet ?
+114-2|Waarom niet ?
+114-3|Toe , ga maar met baker meê .
+114-4|Ken je me nog wel ? "
+115-1|" Jawel ! "
+116-1|" Nu , wie ben ik dan ?
+116-2|Toe Dik , zeg eens , wie ik ben ? "
+117-1|Dik bewaarde een plechtig stilzwijgen en keek haar [ @alt zo zoo ] stug mogelijk aan .
+118-1|De baker meende , dat hij een beetje verlegen was ; ze boog zich daarom vriendelijk lachend naar hem over , tikte hem aanmoedigend op de bolle wangen , die rood zagen van de kou , en hernam :
+119-1|" Kom Dikje , kijk me eens goed aan .
+119-2|Zeg nu eens zoet , wie ik ben ? "
+120-1|" [ @alt Lelijk Leelijk ] ! " zei Dik kortaf , terwijl hij zich omdraaide .
+121-1|" O foei , wat een akelig kind !
+121-2|'t Is altijd al [ @alt zo zoo ] 'n nare jongen geweest ! " zei de baker , aan [ @alt ~de~den den ] soepschotel denkende .
+121-3|Ze keek Dik verstoord aan en ging naar de achterdeur .
+121-4|Daar trok ze [ @alt ~haar~hare hare ] klompen uit , (
+122-1|23 ) want om de morsigheid van [ @alt ~de~den den ] weg had ze niet op [ @alt ~haar~hare hare ] geliefkoosde pantoffeltjes kunnen komen , en stapte naar binnen .
+122-2|Nog half boos féliciteerde ze Diks moeder met [ @alt ~de~den den ] verjaardag van haar zoontje , maar weldra vergat zij [ @alt ~haar~hare hare ] boosheid geheel onder het genot van een glaasje anisette .
+123-1|Dik bleef buiten rondplassen .
+123-2|Hij zag er ontoonbaar uit , maar vermaakte zich onuitsprekelijk .
+123-3|Hij had een stok gevonden en zat er nu mede in het water te slaan , dat de [ @alt druppels droppels ] in het rond vlogen .
+123-4|De modder zat hem tot in de haren .
+123-5|Een poosje later liep hij het keukentje binnen en kwam weldra met een tinnen lepel terug .
+123-6|Nu kende zijn genot [ @alt gene geene ] grenzen meer .
+123-7|Hij schepte het water van [ @alt de den ] [ @alt ene eenen ] plas in [ @alt ~de~den den ] anderen , stak af en toe een lepel vol in [ @alt ~de~den den ] mond , en zag ten slotte de klompen van de baker staan .
+123-8|Vol moed toog hij aan het werk .
+123-9|Hij schepte een lepel vol water , droeg dat voorzichtig naar de deur en goot het in een van de klompen .
+123-10|Hij herhaalde dit [ @alt zo zoo ] dikwijls , tot de klompen geheel vol waren , wat hem heel veel inspanning en heel wat tijd kostte .
+123-11|Hij was er juist mede klaar , toen de baker het tijd vond , om een einde aan [ @alt ~haar~hare hare ] visite te maken .
+123-12|Moeder deed haar uitgeleide tot aan de achterdeur , waar Dik nog met [ @alt grote groote ] voldoening naar de klompen stond te kijken .
+123-13|De baker (
+124-1|24 ) nam afscheid , bedankte voor de vriendelijke ontvangst , en [ @alt zei zeide ] , terwijl zij [ @alt ~haar~hare hare ] voeten in de klompen en dus ook in het water stak :
+125-1|" Kom Dikje , wees nu zoet en geef baker eens gauw een zoe ... .
+125-2|O jakkes , wat is dat ?
+125-3|[ @alt ~Mijn~Mijne Mijne ] voeten worden nat !
+125-4|Zie eens , [ @alt ~mijn~mijne mijne ] klompen zijn vol water !
+125-5|Dat heeft me die akelige jongen gedaan , die rakker , die schelm ! "
+126-1|Sneller dan ooit trok ze de klompen weer uit , maar - het was te laat .
+126-2|[ @alt ~Haar~Hare Hare ] voeten waren sliknat , en Dikje-lief stond haar doodbedaard , smerig en wel , met [ @alt grote groote ] [ @alt ogen oogen ] en bolle wangen aan te staren , alsof hij haar een groot [ @alt plezier pleizier ] had aangedaan .
+126-3|Zij vertrok zonder groeten , met een gezicht , dat rood was van gramschap , en met kousen , waar bij elken voetstap het water uitsijpelde .
+127-1|Een paar dagen later had het gesneeuwd , en geen beetje ook .
+127-2|De sneeuw lag wel een voet dik , en was hier en daar tot [ @alt hele heele ] bergen opgewaaid .
+127-3|Dik vond het prachtig .
+127-4|[ @alt Zodra Zoodra ] hij gekleed was en ontbeten had , ging hij naar buiten , wreef zich danig in , en sprong pardoes in een van de grootste sneeuwhoopen , om daar eens naar hartelust in rond te buitelen .
+127-5|Toen stond hij op , nam de beide handjes vol sneeuw , ging naar binnen en legde [ @alt de den ] [ @alt gehele geheelen ] voorraad (
+128-1|25 ) op de boterham , die zijn vader bezig was op te eten .
+129-1|" Daar ! " [ @alt zei zeide ] hij met verheugd gelaat .
+130-1|" Wel , heb ik van mijn leven ! " riep zijn vader .
+130-2|" 't Is toch een bijzonder kind , - dat is [ @alt ~hij~je -ie ] ! "
+130-3|Hij schudde de sneeuw van zijn brood en ging voort met eten .
+131-1|Dik spoedde zich weer naar buiten .
+131-2|Ha , hoe genoot hij , toen hij een twintigtal jongens elkander met sneeuwballen zag gooien , dat de haren er bijna afvlogen ; toen hij zag , hoe ze elkander in de sneeuw wierpen en inwreven , en hoe ze hem met [ @alt ~hun~hunne hunne ] sleetjes in dolle vaart voorbijgleden .
+131-3|Fluks maakte hij zich van de kat meester en volgde het voorbeeld der knapen , totdat poes in allerijl de vlucht nam , wat hem zeer speet , vooral omdat hij er de reden niet van begrijpen kon .
+131-4|Daar hij echter zag , dat het beest niet terug kwam , besloot hij [ @alt ene eene ] slede te maken .
+131-5|Hij vroeg Moeder om een touw , bond het [ @alt ene eene ] einde aan een plankje , nam het andere einde in de hand , en liep er [ @alt zo zoo ] snel als [ @alt ~zijn~zijne zijne ] kromme beentjes en zijn dikke buik hem dat veroorloofden , het huis mede om .
+131-6|Die bezigheid beviel hem vrij goed , maar toen hij na een poosje in de keuken kwam en daar een pasgeverfden kleerbak zag staan , was de aardigheid van het plankje af .
+131-7|[ @alt ~Die~Dien Dien ] bak vond hij veel mooier en geschikter .
+131-8|Hij sleepte hem naar buiten , bond zijn touwtje aan een der [ @alt oren ooren ] , en - daar (
+132-1|26 ) viel plotseling [ @alt ~zijn~zijne zijne ] aandacht op een buitengewoon [ @alt ~groten~grote grooten ] hond , die doodbedaard vóór het huis op [ @alt ~de~den den ] weg lag , met zijn neus in de sneeuw .
+132-2|Dik trok zijn bak er heen , stak het touw door een lusje aan het losse einde , en deed het om [ @alt ~de~den den ] staart van het [ @alt grote groote ] beest , dat nog [ @alt altijd altoos ] rustig bleef liggen .
+132-3|Toen ging hij zeer voldaan op [ @alt ~de~den den ] bak zitten , en riep :
+133-1|" Huup paard ! "
+134-1|De hond hief bedaard zijn kop op en keek om , ten einde te zien , wie [ @alt zo zoo ] brutaal was , [ @alt ~zijn~zijne zijne ] rust te durven storen , doch ziende , dat hij slechts met een klein kereltje te doen had , vond hij het geval niet de moeite waard , om er zich voor op te richten .
+134-2|Hij legde daarom zijn kop weer stilletjes in de sneeuw en kneep opnieuw [ @alt ~zijn~zijne zijne ] [ @alt ogen oogen ] dicht .
+134-3|Dat was echter volstrekt de bedoeling van onzen Dik niet .
+134-4|Deze wilde hem overeind en aan het [ @alt lopen loopen ] hebben ; daarom schopte hij met [ @alt ~zijn~zijne zijne ] kromme beentjes [ @alt zo zoo ] hard hij kon tegen [ @alt ~de~den den ] bak , en riep nog eens :
+135-1|" Huup paard ! "
+136-1|Doch de hond verroerde zich in het geheel niet .
+136-2|Hij bleef kalm doorslapen .
+136-3|Nu nam Dik , die een eens gevormd plan niet gauw opgaf , het touw en begon er aan te trekken , nogmaals roepende :
+137-1|" Huup paard ! " (
+138-1|27 )
+139-1|Dat trekken beviel [ @alt ~de~den den ] hond bitter slecht , want daardoor werd de strik , die om zijn staart zat , aangehaald en veroorzaakte hem tamelijk veel pijn .
+139-2|Het dier stond op en begon te brommen .
+139-3|Dik liet zich niet afschrikken .
+139-4|Hij rukte opnieuw aan het touw , en wel [ @alt zo zoo ] hard , dat de hond opsprong en het één , twee , drie op een [ @alt lopen loopen ] zette , met [ @alt ~de~den den ] kleerbak achter zich .
+139-5|Dik sloeg van [ @alt ~de~den den ] schok achterover , doch richtte zich dadelijk weer overeind en hield zich met beide handen aan de kanten van [ @alt ~de~den den ] bak vast .
+140-1|" Huup paard ! " riep hij , terwijl hij vergenoegd naar [ @alt ~de~den den ] staart van [ @alt ~de~den den ] hond keek , waar het touwtje al vaster en vaster omheen klemde .
+140-2|De arme hond , die (
+141-1|28 ) volstrekt niet begreep , wat dat vreemde toestel achter hem [ @alt betekenen beteekenen ] moest en maar al te goed bemerkte , dat het hem pijn deed , vloog als een razende langs [ @alt ~de~den den ] weg , tot groot genoegen van [ @alt ~de~den den ] [ @alt ~kleine~kleinen kleinen ] Dik .
+142-1|" Huup paard !
+142-2|Huup paard ! "
+143-1|Voort vloog het !
+143-2|De [ @alt mensen menschen ] , die het zonderlinge voertuig en [ @alt de den ] [ @alt kleine kleinen ] koetsier met verbazing aangaapten , moesten in allerijl op zijde springen , wilden zij [ @alt ~de~den den ] bak niet tegen de [ @alt benen beenen ] krijgen .
+143-3|Plotseling sprong er een man midden op [ @alt ~de~den den ] weg , om [ @alt ~de~den den ] hond tot staan te brengen .
+143-4|Het was Diks vader , die vol angst over [ @alt ~de~den den ] afloop van dit avontuur zijn zoontje had zien aankomen .
+143-5|Doch de hond , door [ @alt ~de~den den ] bak en Dik gevolgd , kwam met [ @alt zoveel zooveel ] kracht tegen hem aan , dat hij wel twee meters ver door de sneeuw rolde .
+143-6|Het ging hoe langer hoe harder , want de hond werd steeds angstiger , en trachtte door een [ @alt snelle snellen ] loop dat wonderlijke gevaarte achter zich te ontvluchten .
+143-7|Dik vond het heerlijk , [ @alt zo zoo ] heerlijk dat hij het uitgierde van de pret .
+143-8|Toch liep hij gevaar , dat het slecht met hem zou [ @alt aflopen afloopen ] , want de bak slingerde geducht heen en weer , en kon elk [ @alt ogenblik oogenblik ] tegen een boom of een paal terecht komen .
+143-9|Maar Dik zag geen gevaar .
+144-1|" Huup paard !
+144-2|Vooruit ! " schreeuwde hij .
+145-1|En voort ging het , in dollen galop .
+145-2|Daar stoof het (
+146-1|29 ) de brug over , nu [ @alt ~de~den den ] hoek om , en ... krak , daar brak het touwtje !
+146-2|De hond vloog vooruit , zonder dat hij zelf wist waarheen , en Dik bonsde met zijn hoofd tegen een boom , dat hij er een blauwe plek van kreeg , [ @alt zo zoo ] groot als een stuiter .
+147-1|Zijn vader was hem nagesneld en bereikte hem spoedig .
+147-2|Dik stond teleurgesteld bij [ @alt ~de~den den ] bak , en keek met treurigen blik overal naar [ @alt ~de~den den ] hond rond .
+147-3|Toen zijn vader bij hem kwam , zei Dik :
+148-1|" Wat ging dat mooi .
+148-2|Waar is de hond ? "
+149-1|" Heb-je je niet bezeerd , Dik , - heb-je niet ? "
+150-1|Dik gaf geen antwoord .
+150-2|Daarom nam zijn vader hem en [ @alt ~de~den den ] bak op , ging naar huis en zei tegen [ @alt ~zijn~zijne zijne ] vrouw , toen hij binnen kwam :
+151-1|" 't Is toch een bijzonder kind , Griet , - dat is [ @alt ~hij~je -ie ] . "
+152-1|(
+153-1|31 )
+154-1|( Inhoud )
+155-1|Vijfde Hoofdstuk .
+156-1|Dik ondergaat [ @alt ene eene ] gedaanteverwisseling en blijft toch dezelfde .
+157-1|Toen Dik ruim drie jaren oud was , achtte [ @alt ~zijn~zijne zijne ] moeder het [ @alt ogenblik oogenblik ] gekomen , waarop hij de jurk uit- en de broek moest aantrekken .
+157-2|Bij die gedaante-verwisseling liet hij dat eigenaardige gesnor [ @alt horen hooren ] , dat steeds getuigde van [ @alt ~zijn~zijne zijne ] bijzondere tevredenheid .
+157-3|Moeder , die door [ @alt ~haar~hare hare ] liefde voor [ @alt ~de~den den ] [ @alt ~kleine~kleinen kleinen ] dikzak niet [ @alt zo zoo ] verblind was , om te [ @alt menen meenen ] , dat [ @alt ~zijn~zijne zijne ] kromme beentjes geschikt waren om [ @alt ~zijn~zijne zijne ] schoonheid te [ @alt verhogen verhoogen ] , had , om ze wat rechter te doen schijnen , de pijpen heel wijd gemaakt , [ @alt zo zoo ] wijd , (
+158-1|32 ) dat een Volendammer [ @alt visser visscher ] er mede in zijn schik zou zijn geweest .
+158-2|Twee draagbanden , of galgen , [ @alt zoals zooals ] Moeder ze noemde , zorgden er voor , dat hij [ @alt ~zijn~zijne zijne ] broek niet zou verliezen .
+158-3|Een lakensche jas , gesneden uit een afdankertje van Vader , bedekte dat gedeelte van zijn lichaam , dat [ @alt tussen tusschen ] hals en middel gelegen was , terwijl twee korte slipjes , elk van een knoop voorzien , van achteren nog eventjes over [ @alt ~zijn~zijne zijne ] broek neerhingen .
+158-4|Onder dat jasje droeg hij een blauw geruit boezeroentje , en op zijn hoofd [ @alt ene eene ] pet , waarvan de klep gewoonlijk naar zijn rug wees .
+159-1|Dik was met zijn nieuwe pak bijzonder in zijn schik .
+159-2|[ @alt Zodra Zoodra ] hij het aan had , stak hij [ @alt ~zijn~zijne zijne ] vuisten in [ @alt ~zijn~zijne zijne ] broekzakken , duwde ze [ @alt zover zoover ] mogelijk van [ @alt ~zijn~zijne zijne ] [ @alt benen beenen ] af , om er maar erg breed uit te zien , trok [ @alt ~zijn~zijne zijne ] klompen aan en stapte naar buiten .
+159-3|Hij was op dat [ @alt ogenblik oogenblik ] uitermate [ @alt trots trotsch ] .
+159-4|Onophoudelijk keek hij naar beneden , om zichzelf te bewonderen , en daarbij nam hij stappen als een dragonder .
+159-5|Dat had hij niet moeten doen , want daardoor merkte hij niet , voor het te laat was , dat hij tegen een muur liep .
+159-6|Bom !
+159-7|Het kwam geducht aan ; hij kreeg er sterretjes van voor [ @alt ~zijn~zijne zijne ] [ @alt ogen oogen ] en [ @alt ene eene ] blauwe plek , die [ @alt ~zijn~zijne zijne ] schoonheid sterk verminderde , onder [ @alt ~zijn~zijne zijne ] pet .
+159-8|Gelukkig was er niet dikwijls wat van te zien , want hij zette [ @alt ~zijn~zijne zijne ] ( 33)pet nooit af , dan als hij naar bed ging .
+159-9|Hij stond [ @alt enige eenige ] [ @alt ogenblikken oogenblikken ] beteuterd te kijken , zette [ @alt ~zijn~zijne zijne ] pet weer goed , dat wil zeggen , met de klep naar achteren , en wandelde toen [ @alt ~de~den den ] weg op .
+159-10|Daar stond bij een boom een meisje , dat ongeveer van [ @alt dezelfde denzelfden ] leeftijd was als hij .
+159-11|Dik liep naar haar toe en keek haar [ @alt geruime geruimen ] tijd strak aan , wat zij op dezelfde wijze beantwoordde .
+159-12|Toen draaide hij met de handen in de zakken langzaam ( 34)om haar heen , ten einde haar goed aan alle zijden te bekijken .
+159-13|De uitslag scheen bevredigend te zijn , want hij bleef weer vóór haar stilstaan , zweeg nog [ @alt ~enigen~enige eenigen ] tijd , en [ @alt zei zeide ] toen :
+160-1|" Dag . "
+161-1|Het kind gaf geen antwoord , maar stak [ @alt ~de~den den ] vinger in [ @alt ~de~den den ] mond en bleef hem onbeweeglijk aankijken .
+162-1|" 'k Heb [ @alt ene eene ] broek aan ! " vervolgde Dik met trots .
+163-1|" En ik heb suikerballetjes .
+163-2|Die heb jij niet , lekkertjes , " was het antwoord van de jonge dame , terwijl ze haar hoofd langzaam op en neer bewoog .
+164-1|" Laat eens zien ?
+164-2|Zijn ze lekker ? " vroeg Dik , die een liefhebber was van alles , wat goed smaakte .
+165-1|" Neen , ik houd ze zelf .
+165-2|Hoe heet jij ? "
+166-1|" Dik . "
+167-1|" Ik niet , ik ben Anneke . "
+168-1|" En waar zijn de suikerballetjes ? " vroeg Dik , die er [ @alt ~groten~grote grooten ] trek in had .
+169-1|" In mijn zak , maar je krijgt ze niet . "
+170-1|" Laat ze eens zien ?
+170-2|Ze zijn toch niet eens lekker , " meende Dik .
+171-1|Anneke tastte in [ @alt ~de~den den ] zak en liet [ @alt ~de~den den ] schat zien .
+171-2|Diks [ @alt ogen oogen ] blonken van begeerigheid , en terwijl hij de hand uitstak , [ @alt zei zeide ] hij :
+172-1|" Ik wil ze hebben .
+172-2|Toe , dan mag je met me spelen . " ( 35 )
+173-1|Anneke vond dat aanbod nog al aannemelijk .
+173-2|Ze stak een balletje in [ @alt ~de~den den ] mond , beet het in twee stukken , en gaf een ervan aan Dik , die het dadelijk opat .
+174-1|" Van wien heb je ze ? " vroeg hij .
+175-1|" Gekocht , dààr , voor een cent . "
+176-1|Dik volgde met [ @alt ~zijn~zijne zijne ] [ @alt ogen oogen ] de richting van haar vinger .
+176-2|Daarop stak hij de handen weer in [ @alt ~zijn~zijne zijne ] zakken en ging regelrecht op [ @alt ~de~den den ] winkel af .
+176-3|Hij stapte naar binnen , en zei tegen de vrouw , die achter de toonbank kwam :
+177-1|" Voor twee centen suikerballetjes . "
+178-1|De vrouw nam een blikken trommel , deed het deksel eraf en legde een tiental balletjes op de toonbank .
+178-2|Dik nam ze op , deed zijn mond [ @alt zover zoover ] open , alsof die nooit weer dicht moest , stak er [ @alt enige eenige ] balletjes in , en wilde met de rest doodbedaard [ @alt ~de~den den ] winkel verlaten , toen de vrouw [ @alt zei zeide ] :
+179-1|" Ho , ho , ventje , waar zijn de centen ? "
+180-1|" Centen ? " vroeg Dik met een [ @alt volle vollen ] mond en een tevreden uiterlijk .
+181-1|" Ja , waar zijn je centen ? "
+182-1|" Ik heb geen centen , wel balletjes , " zei Dik , die niet recht begreep , wat zij bedoelde .
+183-1|" Geef ze dan maar weer gauw terug , kwâjongen .
+183-2|Dat gaat [ @alt zo zoo ] niet !
+183-3|Als je wat [ @alt kopen koopen ] wilt , moet je centen meebrengen . " ( 36 )
+184-1|" O , " [ @alt zei zeide ] Dik , die haar nog maar half begreep .
+185-1|Hij legde de rest van de balletjes weer op de toonbank en ging met een [ @alt volle vollen ] mond naar buiten , waar Anneke op hem stond te wachten .
+185-2|Uit dankbaarheid nam hij een balletje uit zijn mond en gaf het haar .
+185-3|Van toen af waren zij vriendjes en speelden [ @alt altijd altoos ] met elkander .
+186-1|Een dag of wat later kwam Vader thuis met een paar [ @alt grote groote ] snoeken .
+186-2|Hij hielp aan het leggen van [ @alt ene eene ] brug , en had met andere werklieden een gedeelte van het [ @alt brede breede ] kanaal , dat midden door het dorp liep , droog gemaakt , bij welke gelegenheid de arbeiders vrij wat [ @alt vis visch ] hadden gevangen .
+186-3|[ @alt Zo Zoo ] was hij aan snoek gekomen .
+186-4|Hij legde ze in de keuken neer en ging naar binnen .
+186-5|Dik vond de dieren heel mooi .
+186-6|Hij streek er met [ @alt ~zijn~zijne zijne ] vingers over , trok aan [ @alt ~hun~hunne hunne ] vinnen , en stak ten slotte zijn wijsvinger in een van de wijdgeopende bekken .
+186-7|Maar och , wat beviel hem dat slecht .
+186-8|Pas zat zijn vinger er in , of de bek sloot zich en de tanden ( 37)van het dier drongen hem aan alle kanten in het [ @alt vlees vleesch ] .
+186-9|Hij schrikte er geducht van ; [ @alt ~zijn~zijne zijne ] dikke wangen werden zelfs bleek , en zeer zeker zou hij het op een schreeuwen gezet hebben , indien hij van die bezigheid niet [ @alt zo zoo ] 'n onoverwinnelijken afkeer had gehad .
+186-10|[ @alt Intussen Intusschen ] zat hij geducht in de knel .
+186-11|Hij begon het dier met [ @alt ~zijn~zijne zijne ] vrije hand op [ @alt ~de~den den ] kop te slaan , in de [ @alt mening meening ] , dat het hem dan wel zou loslaten , doch het hielp niets , want he ( 38)beest was al sedert een paar uur dood , en voelde er dus bitter weinig van .
+186-12|Dik was ten einde raad .
+186-13|Bewegen durfde hij zich niet , want elke beweging deed hem pijn , [ @alt zodat zoodat ] hij er stellig nog zou gestaan hebben , indien [ @alt ~zijn~zijne zijne ] ouders het niet bemerkt en hem verlost hadden .
+187-1|" Waar wonen de snoeken ? " vroeg hij , toen de eerste schrik wat voorbij was .
+188-1|" Waar de snoeken wonen , jongen , " zei [ @alt ~zijn~zijne zijne ] moeder , " wel , ze zwemmen in het water . "
+189-1|Dik stapte de deur uit , en ging Anneke halen .
+190-1|" Ga-je meê snoeken vangen ? "
+191-1|" Ja , waar zijn ze ? "
+192-1|" In de sloot , achter het huis . "
+193-1|Welgemoed ging het tweetal op weg .
+193-2|Ze liepen [ @alt ~de~den den ] tuin door en kwamen aan [ @alt ene eene ] sloot , die ongeveer 2 meter breed was .
+194-1|" Hier zijn ze , " zei Dik , op het water wijzende .
+194-2|" Geef me [ @alt ene eene ] hand . "
+195-1|" Ik niet .
+195-2|Vang jij ze maar , dan zal ik er op passen . "
+196-1|" Goed .
+196-2|Daar ga ik . "
+197-1|Dik zette één been vooruit , en stapte pardoes te water .
+197-2|Hij zakte dadelijk een eind in de modder , [ @alt zodat zoodat ] het water hem tot aan de borst kwam en in de ademhaling belemmerde .
+198-1|" I-i-ik z-zie-ze ni-niet , " stotterde hij . ( 39 )
+199-1|" Ik ook niet , " zei Anneke .
+200-1|Dik stapte heen en weer , en greep met beide handen links en rechts in het water , maar snoeken ving hij niet .
+200-2|Juist wilde hij zich wat verder in de sloot begeven , toen zijn vader hem kwam zoeken , om te komen eten .
+200-3|Toen hij Dik daar door de sloot zag wandelen , kon hij van schrik bijna niet spreken .
+200-4|Hij liep naar [ @alt ~de~den den ] kant , zwaaide met beide armen wanhopig in het rond , en riep :
+201-1|" Dik , wat-wat doe je , w-wa-wat moet dat ?
+201-2|Kom h-hi-hier , jongen , je-zult-je verdrinken - dat zul-je .
+201-3|Kom gauw ! "
+202-1|" Ik vang snoeken ! " zei Dik , naar [ @alt ~de~den den ] kant stappende .
+202-2|Vader greep hem bij de hand en hielp hem op het droge .
+202-3|Toen trok hij hem voort naar huis , en riep tegen [ @alt ~zijn~zijne zijne ] vrouw :
+203-1|" Griet , 't is toch een bijzonder kind , - dat is [ @alt ~hij~je -ie ] . "
+203-2|Dik werd uitgekleed en te bed gelegd .
+204-1|( 41 )
+205-1|( Inhoud )
+206-1|Zesde Hoofdstuk .
+207-1|Hoe Dik uit varen ging .
+208-1|Dik werd met [ @alt ~de~den den ] dag ouder , dikker en ondeugender .
+208-2|Dat hij ouder werd , kon niemand helpen ; dat hij dikker werd , was de schuld van [ @alt ~zijn~zijne zijne ] moeder , die hem [ @alt altijd altoos ] reusachtig [ @alt grote groote ] boterhammen liet opeten , en dat hij ondeugender werd , was de schuld van zijn vader en moeder samen .
+208-3|De laatste hield dolveel van haar [ @alt ~dikke~dikken dikken ] jongen , [ @alt zo zoo ] veel , dat zij hem in alles toegaf , hem nooit iets verbood , en , pakte een of ander verkeerd met hem uit , hem nog voorsprak en beklaagde op [ @alt ~de~den den ] koop toe .
+208-4|'t Was dus geen wonder , dat hij met [ @alt ~de~den den ] dag ondeugender werd ( 42)en , [ @alt zoals zooals ] de [ @alt mensen menschen ] zeiden , opgroeide voor galg en rad .
+208-5|Zijn vader hield ook veel van hem , maar de man sprak geen tien woorden op een dag en vond alles , wat Dik deed , heel mooi .
+208-6|Waarschuwden de [ @alt mensen menschen ] hem er soms al eens voor , dat het nooit goed met Dik zou [ @alt aflopen afloopen ] , dan haalde hij de schouders slechts op , en [ @alt zei zeide ] :
+209-1|" Och ja , wat zal ik er al aan doen ; 't is een bijzonder kind , - dat is [ @alt ~hij~je -ie ] . "

@@ -1,0 +1,387 @@
+1-1|( Inhoud )
+2-1|( Inhoud )
+2-2|De Pleegzoon .
+3-1|De Pleegzoon
+4-1|Door
+5-1|Mr. J. van Lennep .
+6-1|Leiden .
+6-2|- A. W. Sijthoff .
+7-1|( I ) ( Inhoud )
+8-1|Mr. Jacob van Lennep .
+9-1|" Van Lennep was onze prettigste litteraire gestalte , die de kunst verstond vijftig jaren lang amusant te blijven . "
+10-1|Cd .
+10-2|Busken Huet .
+11-1|I.
+12-1|'t Was een plezier Van Lennep persoonlijk te ontmoeten .
+13-1|Toen hij in Augustus 1865 ter vergaderzaal van het achtste Taal- en Letterkundig Congres te Rotterdam verscheen , geheel in een grijs zomercostuum , het fraaie zilveren [ @postag noun(het,mass,sg) hair ] om de slapen golvend , kwam ieder hem blij groetend te gemoet .
+13-2|Aan de tafel van het bestuur plaats nemend , de guitige , donkere [ @alt ogen oogen ] naar het publiek , vooral naar de dames richtend , zat hij met een bijna onmerkbaren glimlach te luisteren .
+13-3|De vrij [ @alt droge drooge ] beraadslaging over de spelling der bastaardwoorden werd plotseling door hem met een handvol aardigheden afgebroken .
+13-4|Wie herinnert zich niet , hoe daar door hem geijverd werd , om de [ @alt f ph ] door de f te vervangen - hoe hij vertelde , dat hij als jonkman een zangspel " Saffo " geschreven had , maar , dat de regisseur [ @alt ~zijn~zijne zijne ] spelling in Sapho gewijzigd had , [ @alt zodat zoodat ] de acteurs : " O , Sap , ho , wees gegroet ! " zongen ; hoe hij er bijvoegde , dat [ @alt ene eene ] [ @alt Amsterdamse Amsterdamsche ] dienstmaagd , uitgezonden door [ @alt ~haar~hare hare ] mevrouw , om te zien of er een [ @alt vrolijk vroolijk ] stuk op het [ @alt Leidse Leidsche ] Plein zou gespeeld worden , terugkwam met het bericht : " Ze spelen de Mophondjes , " terwijl in werkelijkheid " Demophontes , " het classiek treurspel van Metastasio , vertaald door Westerwijk , werd vertoond ; hoe
+14-1|(II)hij besloot met de [ @alt mededeling mededeeling ] [ @alt ener eener ] jonge dame , die hem in [ @alt ~zijn~zijne zijne ] waardigheid van vrijmetselaar vroeg , wat de orde toch bedoelde met de woorden prop hanen , waarop hij antwoordde , dat daarmeê waarschijnlijk de mannetjes van prop hennen gemeend werden .
+15-1|Een zonneschijn van [ @alt vrolijkheid vroolijkheid ] schitterde plotseling over de vergadering , die vóór Van Lennep's komst in deftige dommeling [ @alt zachtjes zachtkens ] afdreef op [ @alt ~de~den den ] stroom der verveling .
+16-1|In het huis op de Keizersgracht , in [ @alt ~zijn~zijne zijne ] ruime studeerkamer , aan [ @alt ~zijn~zijne zijne ] schrijftafel , maakte hij geen minderen indruk .
+16-2|Gekleed met zijn grijzen kamerjapon - als op het [ @alt grote groote ] gesteendrukte portret naar de voortreffelijke schilderij van Schwarze - de snuifdoos in de linkerhand , de rechter op een arm van zijn leunstoel , zat hij daar met zijn prettig gezicht en fonkelende [ @alt ogen oogen ] naar de woorden van zijn bezoeker te luisteren , de gelegenheid afwachtend , om met een [ @alt fijne fijnen ] zet of een luimig verhaal zelf het woord te nemen .
+16-3|Onder vier [ @alt ogen oogen ] kwam daarenboven de natuurlijke goedheid van zijn hart uit , daar hij [ @alt gene geene ] moeite te zwaar vond , om aan [ @alt enig eenig ] verzoek zijner vrienden te voldoen .
+16-4|[ @alt ~Zijn~Zijne Zijne ] wetenschap , [ @alt ~zijn~zijne zijne ] bibliotheek , zijn invloed stonden hun ten dienste , [ @alt zo zoo ] vaak zij [ @alt ~zijn~zijne zijne ] hulp inriepen .
+17-1|Te Gent zag men hem , ter gelegenheid van het negende Letterkundig Congres , in het voorportaal van [ @alt de den ] [ @alt schone schoonen ] schouwburg , op een Augustusavond van 1867 in zijn licht reiscostuum - hij was uit Zwitserland overgekomen - terwijl hij met hartelijkheid de hand drukte van E. Douwes Dekker , die hem kort te voren in een vlugschrift [ @alt ~zijn~zijne zijne ] hulpvaardigheid bij het uitgeven van [ @alt ~de~den den ] " Max Havelaar " als een misdrijf voor de voeten had geworpen .
+17-2|De Congresleden omringden hem van alle kanten .
+17-3|En uit de rijen der Zuid-Nederlanders ging een luid gejuich op .
+17-4|[ @alt Zoveel Zooveel ] grootmoedigheid , [ @alt zoveel zooveel ] [ @alt zelfbeheersing zelfbeheersching ] , [ @alt zoveel zooveel ] rustige heuschheid mochten niet onopgemerkt blijven .
+18-1|Van Lennep's persoon was overal bekend .
+18-2|Overal werden hoeden afgenomen , handdrukken gewisseld .
+18-3|In alle [ @alt Nederlandse Nederlandsche ] steden had hij vrienden of ten minste goede kennissen .
+18-4|Zelfs onder [ @alt ~de~den den ] eenvoudigen , maar nuttigen , stand der sjouwerlieden was zijn naam en persoon bekend .
+18-5|En niet alleen te Amsterdam .
+18-6|Het gebeurde in 1867 , dat te Rotterdam aan het station van [ @alt ~de~den den ] Rhijnspoorweg bij het aankomen van een trein uit Utrecht , een aardig , knap juffertje stond bij [ @alt ene eene ] geopende deur aan het plankier .
+18-7|Dat juffertje was [ @alt ene eene ] [ @alt Rotterdamse Rotterdamsche ] , die dagelijks vrij wat [ @alt mensen menschen ] zag , daar zij haar guitig wipneusje sedert een jaar achter het buffet deed bewonderen door wereldwijze handelsreizigers en roodgeblakerde tweede-luitenants ,
+19-1|(III)die op transport waren .
+19-2|Toen de reizigers uit [ @alt ~de~den den ] trein zich over het plankier verspreidden , zag zij te midden van [ @alt ene eene ] groep luidsprekende [ @alt heren heeren ] een grijsaard met ongemeen vriendelijken glimlach en golvende witte hairen .
+19-3|Telkens hield iemand hem staande , om hem met een [ @alt levendige levendigen ] uitroep van verrassing , van ingenomenheid , [ @alt enige eenige ] snelle woorden toe te spreken , die door [ @alt ~de~den den ] wellevenden man onuitputtelijk geduldig werden beantwoord .
+19-4|Ieder beijverde zich met liefde [ @alt ~de~den den ] weg open te houden voor [ @alt ~de~den den ] uiterlijk reeds [ @alt zo zoo ] achtbaren man , wiens tred door [ @alt ~de~den den ] last van vijfenzestig jaren reeds vrij wat van vroegere veerkracht miste .
+19-5|De knappe buffetjuffrouw verwonderde zich , dat één oude heer [ @alt zo zoo ] ontzettend veel kennissen om zich heen verzamelde .
+19-6|En daar Hein , de witgekielde sjouwerman van het goederenbureel , juist voorbijkwam , vroeg ze :
+20-1|- " Wie is die grijze heer ? "
+21-1|- " Wie ?
+21-2|Wel nou , jij bent ook een beste !
+21-3|Ken-je onzen Van Lennep dan niet ? "
+22-1|'t Feit is historisch en werd door een ooggetuige verteld .
+22-2|Ik kom er weldra op terug .
+23-1|Toen ik Van Lennep voor het laatst zag , doorleefde hij [ @alt de den ] [ @alt gelukkigste gelukkigsten ] dag van zijn ouderdom .
+23-2|Het was Vrijdag 18 October 1867 , [ @alt ~de~den den ] dag , waarop te Amsterdam het standbeeld van Joost van [ @alt ~de~den den ] Vondel zou worden onthuld .
+23-3|[ @alt Ene Eene ] [ @alt grote groote ] menigte stroomde naar de Nieuwe Kerk , om zich rondom Vondel's grafsteê te [ @alt verenigen vereenigen ] .
+23-4|De blauwe zerk was zorgvuldig van stof gezuiverd en prijkte met [ @alt ene eene ] krans van gele immortellen .
+23-5|Een dichte drom geletterden schaarde zich eerbiedig om deze heilige plek , terwijl boven onze hoofden de zon door de [ @alt hoge hooge ] kerkvensters scheen en schoven van goud licht over het hoog gewelf uitgoot .
+23-6|Plotseling stond Van Lennep vóór ons , het witte hoofd ontbloot , de [ @alt ogen oogen ] tintelend van geestdrift , na zeven jaren zwoegens eindelijk triumfeerend door de oprichting van het standbeeld .
+23-7|Hij sprak enkele eenvoudige woorden over Vondel's graf en [ @alt nodigde noodigde ] de feestgenooten naar het park , waar het [ @alt schone schoone ] monument van Royer en Cuypers zou worden onthuld .
+24-1|Een uur later verscheen hij in het spreekgestoelte bij het standbeeld en sprak daar met duidelijk verstaanbare stem [ @alt ~zijn~zijne zijne ] feestrede .
+24-2|Niemand was meer gerechtigd dan hij tot deze taak , daar hij een vierde van zijn reeds gevorderden leeftijd aan het verhaal van Vondel's leven , en aan het verklaren van [ @alt ~zijn~zijne zijne ] werken had besteed .
+24-3|Uit aller [ @alt kelen keelen ] klonk daarom een aanhoudend bravo , toen de welsprekende staatsman , die destijds aan het hoofd van het departement van [ @alt Binnenlandse Binnenlandsche ] Zaken stond , toen Mr. J. Heemskerk Az . ,
+25-1|(IV)Van Lennep met een hartelijk woord van gelukwensching , namens Z. M. [ @alt ~de~den den ] Koning , het commandeurskruis der orde van [ @alt ~de~den den ] Nederlandschen Leeuw aanbood .
+26-1|[ @alt Zó Zóó ] zag ik hem voor het laatst .
+27-1|Eens nog schreef hij mij ( 8 Februari 1868 ) , zeven maanden vóór zijn dood ( 26 Augustus 1868 ) .
+27-2|Ik geloof , dat men mij de vrijheid vergunnen zal [ @alt ~dezen~deze dezen ] brief hier meê te [ @alt delen deelen ] , men zal er uit zien , dat mijn verhaal van Hein , [ @alt ~de~den den ] kruier , volmaakt historisch is .
+28-1|" Amice !
+29-1|" Ik zeg u [ @alt ~groten~grote grooten ] dank voor het exemplaar van [ @alt ~de~den den ] bekroonden Vondel1 ... . waarmede mijn vrouw , die gedurende de feesten ziek was en dus niets van de pret gezien of gehoord had , zich bijzonder vermaakt heeft ... .
+29-2|Ik zal er maar niets van zeggen , want ik krijg er [ @alt zoveel zooveel ] mooie kompl . in , dat ik uw stuk niet prijzen durf , zonder [ @alt ~de~den den ] schijn op mij te laden , alsof ik het daarom [ @alt zo zoo ] naar mijn zin vind ... .
+30-1|" Het doet mij plezier , dat Gij die pret op 't slot te Muiden [ @alt zo zoo ] con amore geschilderd en de aandacht weder op dit slot gevestigd hebt .
+30-2|De Hr. Heemskerk had , onmiddellijk na het feest , zijn voornemen te kennen gegeven , om een wet voor te stellen tot restauratie van het slot , zich vleiende , dat daarvoor nu juist in deze [ @alt ogenblikken oogenblikken ] veel sympathie zijn zou ; - doch nu is juist die vervelende krizis [ @alt tussen tusschen ] beiden gekomen - 2 .
+30-3|Van die krizis gesproken , podagra heb ik deze [ @alt ~reize~reis~reizen reize ] niet gehad , maar [ @alt terwijl dewijl ] 't een kwaal is , daar ik best mee bekend ben sedert 30 jaren , heb ik haar bij voorkeur in mijn brochure gebracht - 3 als onschuldig middel om de attentie te trekken - ... .
+31-1|" Maar ik heb zes maanden lang gesukkeld aan leewater in de knie en laatstelijk aan doofheid .
+31-2|Dat is nu Goddank weer over en [ @alt ~mijn~mijne mijne ] gezondheid is door de Vondelsfeesten geheel gekureerd .
+32-1|" Zijt gij 't , of is het een ander , die de Letterkundige Intermezzoos
+33-1|(V)in Nederland schrijft4 .
+33-2|De schrijver , wie dan ook , heeft in zijn eerste artikel [ @alt ene eene ] beschuldiging tegen onze natie gericht , als zou zij haar schrijvers , mij b. v. , niet kennen of liever geen notitie van hen nemen .
+33-3|Ik zou hem , daar ik er ook als voorbeeld bij gehaald ben , een dozijn voorbeelden kunnen geven van het tegendeel .
+33-4|Toen Hofdijk voor een paar jaren bij mij aan de Steeg [ @alt logeren logeeren ] zou , was er in beide herbergen al een [ @alt grote groote ] vreugde en verwachting vooruit - en onlangs , dat ik te Rotterdam uit [ @alt ~de~den den ] trein stapte en de juffrouw van 't buffet zei : " He , wie of die grijskop is met zijn lange haren ! " riep een sjouwerman van 't goederenbureau verontwaardigd uit : " Wat , ken-je onzen Van Lennep niet ? "
+33-5|Dit werd mij later medegedeeld door [ @alt ~de~den den ] Hr. Van Alphen , die 't gehoord had .
+34-1|" Indien gij nu de bedoelde schrijver niet zijt , laat die anecdote - die in dat geval een kale bluf zou schijnen - maar liever ongelezen .
+35-1|" Vale , faveque
+36-1|" Amst .
+36-2|8 febr.
+36-3|1868 .
+36-4|T. T.
+37-1|" J. v. Lennep . "
+38-1|Van mijn edelmoedigen vriend , die zich , helaas ! te vergeefs vleide met herstel zijner gezondheid , heb ik dus de [ @alt mededeling mededeeling ] omtrent het feit , dat wellicht bij de eerste vermelding wat onwaarschijnlijk mocht klinken .
+39-1|De vreugde aan de Steeg in 1866 betoond bij Hofdijk's komst schijnt mij tevens in nauw verband te staan met de blijde opgewektheid , die de viering van zijn zeventigsten jaardag ( 27 Juni 1886 ) heeft gekenmerkt .
+40-1|II .
+41-1|Zonder [ @alt enige eenige ] overdrijving mag beweerd worden , dat Van Lennep als dichter , als romanschrijver , vele jaren lang de populairste onzer auteurs is geweest .
+41-2|Als voorbeeld zijner populariteit heeft Cd .
+41-3|Busken Huet in 18645 verhaald , dat [ @alt ene eene ] Zandvoortsche vischvrouw
+42-1|(VI)al de veertien [ @alt delen deelen ] van zijn exemplaar der romantische werken van Van Lennep had geleend en gelezen .
+43-1|Doch niet alleen in visschersstulpen ook in de huizen onzer gegoede burgerij , in de woningen onzer patriciërs op de Keizers- en Heerengrachten , was Van Lennep steeds een welkome gast .
+43-2|[ @alt ~Zijn~Zijne Zijne ] " Idyllen " maakten hem populair bij de studenten , [ @alt ~zijn~zijne zijne ] " Legenden " wonnen hem het hart van al wat jong was , vooral de harten der [ @alt Hollandse Hollandsche ] jonge meisjes , [ @alt ene eene ] verovering Van Lennep tot op [ @alt de den ] [ @alt laatste laatsten ] dag zijner vriendelijke grijsheid dierbaar .
+43-3|Oud en jong , stedeling en dorper , edelman en burger , schonken hem [ @alt ~hun~hunne hunne ] genegenheid , toen " de Pleegzoon " verscheen , toen " Ferdinand Huyck , " zijn beste roman , " de Roos van Dekama " opvolgde , toen de breed ontworpen " Voorouders " het licht zagen , en eindelijk , toen de niet het minst besproken , aangevallen , geprezen en gelezen " Lotgevallen van Klaasjen Zevenster " geheel de letterkundige wereld in [ @alt ~de~den den ] winter van 1865 op 1866 in rep en roer brachten .
+44-1|Van Lennep's romans blijven leven , [ @alt zo zoo ] goed als die van Walter Scott , en worden herhaaldelijk herdrukt , gelijk ook deze steeds opnieuw worden uitgegeven .
+44-2|" De Pleegzoon " verscheen in 1829 en zag sedert dat jaar tot heden met al [ @alt ~zijn~zijne zijne ] opvolgers , telkens in [ @alt ~nieuwe~nieuwen nieuwen ] vorm het licht .
+44-3|Omtrent " de(n) Pleegzoon " schreef de auteur mij ( 4 Augustus 1867 ) :
+45-1|" Ik heb mijn Pleegzoon ongeveer 40 jaren geleden geschreven ( 1827 ) ; hij heeft [ @alt enige eenige ] jaren in de lade gelegen ; geen boekverkoper wou er aan .
+45-2|Eerst toen ik met [ @alt ~mijn~mijne mijne ] Legenden wat naam gemaakt had , wou P. Meijer Warnars er zich wel over ontfermen .
+45-3|Van honorarium kon nog geen sprake zijn , en ik geloof niet , dat Drost voor zijn " Pestilentie te Katwijk " heel veel meer gehad heeft .
+45-4|Oltmans kwam iets later , wanneer weet ik niet .
+45-5|Eerst na 1840 heb ik honorarium bedongen ... . "
+46-1|De eerste historische roman van Mr. Jacob van Lennep moest twee jaren wachten , voordat hij bij wijze van genade door [ @alt ~de~den den ] druk werd algemeen gemaakt !
+47-1|Dit leerzaam feit voor de geschiedenis onzer letteren zal balsem gieten in de wonden van hen , die met onuitgegeven handschriften naar een uitgever blijven zoeken , en tevens in die der lofredenaars van 't verledene , welke er zich aan ergeren , dat onze boekenmarkt op het huidige [ @alt ogenblik oogenblik ] te veel overvoerd is .
+48-1|De drukken van Van Lennep's historische romans volgden elkander spoedig , een bewijs , dat P. Meijer Warnars weinig oog had op letterkundige kunst .
+48-2|'t Meest bekend werden : de [ @alt Rotterdamse Rotterdamsche ] uitgaaf van 1855 in dertien blauwe [ @alt delen deelen ] en de vier
+49-1|(VII)deelen , klein folio , door Nijhoff , Sijthoff en Thieme van 1867 tot 1869 in het licht gezonden .
+49-2|Zonder profeet te zijn , durf ik ook der tegenwoordige volkseditie in elf [ @alt delen deelen ] de vruchtbaarste toekomst voorspellen .
+50-1|De historische romans van Van Lennep hebben [ @alt ene eene ] blijvende waarde , die [ @alt zowel zoowel ] uit [ @alt ~hun~hunne hunne ] kracht , als uit [ @alt ~hun~hunne hunne ] zwakheid spruit .
+50-2|Voordat ik dit met een enkel woord staaf , doet zich de vraag op , of Van Lennep chronologisch inderdaad onze eerste historische romanschrijver is .
+50-3|Meestal stelt men het [ @alt zo zoo ] vóór , alsof in 1829 door " De(n) Pleegzoon " in de geschiedenis der [ @alt Nederlandse Nederlandsche ] letteren een datum gevormd wordt ; alsof Van Lennep's eerste roman , tevens de eerste historische roman in Nederland geweest is .
+50-4|Dit is alleen in [ @alt zekere zekeren ] zin juist .
+50-5|Van Lennep schreef in 1827 - hij zelf verzekerde het ons reeds - zijn eersten historischen roman .
+50-6|Als [ @alt zodanig zoodanig ] is de chronologie in orde .
+50-7|Doch om nauwkeurig te spreken , had men moeten vermelden , dat in 1827 [ @alt ene eene ] [ @alt Amsterdamse Amsterdamsche ] patricische schrijfster , Mejuffrouw Maria Jacoba de Neufville , het beproefd had een [ @alt historische historischen ] roman samen te stellen , die evenals " De Pleegzoon , " ( komma achter " ? ) maar [ @alt ~enigen~enige eenigen ] tijd vóór " De(n) Pleegzoon " , in 1829 het licht zag onder [ @alt ~de~den den ] titel : " De Schildknaap .
+50-8|Iets uit [ @alt de den ] [ @alt oude ouden ] tijd .
+50-9|Een oorspronkelijk historisch romantisch verhaal . "
+50-10|( Staalgravure van D. Veelwaard ) .
+50-11|Te Amsterdam bij P. [ @alt ~de~den den ] Hengst en Zoon .
+50-12|1829 , gr. 8o .
+51-1|De poging van Mejuffrouw De Neufville is volkomen dezelfde als die van Mr. J. van Lennep .
+51-2|Zij vloeit uit dezelfde bron .
+51-3|Zij getuigt het in haar " Voorberigt , " als zij verklaart :
+52-1|" Aan de Verhandeling van [ @alt ~de~den den ] Hooggeleerden Heer D. J. van Lennep , Over het belangrijke van Holland's grond en oudheden voor gevoel en verbeelding , welke Verhandeling ik op [ @alt ~de~den den ] 30e Januarij 1827 het genoegen had , door [ @alt ~de~den den ] opsteller te [ @alt horen hooren ] voordragen , is het werk , hetwelk ik thans mijnen [ @alt landgenoten landgenooten ] aanbied , deszelfs wording verschuldigd .
+52-2|Altijd met warme liefde voor mijn [ @alt zo zoo ] dikwijls ten onregte verguisd en beschimpt vaderland vervuld , groeide die liefde in mij tot geestdrift aan , door de [ @alt zo zoo ] welsprekende taal des Hoogleeraars en kwam al aanstonds de lust in mij op , om te beproeven of het mogelijk wezen zou , een romantisch tafereel te schetsen , in [ @alt ~de~den den ] smaak van dezulke , als wij aangaande de zeden en gewoonten van andere volken bezitten , iets waarmede ( en hierover betuigt de Heer Van Lennep , in meergemelde Verhandeling [ @alt ~zijn~zijne zijne ] verwondering ) zich aangaande onze voorvaderen nog niemand beziggehouden had . "
+53-1|Uit deze woorden blijkt duidelijk , dat " de Pleegzoon " en " de
+54-1|(VIII)Schildknaap " bijna terzelfder tijd en onder dezelfde invloeden ontstaan zijn .
+54-2|De hoogleeraar D. J. van Lennep gaf aan beiden dezelfde opwekking ; hij leende zelfs wetenschappelijke boeken aan Mejuffrouw De Neufville , [ @alt zoals zooals ] zij in datzelfde " Voorberigt " vermeldt , als zij getuigt : " Voor het overige hebben andere schrijvers , wier werken ik , of [ @alt zelf zelve ] bezit , of die mij door [ @alt ~de~den den ] heer Van Lennep ... . goedgunstiglijk geleend werden , mij tot leidslieden verstrekt . "
+55-1|Het is duidelijk , dat vóór 1827 in Nederland geen historische romans zijn geschreven , daar de nauwkeurige D. J. van Lennep in dat geval zeker niet zou gezegd hebben , dat zich " nog niemand " met dit kunstvak in Nederland had " beziggehouden " .
+55-2|Tevens blijkt uit het " Voorberigt " , dat men [ @alt ~de~den den ] buitenlandschen historischen roman kent , [ @alt zodat zoodat ] " Pleegzoon " en " Schildknaap " beiden uit de school van Sir Walter Scott stammen - Scott , die in 1814 met " Waverley " begon , en tot aan zijn dood ( 1832 ) met zijn " Count Robert of Paris " volhardde .
+55-3|Het behoeft niet nader gestaafd , dat de historische roman juist een kolfje was naar de hand dezer twee , tot [ @alt ene eene ] zeer behoudende wereldbeschouwing overhellende naturen - Maria Jacoba de Neufville en Jacob van Lennep .
+55-4|Scott had [ @alt de den ] [ @alt historische historischen ] roman het eerst in zijn modernen vorm te voorschijn geroepen , Scott was de apostel zijner nationale glorie , gekant tegen het [ @alt Frans Fransch ] classicisme , gekant tegen de omwentelingen van 1789 en 1793 .
+56-1|Dat het opwekkend woord van [ @alt ~de~den den ] hoogleeraar D. J. van Lennep in 1827 terstond goede diensten deed aan de [ @alt vaderlandse vaderlandsche ] letteren , blijkt niet alleen aan " Schildknaap " en " Pleegzoon , " maar daarenboven nog aan [ @alt ene eene ] enkele zwakke poging in 1828 door J. C. Appenzeller beproefd , die in dat jaar een , nu geheel vergeten , historischen roman schreef onder [ @alt ~de~den den ] titel : " Geertruida Van Wart , of trouw tot in [ @alt ~de~den den ] dood .
+56-2|[ @alt Ene Eene ] ware geschiedenis uit de 14e eeuw . "
+56-3|Amsterdam , 1828 .
+56-4|8o .
+57-1|Onze [ @alt Nederlandse Nederlandsche ] historische roman begint - daar Adriaan Loosjes , wegens gebrek aan historischen zin , niet mag medetellen - met Mejuffrouw De Neufville en Jacob van Lennep in 1829 , om dan onder invloed van [ @alt ~dezen~deze dezen ] laatste - en natuurlijk van diens meester Walter Scott - rijkelijk te bloeien .
+57-2|Van Limburg Brouwer gaf in 1831 : " Charicles en Euphorion , " in 1838 : " Diofanes . "
+57-3|Bakhuizen Van [ @alt ~de~den den ] Brink volgde in 1834 en 1835 met historische novellen in de " Muzen , " het tijdschrift van Potgieter , Heije en Drost ; deze laatste schreef in 1831 zijn " Hermingard van de Eikenterpen ; " Oltmans volgde in 1834
+58-1|(IX)met " Het slot Loevestein , " in 1838 met " De(n) Schaapherder ; " eindelijk verscheen Mejuffrouw A. L. G. Toussaint , met haar " Almagro " ( 1837 ) , haar " Graaf van Devonshire " ( 1838 ) en haar " Lauernesse " ( 1840 ) .
+59-1|Stellen wij dus de te veel vergeten De Neufville naast onzen Van Lennep , dan mogen wij aan beiden de eer geven [ @alt de den ] [ @alt historische historischen ] roman in Nederland te hebben begonnen .
+60-1|III .
+61-1|De historische romans van Van Lennep hebben [ @alt ene eene ] blijvende waarde , die [ @alt zowel zoowel ] uit [ @alt ~hun~hunne hunne ] kracht , als uit [ @alt ~hun~hunne hunne ] zwakheid spruit - [ @alt zei zeide ] ik .
+61-2|[ @alt ~Hun~Hunne Hunne ] kracht ligt in de uitnemende helderheid van stijl en voorstelling .
+61-3|Van Lennep heeft behoefte aan juistheid , nauwkeurigheid , duidelijkheid .
+61-4|[ @alt ~Zijn~Zijne Zijne ] vertelling zweeft nooit in een [ @alt duistere duisteren ] nevel van onoplosbare geheimzinnigheid .
+61-5|Aan Walter Scott , misschien ook aan [ @alt ~de~den den ] ouden Dumas , heeft hij de kunst afgezien een [ @alt belangwekkende belangwekkenden ] knoop te leggen , [ @alt welke welken ] hij zonder kunst- of vliegwerk zeer behendig oplost .
+61-6|Het is niet te ontkennen , dat hij een geliefkoosd schema van roman - de held of de heldin van onbekende afstamming , zoekend naar vader of moeder - [ @alt soms somtijds ] herhaalt .
+61-7|Dit denkbeeld ligt ten grondslag aan " De(n) Pleegzoon , " komt terug in de " Roos van Dekama , " en is op [ @alt brede breede ] schaal bewerkt in " Klaasjen Zevenster " .
+62-1|[ @alt Ene Eene ] zwakheid van Van Lennep's kunst ligt in zekere ongegeneerdheid ten opzichte van historische gegevens , [ @alt zodat zoodat ] zijn roman " Elisabeth [ @alt Mus Musch ] " , als verhaal op zich zelf aangenaam te lezen , als historische roman volkomen mislukt is .
+62-2|In degelijkheid van historische wetenschap , in psychologische fijnheid van karakteropvatting staat Mevrouw Bosboom-Toussaint boven hem .
+62-3|Deze laat zich niet afschrikken door een vermoeiend historisch onderzoek , dringt bij [ @alt ~haar~hare hare ] helden en heldinnen door in de diepten van de binnenborst , en schept karakters , die , psychologisch geheel afgewerkt , een [ @alt onvergetelijke onvergetelijken ] indruk achterlaten .
+62-4|Van Lennep wil het [ @alt ~de~den den ] lezer naar [ @alt ~de~den den ] zin maken , wil behagen ; hij bekreunt zich meer om hetgeen met [ @alt ~zijn~zijne zijne ] personen geschiedt , dan wat in hun hart en hoofd omgaat .
+62-5|Hij wil een boeiend verteller zijn , die , zonder de geschiedenis opzettelijk in het aangezicht te slaan , zijn lezer steeds in spanning houdt .
+63-1|( X )
+64-1|Bij Mevrouw Bosboom-Toussaint ontstaat uit de degelijkheid der historische wetenschap en de fijnheid der zielkundige analyse [ @alt soms somtijds ] [ @alt ene eene ] overlading en [ @alt ene eene ] uitvoerigheid , die naar langdradigheid zou kunnen [ @alt zwemen zweemen ] ; bij Van Lennep neemt het verhaal een [ @alt vlugge vluggen ] , levendigen gang , die het hart van [ @alt de den ] [ @alt gewone gewonen ] lezer steelt , maar dikwijls dreigt in oppervlakkigheid te [ @alt verlopen verloopen ] .
+64-2|Mevrouw Bosboom-Toussaint heeft les défauts de ses qualités , Van Lennep les qualités de ses défauts .
+65-1|Het best gelukt is zijn " Ferdinand Huyck , " een voortreffelijk boek in vele opzichten .
+65-2|Evenals in zijn " Klaasjen Zevenster " is hier [ @alt zowel zoowel ] historisch als psychologisch het schoonste geleverd van alles wat Van Lennep zou voltooien .
+65-3|Hij had de achttiende eeuw lief .
+65-4|Hij kende haar en [ @alt ~haar~hare hare ] beschaving , vooral het achttiende [ @alt eeuwse eeuwsche ] patriciaat te Amsterdam .
+65-5|Opgevoed naar de overleveringen van zijn oud geslacht , naar de classieke wijsbegeerte van zijn vader David Jacobus , moest hij zich het naast verwant gevoelen aan een juist vervlogen tijdvak , dat door goede manieren , vlug vernuft en letterkundigen smaak uitmuntte .
+65-6|Van Lennep , [ @alt ~die~dien dien ] men te recht voor een der aanvoerders der Romantische beweging in Nederland hield , was in zijn hart het classicisme der achttiende eeuw nog meer genegen .
+66-1|Een bewijs van deze laatste stelling put ik uit een zijner vriendelijke brieven .
+67-1|Naar aanleiding [ @alt ener eener ] opmerking tegen [ @alt Engelse Engelsche ] romanschrijvers , die misbruik maken van [ @alt Latijnse Latijnsche ] citaten , schreef hij mij ( 5 April 1860 ) :
+68-1|" Ik moet er bijvoegen , dat hetgeen u [ @alt thans thands ] ... . tegenstaat , u misschien niet zou hebben tegengestaan , indien gij een 30 jaren ouder waart en u [ @alt ~de~den den ] tijd herinnerdet , toen het klassicisme ook hier te lande meer algemeen was en men zich niet geneerde aan tafel in tegenwoordigheid van dames Ovidius of Horatius aan te halen .
+68-2|De konversatie , [ @alt zo zoo ] als ik mij die in mijn jeugd herinner , had altijd een klassieke tint en wie die bij uitnemendheid wist aan te brengen - en daarom ook in Engeland [ @alt zo zoo ] geacht en gezien was - was A. R. Falck ! - en toch belette dit niet , dat de dames toen [ @alt dodelijk doodelijk ] van hem waren ... . ja , dat , toen zijn Brieven 3 jaar geleden ( 1857 ) in 't licht kwamen , al de exemplaren bij [ @alt Amsterdamse Amsterdamsche ] boekverkoopers aanwezig , tot [ @alt grote groote ] verbazing van Nijhoff , [ @alt de den ] [ @alt eerste eersten ] avond reeds waren opgehaald - meest alle door dames [ @alt tussen tusschen ] de 60 en 80 jaren ( die zeker wilden weten of zij er ook in voorkwamen ) .
+68-3|'t Is waar , Falck citeerde ook [ @alt Frans Fransch ] , [ @alt Engels Engelsch ] , Hoogduitsch , enz. - maar had niets , dat op pedanterie geleek , en nimmer heb ik aangenamer [ @alt mens mensch ] ontmoet . "
+69-1|( XI )
+70-1|Zij , die Van Lennep gekend hebben , zien met mij [ @alt ~de~den den ] schalkschen glimlach om [ @alt ~de~den den ] mond en in het oog beide , waarmeê hij deze regelen schreef !
+71-1|[ @alt ~Zijn~Zijne Zijne ] genegenheid voor het [ @alt Franse Fransche ] classicisme der achttiende eeuw paarde zich hoogst eigenaardig aan [ @alt ene eene ] vrij [ @alt grote groote ] geringschatting der middeleeuwen en al wat met [ @alt middeleeuwse middeleeuwsche ] studiën in verband stond .
+71-2|[ @alt ~Zijn~Zijne Zijne ] " Legenden , " [ @alt ~zijn~zijne zijne ] " Roos van Dekama " , [ @alt ~zijn~zijne zijne ] " Voorouders " verraden op menige plaats , dat hij trots [ @alt ~zijn~zijne zijne ] verwonderlijke vlugheid , ondanks [ @alt ene eene ] verbazende gemakkelijkheid , om alle zwarigheden te boven te komen , toch zijn meester Walter Scott in kennis en opvatting der middeleeuwen niet evenaarde .
+72-1|Omtrent dit punt schreef hij mij een zeer karakteristieken brief ( 4 Augustus 1867 ) , toen ik hem de eerste aflevering mijner " Schets [ @alt ener eener ] geschiedenis der [ @alt Nederlandse Nederlandsche ] Letterkunde , " handelende over de middeleeuwen , aanbood :
+73-1|" Ik las uw boek voor mij zelf met veel belangstelling ; doch het zou mij spijten , indien uw [ @alt wens wensch ] vervuld werd , en dit boekje op een H. Burgerschool werd gebruikt .
+73-2|Mij dunkt , zij hebben daar al ongare kost genoeg te slikken dan om nog op Middel-Nederlandsch getrakteerd te worden .
+74-1|" Het is een mooie ontdekking .
+75-1|" Maar ik lees liever [ @alt Frans Fransch ] .
+76-1|" Indertijd , toen ik Curator van 't Gymnasium was , had Hofdijk ook [ @alt zo'n zoo'n ] boekje geschreven ... . doch ik zei , dat hij aangesteld was , om aan de jongelui de [ @alt Hollandse Hollandsche ] taal te [ @alt leren leeren ] en niet het Middel-Nederlandsche patois en ik verbood het gebruik van dat boekske .
+76-2|Die studiën van Gothisch , Angel-Saksisch , Middel-Nederlandsch enz. mogen zeer goed zijn voor filologen , maar zij kunnen er niet toe strekken om onzen stijl of onzen smaak te vormen , en die [ @alt zogenaamde zoogenaamde ] naïveteit er van - 't [ @alt enige eenige ] wat dan nog 't gebrek aan vorm , rhythmus , kadans , maat , rijm , enz. vergoeden moet , geef ik graag present en ... . lees liever [ @alt Frans Fransch ] .
+77-1|" Verder is er , althans in de eerste helft van uw boek bijna geen bladzijde , waarover ik geen lust zou hebben met u te twisten .
+77-2|'t Schijnt , dat bij u , even als bij velen , heden ten dage de vorm , de dictie , niets is en alles zich moet bepalen tot de gedachte .
+77-3|Maar poëtische gedachten heeft bijna iedereen , dunkt mij , en de kunst bestaat juist daarin , dat men ze in een cierlijken , welluidenden , bevalligen vorm giet , die door het oor het hart treft en [ @alt ~de~den den ] geest bevredigt .
+77-4|En daarom , hoe groot en verbazend een genie Shakespere geweest is , ik mis herhaaldelijk bij hem die harmonie , die eenheid , die zuiverheid van vorm , die samen moesten werken
+78-1|(XII)om een wezenlijk schoon geheel te verkrijgen .
+78-2|Dat ik hoog met hem loop , blijkt wel daaruit , dat ik [ @alt zowel zoowel ] op mijn tiende , als op mijn 50ste en 60ste jaar stukken van hem vertaald heb , maar hoe meer ik hem vereerde en bewonderde in zijn reusachtige grootheid , hoe meer het mij hinderde , als ik [ @alt zovele zoovele ] euphuïsmen , platheden en laffe aardigheden naast de verhevenste brokken vond .
+78-3|Ik houd machtig veel van Jan Steen en ik bewonder Rubens ; maar het zou mij stuiten , als ik op [ @alt ~de~den den ] achtergrond [ @alt ener eener ] schilderij , die Christus met de Apostelen voorstelde , een boeren bruiloft zag .
+78-4|'t Moge het [ @alt menselijk menschelijk ] leven zijn naar waarheid geschetst , maar " bloemen " - als Bredero zegt - is ook [ @alt menselijk menschelijk ] ; en toch hoort het op het [ @alt toneel tooneel ] niet thuis .
+78-5|En daarom al mocht ik eens toegeven , dat de stukken van Shakespere meer schoons bevatten dan [ @alt enig eenig ] ander stuk , [ @alt zo zoo ] is er niet een onder [ @alt ~zijn~zijne zijne ] treurspelen , hetwelk door harmonische eenheid voldoet aan 't geen ik in een treurspel vorder en b. v. terugvind in [ @alt ~de~den den ] Edipus van Sofokles , in [ @alt ~de~den den ] Cid , in de Iphigénie en de Athalie , in [ @alt ~de~den den ] Lucifer en in [ @alt ~de~den den ] Jozef in Dothan .
+78-6|Ik laat natuurlijk ieder vrij anders te denken : hanc veniam damus , petimusque vicissim ; maar ik kan niet goedkeuren , dat gij [ @alt zo zoo ] bepaald als lofredenaar van Shakespere optreedt .
+78-7|Onze voorouders zondigden in een tegenovergesteld uiterste en bij hen was Shakespere een barbaar .
+78-8|Nu liggen de [ @alt grote groote ] schrijvers van de eeuw van Lodewijk XIV achter de bank , en mogen alleen Shakespere en Goethe bewierookt worden .
+78-9|Ik heb voor een paar jaar diens " Egmond " zien [ @alt vertonen vertoonen ] .
+78-10|" 't Moet mooi zijn , " dacht ik , " omdat het van Goethe is ; was 't van een onbekende , ik zou zeggen , wat een godsjammerlijk prul is dit . "
+78-11|Er is een mode in alles ; maar omdat men nu een voorstander is van de italiaansche muziek , moet men daarom de Euryanthe [ @alt lelijk leelijk ] vinden . "
+79-1|Ik behoef der schim van mijn vaderlijken vriend en beschermer geen vergiffenis te vragen voor de vrijmoedigheid , waarmeê ik hem na zijn dood nog eens het woord geef .
+80-1|In 1867 sprak Van Lennep aldus met volle overtuiging .
+80-2|Uiterst merkwaardig schijnt het mij het contrast te [ @alt bestuderen bestudeeren ] [ @alt tussen tusschen ] [ @alt ~de~den den ] als hoofd der Romantische School gehuldigden auteur van " Ferdinand Huyck " en zijn [ @alt ~eigen~eigene eigene ] zuiver classieke , zuiver achttiende [ @alt eeuwse eeuwsche ] , zuiver [ @alt Franse Fransche ] aesthetiek .
+81-1|[ @alt Had Hadde ] Van Lennep tot in onzen tijd kunnen leven , hij zou zich verheugd hebben in de zich langzaam ontwikkelende nieuwe Renaissance , die nog nauwelijks wordt opgemerkt , maar toch [ @alt ene eene ] [ @alt schone schoone ] toekomst te gemoet gaat .
+81-2|Van Lennep , schrander en helder ziende
+82-1|(XIII)in de toekomst , zou begrepen hebben , dat de [ @alt Nederlandse Nederlandsche ] Letteren haar voordeel zouden kunnen doen met het [ @alt Franse Fransche ] Naturalisme , maar dat zij nimmer tot [ @alt ene eene ] [ @alt slaafse slaafsche ] navolging dezer school zouden kunnen afdalen .
+82-2|Hij zou tevens begrepen hebben , dat de afgoderij met sonnetten en raadselachtige verstandspoëzie evenmin tot het [ @alt gewenste gewenschte ] doel : verjonging onzer nationale muzen , zou kunnen leiden .
+82-3|Zijn eigen standpunt moge dan voor [ @alt ouderwets ouderwetsch ] doorgaan , hij vertegenwoordigt in elk geval de classieke , smaakvolle denkwijze , door zijn vader David Jacobus [ @alt zo zoo ] welsprekend verdedigd .
+82-4|Hij moge reeds in [ @alt ~zijn~zijne zijne ] jongensjaren Shakespere vertalen , wetgevers op kunstgebied blijven voor hem alleen Boileau en Horatius .
+82-5|Ademend in de classieke atmosfeer zijns vaders , van [ @alt ~zijn~zijne zijne ] vroegste jeugd met [ @alt Latijnse Latijnsche ] verzen begroet , zou hij de overwinnende Romantiek alleen onder voorrecht van boedelbeschrijving aanvaarden .
+82-6|De [ @alt algemene algemeene ] geestdrift voor Walter Scott en Byron bracht hem tot [ @alt ~zijn~zijne zijne ] " Legenden " en [ @alt ~zijn~zijne zijne ] historische romans .
+82-7|De bijval , hem geschonken , stuwde hem verder voort , dan hij misschien wel wilde , naar de kusten der Romantiek , immer vasthoudend aan de classieke beginselen , die hem als knaap en student waren ingeprent .
+83-1|De " [ @alt grote groote ] schrijvers " der eeuw van Louis XIV lagen hem na aan het hart .
+83-2|Hij begreep de schoonheden van Shakespere en Goethe , maar was in [ @alt ~de~den den ] grond der zaak geen voorstander der Romantische School van 1830 .
+83-3|Dit bleek mij uit [ @alt ~de~den den ] reeds aangehaalden brief van 1867 , waarin hij mij berispte , omdat ik mij veroorloofd had met zekere koelheid over het Leerdicht te spreken .
+84-1|" Ik zie niet in " - schreef hij mij - " waarom het Leerdicht een banvloek verdient , als gij er over uitspreekt .
+84-2|Bone Deus , de ( Greek : Erga chai êrerai ) , de Georgica , de Ars poetica ( 't zij van Horatius , 't zij van Boileau ) , de Ziekte der geleerden , [ @alt zoveel zooveel ] heerlijks en liefelijks , met een pennestreek weggecijferd : wel , mij dunkt , [ @alt zo zoo ] als Bilderdijk zeer te recht zegt :
+85-1|" Geen veld is dor , waar dichtkunst zich vertreedt ! "
+86-1|" en juist dit is haar privilegie , om uit [ @alt ~de~den den ] schijnbaar dorren bodem de heerlijkste vruchten te doen uitspruiten .
+86-2|Ook hier wederom zeg ik :
+87-1|" Tous les genres sont bons , hors le genre ennuyeux . "
+88-1|Vader Van Lennep maakte zich hier wat al te snel van de zaak af .
+88-2|Maar zijn gevoel brengt hem niet op een dwaalweg .
+88-3|De
+89-1|(XIV)didactische poëzie heeft haar voor en tegen .
+89-2|Juist in deze laatste jaren zijn vele hoeden en mutsen afgenomen voor de Muze der Didactiek .
+89-3|De roman , afhankelijk gesteld van grondige studie der anthropologie , psychologie en sociologie ; de lyrische poëzie in dienst van alle wetenschappen en elke wijsbegeerte - mij dunkt deze [ @alt tekenen teekenen ] der tijden zouden Van Lennep niet al te zeer hebben mishaagd .
+90-1|Nog een kenmerkend hoofdstuk zijner aesthetische wereldbeschouwing , draagt tot opschrift : " Verdiensten der achttiende eeuw . "
+90-2|Aan het slot van [ @alt ~de~den den ] [ @alt zoëven zooeven ] aangehaalden brief , vermaant hij mij nogmaals :
+91-1|" Het gerijmel der 18de eeuw vindt geen genade in uw [ @alt ogen oogen ] .
+91-2|'t Spijt mij , want ik ken een menigte brokken van buiten uit Poot , uit [ @alt ~de~den den ] Achilles , uit [ @alt ~de~den den ] Monzongo , uit het Beleg van Haarlem , uit [ @alt ~de~den den ] Agon Sultan van Bantam , uit de vertalingen door Doornik en door Nomsz gemaakt , en ik zet het onzen hedendaagschen poëten - ten Kate uitgezonderd - om zulke [ @alt vaarzen vaerzen ] te schrijven .
+91-3|'t Is net hier als in Frankrijk , waar men zich - een Victor Hugo aan 't hoofd - volstrekt niet meer stoort aan censuur of kadans .
+91-4|Ik las dezer dagen ...
+91-5|... . van onzen vriend H. Lieve Hemel , bijna geen bladzijde , waar ik niet een vers aantref , dat een voet te veel of te weinig heeft .
+91-6|Bij S. ad idem .
+91-7|Als er dat nu niet op aankomt , 't is mij wel ; maar voor mij is het niet genoeg , dat een lied muzikale gedachten bevat ; om mij te behagen moet het speeltuig behoorlijk gestemd en de zangstem zuiver zijn , anders verscheuren zij mij de [ @alt oren ooren ] ... . "
+92-1|Uit het graf klinke deze vermaning vrij in onze woelige letterkundige wereld van 1886 .
+92-2|Slechts oppervlakkigheid en verwaandheid , vruchten van halve wetenschap en [ @alt gehele geheele ] zelfmisleiding , zullen [ @alt ~de~den den ] fijngevoelenden Van Lennep een antwoord onwaardig keuren .
+93-1|IV .
+94-1|De auteur van " Ferdinand Huyck " dankt [ @alt ~zijn~zijne zijne ] populariteit niet uitsluitend aan [ @alt ~zijn~zijne zijne ] romans .
+95-1|Behalve [ @alt ~dezen~deze dezen ] deed hij zich als echt [ @alt Nederlands Nederlandsch ] dichter kennen .
+95-2|Heel zijn leven lang zorgde hij er voor , dat bij elke plechtige gelegenheid [ @alt enige eenige ] toepasselijke regelen van [ @alt ~zijn~zijne zijne ] hand voor [ @alt ~zijn~zijne zijne ] vrienden het licht zagen .
+95-3|In [ @alt de den ] [ @alt huiselijke huiselijken ] kring of in het
+96-1|(XV)maatschappelijk leven werd elke belangrijke gebeurtenis door hem met hartelijke woorden herdacht .
+96-2|Van [ @alt ~zijn~zijne zijne ] " Academische Idyllen " ( 1826 ) tot aan [ @alt ~zijn~zijne zijne ] " Vermakelijke Spraakkunst " ( 1865 ) bleek hij [ @alt zo zoo ] niet de geestigste , dan toch zeker de opgeruimdste en levenslustigste zanger , die onder ons , deftige lieden , te vinden was .
+96-3|Een [ @alt snaakse snaaksche ] glimlach was om [ @alt ~zijn~zijne zijne ] lippen als bestorven , [ @alt zodat zoodat ] , toen hij de koddige grappen van zijn vriend Gerrit van de Linde in zijn almanak " Holland " deed afdrukken , ieder geloofde , dat hij zelf ze geschreven had .
+97-1|Er is in de laatste vijfentwintig jaren [ @alt gene geene ] bloemlezing onzer [ @alt hedendaagse hedendaagsche ] dichters , waarin niet op de eereplaats aangetroffen wordt Van Lennep's :
+98-1|" Mijn waarde Neef ! ik durf het wagen
+99-1|U twee kommissies op te dragen :
+100-1|'t Is , in 't Verkoophuis , voor Papa ,
+101-1|Vier doosjes Lucifers te [ @alt kopen koopen ] ,
+102-1|En op de Bloemmarkt voor Mama ,
+103-1|Wat lentebloemzaad op te [ @alt lopen loopen ] :
+104-1|Dan voor broêr Kees , een [ @alt nieuwe nieuwen ] tol .
+105-1|Voorts zendt Gij mij , 'k durf daarop reeknen ,
+106-1|Een boek papier om op te [ @alt tekenen teekenen ] ,
+107-1|En ook vier strengen zwarte wol .
+108-1|" Wil voorts een kistjen Rencurrellen ,
+109-1|Bij Reynvaan , voor oom Piet bestellen ;
+110-1|En wip dan bij Verschuur eens aan ,
+111-1|Om Lizes bracelet te halen ;
+112-1|Van daar kunt gij bij Holters gaan ,
+113-1|En onze rekening betalen .
+114-1|Voorts wacht ons Mietje een trommelvol
+115-1|Met biesjensdeeg en drabbelkoeken :
+116-1|Zend mij wat nieuwe [ @alt Franse Fransche ] boeken ,
+117-1|En dan , vooral , vier strengen wol .
+118-1|" Laat Sacher , met [ @alt ~de~den den ] beurtman , morgen ,
+119-1|Wat [ @alt verse versche ] bloemen ons bezorgen ,
+120-1|En koop meteen , op 't Muiderplein ,
+121-1|Voor tante Saar wat Lange-Lijzen :
+122-1|Gij kent haar smaak voor porcelein ;
+123-1|Zend voorts een kooitjen voor haar sijzen ,
+124-1|Een aanzetleder voor Oom Nol ,
+125-1|( XVI )
+126-1|Een [ @alt verse verschen ] pot met tamarinden ,
+127-1|Die gij bij Gerber wel zult vinden ,
+128-1|En dan , voor mij , wat zwarte wol . "
+129-1|Voorts het gedicht aan een zijner kleinzoons :
+130-1|" [ @alt Teder Teeder ] en aanvallig wichtjen ,
+131-1|Dat [ @alt zo zoo ] geestig om u heen kijkt
+132-1|Uit uw ( niet meer schom'lend ) wiegjen :
+133-1|( Schomlende zijn uit de mode ) !
+134-1|" Dat nog van de tegenspoeden ,
+135-1|Die ons hier beneden kwellen ,
+136-1|Geen ervaring hebt verkregen
+137-1|- Dan door 't steken van de muggen ! -
+138-1|" Dat , nog zuiver van de driften ,
+139-1|Die op rijper leeftijd woelen ,
+140-1|Nimmer boos wordt - dan alleen maar
+141-1|Als men niet terstond uw zin doet !
+142-1|" Dat , nog vrij van dwaze [ @alt wensen wenschen ]
+143-1|Vrij van zondige [ @alt aardse aardsche ] lusten ,
+144-1|Uw begeerten blijft beperken
+145-1|Tot een trek naar soep of bloemkool !
+146-1|" Dierbaar kind ! gij zijt onkundig
+147-1|Van uw laatre lotsbestemming ,
+148-1|Ik , in spijt van grijze ervaring ,
+149-1|Weet daarvan [ @alt zoveel zooveel ] als gij weet .
+150-1|" Maar , [ @alt zo zoo ] gij nog naar de toekomst
+151-1|Geen vermeetle blikken heenwendt ,
+152-1|Of althans niet verder uitziet
+153-1|Dan naar 't heerlijk etens-uurtjen ;
+154-1|" Ik - en 'k durf geenszins bepalen ,
+155-1|Of het dwaas is dan verstandig -
+156-1|Ik , ik kan mij niet weêrhouden ,
+157-1|Naar die toekomst vaak te gissen .
+158-1|( XVII ) " Zult ge een pleitbezorger worden ?
+159-1|In [ @alt ~de~den den ] handel u begeven ?
+160-1|Of , uw ooms tot voorbeeld kiezend ,
+161-1|Uw fortuin in de Oost gaan zoeken ?
+162-1|" Zult gij in de koffijhuizen
+163-1|Aan 't biljard uw dagen slijten ,
+164-1|Altijd wachten op een postjen ,
+165-1|Dat u nimmer wordt gegeven ?
+166-1|" Of zult gij [ @alt ~de~den den ] krijgsdienst kiezen ,
+167-1|En u krijgstrofeën vormen
+168-1|Van sjakoos , nog voor 't verslijten
+169-1|Door een nieuw model vervangen ?
+170-1|" 't Is mij , in [ @alt ~de~den den ] grond , om 't even ;
+171-1|Want men kan in elken werkkring ,
+172-1|Al naar 't valt , carrière maken
+173-1|Of een bittre sukkel blijven .
+174-1|" Maar , lief kind , wat hier beneden
+175-1|Ooit het doel zij van uw streven ,
+176-1|Tracht toch - wat ik u mag bidden -
+177-1|Nimmer naar [ @alt ~de~den den ] naam van dichter ... . "
+178-1|Dan [ @alt ~zijn~zijne zijne ] " Lente-Mijmeringen , 21 Juni 1855 , "
+179-1|" Mij heugt , toen ik een knaapjen was ,
+180-1|En Mei in 't land gekomen ,
+181-1|Wij zaten 's avonds op 't terras
+182-1|In schaaûw der [ @alt lindebomen lindeboomen ] ,
+183-1|" Dan sprong ik als een jonge ree
+184-1|En plukte mij een ruiker ,
+185-1|De Gouvernante schonk ons thee
+186-1|Ik kreeg [ @alt ~die~dien dien ] zonder suiker .
+187-1|" O , 't blijkt uit alles zonneklaar ,
+188-1|Men mocht in vroeger dagen
+189-1|Op Lente reeknen ieder jaar ;
+190-1|Wat kon haar toch verjagen ?
+191-1|( XVIII ) " Hoe meenge winter ging voorbij ,
+192-1|Dat wij [ @alt begerig begeerig ] smachtten
+193-1|Naar 't lieve Lentejaargetij ,
+194-1|En vruchtloos bleven wachten .
+195-1|" Met ieder jaar bleef 't winterijs
+196-1|Wat langer in het water ,
+197-1|En bleef de lucht wat langer grijs ,
+198-1|En kwam de zomer later .
+199-1|" En nu - 't is reeds de langste dag :
+200-1|Reeds moest de zomer komen ;
+201-1|En 'k heb in Neêrland , waar ik zag ,
+202-1|Geen voorjaar nog vernomen . "
+203-1|Eindelijk [ @alt zo zoo ] menig lied vol prettigen kortswijl uit zijn Almanak " Holland , " of uit [ @alt ~zijn~zijne zijne ] " Zeemansliedjes , " alles zuiver [ @alt Hollands Hollandsch ] veldgebloemte , nederig , eenvoudig , gezond .
+204-1|[ @alt Kritiek Critiek ] , die gaarne overvraagt , heeft Van Lennep verweten , dat [ @alt ~zijn~zijne zijne ] scherts te weinig fierheid bezat , dat hij met [ @alt ~zijn~zijne zijne ] anecdoten en kwinkslagen , ook in het [ @alt dagelijks dagelijksch ] gesprek , tot lager kringen afdaalde , dan tot welke hij zelf behoorde .
+204-2|[ @alt ~Zijn~Zijne Zijne ] snakerijen met de geschiedenis des Vaderlands berokkenden hem zelfs dichterlijke boetpredikatiën van verontwaardigde , maar minder geestige kunstvrienden .
+204-3|Het is mogelijk , dat hij het soms wat bont maakte , maar ontkend mag het niet worden , dat juist deze trek van zijn karakter , deze zijde van zijn talent hem tot [ @alt ~de~den den ] meest Nederlandschen , tot [ @alt ~de~den den ] populairsten dichter en romanschrijver van zijn tijd gemaakt hebben .
+205-1|In de geschiedenis der Letterkunde van een klein volk is het niet [ @alt zo zoo ] gemakkelijk de eigenaardige trekken van het nationale karakter terug te vinden .
+205-2|De classieke en moderne Letteren oefenen [ @alt ~groteren~groteren grooteren ] invloed , omdat kleine volken , wier taal niet algemeen gesproken wordt , zich letterkundig minder zelfstandig ontwikkelen kunnen .
+205-3|Trots deze beletselen zal het [ @alt ~de~den den ] historieschrijver onzer litteratuur toch mogelijk blijken het nationaal-Nederlandsche op het spoor te komen .
+205-4|Van Lennep drukte in zijn persoon en in zijn werk dat nationaal-Nederlandsche voortreffelijk uit .
+206-1|Kwinkslagen , scherts en kortswijl ; een goed oog op het comische in het leven en in de kunst ; belangstelling in het blijspel , soms dalend tot de platte klucht , soms stijgend tot vlijmende satire of teederen humor - zie daar de meest in het oogvallenden karaktertrekken
+207-1|(XIX)onzer letterkundige kunst , die tevens worden teruggevonden in de geschiedenis onzer schilderschool .
+207-2|In de middeleeuwen , in de XVI en XVII eeuwen valt het niet moeilijk dit telkens met luidsprekende feiten te staven .
+207-3|Het is [ @alt onnodig onnoodig ] op [ @alt ~de~den den ] Reinaert , op de " [ @alt schone schoone ] boerden , " op de " sotternien , " op de volksliederen en volksromans te wijzen ; overbodig te herinneren aan [ @alt de den ] [ @alt gulle gullen ] lach van [ @alt ~de~den den ] ronden Roemer , aan de [ @alt vrolijkheid vroolijkheid ] van Jan van Hout , aan de drink- en minneliederen van Bredero en Starter , aan Hooft's " Warenar , " aan Vondels " Rommelpot , " aan de maaltijden van Jan Steen , de boerenkermissen van Ostade , de Teniersen en Rubens , aan de kroegen van Adriaen de Brouwer , aan de schaterlachende zangers , drinkers en vischwijven van Frans Hals - dit alles is meermalen uitdrukkelijk in het licht gesteld .
+208-1|Mocht ook in latere tijden de goedronde lach onzer vaderen verstommen , mocht het kille Calvinisme zich paren aan het practisch streven naar Nuttige , [ @alt Voordelige Voordeelige ] , Bruikbare dingen , toch ging de overlevering van onze nationale luim in de geschiedenis onzer letteren niet verloren .
+208-2|Langendijk , Troost , Asselijn en Bernagie bleven onzen ouden volksaard getrouw ; aan het slot der vorige eeuw triomfeerden twee geniale vrouwen in " Sara Burgerhart " en " Willem [ @alt Levend Leevend ] " op al de [ @alt boze booze ] geesten , die der [ @alt Nederlandse Nederlandsche ] Muzen onverzoenlijken haat hadden gezworen .
+208-3|Van Lennep was inzonderheid een echt Nederlander door [ @alt ~zijn~zijne zijne ] kunst .
+208-4|[ @alt ~Zijn~Zijne Zijne ] patricische [ @alt Amsterdamse Amsterdamsche ] stemming , [ @alt ~zijn~zijne zijne ] bewonderenswaardige wetenschappelijke vlijt in de uitgave van Vondel's werken gebleken , [ @alt ~zijn~zijne zijne ] veelzijdige letterkundige en historische kennis , werden altijd verhelderd door [ @alt ene eene ] zonnestraal van vriendelijke geestigheid ; [ @alt ~zijn~zijne zijne ] deftige [ @alt betogen betoogen ] afgewisseld door een [ @alt vrolijke vroolijken ] zet , [ @alt ~zijn~zijne zijne ] ernstige buien opgehelderd door [ @alt ene eene ] grappige anecdote .
+209-1|Bij Sijthoff's nieuwe uitgaaf van Van Lennep's romantische werken een hartelijk woord te voegen , was het doel van dit eenvoudig opstel .
+209-2|Van Lennep's leven is het best en uitvoerigst beschreven door A. J. de Bull in de " Levensberichten " der Maatschappij van [ @alt Nederlandse Nederlandsche ] Letterkunde te Leiden .
+209-3|Daarbij is [ @alt ene eene ] lijst van geschriften gevoegd , die de [ @alt wensen wenschen ] van [ @alt ~de~den den ] lastigsten bibliograaf overtreft .
+209-4|Verschillende mannen van naam : Jonckbleet ,
+210-1|(XX)Réville , Busken Huet , Schimmel en Nicolaas Beets hebben [ @alt ~hun~hunne hunne ] [ @alt mening meening ] over Van Lennep gezegd ; toch ontbreekt nog de [ @alt monografie monographie ] , die [ @alt ~zijn~zijne zijne ] [ @alt gehele geheele ] persoonlijkheid , [ @alt ~zijn~zijne zijne ] veelzijdige werkzaamheid , [ @alt ~zijn~zijne zijne ] [ @alt betekenis beteekenis ] voor de geschiedenis onzer Letteren te zaam vat , en met wetenschappelijke nauwkeurigheid beschrijft .
+210-2|[ @alt Ene Eene ] nieuwe uitgaaf zijner romantische werken kan misschien aanleiding worden tot vervulling dezer behoefte , althans de gedachte verlevendigen , dat een dergelijk boek nog altijd moet geschreven worden .
+211-1|Dr. Jan ten Brink .
+212-1|1 " Vondel bekroond door het dankbaar nageslacht .
+212-2|[ @alt Ene Eene ] herinnering aan de oprichting van het standbeeld en de Vondelsfeesten in de hoofdstad op 17 , 18 en 19 Oktober 1867 . "
+212-3|Arnhem , D. A. Thieme , 1868 , gr. 8o .
+213-1|2 Aftreden van het 1ste ministerie Heemskerk , Februari 1868 .
+213-2|Mr. C. Fock vormt een nieuw ministerie .
+214-1|3 Van Lennep doelt op [ @alt ~zijn~zijne zijne ] brochure : " Het Podagra en het Manifest van Burgerpligt , " Amsterdam , 1868 .
+215-1|4 Gedurende de jaren 1868 en 1869 schreef ik in het tijdschrift " Nederland " letterkundige artikelen onder [ @alt ~de~den den ] titel : " Letterkundig Intermezzo . "
+216-1|5 Gids , December , 1864 .
+216-2|Later in het II deel , Litterarische Fantasien , 1 Reeks .
+217-1|( 1 ) ( Inhoud )
+218-1|De Pleegzoon .
+219-1|Eerste Hoofdstuk .
+220-1|Ghy die [ @alt bij by ] vreemde lieden koomt ,
+221-1|Het is u nut te sijn beschroomt .
+222-1|Cats .
+223-1|Het was op [ @alt ~de~den den ] vier-en-twintigsten van Bloeimaand des jaren 1598 , dat de beroemde Filips van Marnix , Heer van Sint-Aldegonde , een zijner dochteren aan [ @alt ~de~den den ] Vrijheer van Asperen uithuwelijkte .
+223-2|Het [ @alt hoge hooge ] aanzien , waarin 's bruids Vader ten hove stond , de welverdiende roem , [ @alt welke welken ] hem zijn uitmuntende bedrijven [ @alt zo zoo ] in vredes- als in oorlogstijden verworven hadden , de hartelijke genegenheid en ongeveinsde achting , hem door de hoofden van 's Lands bestuur niet alleen , maar ook door de lagere standen toegedragen , hadden de plechtigheid , die zijn geslacht aan een der edelste huizen van [ @alt ~de~den den ] lande verbond , tot een bijna nationaal vreugdefeest verheven .
+223-3|[ @alt Mensen Menschen ] van allen rang , staat en beroep stroomden naar Leiden , waar de inzegening der verloofden in de [ @alt Waalse Waalsche ] kerk zoude plaats hebben : men vleide zich daarenboven , de plechtigheid te zien opgeluisterd door de tegenwoordigheid van Graaf Maurits , die , [ @alt zo zoo ] als het gerucht liep , bereids zijn woord aan [ @alt ~de~den den ] Heer van Aldegonde gegeven had , om met geheel zijn hof het trouwfeest te zullen bijwonen .
+224-1|Was de menigte groot , die , alleen uit nieuwsgierigheid , en zonder nog te weten , hoe daaraan best voldaan zou worden , naar de Academiestad gelokt werd , menigvuldig waren ook de opzettelijk [ @alt genodigden genoodigden ] , ten wier gevalle men voor geschikte plaatsen in de kerk de [ @alt vereiste vereischte ] zorg had gedragen en al de tuinen , die men reeds rondom Leiden begon aan te leggen , van bloemen beroofd , om hun ten blijke hunner hoedanigheid van speelnooten , fraaie ruikers , met kleurige linten versierd , te overhandigen .

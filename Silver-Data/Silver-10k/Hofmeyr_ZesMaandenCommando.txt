@@ -1,0 +1,433 @@
+1-1|Project Gutenberg's Zes maanden bij de commando's , [ @alt bij by ] Nico J. Hofmeyr This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever .
+1-2|You may copy it , give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org Title : Zes maanden bij de commando's Author : Nico J. Hofmeyr Release Date : June 25 , 2013 ( EBook #43034 ) Language : Dutch Character set encoding : ISO-8859-1 * * * START OF THIS PROJECT GUTENBERG EBOOK ZES MAANDEN BIJ DE COMMANDO'S * * * Produced [ @alt bij by ] The Online Distributed Proofreading Team at http://www.pgdp.net ( This file was produced from images generously made available [ @alt bij by ] The Internet Archive/American Libraries . )
+2-1|Opmerkingen van de bewerker
+3-1|De tekst in dit bestand wordt weergegeven in de originele , verouderde spelling .
+3-2|Er is geen poging gedaan de tekst te moderniseren .
+4-1|Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld .
+5-1|Voetnoten zijn hernummerd en verplaatst naar het eind van het hoofdstuk .
+6-1|Variaties in spelling ( met/zonder accent , met/zonder spatie , met/zonder koppelteken ) zijn behouden .
+7-1|Overduidelijke druk- en spelfouten in het origineel zijn gecorrigeerd ; deze zijn voorzien van een dunne oranje stippellijn , waarbij de Brontekst via een zwevende pop-up beschikbaar is .
+8-1|Een overzicht van de aangebrachte correcties is te vinden aan het eind van dit bestand .
+9-1|Van de grote illustraties is een vergroting beschikbaar door op de betreffende illustratie te klikken .
+10-1|ZES MAANDEN BIJ DE COMMANDO'S
+11-1|ZES MAANDEN
+12-1|BIJ
+13-1|DE COMMANDO'S
+14-1|DOOR
+15-1|N. HOFMEYR
+16-1|Aangesteld als Geschiedschrijver van [ @alt ~de~den den ] Oorlog
+17-1|door [ @alt ~de~den den ] Uitvoerenden Raad Z. A. R.
+18-1|'s-Gravenhage
+19-1|W. P. VAN STOCKUM & ZOON
+20-1|1903
+21-1|VOORREDE
+22-1|De volgende bladzijden zijn tijdens [ @alt ~de~den den ] oorlog te Pretoria begonnen en te Oudtshoorn verder voortgezet .
+22-2|Zij zijn niet geschreven , om de [ @alt ene eene ] of andere geliefkoosde stelling , in verband met de [ @alt grote groote ] [ @alt Zuid-Afrikaanse Zuid-Afrikaansche ] worsteling , te verdedigen of te wederleggen .
+22-3|Aan de [ @alt kritiek critiek ] en de politiek heb ik mij [ @alt zoveel zooveel ] mogelijk onthouden .
+22-4|Ik heb slechts willen verhalen , uit een en ander door mij gezien en ondervonden , gedacht en gevoeld gedurende de eerste negen maanden van [ @alt ~de~den den ] strijd , waaraan ook ik , als Transvaalsche burger , heb deelgenomen .
+22-5|Met verstand en geweten , [ @alt zowel zoowel ] als met hart en bloed , sta ik aan de zijde der Republikeinen .
+22-6|Ik maak derhalve [ @alt gene geene ] aanspraak op de schoon-klinkende , maar voor de meeste [ @alt mensen menschen ] onmogelijke onpartijdigheid .
+22-7|Daarbij echter , heb ik [ @alt ~mijn~mijne mijne ] [ @alt ogen oogen ] niet willens en wetens voor het goede en het edele in de tegenpartij gesloten .
+22-8|De klove [ @alt tussen tusschen ] de twee [ @alt grote groote ] blanke rassen van ons land is reeds [ @alt zó zóó ] groot , en [ @alt ene eene ] mannelijke verzoening en samenwerking [ @alt tussen tusschen ] die beide is [ @alt zó zóó ] noodzakelijk voor de stoffelijke , intellectuëele , zedelijke en godsdienstige welvaart van Zuid-Afrika , dat het de plicht van [ @alt elke elken ] [ @alt ware waren ] patriot is , om [ @alt zo zoo ] veel mogelijk die klove te dempen en de [ @alt gewenste gewenschte ] harmonie te bevorderen .
+22-9|Zelfs Sir Alfred Milner - die , onzes inziens , in vele opzichten " de [ @alt tekenen teekenen ] der tijden " in ons zuidhoek verkeerdelijk gelezen heeft - heeft moeten erkennen , dat het heil van Zuid-Afrika in de [ @alt wederkerige wederkeerige ] achting der [ @alt Hollandse Hollandsche ] en [ @alt Engelse Engelsche ] bevolking voor elkander gelegen is .
+22-10|Daartoe heb ik ook het [ @alt ~mijn~mijne mijne ] willen bijdragen , door de eenvoudige en ongekunstelde waarheid en werkelijkheid , [ @alt zo zoo ] als die aan mij duidelijk geworden zijn , zonder vrees of gunst - maar niet zonder liefde , en gastvrijheid van geest - bekend te maken .
+23-1|N. HOFMEYR
+24-1|Oudtshoorn , April 1901
+25-1|I
+26-1|Oorlog of Vrede ?
+27-1|'t Is de maand September van het jaar 1899 .
+27-2|De beide Volksraden zitten te Pretoria .
+27-3|Dikwijls , al te dikwijls is er een geheime zitting , nu eens in [ @alt ~de~den den ] Eersten , dan weêr in [ @alt ~de~den den ] Tweeden Raad .
+27-4|Soms vindt er ook wel een [ @alt verenigde vereenigde ] zitting plaats met gesloten deuren .
+27-5|Wat is er gaande ?
+27-6|Wat wordt er besproken ?
+27-7|De oningewijden weten slechts dit : dat de politieke situatie hoogst ernstig is en dat de oorlogswolken zich boven [ @alt ~de~den den ] geliefden Staat samenpakken .
+28-1|Oorlog of vrede ? - ziedaar de vraag , die in elk hart onophoudelijk opdoemt , en op aller lippen zweeft .
+28-2|Gretig wordt elk nieuwsblad verslonden ; angstig wordt het gelaat van [ @alt ~de~den den ] grijzen President , wanneer hij zijn kantoor verlaat , bestudeerd .
+28-3|Wat zal het zijn ?
+28-4|Is er hoop op een vreedzame schikking ?
+28-5|Is er kans op een eervolle oplossing ?
+28-6|Wat zal het nieuwe depêche nu weer bevatten ?
+28-7|O ! die akelige kabelgrammen !
+28-8|Zij maken het ons [ @alt zo zoo ] zwaar , om kalm en bedaard te denken en te spreken .
+28-9|Zij vullen ons gemoed met toorn .
+28-10|Zij verspreiden een onuitblusschelijk vuur van rassenhaat .
+28-11|Zij willen [ @alt ~de~den den ] oorlog , niets minder dan [ @alt ~de~den den ] oorlog !
+28-12|God vergeve die draadtrekkers : want zij weten niet wat zij doen .
+28-13|Zij lachen nu ; later zullen zij niet meer lachen , maar wel op de tanden knersen .
+29-1|Gij ontmoet iemand op de straat .
+29-2|Vroeger wisselde hij geen woord met u .
+29-3|Thans komt hij u tegen met de ernstige vraag : " weet ge ook wat nieuws over de situatie ?
+29-4|Wat staat ons voor de deur ? "
+29-5|Gij spreekt als oude kennissen met elkander : de [ @alt grote groote ] , brandende , alles verslindende kwestie doet vreemdelingen zelfs voor het [ @alt ogenblik oogenblik ] ineensmelten .
+30-1|Een vriend uit Johannesburg , die uw oordeel nooit over [ @alt enig eenig ] onderwerp inriep , komt u tegen met de vraag : " Zal ik mijn goudaandeelen van de hand zetten , of nog meer geld in [ @alt aandelen aandeelen ] beleggen ? "
+31-1|" Man ! wat weet ik van zulke zaken af ?
+31-2|Ik ben geen makelaar .
+31-3|Waarom vraagt u [ @alt ~mijn~mijne mijne ] opinie over zulke dingen ? "
+32-1|Hij fluistert u in 't oor : " Jij kent meneer Reitz , niet waar ?
+32-2|Of Jan Smuts , [ @alt ~de~den den ] Staats-Procureur ?
+32-3|Of een van de Leden van [ @alt ~de~den den ] Uitvoerenden Raad of [ @alt ~de~den den ] Volksraad .
+32-4|Hebben zij u niets verteld ?
+32-5|Hoe lijkt het , vriend ?
+32-6|Zeg mij in 's hemels naam , wat ik doen moet om ... . geen geld te verliezen . "
+33-1|In vroegere eeuwen klonk het : " wat moet ik doen om zalig te worden ? "
+33-2|Thans hoort men gewoonlijk : " wat moet ik doen , om geld te maken ? "
+33-3|Geld kan immers [ @alt zo zoo ] vele dingen [ @alt kopen koopen ] , die ( op 'n manier ! ) ook zalig maken !
+34-1|Groot is de man , in de maand September 1899 te Pretoria woonachtig , die in een tram gezien wordt met [ @alt ~de~den den ] heer Reitz sprekend - mogelijk over het weêr , of over een gedicht !
+34-2|Nog [ @alt groter grooter ] de man , die zich een vriend van een Lid van [ @alt ~de~den den ] Uitvoerenden Raad durft noemen .
+34-3|Grootste van al , die [ @alt ~zijn~zijne zijne ] pijp met presidentieel tabak op [ @alt de den ] [ @alt welbekende welbekenden ] stoep in de Kerkstraat gestopt heeft !
+34-4|Elk een , die hem tegen komt , verlangt van hem het jongste nieuwtje te vernemen .
+34-5|Elk een hoopt door [ @alt ~zijn~zijne zijne ] bemiddeling een kijkje achter de gordijnen te krijgen .
+35-1|Oorlog of Vrede ?
+35-2|Wat zal het zijn ?
+35-3|Waar gaan wij [ @alt heen henen ] ?
+35-4|Wat staat ons voor de deur ?
+35-5|Elk huis , elk hart , elk uur , elke plaats wordt overschaduwd door een donkere , angstige onzekerheid , over het [ @alt ganse gansche ] Zuid-Afrika hangt er een huivering-wekkend ?
+36-1|Johannesburg loopt langzamerhand leêg , zeggen de couranten .
+36-2|De " Uitlanders " , die hun uiterste krachten hadden ingespannen om de Transvaal in een oorlog met Engeland te wikkelen , zijn nu zeker dat hun doel zal bereikt worden .
+36-3|Zij gaan derhalve bijtijds naar Durban , Port Elizabeth of de Kaapstad - " voor [ @alt enige eenige ] weken , of maanden , " zeggen zij , " wanneer de [ @alt Britse Britsche ] legers wel zegevierend Pretoria zullen instappen . "
+36-4|Twee , later drie treinen per dag dragen de loyale Britten en anderen , die zich in [ @alt de den ] [ @alt naderende naderenden ] strijd niet mengen willen , naar de kust .
+36-5|'t Is een slecht [ @alt teken teeken ] voor degenen , die [ @alt ~de~den den ] vrede [ @alt begeren begeeren ] en om [ @alt ~de~den den ] vrede bidden .
+36-6|De schaduw des oorlogs schijnt bij voorbaat reeds op het land te vallen .
+36-7|De [ @alt Engelse Engelsche ] nieuwsbladen worden al onstuimiger .
+36-8|Zij blazen het oorlogsvuur al meer en meer aan .
+36-9|Zij ontvlammen de kalmste en bezadigste gemoederen .
+36-10|Weten zij wel wat zij doen ?
+36-11|Willen zij de zaden van een eeuwigen rassenhaat in Zuid-Afrika planten ?
+36-12|Willen zij het [ @alt Britse Britsche ] volk bedwelmen door hun buitensporige artikels , hun lage leugentaal , hun hartstochtelijke uitbarstingen ?
+36-13|Willen zij de [ @alt Regering Regeering ] , de Raadsleden , ja elken man en elke vrouw , die zich " Transvaler " of " Afrikaner " noemt , met woede vervullen , en [ @alt alzo alzoo ] een vreedzame schikking onmogelijk maken ?
+36-14|Helaas ! het schijnt maar al te waar : de Star , de Transvaal Leader , de Cape Times , om andere organen niet te noemen , werken met macht en kracht voor [ @alt ~de~den den ] oorlog en tegen alle toenadering [ @alt tussen tusschen ] de twee [ @alt Regeringen Regeeringen ] en volkeren , die elkander reeds niet te veel liefde toedragen .
+37-1|Groot is de macht der pers ; [ @alt groter grooter ] is de macht van het goud der kapitalisten ; [ @alt verenigd vereenigd ] in een onheilig verbond kunnen die twee machten [ @alt werelddelen werelddeelen ] tegen elkaar in 't harnas jagen .
+38-1|Menig gesprek mocht ik in die dagen van spanning met mijn twee naaste buren , de [ @alt heren heeren ] Piet Cronjé en Koos de la Rey , voeren .
+38-2|Eerstgemelde hield met de hem [ @alt ~eigen~eigene eigene ] hardnekkigheid vol , dat het tot geen oorlog komen zou .
+38-3|" God zou het niet [ @alt zo zoo ] ver laten komen " - was zijn vast geloof .
+38-4|Tot op het laatst nog , toen hij mij groette bij zijn vertrek als Hoofd-Generaal der westelijke commando's - toen nog beweerde hij heel kalm , dat er een vreedzame oplossing zou gevonden worden .
+39-1|Kenmerkend van [ @alt ~de~den den ] man is het volgende , dat ik bijna woordelijk , [ @alt zo zoo ] als door hemzelven gesproken , teruggeef .
+39-2|Het was op een namiddag , kort na hij van [ @alt ene eene ] vergadering van [ @alt ~de~den den ] Uitvoerenden Raad , ( waarvan hij lid was ) naar zijn woonhuis was teruggekeerd , dat ik hem ging bezoeken .
+39-3|Voor [ @alt zo zoo ] ver ik mij herinner , gebeurde het tegen het midden van de maand September .
+40-1|" Er zal geen oorlog zijn , " zei de grijze held , op zijn zachte doch zeer besliste wijze .
+40-2|" God heeft het mij in een droom of gezicht geopenbaard .
+40-3|Ik zag een groot beest op mij afkomen .
+40-4|Het was een [ @alt vreselijk vreeselijk ] monster - een soort beer , of [ @mwu zoo iets ] .
+40-5|Het kwam al nader en nader .
+40-6|Ik was in [ @alt de den ] [ @alt grootste grootsten ] nood , want ik had slechts mijn knipmes als wapen tegen het beest .
+40-7|Het ding scheen op het punt om op mij te springen .
+40-8|Wanhopig opende ik mijn mes om mij te verdedigen .
+40-9|Doch ziet ! wat gebeurde ?
+40-10|Het ondier viel vlak voor mij neêr , [ @alt zo zoo ] effens links van mij , en lag doodstil op zijn rechter zij .
+40-11|Verbaasd liep ik toe , om het van nabij te bekijken - en toen zag ik , wat er meê gebeurd was : er waren [ @alt grote groote ] , sterke touwen of draden om zijn lijf gewikkeld , [ @alt zodat zoodat ] het monster zich niet kon verroeren ! "
+41-1|Op [ @alt ~mijn~mijne mijne ] vraag : wat dat al mocht beduiden , antwoordde mijn eerbiedwaardige oude vriend met [ @alt de den ] [ @alt grootste grootsten ] eenvoud .
+41-2|" Kijk , het beest moet natuurlijk Engeland , het machtige Engeland voorstellen .
+41-3|Ik ben de Transvaal .
+41-4|De touwen of draden zijn [ @alt Europese Europeesche ] verwikkelingen , die Engeland beletten zullen om ons te verbrijzelen . "
+42-1|Toen ik later [ @alt enige eenige ] maanden te Magersfontein bij Generaal Cronjé's commando's vertoefde , vond ik in hem nog dezelfde kinderlijke , eenvoudige zekerheid , dat God hem zijn wil bekend maakte , ook in verband met oorlogszaken !
+43-1|De man , die later als Generaal de la Rey wereldberoemd zou worden , was van een [ @alt gans gansch ] anderen stempel .
+43-2|Hij had ook een ander oordeel over de brandende kwestie van [ @alt ~de~den den ] dag .
+43-3|Innig vroom , [ @alt zoals zooals ] bijna alle mannen van karakter en gewicht onder het oudere geslacht der Boeren , was hij daarbij volkomen nuchter en helder van geest .
+43-4|Hij was een Lid van [ @alt ~de~den den ] Eersten Raad , die steeds als " progressief " gekenmerkt stond .
+43-5|In menig opzicht veroordeelde hij de politiek van President Kruger .
+43-6|Zijn patriotisme was boven allen twijfel verheven , maar hij gaf zich nooit over aan blinde partijzucht en uiterste maatregelen .
+43-7|" De [ @alt tekenen teekenen ] der tijden " bestudeerde hij met zijn helder en gezond verstand en zij leerden hem het volgende : " Er is een oorlog op handen " - zei hij , kalm , ernstig , bedroefd , vooral bedroefd .
+43-8|" Wij kunnen er niets aan doen .
+43-9|Al geven wij ook toe op het punt van 't stemrecht , het zal toch niet helpen .
+43-10|Onze vijanden willen ons land , ons goud hebben .
+43-11|Als wij op één punt toegeven , komt er weer een tweede [ @alt eis eisch ] voor [ @alt ~de~den den ] dag .
+43-12|Als het tweede uit [ @alt ~de~den den ] weg geruimd wordt , komt er een derde op het [ @alt toneel tooneel ] .
+43-13|En [ @alt zo zoo ] zal het voortgaan , totdat de vijand zijn zin krijgt .
+43-14|'t Is een uitgemaakte zaak - welke concessies wij ook geven - hoe wij ons ook vernederen - de oorlog komt gewis . "
+44-1|Heel toevallig kwam ik in die onvergetelijke dagen ook met mijn ouden vriend uit [ @alt ~de~den den ] Vrijstaat , [ @alt ~de~den den ] heer Christiaan de Wet in aanraking .
+44-2|Het was op het perron van het prachtige Park-Station te Johannesburg dat wij elkander [ @alt enige eenige ] minuten mochten zien .
+44-3|Het gesprek liep over de bekende " Gezamenlijke Commissie " door [ @alt ~de~den den ] heer Chamberlain in een zijner laatste depêches voorgesteld .
+44-4|Ik trachtte een woordje ten gunste der aanname van dat voorstel intebrengen , maar de toekomstige held van Sanna's Post was er beslist tegen .
+44-5|Hij zag er geen heil in , daar hij [ @alt ~de~den den ] heer Chamberlain met een volkomen wantrouwen wantrouwde ?
+44-6|Ook hij was van oordeel , dat " de [ @alt Engelsen Engelschen ] ons land en onze mijnen wilden hebben . "
+44-7|Ook hij meende , dat de oorlog geheel en al onvermijdelijk was .
+44-8|Ook hij protesteerde , dat er [ @alt gene geene ] schikking zou of kon plaats vinden .
+44-9|Met innige droefheid zag de la Rey [ @alt de den ] [ @alt naderende naderenden ] storm tegemoet , met uitdagende fierheid riep de Wet uit : " Laat hem komen . "
+44-10|Kalm als een Stoicijn redeneerde de schrandere Transvaler over [ @alt de den ] [ @alt onvermijdelijke onvermijdelijken ] strijd ; de onverschrokkene Vrijstater deed denken aan het ongeduldige oorlogsros van 't Boek Job , " dat [ @alt ~de~den den ] Krijg van verre riekt . "
+44-11|Beiden zijn zij later gewogen , keer op keer gewogen in de hitte [ @alt zowel zoowel ] als de koude des strijds , in maanden van voorspoed en in weken van moedeloosheid , - en geen van beide werd te licht bevonden .
+45-1|Voor [ @alt enige eenige ] dagen flikkerde de hoop op een vreedzame oplossing der situatie weêr op in menig vredelievend gemoed , maar ook dat laatste vonkje werd spoedig uit [ @alt geblust gebluscht ] .
+45-2|Wij zinspelen op de delikate , semi-officieele onderhandeling [ @alt tussen tusschen ] [ @alt ~de~den den ] Heer Jan Smuts , [ @alt ~de~den den ] Staatsprocureur , en [ @alt ~de~den den ] Heer Conyngham Greene , [ @alt ~de~den den ] [ @alt Britsen Britschen ] Agent te Pretoria .
+45-3|Onze lezers weten , hoe de ongelukkige schaduw der [ @alt zogenaamde zoogenaamde ] " Suzereiniteit " - dat onheilspellend spook uit de Middeleeuwen - ook die poging verijdelde .
+45-4|Bijna kwam het tot [ @alt ene eene ] overeenkomst , maar helaas ! de teleurstelling was des te pijnlijker , omdat de verzoening [ @alt zo zoo ] nabij scheen : -
+46-1|" The pity of it , Iago , the pity of it . "
+47-1|De stroom was te machtig geworden .
+47-2|De oorlogskoorts was te hoog gestegen .
+47-3|Het bloed van Majuba scheen om wraak te roepen , en 't [ @alt Engelse Engelsche ] volk riep luide om oorlog .
+47-4|" Majuba moet gewroken !
+47-5|Majuba moet gewroken ! " - [ @alt zo zoo ] klonk het uit veler mond en in veel meer harten .
+47-6|De couranten en tijdschriften - ja , zelfs de kansels - hadden
+48-1|gezaaid ; het zaad had diepe wortels geschoten ; de oogsttijd was gekomen .
+49-1|De oorlogskoorts ging van [ @alt ~de~den den ] Brit op [ @alt ~de~den den ] Boer over .
+50-1|" Niet meer toegeven !
+50-2|Geen duim meer ! " - klonk het door de lengte en breedte van [ @alt ~de~den den ] Transvaal .
+50-3|" Genoeg , genoeg ! " - riepen de Vrijstaters .
+50-4|En de Koloniale Afrikaanders , en ook velen , die zich niet Afrikaanders maar Britten noemen , zeiden " Amen " erop .
+50-5|De Republikeinen van Zuid-Afrika waren immers ook [ @alt mensen menschen ] van [ @alt vlees vleesch ] en bloed , en van gelijke beweging als andere natiën .
+50-6|Zij werden boos ; zij werden woedend .
+50-7|De maat hunner vernedering was vol geworden .
+50-8|[ @alt ~Hun~Hunne Hunne ] schande werd ondragelijk .
+50-9|Hun toorn liep over .
+50-10|Hun nationaal zelfrespect was op 't spel .
+50-11|Hun nationaal bestaan scheen bedreigd .
+50-12|Welaan dan , liever als helden sterven , dan als verachte lafaards blijven leven .
+51-1|II
+52-1|Te Wapen !
+53-1|Generaal Joubert , de bekende Commandant-Generaal van [ @alt ~de~den den ] Transvaal was een van de meest vredelievende [ @alt mensen menschen ] op [ @alt ~de~den den ] aardbodem .
+53-2|De natuur heeft hem niet voor een man van ijzer en bloed bestemd , maar de burgers kozen hem nochtans herhaaldelijk tot Opperbevelhebber .
+53-3|[ @alt ~Zijn~Zijne Zijne ] politiek , als Lid van het Uitvoerend Gezag , was tevens allesbehalve vijandig tegen Uitlander of [ @alt Engelsman Engelschman ] .
+53-4|Hij pleitte steeds voor een gematigde , billijke , sympathieke behandeling van alle kwesties [ @alt tussen tusschen ] de oude en de nieuwe burgers .
+53-5|[ @alt ~De~Den Den ] heer Rhodes wantrouwde hij lang voor [ @alt ~de~den den ] Jameson-Inval reeds , maar hij wanhoopte niet aan de mogelijkheid van harmonie , samenwerking en vrede [ @alt tussen tusschen ] Brit en Boer .
+53-6|Zijn ideaal mocht hij echter niet verwezenlijkt zien .
+53-7|Integendeel , de [ @alt grote groote ] Boer-Kampioen voor de Uitlander-zaak werd door een vreemd noodlot bestemd , om zijn volk tegen Uitlander en [ @alt Engelsman Engelschman ] in [ @alt ~de~den den ] krijg aantevoeren .
+53-8|Waarlijk : " de [ @alt mens mensch ] mikt , maar God beschikt " !
+53-9|Sedert [ @alt ~de~den den ] onbezonnen en verraderlijken inval van Dr. Jameson op Transvaalschen bodem won de anti-Engelsche politiek bij [ @alt ~de~den den ] dag veld , en de jongste presidentsverkiezing was slechter dan [ @alt enig eenig ] vorige voor [ @alt ~de~den den ] Generaal uitgevallen .
+53-10|De tijden en de winden waren hem inderdaad tegen .
+54-1|Lang , echter , verzette hij zich tegen de gedachte zelfs , dat er een oorlog aan de deur van Zuid-Afrika klopte .
+54-2|De gedachte was hem te onaangenaam , te akelig , te verschrikkelijk .
+54-3|Hij hield de [ @alt ogen oogen ] [ @alt zolang zoolang ] mogelijk er van af .
+54-4|Hij hoopte tegen de hoop , lang na alle anderen alle hoop op vrede hadden vaarwel gezegd .
+54-5|[ @alt ~Zijn~Zijne Zijne ] [ @alt wens wensch ] worstelde met de werkelijkheid , [ @alt ~zijn~zijne zijne ] idealen bekampten [ @alt ~zijn~zijne zijne ] overtuigingen .
+55-1|De [ @alt Britse Britsche ] troepen worden nader en steeds nader naar onze grenzen geschoven .
+55-2|Bij Kimberley vooral zijn zij gevaarlijk dicht bij de Vrijstaatsche lijn .
+55-3|Een gevoel van angst en onrust trilt door de Republieken .
+55-4|Men herinnert zich de bange dagen van Jameson .
+55-5|Men vreest [ @alt ene eene ] herhaling van die geschiedenis - op [ @alt grote groote ] schaal !
+55-6|Allerlei geruchten vliegen van mond tot mond - [ @alt zoals zooals ] in dagen van overspanning en angst [ @alt altijd altoos ] het geval is .
+55-7|Aan kalme [ @alt redenering redeneering ] is er , wat de [ @alt grote groote ] meerderheid der bevolking betreft , een einde , en de [ @alt algemene algemeene ] opinie is : dat de oorlog hoe eerder hoe liever maar beginnen moest .
+56-1|O ! dat waren dagen , zwanger aan [ @alt grote groote ] gebeurtenissen - gebeurtenissen , die niemand kon beletten , die niemand kon bedwingen .
+56-2|De verstandigste , gematigdste , meest verlichte en progressieve Transvalers redeneerden ( met enkele uitzonderingen ) als volgt :
+57-1|" Daar de oorlog toch onvermijdelijk is , laat het dan hoe eerder hoe liever maar tot het uiterste komen .
+57-2|De [ @alt Engelsen Engelschen ] hebben veel belang er bij om tijd te winnen .
+57-3|Ons [ @alt enig eenig ] voordeel ligt hierin , dat wij terstond beginnen !
+57-4|Indien wij wachten , zullen wij al de strijdbare krachten van Engeland te gelijk te bekampen hebben .
+57-5|Nu kunnen wij ze " bij de kleine maat " beet pakken , eerst de troepen , die reeds in Zuid-Afrika zijn , daarna de legers , die geland zullen worden .
+57-6|Als wij bevinden , dat wij tegen White , Baden-Powell en Kekewich niet bestand zijn , dan kunnen wij het hoofd in [ @alt ~de~den den ] schoot leggen en vrede vragen .
+57-7|Er is bitter weinig kans voor ons , om het op [ @alt ~de~den den ] duur te winnen , maar hoe langer wij wachten , hoe kleiner wordt de kleine kans .
+57-8|De strijd wordt al ongelijker en zwaarder , hoe langer hij wordt vertraagd .
+57-9|" Nu of nooit " - dat is ons wachtwoord ! "
+58-1|Tegen 't begin van October begonnen de commando's zich te verzamelen op de grenzen der [ @alt Zuid-Afrikaanse Zuid-Afrikaansche ] Republiek .
+58-2|Weken te voren , echter , begon het Staats-Gymnasium leêg te [ @alt lopen loopen ] .
+58-3|Niemand werd opgeroepen , maar elkeen wilde " op commando " gaan .
+58-4|Geen een werd gecommandeerd , maar ruim veertien dagen voor [ @alt ~de~den den ] oorlog zat er geen enkele buitenjongen van zestien en opwaarts op de schoolbanken .
+58-5|Zij hadden [ @alt ~hun~hunne hunne ] ouders per brief gesmeekt om ook het geweer in de vuist te mogen leggen , en o ! hoe blijde waren zij , wanneer er een gunstig oor aan hun [ @alt smeken smeeken ] verleend werd .
+59-1|[ @alt Vrolijke Vroolijke ] , bezielde jongens ! nog zie ik u , een voor een , uit de klas verdwijnen .
+59-2|Nog hoor ik het " Meneer ! ik moet naar huis .
+59-3|Mijn vader zegt , ik kan ook op commando gaan . "
+59-4|En dan werd er haastig hier en daar met de hand gegroet en de jongen verdween , door al de achterblijvenden benijd .
+59-5|[ @alt De Den ] [ @alt volgende volgenden ] morgen werd hetzelfde [ @alt toneel tooneel ] herhaald , totdat het Gymnasium , [ @alt zo zoo ] wat tien dagen voor [ @alt ~de~den den ] oorlog , moest gesloten worden , omdat er [ @alt zo zoo ] weinig leerlingen waren .
+60-1|[ @alt Vrolijke Vroolijke ] , onbedachtzame jongens !
+60-2|Ik heb meer dan een van u later bij de commando's ontmoet , nadat gij bij [ @alt ~eigen~eigene eigene ] ervaring de [ @alt betekenis beteekenis ] van het [ @alt vreselijk vreeselijk ] woord , oorlog , geleerd had .
+60-3|Toen stond er ernst , [ @alt zo zoo ] wel als levenslust op uw gelaat te lezen .
+60-4|Toen hadt gij mij veel van gevechten te vertellen , maar niet zonder ' [ @alt vrees vreeze ] en beving ' .
+60-5|Toen waren er weinigen onder u , die geen bloedverwant of vriend onder de gesneuvelden betreurden .
+61-1|[ @alt Vrolijke Vroolijke ] , dappere jongens !
+61-2|Velen uwer zijn niet meer in het land der levenden .
+61-3|Ik heb uwe graven gezien bij Dundee en Elandslaagte en Magersfontein .
+61-4|Uwe [ @alt tedere teedere ] beenderen zijn aan de oevers van de Tugela en de Modderrivier begraven , en over vele andere slagvelden verstrooid .
+61-5|In 't prille uwer jeugd zijt gij afgesneden , gij edele zonen van een edel geslacht .
+61-6|Gij wordt door menig vader- en moederhart beweend , maar de dag komt dat uwe dierbaren over u slechts roemen zullen , want gij stierft voor vaderland en voor volk , en fluistert ons toe van uit het rijk der [ @alt doden dooden ] :
+62-1|Dulce est pro patria mori .
+63-1|De geestdrift om te velde te trekken was algemeen in de eerste dagen van October .
+63-2|Alle klassen en standen wedijverden met elkander in vaderlandsliefde en offervaardigheid .
+63-3|Elk beroep en ambt werd onder de commando's vertegenwoordigd .
+63-4|Alle talen werden er gehoord .
+63-5|Geen nationaliteit werd er gemist - zelfs niet de [ @alt Engelse Engelsche ] , daar er verscheidene geboren Britten in de Transvaal waren , die van harte met de republieken sympathiseerden .
+63-6|Welk een [ @alt toneel tooneel ] was er dagelijks bij het spoorwegstation te Pretoria te zien !
+63-7|De [ @alt Britse Britsche ] Agent verstomde zich en zelfs de Transvaalsche [ @alt Regering Regeering ] was verbaasd over de wonderbare eenstemmigheid en de [ @alt hoge hooge ] geestdrift die er allerwege geopenbaard werden .
+63-8|Boeren en ambtenaren , advocaten en procureurs , winkeliers en agenten , schoolmeesters en klerken , pennelikkers en ellenridders - zij waren allen met één geest vervuld ; zij snelden allen naar de grenzen van hun geboorteland of aangenomen vaderland ; zij gevoelden zich allen bereid en gewillig , om voor een vrije Transvaal te vechten en , [ @alt zo zoo ] [ @alt nodig noodig ] , te vallen .
+63-9|Velen hunner waren lange jaren [ @alt Britse Britsche ] onderdanen geweest ; sommigen hadden [ @alt de den ] [ @alt grootste grootsten ] eerbied voor Engelands geschiedenis en instellingen ; allen wisten zij echter , even als elk ware Brit of Rus , [ @alt Duitser Duitscher ] of [ @alt Fransman Franschman ] of Japanner het weet : dat het veel beter en edeler is om een vrij , dan om een onderworpen volk te zijn .
+64-1|" Gaat gij ook tegen de [ @alt Engelsen Engelschen ] vechten , indien het tot een oorlog komt ? " - de vraag werd mij op straat door mijn [ @alt Engelsen Engelschen ] collega gedaan .
+65-1|" Wel stellig " - was mijn antwoord .
+65-2|" Er bestaat bij mij geen kwestie in deze . "
+66-1|Hij stond stil en zag mij aan , om te zien of ik het werkelijk meende .
+66-2|Toen vervolgde hij :
+67-1|" Ik verbaas mij , hoe jullie Koloniale kerels [ @alt zo zoo ] kunt spreken .
+67-2|'t Is mij een raadsel ! "
+68-1|De uitleg ligt echter voor de hand .
+68-2|Het raadsel is gemakkelijk op te lossen .
+68-3|Ziet ! de liberale kieswet , pas door [ @alt ~de~den den ] Volksraad aangenomen , had ons allen met de [ @alt Regering Regeering ] van [ @alt ~de~den den ] Transvaal geheel en al verzoend .
+68-4|Wij waren tevreden met " Zeven Jaren " verblijf in 't land , als voorwaarde van burgerschap .
+68-5|Het hardnekkig vastklemmen aan de leuze : " Vijf Jaar !
+68-6|Niets minder dan dat " - scheen ons , op zijn zachtst gezegd , [ @alt ene eene ] kleingeestige openbaring van [ @alt Engelse Engelsche ] verwaandheid en verachting van andersdenkenden .
+68-7|De oude Transvalers hadden onze bewondering en liefde gewonnen , door de zware offers die zij ter wille van [ @alt de den ] [ @alt lieve lieven ] vrede brachten .
+68-8|De Imperiale [ @alt Regering Regeering ] had onze verbazing en ons wantrouwen opgewekt , door haar [ @alt zogenaamde zoogenaamde ] " gewapende pressie " om inwendige veranderingen in de Republiek te verkrijgen .
+68-9|De steeds klimmende [ @alt eisen eischen ] van [ @alt ~de~den den ] heer Chamberlain vermeerderden onze sympathie met onze conservatieve [ @alt Regering Regeering ] en Volksraadsleden .
+68-10|De [ @alt valse valsche ] beschuldiging omtrent een [ @alt zogenaamd zoogenaamd ] " Hollandsch-Afrikaansch Komplot tegen [ @alt Britse Britsche ] Heerschappij in Zuid-Afrika " droeg ook zeer veel bij om ons met verontwaardiging tegenover de " nieuwe methoden " van Imperiale Staatslieden te vervullen , terwijl de lage lasterlijke scheldwoorden tegen de voornaamste Hollandsch-sprekende Transvalers , Vrijstaters en Kolonisten geslingerd , ons met verontwaardiging en toorn bezielden .
+68-11|Ons algemeen [ @alt menselijk menschelijk ] gevoel , ons rechtsgevoel , [ @alt zowel zoowel ] als ons nationaal gevoel smolten ons met de Transvalers en Vrijstaters samen .
+68-12|Het gold niet een zekere [ @alt regering regeering ] , maar een [ @alt ~eigen~eigene eigene ] [ @alt regering regeering ] , die op onrechtvaardige wijze bedreigd werd .
+68-13|Het was geen despotisme of oligarchie meer , die men wilde omverwerpen , maar een vrij volk , dat men aan banden wilde leggen .
+68-14|Vooral was het ons duidelijk , dat het om geen kiesrecht te doen was maar om [ @alt ~de~den den ] val van het Afrikaanderdom .
+68-15|De twist was niet aanvaard om [ @alt Britse Britsche ] onderdanen te Johannesburg in Republikeinen te veranderen , maar om geheel Zuid-Afrika onder de [ @alt Engelse Engelsche ] vlag te brengen en alle Afrikaanders in Zuid-Afrika tot Britten te herscheppen .
+69-1|[ @alt Zo Zoo ] dachten , [ @alt zo zoo ] gevoelden wij althans , en elkeen onzer , die een greintje eergevoel had , riep terstond uit : " Ik heb [ @alt gene geene ] keuze .
+69-2|Ik werp mijn lot in met de Republieken , en dat wel van heeler harte . "
+70-1|Daarbij kan nog gevoegd , dat wij als volle of genaturaliseerde burgers door onzen eed verplicht waren , om onze [ @alt Regering Regeering ] loyaal in de ure van gevaar te steunen - maar in die onvergetelijke dagen van ridderlijke opgewondenheid was de geest , die ons bezielde , [ @alt zó zóó ] warm , [ @alt zó zóó ] gloeiend , [ @alt zó zóó ] vrij , dat het koude woord " plicht " zich vooreerst niet behoefde te doen gelden .
+71-1|De Hollanders gedroegen zich flink .
+71-2|Een sterk corps werd er georganiseerd en van de voornaamsten en invloedrijksten sloten zich vrijwillig erbij aan .
+71-3|In deze waren zij alle andere genaturaliseerde burgers ten voorbeeld .
+71-4|Zij togen ten strijde , niet slechts omdat zij veel aan de [ @alt Regering Regeering ] te danken hadden , maar omdat zij zich ten nauwste aan het Transvaalsche volk verbonden gevoelden en ook van ouds af aan " menig appeltje " met Engeland " te schillen " hadden .
+72-1|Vele Ieren kwamen zich ook met geestdrift aanbieden , om tegen Engeland de wapenen optenemen .
+72-2|Ook zij hadden vele bittere geschiedkundige herinneringen , die ze in deze aanspoorden .
+72-3|Ook zij wisten van onrechtvaardige behandeling en van onderdrukking van [ @alt ~de~den den ] zwakke door [ @alt ~de~den den ] sterkere te spreken .
+72-4|Ook zij behoorden tot [ @alt ene eene ] natie , die naar vrijheid dorstte , maar onder de " beschermende vleugelen " van 't Imperialisme aan 't verkwijnen en uitsterven was .
+72-5|Geen wonder dus , dat [ @alt zo zoo ] vele vurige zonen van Erin zich bij de bedaarde Boeren aansloten .
+72-6|Zij hielpen mede , niet omdat zij onze [ @alt Regering Regeering ] lief hadden , maar omdat zij de Imperiale [ @alt Regering Regeering ] haatten .
+73-1|Ook een [ @alt Duits Duitsch ] Corps werd er op de been gebracht , de Scandinaviërs van Johannesburg volgden weldra hun voorbeeld , terwijl een aanzienlijk getal Italianen en zelfs [ @alt enige eenige ] [ @alt Fransen Franschen ] ook " op commando " gingen .
+74-1|In die eerste dagen van [ @alt schone schoone ] enthousiasme en edele offervaardigheid werd de eenheid der Transvalers vooral treffend geopenbaard .
+74-2|Alle verdeeldheid was terstond uit de wereld verdwenen .
+74-3|Elke grieve tegen de [ @alt Regering Regeering ] was vergeten ; elk vermeend onrecht vergeven .
+74-4|Alle partijgevoel ontplooide zich tot nationaal-gevoel .
+74-5|Conservatieven , progressieven , regeeringsmannen , opgevoeden en ongeletterden , godsdienstigen van alle gezindten en ongodsdienstigen van welke kleur ook - allen toonden zich één volk te zijn .
+74-6|Ja , mannen boven de zestig wedijverden in die onvergetelijk-schoone dagen der " eerste liefde " voor land en volk met jongens beneden de zestien , in ijver en ongeduld om de vierkleur te gaan verdedigen .
+74-7|Eén machtige polsslag trilde er door het [ @alt ganse gansche ] land -
+75-1|Bliss was it in that dawn to be alive ,
+76-1|But to be young was very Heaven .
+77-1|( Wordsworth ) .
+78-1|Een typisch verhaal uit die dagen verdient aan de vergetelheid ontrukt te worden .
+78-2|Een gymnasiast van [ @alt zo zoo ] wat zestien zomers , wiens vader erop tegen was , dat hij zich vrijwillig bij een of ander commando zou voegen , besloot zijn eigen weg naar het front te vinden .
+78-3|Op de [ @alt ene eene ] of andere wijze wist hij een Mauser-geweer en bandelier in handen te krijgen en , aldus gewapend , liep onze jonge burger op 'n avond naar het station te Pretoria .
+78-4|Ongelukkig voor [ @alt ~de~den den ] jongen Orlando Furioso , zou er geen trein naar de Natalsche grens vóór [ @alt de den ] [ @alt volgende volgenden ] morgen vertrekken .
+78-5|Dit wist onze vriend echter niet en , daar de chef hem dikwijls gezien had en zijn vader goed kende , ontbrak hem [ @alt ~de~den den ] moed om te veel nieuwsgierigheid omtrent [ @alt ~de~den den ] treindienst aan [ @alt ~de~den den ] dag te leggen .
+78-6|In een [ @alt grote groote ] overjas gehuld en met het hoofd in een [ @alt ruime ruimen ] hoed gedoken , stapte hij heen en weer op het perron als een soldaat op de wacht ... .
+78-7|Het sloeg tien uur - en geen trein vertrok naar het zuiden !
+78-8|Twaalf uur - nog geen kans om weg te komen !
+78-9|Hé , wat nu gedaan ?
+78-10|Naar huis gaan ?
+78-11|Néén , hij was reeds te ver gegaan en vreesde zijn vader te ontmoeten .
+78-12|Op en af , op en af stapte de would-be soldaat ongeduldig en radeloos .
+78-13|Wanneer gaat er toch een trein ?
+78-14|Het sloeg één uur .
+78-15|" Lieve hemel , wat moet ik beginnen ? " - dacht de kleine vuur-eter .
+78-16|" Hoe kom ik weg ?
+78-17|Hoe kom ik naar huis ?
+78-18|Heer ! waar dan heen ? "
+79-1|Ongeveer twee uur in [ @alt ~de~den den ] nacht kwam de beangste vader bij het station aangevlogen .
+79-2|" Hebt je ook misschien mijn zoontje hier gisteren avond gezien ? " vroeg hij [ @alt ~de~den den ] stationschef vervaard en buiten adem .
+79-3|" Overal rond bij zijn speelmakkers heb te vergeefs naar de ondeugd gezocht .
+79-4|Zeg mij toch , was hij niet misschien op het perron in [ @alt ~de~den den ] nacht ? "
+80-1|De chef liet [ @alt ~zijn~zijne zijne ] gedachten gaan en na een korte pauze viel het hem te binnen , dat hij een [ @alt jonge jongen ] meer dan eens op het perron bemerkt had .
+80-2|Mogelijk was dat het mannetje , dat absent was zonder verlof !
+80-3|Hij uitte [ @alt enige eenige ] woorden in [ @alt ~die~dien dien ] zin en - [ @alt enige eenige ] seconden later werd de kwâjongen levensgroot door zijn eigen vader ontdekt !
+81-1|Het beste deel van de grap kwam echter eerst later voor [ @alt ~de~den den ] dag .
+81-2|De kleine deugniet wist het heel spoedig met vader in orde te krijgen , - vooral toen de moeder van blijdschap over [ @alt ~de~den den ] terugkeer van haar verloren zoon in tranen uitbarstte .
+81-3|Hij had echter een speelmaat in zijn vertrouwen genomen en , zelf aan alle gevaar van straf [ @alt zo zoo ] heerlijk ontkomen , besloot hij zijn onschuldigen vriend een prettige poets te bakken .
+81-4|Die trouwe medeplichtige had hem plechtig beloofd , om vroeg op [ @alt ~de~den den ] morgen na [ @alt ~zijn~zijne zijne ] vlucht het [ @alt hele heele ] geheim aan zijn ouders te komen bekend maken .
+81-5|Daar kwam hij ook werkelijk aangestapt , tot barstens toe vol van de gewichtige tijding , die hem als lood op het gemoed drukte .
+81-6|De held van ons verhaal bevond zich toen juist in [ @alt ~de~den den ] tuin vóór de ouderlijke woning , in 't gezelschap van zijn verzoenden en verheugden vader .
+81-7|Ongemerkt verdween hij achter een boom , zonder een woord te spreken .
+81-8|[ @alt Alzo Alzoo ] hoorde hij , hoe zijn boezemvriend het pijnlijke nieuws omtrent [ @alt ~zijn~zijne zijne ] ontvluchting naar de commando's met bevende stem bekend stelde , met de hoop eindigende , dat de vader [ @alt ~de~den den ] weglooper toch zou vergeven , daar hij stellig met roem beladen naar huis zou [ @alt terugkeren terugkeeren ] !
+81-9|- Ha !
+81-10|Ha !
+81-11|Ha ! schaterde ons levendig ventje het meteen uit , terwijl hij te voorschijn kwam en zijn verlegen vriend de hand drukte .
+82-1|De wakkere , levendige jongen kreeg later toch zijn zin .
+82-2|Hij ging naar Ladysmith , met goedkeuring zijner ouders , en gedroeg zich bijzonder knap in menig gevecht , zonder iemands verlof daartoe te vragen .
+83-1|Zulke en dergelijke gevallen kwamen er dikwijls in die
+84-1|tijden voor .
+84-2|Schoolknaapjes van twaalf en dertien sprongen binnen in de wagens , op [ @alt open opene ] " trucks " staande , gereed om met de burgers naar het front te gaan .
+84-3|Sommige werden ontdekt en moesten weêr naar de schoolbanken terug ; enkelen wisten op die wijze te ontsnappen , om later tot verbazing van ouder of voogd bij een of ander commando weêr opteduiken .
+84-4|Heel kleine jongens wisten een rijpaard te bemeesteren - mogelijk te stelen ! - en weenden bitterlijk , toen het dier hun ontnomen en aan oudere en [ @alt grotere grootere ] burgers gegeven werd .
+84-5|In Natal zag ik telkenmale twee kleine zonen van Erin , geen tien jaar oud , onder het [ @alt Ierse Iersche ] Corps bij Ladysmith .
+84-6|Zij waren onopgemerkt in een bagagewagen te Johannesburg geklommen , werd mij verteld , en later stonden hun vaders ( die leden van 't corps waren ) verstomd , toen de kleine snaken als 't ware uit een meelzak te Zandspruit vielen .
+85-1|III
+86-1|Te Zandspruit
+87-1|Op een namiddag kwam Generaal Cronjé en zijn goede , trouwe gade bij mij aan huis aan , om mij en de mijnen te groeten , eer zij naar de westelijke commando's vertrokken .
+87-2|Het was ons allen een aandoenlijk [ @alt ogenblik oogenblik ] , want de lucht ging zwanger aan het donkere onbekende , hoewel de Generaal nog vast hield aan zijn geloof : dat er geen vechten zou plaats vinden .
+88-1|" Ik had gehoopt , om ditmaal thuis te blijven " , zei de grijze krijgsman , " want ik ben al [ @alt enige eenige ] jaren boven [ @alt ~de~den den ] ouderdom bij de wet bepaald .
+88-2|Ik ben drie-en-zestig , en ik ben moede van vechten en oorlogmaken .
+88-3|Maar ... . de roepstem van [ @alt ~mijn~mijne mijne ] [ @alt Regering Regeering ] en mijn volk mag ik niet afslaan .
+88-4|Ik ga , waar God en mijn plicht mij roepen . "
+89-1|Hij ging naar Mafeking , vanwaar hij haastig geroepen werd , om Lord Methuen in zijn zegevierenden [ @alt mars marsch ] op Kimberley te stuiten .
+90-1|God zegene U , buurman en vriend !
+90-2|Wij zullen elkander bij Magersfontein weer ontmoeten .
+91-1|Generaal Schalk Burger drukte ik de hand op het station te Pretoria , alwaar ik hem op een namiddag aantrof , druk bezig [ @alt enige eenige ] wagens op [ @alt ~de~den den ] trein te laden , die hem en zijn staf naar Komati Poort zou voeren .
+91-2|Het trof mij zeer toen ik hem letterlijk " [ @alt ~de~den den ] schouder aan meer dan een wiel " zag plaatsen , om het werk klaar te krijgen .
+91-3|[ @alt Zó Zóó ] doen onze Boeren-Generaals , al zijn zij ook Uitvoerende Raadsleden .
+92-1|Generaal Jan Kock , die de Johannesburgers en Hollanders en een deel van 't [ @alt Duitse Duitsche ] Corps zou aanvoeren , was reeds naar het zuiden vertrokken , en Generaal Lukas Meijer , Voorzitter van [ @alt ~de~den den ] Eersten Raad en vroeger Commandant van Vrijheid , werd benoemd om de burgers der zuidoostelijke districten ten strijde te leiden .
+93-1|De Commandant-Generaal was te Zandspruit , om persoonlijk aan de spitse te treden der zuidelijke commando's , die door Laing's Nek in Natal zouden afzakken .
+94-1|Het was op [ @alt ~de~den den ] gedenkwaardigen Maandag , waarop ons ultimatum de [ @alt gehele geheele ] wereld verbaasde , dat ik te Zandspruit van [ @alt ~de~den den ] trein stapte .
+94-2|Het [ @alt toneel tooneel ] , dat zich daar aan [ @alt ~mijn~mijne mijne ] [ @alt ogen oogen ] ontvouwde , zal ik niet licht vergeten .
+94-3|Men moet weten , dat de commando's van [ @alt zo zoo ] wat zes districten , waaronder die van Heidelberg en Pretoria ( die de meeste burgers leverden ) , alsmede 't Hollander Corps , 't [ @alt Ierse Iersche ] Corps en 't [ @alt Duitse Duitsche ] Corps , te zamen met de sterkste batterij der Staatsartillerie aldaar vergaderd waren .
+94-4|Links en rechts van [ @alt ~de~den den ] spoorweg stonden de duizenden tenten in ongelijke groepen verdeeld , daar sommige districten meer en anderen weêr minder burgers hadden bijgedragen .
+94-5|Daar ginder op [ @alt ene eene ] helling is het [ @alt grote groote ] lager van de stad Pretoria met die van de verschillende veldkornetschappen er dicht bij .
+94-6|Ruim een half uur rijdens ervan verwijderd , [ @alt tussen tusschen ] [ @alt enige eenige ] heuvels als verscholen , zijn de Nederlanders bezig onder Commandant Jan Lombard in het paardrijden en snel op- en afstijgen wat te oefenen .
+94-7|De [ @alt vrolijke vroolijke ] boeren zeggen lachend : dat zij nog al die lessen hoog [ @alt nodig noodig ] hebben !
+94-8|Maar - daartegen kan men de vraag opperen : " wie drommel kan met een paard omgaan , [ @alt zo zoo ] als de boer het doet ? "
+94-9|Tenten , wagens , paarden en ossen , overal waar het oog zich wendt .
+94-10|Tot hiertoe had de bodem van Zuid-Afrika niet zulk een massa gewapende burgers in 't veld gezien : er waren immers meer mannen ( ruim 10,000 ) te Zandspruit dan Generaal Joubert ooit in [ @alt ~de~den den ] Vrijheidsoorlog ( verkeerdelijk [ @alt zo zoo ] [ @alt geheten geheeten ] ! ) onder [ @alt ~zijn~zijne zijne ] banieren telde !
+95-1|Maar de tijd verstrijkt ; de zon begint ten westen te neigen - ik moet mij haasten naar de tent van Generaal Joubert .
+95-2|Te midden van de kanonnen en maxims der eerste batterij , op een zachte deining links van [ @alt ~de~den den ] spoorweg naar Volksrust in positie gesteld , staat er een onaanzienlijke witte veldtent , waarin de Commandant-Generaal zijn eenvoudige spijzen nuttigt en ook zijn krijgsraad houdt en audiënties verleent .
+95-3|Het gaat met die audiënties echter heel eenvoudig , misschien al te eenvoudig toe .
+95-4|Mij dunkt een weinig meer ceremonie in zulke zaken , zou [ @alt ~de~den den ] Generaal , wanneer hij afgemat en uitgeput mocht zijn , verbazend goed te pas kunnen komen .
+95-5|Mij kwam de vrije toegang tot [ @alt ~de~den den ] Opperbevelhebber [ @alt ~die~dien dien ] namiddag echter goed te stade .
+95-6|Ik wachtte slechts eventjes bij de wijd opengesperde tent , totdat de Generaal zijn laatsten bezoekers had te woord gestaan , en - stapte zonder verlof naar binnen .
+95-7|Ik had mijn lang Mauser-geweer in de hand , en een wel gevulde , splinternieuwe bandelier om [ @alt ~de~den den ] schouder - het was [ @alt zo zoo ] de [ @alt algemene algemeene ] mode in 't begin van [ @alt ~de~den den ] oorlog , lezer ; elk een liep toen als 't ware gewapend rond ; maar later , toen het gevaar op [ @alt ~de~den den ] man afkwam waren " vele eersten de laatsten " en ( Goddank ) " vele laatsten de eersten " !
+95-8|Maar pardon , wij zijn in de tegenwoordigheid van [ @alt ~de~den den ] Generaal .
+96-1|Hij zit op een [ @alt eenvoudige eenvoudigen ] stoel bij een eenvoudige tafel ( zonder kleedje natuurlijk ) met zijn Secretaris aan [ @alt ~zijn~zijne zijne ] rechterhand .
+96-2|[ @alt Enige Eenige ] Adjudanten wandelen er in en uit naar goedvinden .
+96-3|Buiten de tentdeur wordt er nog al vrij en druk gesproken en ook soms gelachen .
+96-4|Zonder staatsie , zonder [ @alt tussenpersonen tusschenpersonen ] , zonder complimenten of ceremonies , zonder stilte of [ @alt verpozing verpoozing ] stroomt de massa werks op [ @alt ~de~den den ] grijzen , conscientieuzen man af - 't is om er dol van te worden .
+96-5|Begrijpt u , eens kwam er een oude burger [ @alt ~de~den den ] Commandant-Generaal in diens tent bij Ladysmith persoonlijk vragen ( verkondig het niet te Gath ) : -
+97-1|Of deze hem toch geen schoenriempje kon verschaffen !
+97-2|Great Scott !! -
+98-1|Maar ik loop de geschiedenis [ @alt helemaal heelemaal ] vooruit , en laat [ @alt ~de~den den ] lezer op mij wachten .
+98-2|Ik haal mijn hoed af , en sta vlak voor [ @alt ~de~den den ] Generaal , wien ik natuurlijk meermalen in [ @alt ~zijn~zijne zijne ] woning te Pretoria ontmoet had .
+98-3|[ @alt Zodra Zoodra ] hij van het papier , dat voor hem ligt , opziet , neem ik [ @alt ~mijn~mijne mijne ] kans waar ( Men moet er bij der hand zijn , anders komt een andere persoon je stellig voor ) .
+99-1|" [ @alt ~Goeden~Goede Goeden ] middag , Generaal . "
+100-1|" [ @alt ~Goeden~Goede Goeden ] middag . "
+100-2|- Hij geeft mij de hand .
+100-3|Een goed begin , hoor !
+100-4|Na [ @alt ene eene ] pauze zegt hij kort af :
+101-1|" Wel , wat kan ik voor jou doen ? "
+102-1|" Ik heb een brief van Meneer Reitz , Generaal . "
+102-2|Daarbij overhandig ik hem een schrijven van [ @alt ~de~den den ] Staatssecretaris , hetwelk deze mij persoonlijk te Pretoria had ter hand gesteld .
+102-3|Het hield in , dat de Uitvoerende Raad geen objectie had tegen mijn [ @alt wens wensch ] , om de verschillende [ @alt republikeinse republikeinsche ] commando's te bezoeken , met het doel om [ @alt ene eene ] geschiedenis van [ @alt ~de~den den ] oorlog optestellen voor het nageslacht , mits de Generaal [ @alt zelf zelve ] [ @alt ~zijn~zijne zijne ] goedkeuring aan mijn plan hechtte .
+103-1|Hij las [ @alt ~de~den den ] brief , keek op , en [ @alt zei zeide ] heel familiaar :
+104-1|" [ @alt Zo Zoo ] ! ik zie jij wilt met ons meêgaan , om te zien wat er gedaan wordt . "
+105-1|" Ja , Generaal , heel graag . "
+106-1|" Wel ! ik heb er niets tegen .
+106-2|Maar , ik waarschuw jou , dit zal maar zwaar gaan voor jou om ons bij te houden .
+106-3|Ik ben eraan gewoon .
+106-4|Maar ik weet niet of jij mij door wind en weer en allerhande ellende zal kunnen volgen . "
+107-1|Dit [ @alt zei zeide ] hij zonder in 't minst te glimlachen , maar ik wist wel , dat het een soort van boeren-grapje was , en een duidelijk bewijs leverde : dat ik genade in [ @alt ~zijn~zijne zijne ] [ @alt ogen oogen ] gevonden had .
+108-1|Op ootmoedigen toon antwoordde ik : " Ik zal mijn best doen , Generaal " , waarop hij van de zaak afstapte door mij aan [ @alt ~de~den den ] zorg van Kapitein Bosman ( mijn [ @alt ~goeden~goede goeden ] vriend en schoolmakker , die bij de eerste batterij gevoegd was ) optedragen .
+109-1|De zaak was beklonken .
+109-2|Mijn doel was bereikt .
+109-3|Ik was gelukkig .
+109-4|Van jongs af aan was het [ @alt ~mijn~mijne mijne ] begeerte , om boeken te schrijven .
+109-5|Welnu , hier had ik [ @alt ene eene ] kans om materiaal voor een magnum opus te verzamelen .
+109-6|Veel had ik van oorlogen en slagvelden , overwinningen en nederlagen , heldendaden en heldenrampen gelezen .
+109-7|De prachtige schilderijen hadden mij [ @alt betoverd betooverd ] .
+109-8|Thans zou ik uit eigen [ @alt ogen oogen ] gaan zien , wat oorlog maken eigenlijk [ @alt betekende beteekende ] .
+109-9|Van nabij zou ik de naakte werkelijkheid mogen onderzoeken .
+109-10|De Generaal had wel gezegd : gij zult het zwaar hebben , maar mijn loon zou groot zijn .
+109-11|Ik zou immers de Waarheid der dingen zien , de koude Werkelijkheid betasten , en daarna met [ @alt enig eenig ] gezag [ @alt ene eene ] geschiedenis van [ @alt ~de~den den ] [ @alt ~groten~grote grooten ] Anglo-Afrikaanschen oorlog kunnen schrijven !
+109-12|En toch , lezer , heb ik dikwijls later [ @alt gewenst gewenscht ] , dat ik [ @alt ~mijn~mijne mijne ] verantwoordelijkheid in deze op iemand anders kon leggen .
+109-13|De Waarheid is soms [ @alt zo zoo ] pijnlijk !
+109-14|De Werkelijkheid [ @alt zo zoo ] vernederend !
+109-15|Maar hierover spreken wij elkander later .
+110-1|[ @alt De Den ] [ @alt eerste eersten ] nacht werd ik reeds in de mysteriën van oorlogvoeren onder onze Boeren ingewijd .
+110-2|Ik moest op een paar zakken kaf mijn vermoeide ledematen uitstrekken .
+110-3|Het artilleriekamp was vol officieren [ @alt ~die~dien dien ] avond , [ @alt zodat zoodat ] mijn goede vriend , kapitein Bosman , geen bed of matras voor mij vinden kon .
+110-4|Daar het bitter koud was , begaf ik mij met al [ @alt ~mijn~mijne mijne ] [ @alt klederen kleederen ] aan 't lijf ( overjas en al ) ter ruste .
+110-5|Lang bleef ik wakker , want het was de vooravond van [ @alt grote groote ] , onbekende dingen voor ons volk , - en mijn bed was alles behalve zacht .
+110-6|Ik troostte mij , echter , met de gedachte , dat ik daar was , om indrukken te ontvangen ; en de harde grond maakte een [ @alt bijzondere bijzonderen ] indruk op mij !
+110-7|Ook dacht ik aan de andere arme drommels , [ @alt ~mijn~mijne mijne ] vrienden uit de stad Pretoria bijvoorbeeld , die van 27 September reeds te Zandspruit gekampeerd waren .
+110-8|Veertien dagen lang waren zij daar , en bijna [ @alt altijd altoos ] door regende het , [ @alt zodat zoodat ] de aarde vochtig en het water modderig en bijna ondrinkbaar werd .
+110-9|Na de warmte in de hoofdstad was de nijpende koude op het [ @alt hoge hooge ] veld bij de Drakensbergen vooral onaangenaam voor de verfijnde dorpelingen .
+110-10|Ook zij hadden het zwaar , bitter zwaar , veel zwaarder dan ik het had .
+110-11|Arme burgers uit onze steden en dorpen !
+110-12|Sommigen hadden veel moeite , om het vuile water in de plaats van het heldere vocht bij [ @alt ~hun~hunne hunne ] woningen te drinken .
+110-13|Anderen hadden het nog moeilijker , om zwarte koffie in plaats van hun geliefkoosd bier of whisky te nuttigen .
+110-14|Allen , echter , waren in die dagen [ @alt vrolijk vroolijk ] en opgewekt .
+110-15|'t Was alles [ @alt zo zoo ] nieuw , [ @alt zo zoo ] vreemd , [ @alt zo zoo ] [ @alt groots grootsch ] , [ @alt zo zoo ] romantisch .
+110-16|Wij waren [ @alt betoverd betooverd ] door het morgenrood van [ @alt ~de~den den ] oorlog .
+111-1|IV
+112-1|Over de Drakensbergen
+113-1|'t Is Woensdag namiddag , 13 October .
+113-2|Al de lagers zijn nu rondom Volksrust getrokken , wachtende op 't antwoord van Lord Salisbury .
+113-3|Het geschiedkundige dorpje - de hoofdkwartieren van Generaal Joubert gedurende [ @alt de den ] [ @alt korte korten ] oorlog van 1880-'81 - de plaats waar het eenvoudig [ @alt gedenkteken gedenkteeken ] van [ @alt ~die~dien dien ] roemrijken strijd staat - wemelt nu van [ @alt mensen menschen ] .
+113-4|De drukte is ontzettend , vooral in de nabijheid van het telegraafkantoor en het hotel .
+113-5|Op [ @alt ene eene ] helling , dicht bij het Monument , ziet men het artilleriekamp , met de tent van Generaal Joubert in 't midden ervan .
+113-6|Daar vindt er een laatste , [ @alt grote groote ] , [ @alt verenigde vereenigde ] Krijgsraad plaats .
+113-7|Al de Generaals , behalve Generaals Burger en Cronjé , zijn daar vergaderd .
+113-8|Kolonel Trichard , hoofd der Staatsartillerie is ook met de meeste zijner onderofficieren tegenwoordig , alsmede vele Commandanten en Veldkornetten .
