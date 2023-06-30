@@ -7,17 +7,17 @@ __Historical Dutch Spelling Normalization with Pre-trained Language Models__
 
 ### Evaluation
 
-This directory contains the Python notebook and file used to evaluate the predictions for each trained model. 
+This directory contains the Python notebook (_evaluation.ipynb_) and file (_evaluate_functions.py_) used to evaluate the predictions for each trained model. 
 The different subdirectories contain three .txt files; these are the predictions for that specific model on the three test novels.
 
 ### Gold-Data
 
-This directory contains the separate gold novels used for the validation and testing set.
+This directory contains the separate gold novels used for the validation and test set.
 The _Annotation_Guidelines_19th_Dutch_Spelling.pdf_ file contains the guidelines for annotating or correcting 19th-century Dutch novels.
 
 ### Silver-Data
 
-This directory contains the individual novels as .txt files for the 5k and 10k finetuning datasets.
+This directory contains the automatically annotated novels as .txt files for the 5k and 10k finetuning datasets.
 The _training_data10k.txt_ and _training_data5k.txt_ are the novels combined and cleaned.
 The _literature_list.txt_ contains the names of all the novels taken from Project Gutenberg.
 
@@ -39,10 +39,42 @@ python3 T5Predict.py -tf 'google/byt5-small' -weights 'byt5-small_weights.h5' -t
 ```
 
 _Gutenberg_Data.ipynb_ is the notebook used to extract and download novels from Project Gutenberg.
-This notebook uses the [DutchCoref]([https://pages.github.com/](https://github.com/andreasvc/dutchcoref)) repository from Van Cranenburgh.
+This notebook uses the [DutchCoref](https://github.com/andreasvc/dutchcoref) repository from Van Cranenburgh.
 
 ### Pretraining
 
 This directory contains the code used to further pretrain ByT5.
-The _pretrain_jax.py_ is the Python file to pretrain the model, with uses custom (hyper)parameters; see [run_t5_mlm_flax.py](https://github.com/huggingface/transformers/blob/main/examples/flax/language-modeling/run_t5_mlm_flax.py) for further explanation.
+The _pretrain_jax.py_ is the Python file to pretrain the model, which uses custom (hyper)parameters; see [run_t5_mlm_flax.py](https://github.com/huggingface/transformers/blob/main/examples/flax/language-modeling/run_t5_mlm_flax.py) for further explanation.
+
+__Example:__
+To run the _pretrain_jax.py_ script for pretraining ByT5, use the following command:
+```
+python3 pretrain_jax.py \
+        --output_dir "." \
+        --model_name_or_path "google/byt5-small" \
+        --model_type "t5" \
+        --config_name "google/byt5-small" \
+        --tokenizer_name "google/byt5-small" \
+        --do_train --do_eval \
+        --adafactor \
+        --train_file "pretraining_train.txt" \
+        --validation_file "pretraining_dev.txt" \
+        --max_seq_length "512" \
+        --per_device_train_batch_size "8" \
+        --per_device_eval_batch_size "8" \
+        --learning_rate "0.0005" \
+        --overwrite_output_dir \
+        --num_train_epochs "25" \
+        --logging_steps "10000" \
+        --save_steps "50000" \
+        --eval_steps "10000" \
+        --weight_decay "0.001" \
+        --warmup_steps "10000" \
+        --mean_noise_span_length "20" \
+        --grad_acc "1"
+```
+
+the _train_file_ and _validation_file_ arguments are where the training and validation files are given as input, which can be created with the _create_data.ipynb_ notebook.
+
 The _create_data.ipynb_ notebook is used to convert the Dutch data into a single train and validation file.
+The _convert_jax_to_torch.py_ is the script used to convert the pretrained weights in Flax format into a Pytorch format.
