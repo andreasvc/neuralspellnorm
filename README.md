@@ -40,7 +40,7 @@ python3 T5Predict.py -tf 'google/byt5-small' -weights 'byt5-small_weights.h5' -t
 See _T5Predict_ for a full explanation of each of the arguments.
 
 _Gutenberg_Data.ipynb_ is the notebook used to extract and download novels from Project Gutenberg.
-This notebook uses the [Dutch Literature Pipeline](https://github.com/andreasvc/dutchlitpreproc) repository from Van Cranenburgh.  
+This notebook uses the [Dutch Literature Pipeline](https://github.com/andreasvc/dutchlitpreproc) repository from van Cranenburgh.  
 
 ### Pretraining
 
