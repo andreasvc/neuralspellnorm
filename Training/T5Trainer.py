@@ -35,23 +35,23 @@ def create_arg_parser():
     parser.add_argument("-train", "--train_data", default='training_data10k.txt',
                         type=str, help="this argument takes the train "
                                        "data file as input")
-    parser.add_argument("-dev", "--dev_data", default='dev_data.txt', type=str,
-                        help="this argument takes the dev data file as "
-                             "input")
+    parser.add_argument("-dev", "--dev_data", default='validation_data.txt', 
+                        type=str, help="this argument takes the dev data file "
+                        "as input")
     parser.add_argument("-lr", "--learn_rate", default=5e-5, type=float,
                         help="Set a custom learn rate for "
-                             "the pretrained language model, default is 5e-5")
+                             "the model, default is 5e-5")
     parser.add_argument("-bs", "--batch_size", default=8, type=int,
                         help="Set a custom batch size for "
                              "the pretrained language model, default is 8")
-    parser.add_argument("-sl_train", "--sequence_length_train", default=100,
+    parser.add_argument("-sl_train", "--sequence_length_train", default=155,
                         type=int, help="Set a custom maximum sequence length"
                                         "for the pretrained language model,"
-                                        "default is 100")
-    parser.add_argument("-sl_dev", "--sequence_length_dev", default=100,
+                                        "default is 155")
+    parser.add_argument("-sl_dev", "--sequence_length_dev", default=155,
                         type=int, help="Set a custom maximum sequence length"
                                         "for the pretrained language model,"
-                                        "default is 100")
+                                        "default is 155")
     parser.add_argument("-ep", "--epochs", default=1, type=int,
                         help="This argument selects the amount of epochs "
                              "to run the model with, default is 1 epoch")
