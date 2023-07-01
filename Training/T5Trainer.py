@@ -27,23 +27,21 @@ def create_arg_parser():
     parser.add_argument("-tf", "--transformer", default="google/byt5-small",
                         type=str, help="this argument takes the pretrained "
                                        "language model URL from HuggingFace "
-                                       "default is HateBERT, please visit "
+                                       "default is ByT5-small, please visit "
                                        "HuggingFace for full URL")
     parser.add_argument("-c_model", "--custom_model",
                         type=str, help="this argument takes a custom "
                                        "pretrained checkpoint")
-    parser.add_argument("-train", "--train_data", default='training_data.txt',
+    parser.add_argument("-train", "--train_data", default='training_data10k.txt',
                         type=str, help="this argument takes the train "
                                        "data file as input")
     parser.add_argument("-dev", "--dev_data", default='dev_data.txt', type=str,
                         help="this argument takes the dev data file as "
                              "input")
-    parser.add_argument("-sample_weight", "--sample_weight", type=str,
-                        help="class weights for custom loss calculation")
-    parser.add_argument("-lr", "--learn_rate", default=1e-3, type=float,
+    parser.add_argument("-lr", "--learn_rate", default=5e-5, type=float,
                         help="Set a custom learn rate for "
                              "the pretrained language model, default is 5e-5")
-    parser.add_argument("-bs", "--batch_size", default=16, type=int,
+    parser.add_argument("-bs", "--batch_size", default=8, type=int,
                         help="Set a custom batch size for "
                              "the pretrained language model, default is 8")
     parser.add_argument("-sl_train", "--sequence_length_train", default=100,
@@ -61,7 +59,7 @@ def create_arg_parser():
                         help="Set the value to monitor for earlystopping")
     parser.add_argument("-es_p", "--early_stop_patience", default=2,
                         type=int, help="Set the patience value for "
-                                       "earlystopping")
+                                       "earlystopping, default is 2")
     args = parser.parse_args()
     return args
 
@@ -131,7 +129,7 @@ def create_data(data):
 
 
 def split_sent(data, max_length):
-    '''Splitting sentences if longer than given threshold'''
+    '''Splitting sentences if longer than given max_length value'''
     short_sent = []
     long_sent = []
     for n in data:
@@ -159,7 +157,7 @@ def split_sent(data, max_length):
 
 
 def preprocess_function(tk, s, t):
-    '''tokenizing data text and labels'''
+    '''tokenizing text and labels'''
     model_inputs = tk(s)
 
     with tk.as_target_tokenizer():
@@ -195,7 +193,7 @@ def convert_tok(tok, sl):
 
 
 def train_model(model_name, lr, bs, sl_train, sl_dev, ep, es, es_p, train, dev):
-    '''Finetune and save a given T5 version with given (hyper)parameters'''
+    '''Finetune and save a given T5 version with given parameters'''
     print('Training model: {}\nWith parameters:\nLearn rate: {}, '
           'Batch size: {}\nSequence length train: {}, sequence length dev: {}\n'
           'Epochs: {}'.format(model_name, lr, bs, sl_train, sl_dev, ep))
