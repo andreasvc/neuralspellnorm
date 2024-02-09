@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:23" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="14" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="menen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="meen" sc="sbar" sense="meen" tense="past" v_per="fir" word="meende" wvorm="pv"/>
+        <node begin="2" cat="cp" end="7" id="6" rel="vc">
+          <node begin="2" conjtype="onder" end="3" frame="complementizer(dat)" his="normal" his_1="normal" id="7" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="3" cat="ssub" end="7" id="8" rel="body">
+            <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="9" index="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+            <node begin="5" end="6" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+            <node begin="3" cat="inf" end="7" id="11" rel="vc">
+              <node begin="3" end="4" id="12" index="2" rel="su"/>
+              <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(postn_no_e(dir_locadv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="rechts" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="ld" root="rechts" sense="rechts" vform="adj" word="rechts"/>
+              <node begin="6" buiging="zonder" end="7" frame="verb(zijn,inf(no_e),ld_dir)" his="normal" his_1="normal" id="14" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="ld_dir" sense="ga" word="gaan" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="14" id="16" rel="cnj">
+        <node begin="0" end="1" id="17" index="1" rel="su"/>
+        <node begin="9" end="10" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="18" infl="sg" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" tense="past" v_per="fir" word="zei" wvorm="pv"/>
+        <node begin="10" cat="cp" end="14" id="19" rel="vc">
+          <node begin="10" conjtype="onder" end="11" frame="complementizer(dat)" his="normal" his_1="normal" id="20" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="11" cat="ssub" end="14" id="21" rel="body">
+            <node begin="11" case="nom" def="def" end="12" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="22" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+            <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(postn_no_e(dir_locadv))" graad="basis" his="normal" his_1="normal" id="23" infl="no_e" lcat="ap" lemma="links" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="ld" root="links" sense="links" vform="adj" word="links"/>
+            <node begin="13" end="14" frame="verb(hebben,past(sg),ld_adv)" his="normal" his_1="normal" id="24" infl="sg" lcat="ssub" lemma="moeten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="moet" sc="ld_adv" sense="moet" tense="past" v_per="fir" word="moest" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="53-1">Ik meende dat hij rechts zou gaan , en zei dat ik links moest .</sentence>
+  <comments>
+    <comment>Q#53-1|Ik meende dat hij rechts zou gaan , en zei dat ik links moest .|1|1|-13.882940671499998</comment>
+  </comments>
+</alpino_ds>

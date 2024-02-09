@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:24" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="15" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" genus="fem" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3v" pos="pron" postag="VNW(pers,pron,nomin,vol,3v,ev,fem)" pt="vnw" rel="su" rnum="sg" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="Zij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),so_pp_np)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="brengen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="breng" sc="so_pp_np" sense="breng" stype="declarative" tense="past" v_per="thi" word="bracht" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="6" rel="obj1">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="7" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="hand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="hand" sense="hand" word="hand"/>
+        </node>
+        <node begin="4" cat="pp" end="7" id="9" rel="obj2">
+          <node begin="4" end="5" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="10" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+          <node begin="5" cat="np" end="7" id="11" rel="obj1">
+            <node begin="5" buiging="zonder" end="6" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="12" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="hare"/>
+            <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="keel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="keel" sense="keel" word="keel"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="9" cat="smain" end="15" id="15" rel="cnj">
+        <node begin="9" cat="np" end="12" id="16" rel="su">
+          <node begin="9" end="10" frame="determiner(een)" his="normal" his_1="normal" id="17" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node aform="base" begin="10" buiging="met-e" end="11" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="18" infl="e" lcat="ap" lemma="kort" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="kort" sense="kort" vform="adj" word="korte"/>
+          <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="snik" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="snik" sense="snik" word="snik"/>
+        </node>
+        <node begin="12" end="13" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="besluiten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="besluit" sc="transitive" sense="besluit" stype="declarative" tense="past" v_per="thi" word="besloot" wvorm="pv"/>
+        <node begin="13" cat="np" end="15" id="21" rel="obj1">
+          <node begin="13" end="14" frame="determiner(de)" his="normal" his_1="normal" id="22" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="volzin" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="volzin" sense="volzin" word="volzin"/>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="63-1">Zij bracht haar hand aan hare keel , en een korte snik besloot den volzin .</sentence>
+  <comments>
+    <comment>Q#63-1|Zij bracht haar hand aan [ @alt haar hare ] keel , en een korte snik besloot [ @alt de den ] volzin .|1|1|-1.665620668600001</comment>
+  </comments>
+</alpino_ds>

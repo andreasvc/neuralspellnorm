@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(ligg_streep)" his="normal" his_1="normal" id="2" lcat="punct" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="17" id="6" rel="--">
+      <node begin="1" cat="np" end="5" id="7" rel="dp">
+        <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="decap" his_1_1="normal" id="8" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="Het"/>
+        <node begin="2" end="3" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="teken" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="teken" sense="teken" word="teeken"/>
+        <node begin="3" cat="np" end="5" id="10" rel="mod">
+          <node begin="3" end="4" frame="determiner(der)" his="normal" his_1="normal" id="11" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node begin="4" end="5" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="12" infl="pl_num" lcat="np" lemma="vier" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" root="vier" sense="vier" word="vier"/>
+        </node>
+      </node>
+      <node begin="6" cat="conj" end="17" id="13" rel="dp">
+        <node begin="6" cat="mwu" end="8" his="name" his_1="begin" id="14" rel="cnj">
+          <node begin="6" end="7" frame="proper_name(sg,'PER')" id="15" lcat="np" lemma="Jonathan" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Jonathan" sense="Jonathan" spectype="deeleigen" word="Jonathan"/>
+          <node begin="7" end="8" frame="proper_name(sg,'PER')" id="16" lcat="np" lemma="Small" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Small" sense="Small" spectype="deeleigen" word="Small"/>
+        </node>
+        <node begin="9" cat="mwu" end="11" his="name" his_1="not_begin" id="17" rel="cnj">
+          <node begin="9" end="10" frame="proper_name(sg,'PER')" id="18" lcat="np" lemma="Mahomed" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Mahomed" sense="Mahomed" spectype="deeleigen" word="Mahomed"/>
+          <node begin="10" end="11" frame="proper_name(sg,'PER')" id="19" lcat="np" lemma="Singh" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Singh" sense="Singh" spectype="deeleigen" word="Singh"/>
+        </node>
+        <node begin="12" cat="mwu" end="14" his="name" his_1="not_begin" id="20" rel="cnj">
+          <node begin="12" end="13" frame="proper_name(sg,'PER')" id="21" lcat="np" lemma="Abdullah" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Abdullah" sense="Abdullah" spectype="deeleigen" word="Abdullah"/>
+          <node begin="13" end="14" frame="proper_name(sg,'PER')" id="22" lcat="np" lemma="Khan" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Khan" sense="Khan" spectype="deeleigen" word="Khan"/>
+        </node>
+        <node begin="15" cat="mwu" end="17" his="name" his_1="not_begin" id="23" rel="cnj">
+          <node begin="15" end="16" frame="proper_name(sg,'PER')" id="24" lcat="np" lemma="Dost" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Dost" sense="Dost" spectype="deeleigen" word="Dost"/>
+          <node begin="16" end="17" frame="proper_name(sg,'PER')" id="25" lcat="np" lemma="Akbar" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Akbar" sense="Akbar" spectype="deeleigen" word="Akbar"/>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="18" end="19" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="27" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="110-1">&quot; Het teeken der vier - Jonathan Small , Mahomed Singh , Abdullah Khan , Dost Akbar . &quot;</sentence>
+  <comments>
+    <comment>Q#110-1|&quot; Het [ @alt teken teeken ] der vier - Jonathan Small , Mahomed Singh , Abdullah Khan , Dost Akbar . &quot;|1|1|3.1895936988</comment>
+  </comments>
+</alpino_ds>

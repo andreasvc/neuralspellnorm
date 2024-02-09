@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="4" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="12" id="5" rel="--">
+      <node begin="1" cat="du" end="8" id="6" rel="nucl">
+        <node begin="1" cat="sv1" end="6" id="7" rel="nucl">
+          <node begin="1" end="2" frame="verb(hebben,sg1,np_np)" his="normal" his_1="decap" his_1_1="normal" id="8" infl="sg1" lcat="sv1" lemma="wijzen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="wijs" sc="np_np" sense="wijs" stype="imparative" tense="present" v_per="invje" word="Wijs" wvorm="pv"/>
+          <node begin="2" cat="np" end="4" id="9" rel="obj2">
+            <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="mv" his="normal" his_1="normal" id="10" infl="pron" lcat="detp" lemma="hun" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="hun" sense="hun" status="vol" vwtype="bez" word="hun"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="den" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="den" sense="den" word="den"/>
+          </node>
+          <node begin="4" cat="np" end="6" id="12" rel="obj1">
+            <node begin="4" end="5" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="weg" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="weg" sense="weg" special="tmp" word="weg"/>
+            <node begin="5" end="6" frame="er_adverb(naar)" his="normal" his_1="normal" id="14" lcat="pp" lemma="hierheen" pos="pp" postag="BW()" pt="bw" rel="mod" root="hierheen" sense="hierheen" special="er" word="hierheen"/>
+          </node>
+        </node>
+        <node begin="7" end="8" frame="proper_name(both,'ORG')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="15" lcat="np" lemma="Khitmutgar" naamval="stan" neclass="ORG" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="tag" root="Khitmutgar" sense="Khitmutgar" word="Khitmutgar"/>
+      </node>
+      <node begin="10" cat="sv1" end="12" id="16" rel="tag">
+        <node begin="10" end="11" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="17" infl="sg" lcat="sv1" lemma="roepen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="roep" sc="sbar" sense="roep" tense="past" v_per="thi" word="riep" wvorm="pv"/>
+        <node begin="11" buiging="met-e" end="12" frame="determiner(de,nwh,nmod,pro,nparg)" getal-n="zonder-n" his="normal" his_1="normal" id="18" infl="de" lcat="np" lemma="deze" naamval="stan" pdtype="det" pos="det" positie="nom" postag="VNW(aanw,det,stan,nom,met-e,zonder-n)" pt="vnw" rel="su" rnum="sg" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="122-1">&quot; Wijs hun den weg hierheen , Khitmutgar , &quot; riep deze .</sentence>
+  <comments>
+    <comment>Q#122-1|&quot; Wijs hun den weg hierheen , Khitmutgar , &quot; riep deze .|1|1|3.127533172400002</comment>
+  </comments>
+</alpino_ds>

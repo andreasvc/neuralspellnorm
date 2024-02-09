@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:05" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="8" id="2" rel="--">
+      <node begin="2" end="3" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="3" infl="modal_not_u" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" v_per="thi" word="zal" wvorm="pv"/>
+      <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="iemand" naamval="stan" num="sg" pdtype="pron" persoon="3p" pos="noun" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="su" rnum="sg" root="iemand" sense="iemand" status="vol" vwtype="onbep" word="iemand"/>
+      <node begin="0" cat="inf" end="8" id="5" rel="vc">
+        <node begin="0" end="1" frame="adverb" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="goddank" pos="adv" postag="BW()" pt="bw" rel="mod" root="goddank" sense="goddank" word="Goddank"/>
+        <node begin="3" cat="conj" end="6" id="7" rel="mod">
+          <node begin="3" end="4" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="8" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="cnj" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="hier"/>
+          <node begin="4" conjtype="neven" end="5" frame="conj(of)" his="normal" his_1="normal" id="9" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+          <node begin="5" end="6" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="10" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="cnj" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+        </node>
+        <node begin="6" end="7" id="11" index="1" rel="su"/>
+        <node begin="7" buiging="zonder" end="8" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="zeggen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zeg" sc="intransitive" sense="zeg" word="zeggen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="94-2">Goddank , zal hier of daar iemand zeggen .</sentence>
+  <comments>
+    <comment>Q#94-2|Goddank , zal hier of daar iemand zeggen .|1|1|-5.132799597500001</comment>
+  </comments>
+</alpino_ds>

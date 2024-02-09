@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:18" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="du" end="13" id="1" rel="--">
+      <node begin="0" cat="ap" end="2" id="2" rel="dp">
+        <node begin="0" end="1" frame="adverb" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="adv" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mod" root="wat" sense="wat" status="vol" vwtype="onbep" word="Wat"/>
+        <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv),subject_sbar)" graad="basis" his="normal" his_1="normal" id="4" infl="no_e" lcat="ap" lemma="raar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="raar" sc="subject_sbar" sense="raar" vform="adj" word="raar"/>
+      </node>
+      <node begin="2" cat="cp" end="13" id="5" rel="dp">
+        <node begin="2" conjtype="onder" end="3" frame="complementizer(dat)" his="normal" his_1="normal" id="6" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="3" cat="ssub" end="13" id="7" rel="body">
+          <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="8" index="1" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+          <node begin="11" end="12" frame="verb('hebben/zijn',sg,modifier(aux(inf)))" his="normal" his_1="normal" id="9" infl="sg" lcat="ssub" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" tense="present" v_per="ninvje" word="moet" wvorm="pv"/>
+          <node begin="3" cat="inf" end="13" id="10" rel="vc">
+            <node begin="3" end="4" id="11" index="1" rel="su"/>
+            <node begin="4" cat="pp" end="8" id="12" rel="mod">
+              <node begin="4" buiging="zonder" end="5" frame="modal_adverb" graad="basis" his="normal" his_1="normal" id="13" lcat="advp" lemma="juist" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="juist" sc="modal" sense="juist" word="juist"/>
+              <node begin="5" end="6" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="14" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+              <node begin="6" cat="np" end="8" id="15" rel="obj1">
+                <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="16" lcat="np" lemma="zoo&apos;n" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zoo&apos;n" sense="zoo&apos;n" word="zoo&apos;n"/>
+                <node begin="7" end="8" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="middag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="middag" sense="middag" special="tmp" word="middag"/>
+              </node>
+            </node>
+            <node begin="8" end="9" frame="adverb" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="18" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+            <node begin="9" cat="np" end="11" id="19" rel="obj1">
+              <node begin="9" end="10" frame="iets_noun" getal="ev" his="normal" his_1="normal" id="20" lcat="np" lemma="iets" naamval="stan" pdtype="pron" persoon="3o" pos="pron" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="iets" sc="iets" sense="iets" status="vol" vwtype="onbep" word="iets"/>
+              <node aform="base" begin="10" buiging="met-s" end="11" frame="post_adjective(no_e)" graad="basis" his="normal" his_1="Adj-s" id="21" iets="true" infl="no_e" lcat="ap" lemma="gek" pos="adj" positie="postnom" postag="ADJ(postnom,basis,met-s)" pt="adj" rel="mod" root="gek" sense="gek" special="iets" vform="adj" word="geks"/>
+            </node>
+            <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf(no_e),transitive_ndev_ndev)" his="normal" his_1="normal" id="22" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="zien" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="23-8">Wat raar dat je juist op zoo&apos;n middag zoo iets geks moet zien .</sentence>
+  <comments>
+    <comment>Q#23-8|Wat raar dat je juist op zoo&apos;n middag zoo iets geks moet zien .|1|1|-1.6905845662999965</comment>
+  </comments>
+</alpino_ds>

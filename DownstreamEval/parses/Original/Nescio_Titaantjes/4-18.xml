@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:06" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="17" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="17" id="5" rel="nucl">
+        <node begin="1" cat="smain" end="13" id="6" rel="dp">
+          <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="toen" pos="adv" postag="BW()" pt="bw" rel="mod" root="toen" sense="toen" special="tmp" word="toen"/>
+          <node begin="2" end="3" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="8" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" v_per="fir" word="waren" wvorm="pv"/>
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,pl,de,nom,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="9" lcat="np" lemma="we" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,mv)" pt="vnw" rel="su" rnum="pl" root="we" sense="we" special="wkpro" status="red" vwtype="pers" wh="nwh" word="we"/>
+          <node begin="4" cat="pp" end="9" id="10" rel="mod">
+            <node begin="4" end="5" frame="preposition(in,[])" his="normal" his_1="normal" id="11" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="5" cat="np" end="9" id="12" rel="obj1">
+              <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="13" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="6" end="7" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="dag" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="dag" sense="dag" special="tmp" word="dagen"/>
+              <node begin="7" cat="np" end="9" id="15" rel="mod">
+                <node begin="7" end="8" frame="determiner(der)" his="normal" his_1="normal" id="16" infl="der" lcat="detp" lemma="ons" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="ons" sense="ons" word="onzer"/>
+                <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="dwaasheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dwaasheid" sense="dwaasheid" word="dwaasheid"/>
+              </node>
+            </node>
+          </node>
+          <node begin="10" cat="np" end="13" id="18" rel="predc">
+            <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="11" buiging="met-e" end="12" frame="ge_nominalized_adjective" getal-n="mv-n" his="normal" his_1="normal" id="20" lcat="np" lemma="uit_verkiezen" num="pl" personalized="true" pos="adj" positie="nom" postag="WW(vd,nom,met-e,mv-n)" pt="ww" rel="hd" rnum="pl" root="uit_verkiezen" sense="uit_verkiezen" special="a_noun" word="uitverkorenen" wvorm="vd"/>
+            <node begin="12" case="gen" def="def" end="13" frame="pronoun(nwh,thi,sg,de,gen,def)" gen="de" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="God" naamval="gen" ntype="eigen" num="sg" per="thi" pos="pron" postag="N(eigen,ev,basis,gen)" pt="n" rel="mod" rnum="sg" root="God" sense="God" wh="nwh" word="Gods"/>
+          </node>
+        </node>
+        <node begin="14" cat="du" end="17" id="22" rel="dp">
+          <node begin="14" end="15" frame="tag" his="normal" his_1="normal" id="23" lcat="advp" lemma="ja" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="ja" sense="ja" word="ja"/>
+          <node begin="15" cat="np" end="17" id="24" rel="nucl">
+            <node begin="15" end="16" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="25" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="God" sense="God" word="God"/>
+            <node begin="16" end="17" frame="postnp_adverb" his="normal" his_1="normal" id="26" lcat="advp" lemma="zelf" pos="adv" postag="BW()" pt="bw" rel="mod" root="zelf" sense="zelf" special="postnp" word="zelf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="27" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-18">Maar toen waren we in de dagen onzer dwaasheid , de uitverkorenen Gods , ja God zelf .</sentence>
+  <comments>
+    <comment>Q#4-18|Maar toen waren we in de dagen onzer dwaasheid , de uitverkorenen Gods , ja God zelf .|1|1|-2.644776262000001</comment>
+  </comments>
+</alpino_ds>

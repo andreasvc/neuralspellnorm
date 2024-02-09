@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="2" id="0" rel="top">
+    <node begin="0" end="1" frame="waar_adverb(op)" his="normal" his_1="decap" his_1_1="normal" id="1" lcat="pp" lemma="waarop" pos="pp" postag="BW()" pt="bw" rel="--" root="waarop" sense="waarop" special="waar" stype="whquestion" word="Waarop"/>
+    <node begin="1" end="2" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="10-2">Waarop ?</sentence>
+  <comments>
+    <comment>Q#10-2|Waarop ?|1|1|-0.6341239999999999</comment>
+  </comments>
+</alpino_ds>

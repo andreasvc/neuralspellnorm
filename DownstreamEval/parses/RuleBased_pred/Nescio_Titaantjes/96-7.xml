@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="2" rel="--">
+      <node begin="0" cat="cp" end="7" id="3" rel="sat">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer(als)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="Als"/>
+        <node begin="1" cat="ssub" end="7" id="5" rel="body">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="1" cat="inf" end="6" id="7" rel="vc">
+            <node begin="1" end="2" id="8" index="1" rel="su"/>
+            <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+            <node begin="3" cat="np" end="5" id="10" rel="mod">
+              <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="11" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="4" end="5" frame="mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="12" lcat="np" lemma="beetje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="beetje" sense="beetje" special="mod" word="beetje"/>
+            </node>
+            <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="13" infl="inf" lcat="inf" lemma="twijfelen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="twijfel" sc="intransitive" sense="twijfel" word="twijfelen" wvorm="inf"/>
+          </node>
+          <node begin="6" end="7" frame="verb(hebben,past(sg),modifier(aux(inf)))" his="normal" his_1="normal" id="14" infl="sg" lcat="ssub" lemma="mogen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="mag" sc="modifier(aux(inf))" sense="mag" tense="past" v_per="fir" word="mocht" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="8" cat="smain" end="21" id="15" rel="nucl">
+        <node begin="9" end="10" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="16" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" v_per="fir" word="zou" wvorm="pv"/>
+        <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="17" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="8" cat="inf" end="21" id="18" rel="vc">
+          <node begin="8" end="9" frame="tmp_adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+          <node begin="10" end="11" id="20" index="2" rel="su"/>
+          <node begin="11" end="12" frame="sentence_adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+          <node aform="base" begin="12" end="13" frame="adjective(pred(adv))" his="normal" his_1="normal" id="22" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+          <node begin="13" cat="np" end="20" id="23" rel="predc">
+            <node begin="13" end="14" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="lid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="lid" sense="lid" word="lid"/>
+            <node begin="14" cat="pp" end="20" id="25" rel="mod">
+              <node begin="14" end="15" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="26" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="15" cat="np" end="20" id="27" rel="obj1">
+                <node begin="15" end="16" frame="determiner(de)" his="normal" his_1="normal" id="28" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node begin="16" cat="mwu" end="20" his="name" his_1="not_begin" id="29" rel="hd">
+                  <node begin="16" end="17" frame="proper_name(sg,'PER')" id="30" lcat="np" lemma="S." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="S." sense="S." spectype="deeleigen" word="S."/>
+                  <node begin="17" end="18" frame="proper_name(sg,'PER')" id="31" lcat="np" lemma="D." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="D." sense="D." spectype="deeleigen" word="D."/>
+                  <node begin="18" end="19" frame="proper_name(sg,'PER')" id="32" lcat="np" lemma="A." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="A." sense="A." spectype="deeleigen" word="A."/>
+                  <node begin="19" end="20" frame="proper_name(sg,'PER')" id="33" lcat="np" lemma="P." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="P." sense="P." spectype="deeleigen" word="P."/>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node begin="20" buiging="zonder" end="21" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="34" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="35" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-7">Als ik maar een beetje twijfelen mocht , dan zou ik ook wel lid van de S. D. A. P. worden .</sentence>
+  <comments>
+    <comment>Q#96-7|Als ik maar een beetje twijfelen mocht , dan zou ik ook wel lid van de S. D. A. P. worden .|1|1|-7.906512673699999</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" cat="ap" end="2" id="1" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="baar" id="2" infl="no_e" lcat="ap" lemma="onbevatbaar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="onbevatbaar" sense="onbevatbaar" vform="adj" word="Onbevatbaar"/>
+      <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="3" infl="no_e" lcat="ap" lemma="bliksem_snel" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="bliksem_snel" sense="bliksem_snel" vform="adj" word="bliksemsnel"/>
+    </node>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="120-1">Onbevatbaar bliksemsnel ,</sentence>
+  <comments>
+    <comment>Q#120-1|Onbevatbaar bliksemsnel ,|1|1|0.006674999999999903</comment>
+  </comments>
+</alpino_ds>

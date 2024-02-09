@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="23" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="22" id="3" rel="--">
+      <node begin="0" cat="smain" end="4" id="4" rel="dp">
+        <node begin="0" cat="np" end="2" id="5" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="zon" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zon" sense="zon" word="zon"/>
+        </node>
+        <node begin="2" end="3" frame="verb(unacc,past(sg),part_intransitive(weg))" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="weg_zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben_weg" sc="part_intransitive(weg)" sense="ben_weg" stype="declarative" tense="past" v_per="thi" word="was" wvorm="pv"/>
+        <node begin="3" end="4" frame="particle(weg)" his="normal" his_1="normal" id="9" lcat="part" lemma="weg" pos="part" postag="BW()" pt="bw" rel="svp" root="weg" sense="weg" word="weg"/>
+      </node>
+      <node begin="5" cat="du" end="22" id="10" rel="dp">
+        <node begin="5" cat="smain" end="14" id="11" rel="dp">
+          <node begin="5" cat="np" end="11" id="12" index="1" rel="su">
+            <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="13" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="6" buiging="met-e" end="7" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="14" infl="e" lcat="ap" lemma="rood" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="rood" sense="rood" vform="adj" word="roode"/>
+            <node begin="7" end="8" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="schijn" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="schijn" sense="schijn" word="schijn"/>
+            <node begin="8" cat="pp" end="11" id="16" rel="mod">
+              <node begin="8" end="9" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="17" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+              <node begin="9" cat="np" end="11" id="18" rel="obj1">
+                <node begin="9" end="10" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="19" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+                <node begin="10" end="11" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+              </node>
+            </node>
+          </node>
+          <node begin="11" end="12" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="21" infl="sg" lcat="smain" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" stype="declarative" tense="past" v_per="thi" word="begon" wvorm="pv"/>
+          <node begin="5" cat="ti" end="14" id="22" rel="vc">
+            <node begin="12" end="13" frame="complementizer(te)" his="normal" his_1="normal" id="23" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="5" cat="inf" end="14" id="24" rel="body">
+              <node begin="5" end="11" id="25" index="1" rel="su"/>
+              <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="26" infl="inf" lcat="inf" lemma="verbleken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="verbleek" sc="intransitive" sense="verbleek" word="verbleken" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+        <node begin="15" cat="smain" end="22" id="27" rel="dp">
+          <node begin="15" cat="pp" end="18" id="28" rel="mod">
+            <node begin="15" end="16" frame="preposition(in,[])" his="normal" his_1="normal" id="29" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="16" cat="np" end="18" id="30" rel="obj1">
+              <node begin="16" end="17" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="31" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+              <node begin="17" end="18" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="32" lcat="np" lemma="zuiden" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="zuiden" sense="zuiden" word="zuiden"/>
+            </node>
+          </node>
+          <node begin="18" end="19" frame="verb('hebben/zijn',past(sg),intransitive)" his="normal" his_1="normal" id="33" infl="sg" lcat="smain" lemma="klimmen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="klim" sc="intransitive" sense="klim" stype="declarative" tense="past" v_per="thi" word="klom" wvorm="pv"/>
+          <node begin="19" cat="np" end="22" id="34" rel="su">
+            <node begin="19" end="20" frame="determiner(een)" his="normal" his_1="normal" id="35" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="20" buiging="met-e" end="21" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="36" infl="e" lcat="ap" lemma="blauwig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="blauwig" sense="blauwig" vform="adj" word="blauwige"/>
+            <node begin="21" end="22" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="37" lcat="np" lemma="duisternis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="duisternis" sense="duisternis" word="duisternis"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="22" end="23" frame="punct(punt)" his="normal" his_1="normal" id="38" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="46-7">De zon was weg , de roode schijn op &apos;t water begon te verbleken , in &apos;t zuiden klom een blauwige duisternis .</sentence>
+  <comments>
+    <comment>Q#46-7|De zon was weg , de [ @alt rode roode ] schijn op &apos;t water begon te verbleken , in &apos;t zuiden klom een blauwige duisternis .|1|1|1.064431694600002</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="14" id="2" rel="--">
+      <node begin="0" cat="du" end="10" id="3" rel="cnj">
+        <node begin="0" cat="smain" end="5" id="4" rel="dp">
+          <node begin="0" cat="np" end="3" id="5" rel="su">
+            <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="decap" his_1_1="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="Het"/>
+            <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="cap" id="7" lcat="np" lemma="Roode" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="Roode" sense="Roode" word="roode"/>
+            <node begin="2" end="3" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+          </node>
+          <node begin="3" end="4" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="9" infl="sg" lcat="smain" lemma="rimpelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="rimpel" sc="transitive" sense="rimpel" stype="declarative" tense="past" v_per="thi" word="rimpelde" wvorm="pv"/>
+          <node begin="4" end="5" frame="determiner(wat,nwh,mod,pro,nparg,ntopicpro)" getal="ev" his="normal" his_1="normal" id="10" infl="wat" lcat="np" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="wat" sense="wat" status="vol" vwtype="onbep" wh="nwh" word="wat"/>
+        </node>
+        <node begin="6" cat="smain" end="10" id="11" rel="dp">
+          <node begin="6" cat="np" end="8" id="12" rel="su">
+            <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="13" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="7" end="8" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="branding" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="branding" sense="branding" word="branding"/>
+          </node>
+          <node begin="8" end="9" frame="verb('hebben/zijn',past(sg),intransitive)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="rollen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="rol" sc="intransitive" sense="rol" stype="declarative" tense="past" v_per="thi" word="rolde" wvorm="pv"/>
+          <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="langzaam" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="langzaam" sense="langzaam" vform="adj" word="langzaam"/>
+        </node>
+      </node>
+      <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="17" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="11" cat="du" end="14" id="18" rel="cnj">
+        <node begin="11" end="12" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="19" lcat="np" lemma="ruischte" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="ruischte" sense="ruischte" word="ruischte"/>
+        <node begin="12" cat="ap" end="14" id="20" rel="dp">
+          <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="zacht" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="zacht" sense="zacht" vform="adj" word="zacht"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="43-3">Het roode water rimpelde wat , de branding rolde langzaam en ruischte maar zacht .</sentence>
+  <comments>
+    <comment>Q#43-3|Het roode water rimpelde wat , de branding rolde langzaam en ruischte maar zacht .|1|1|8.689843233700007</comment>
+  </comments>
+</alpino_ds>

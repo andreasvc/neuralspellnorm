@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:21" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="Dat"/>
+      <node begin="1" end="2" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="3" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+      <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="al" pos="adv" postag="BW()" pt="bw" rel="mod" root="al" sense="al" word="al"/>
+      <node begin="3" cat="whrel" end="7" id="5" rel="predc">
+        <node begin="3" case="both" def="indef" end="4" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="rhd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="wat"/>
+        <node begin="3" cat="ssub" end="7" id="7" rel="body">
+          <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="8" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="5" end="6" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="9" infl="modal_not_u" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" v_per="fir" word="kan" wvorm="pv"/>
+          <node begin="3" cat="inf" end="7" id="10" rel="vc">
+            <node begin="3" end="4" id="11" index="1" rel="obj1"/>
+            <node begin="4" end="5" id="12" index="2" rel="su"/>
+            <node begin="6" buiging="zonder" end="7" frame="verb(hebben,inf,ninv(transitive,part_transitive(af)))" his="normal" his_1="part-V" id="13" infl="inf" lcat="inf" lemma="af_leiden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="leid_af" sc="part_transitive(af)" sense="leid_af" word="afleiden" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="skip" id="15" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="39-3">Dat is al wat ik kan afleiden . &quot;</sentence>
+  <comments>
+    <comment>Q#39-3|Dat is al wat ik kan afleiden . &quot;|1|1|-7.3916990367999995</comment>
+  </comments>
+</alpino_ds>

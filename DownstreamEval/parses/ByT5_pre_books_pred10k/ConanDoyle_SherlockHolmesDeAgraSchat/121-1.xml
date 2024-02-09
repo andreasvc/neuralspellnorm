@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:58" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="smain" end="10" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="Wij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(pl),aux_psp_hebben)" his="normal" his_1="normal" id="3" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" v_per="fir" word="hadden" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="10" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+        <node begin="3" end="4" frame="sentence_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="inderdaad" pos="adv" postag="BW()" pt="bw" rel="mod" root="inderdaad" sense="inderdaad" special="sentence" word="inderdaad"/>
+        <node begin="4" cat="np" end="9" id="8" rel="obj1">
+          <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="5" cat="conj" end="8" id="10" rel="mod">
+            <node aform="base" begin="5" buiging="met-e" end="6" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="11" infl="e" lcat="ap" lemma="onaanzienlijk" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="cnj" root="onaanzienlijk" sense="onaanzienlijk" vform="adj" word="onaanzienlijke"/>
+            <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="13" infl="e" lcat="ap" lemma="dubbelzinnig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="cnj" root="dubbelzinnig" sense="dubbelzinnig" vform="adj" word="dubbelzinnige"/>
+          </node>
+          <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="wijk" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wijk" sense="wijk" word="wijk"/>
+        </node>
+        <node begin="9" buiging="zonder" end="10" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="15" infl="psp" lcat="ppart" lemma="bereiken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="bereik" sc="transitive" sense="bereik" word="bereikt" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="16" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="121-1">Wij hadden nu inderdaad een onaanzienlijke en dubbelzinnige wijk bereikt .</sentence>
+  <comments>
+    <comment>Q#121-1|Wij hadden nu inderdaad een onaanzienlijke en dubbelzinnige wijk bereikt .|1|1|-9.702694184299997</comment>
+  </comments>
+</alpino_ds>

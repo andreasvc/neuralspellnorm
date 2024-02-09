@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:15" cats="2" skips="3" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" case="no_obl" end="9" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="robust_skip" id="4" lcat="--" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="--" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+    <node begin="1" cat="du" end="13" id="5" rel="--">
+      <node begin="1" cat="du" end="7" id="6" rel="dp">
+        <node begin="1" cat="sv1" end="4" id="7" rel="nucl">
+          <node begin="1" end="2" frame="verb(unacc,sg_bent,copula)" his="normal" his_1="decap" his_1_1="variant" his_1_1_1="variant" his_1_1_1_1="bent" his_1_1_1_2="zijt" his_1_1_2="normal" id="8" infl="sg_bent" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" v_per="u" word="Zijt" wvorm="pv"/>
+          <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="9" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="10" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="predc" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+        </node>
+        <node begin="5" cat="sv1" end="7" id="11" rel="tag">
+          <node begin="5" end="6" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="12" infl="sg" lcat="sv1" lemma="roepen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="roep" sc="sbar" sense="roep" tense="past" v_per="fir" word="riep" wvorm="pv"/>
+          <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        </node>
+      </node>
+      <node begin="9" cat="np" end="13" id="14" rel="dp">
+        <node begin="9" case="dat_acc" def="def" end="10" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="hd" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        <node begin="10" cat="pp" end="13" id="16" rel="mod">
+          <node begin="10" end="11" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="17" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="11" cat="np" end="13" id="18" rel="obj1">
+            <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="Griek" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Griek" sense="Griek" word="Griek"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="verb(hebben,sg_hebt,aux_psp_hebben)" his="robust_skip" id="21" infl="sg_hebt" lcat="--" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="--" root="heb" sc="aux_psp_hebben" sense="heb" tense="present" word="hebt" wvorm="pv"/>
+    <node begin="14" buiging="zonder" end="15" frame="verb(hebben,psp,transitive)" his="robust_skip" id="22" infl="psp" lcat="--" lemma="verlossen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="--" root="verlos" sc="transitive" sense="verlos" word="verlost" wvorm="vd"/>
+    <node begin="15" end="16" frame="punct(vraag)" his="robust_skip" id="23" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="42-1">- Zijt gij het , riep ik , die mij van den Griek hebt verlost ?</sentence>
+  <comments>
+    <comment>Q#42-1|- Zijt gij het , riep ik , die mij van [ @alt ~de~den den ] Griek hebt verlost ?|1|5|5.8171452267</comment>
+  </comments>
+</alpino_ds>

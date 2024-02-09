@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:35" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="5" end="6" frame="punct(vraag)" his="normal" his_1="normal" id="2" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="13" id="5" rel="--">
+      <node begin="1" cat="du" end="9" id="6" rel="dp">
+        <node begin="1" cat="np" end="5" id="7" rel="nucl">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="8" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node aform="base" begin="2" buiging="met-e" end="3" frame="adjective(stof)" his="normal" his_1="normal" id="9" infl="stof" lcat="ap" lemma="enig" naamval="stan" npagr="rest" pdtype="det" pos="adj" positie="prenom" postag="VNW(onbep,det,stan,prenom,met-e,rest)" pt="vnw" rel="mod" root="enig" sense="enig" vform="adj" vwtype="onbep" word="eenige"/>
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="particulier" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="particulier" sense="particulier" vform="adj" word="particuliere"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="detective" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="detective" sense="detective" word="detective"/>
+        </node>
+        <node begin="7" cat="sv1" end="9" id="12" rel="tag">
+          <node begin="7" end="8" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="13" infl="sg" lcat="sv1" lemma="vragen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vraag" sc="sbar" sense="vraag" tense="past" v_per="fir" word="vroeg" wvorm="pv"/>
+          <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="14" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        </node>
+      </node>
+      <node begin="10" cat="du" end="13" id="15" rel="dp">
+        <node begin="10" cat="np" end="12" id="16" rel="dp">
+          <node aform="base" begin="10" buiging="met-e" end="11" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="17" infl="e" lcat="ap" lemma="groot" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="groot" sense="groot" vform="adj" word="groote"/>
+          <node begin="11" end="12" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="oog" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="oog" sense="oog" word="oogen"/>
+        </node>
+        <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(ende(padv))" his="normal" his_1="V-de" his_1_1="part-V" id="19" infl="e" lcat="ppres" lemma="op_zetten" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="dp" root="zet_op" sense="zet_op" vform="gerund" word="opzettende" wvorm="od"/>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="11-1">&quot; De eenige particuliere detective ? &quot; vroeg ik , groote oogen opzettende .</sentence>
+  <comments>
+    <comment>Q#11-1|&quot; De [ @alt enige eenige ] particuliere detective ? &quot; vroeg ik , [ @alt grote groote ] [ @alt ogen oogen ] opzettende .|1|1|0.5635480638999969</comment>
+  </comments>
+</alpino_ds>

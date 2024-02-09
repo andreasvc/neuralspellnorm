@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="conj" end="7" id="1" rel="--">
+      <node begin="0" cat="du" end="3" id="2" rel="cnj">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="ginds" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="ginds" sense="ginds" vform="adj" word="Ginds"/>
+        <node begin="1" cat="np" end="3" id="4" rel="dp">
+          <node begin="1" buiging="zonder" end="2" frame="determiner(het)" getal="mv" his="normal" his_1="normal" id="5" infl="het" lcat="detp" lemma="ons" naamval="stan" npagr="evon" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)" pt="vnw" rel="det" root="ons" sense="ons" status="vol" vwtype="bez" word="ons"/>
+          <node begin="2" end="3" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="6" lcat="np" lemma="zoets" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="zoets" sense="zoets" word="zoets"/>
+        </node>
+      </node>
+      <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="7" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="4" cat="smain" end="7" id="8" rel="cnj">
+        <node begin="4" end="5" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" index="1" lcat="np" lemma="schoons" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="schoons" sense="schoons" word="schoons"/>
+        <node begin="5" end="6" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="10" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+        <node begin="4" cat="inf" end="7" id="11" rel="vc">
+          <node begin="4" end="5" id="12" index="1" rel="su"/>
+          <node begin="6" buiging="zonder" end="7" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="13" infl="inf" lcat="inf" lemma="geven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geef" sc="intransitive" sense="geef" word="geven" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="204-1">Ginds ons zoets en schoons kan geven</sentence>
+  <comments>
+    <comment>Q#204-1|Ginds ons zoets en schoons kan geven|1|1|7.051837282900002</comment>
+  </comments>
+</alpino_ds>

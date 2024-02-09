@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="3" rel="--">
+      <node begin="0" cat="smain" end="5" id="4" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" v_per="thi" word="had" wvorm="pv"/>
+        <node begin="0" cat="ppart" end="5" id="7" rel="vc">
+          <node begin="0" end="1" id="8" index="1" rel="su"/>
+          <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="fem" getal="getal" his="normal" his_1="normal" id="9" lcat="np" lemma="haar" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,getal,fem)" pt="vnw" rel="obj1" rnum="sg" root="haar" sense="haar" status="vol" vwtype="pers" wh="nwh" word="haar"/>
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+          <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="11" infl="psp" lcat="ppart" lemma="knijpen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="knijp" sc="transitive" sense="knijp" word="geknepen" wvorm="vd"/>
+        </node>
+      </node>
+      <node begin="6" cat="du" end="14" id="12" rel="dp">
+        <node begin="6" cat="smain" end="9" id="13" rel="tag">
+          <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="14" index="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="7" end="8" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" v_per="thi" word="had" wvorm="pv"/>
+          <node begin="6" cat="ppart" end="9" id="16" rel="vc">
+            <node begin="6" end="7" id="17" index="2" rel="su"/>
+            <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,dip_sbar)" his="normal" his_1="normal" id="18" infl="psp" lcat="ppart" lemma="reciteren" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="reciteer" sc="dip_sbar" sense="reciteer" word="gereciteerd" wvorm="vd"/>
+          </node>
+        </node>
+        <node begin="10" cat="smain" end="14" id="19" rel="nucl">
+          <node begin="10" end="11" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="20" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+          <node begin="11" end="12" frame="verb(hebben,sg_hebt,transitive_ndev)" his="normal" his_1="normal" id="21" infl="sg_hebt" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="present" v_per="u" word="hebt" wvorm="pv"/>
+          <node begin="12" case="both" def="def" end="13" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="22" lcat="np" lemma="ge" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,red,2,getal)" pt="vnw" rel="su" rnum="sg" root="ge" sense="ge" status="red" vwtype="pers" wh="nwh" word="ge"/>
+          <node begin="13" end="14" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="23" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="87-2">Hij had haar niet geknepen , hij had gereciteerd , daar hebt ge &apos;t .</sentence>
+  <comments>
+    <comment>Q#87-2|Hij had haar niet geknepen , hij had gereciteerd , daar hebt ge &apos;t .|1|1|-9.913225889300001</comment>
+  </comments>
+</alpino_ds>

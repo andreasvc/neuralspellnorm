@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:07" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="smain" end="7" id="3" rel="nucl">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="2" end="3" frame="verb(hebben,sg1,aux_psp_hebben)" his="normal" his_1="normal" id="5" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" v_per="fir" word="heb" wvorm="pv"/>
+        <node begin="1" cat="ppart" end="7" id="6" rel="vc">
+          <node begin="1" end="2" id="7" index="1" rel="su"/>
+          <node begin="3" cat="mwu" end="5" his="normal" his_1="names_dictionary" id="8" rel="obj1">
+            <node begin="3" end="4" frame="proper_name(sg,'PER')" id="9" lcat="np" lemma="Van" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Van" sense="Van" spectype="deeleigen" word="Van"/>
+            <node begin="4" end="5" frame="proper_name(sg,'PER')" id="10" lcat="np" lemma="Alphen" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Alphen" sense="Alphen" spectype="deeleigen" word="Alphen"/>
+          </node>
+          <node begin="5" end="6" frame="tmp_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="nooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="nooit" sense="nooit" special="tmp" word="nooit"/>
+          <node begin="6" buiging="zonder" end="7" frame="verb(hebben,psp,transitive_ndev_ndev)" his="normal" his_1="normal" id="12" infl="psp" lcat="ppart" lemma="zien" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="gezien" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="3-7">Maar ik heb Van Alphen nooit gezien .</sentence>
+  <comments>
+    <comment>Q#3-7|Maar ik heb Van Alphen nooit gezien .|1|1|-8.524369444500001</comment>
+  </comments>
+</alpino_ds>

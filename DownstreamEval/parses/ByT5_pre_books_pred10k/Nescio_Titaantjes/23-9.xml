@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:45" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="16" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="9" id="5" rel="dp">
+          <node begin="1" cat="pp" end="6" id="6" rel="mod">
+            <node begin="1" end="2" frame="preposition(om,[heen])" his="normal" his_1="normal" id="7" lcat="pp" lemma="om" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="om" sense="om" vztype="init" word="om"/>
+            <node begin="2" cat="np" end="6" id="8" rel="obj1">
+              <node begin="2" end="3" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="9" infl="pl_num" lcat="detp" lemma="vijf" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="vijf" sense="vijf" word="vijf"/>
+              <node begin="3" end="4" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="minuut" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="minuut" sense="minuut" special="tmp" word="minuten"/>
+              <node begin="4" cat="pp" end="6" id="11" rel="mod">
+                <node begin="4" end="5" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="12" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+                <node begin="5" buiging="zonder" end="6" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="13" lcat="np" lemma="vieren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="obj1" rnum="sg" root="vier" sc="intransitive" sense="vier" special="v_noun" word="vieren" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+          <node begin="6" end="7" frame="verb(zijn,past(sg),part_intransitive(weg))" his="normal" his_1="normal" id="14" infl="sg" lcat="smain" lemma="weg_gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga_weg" sc="part_intransitive(weg)" sense="ga_weg" stype="declarative" tense="past" v_per="thi" word="ging" wvorm="pv"/>
+          <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="15" lcat="np" lemma="Bekker" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bekker" sense="Bekker" word="Bekker"/>
+          <node begin="8" end="9" frame="particle(weg)" his="normal" his_1="normal" id="16" lcat="part" lemma="weg" pos="part" postag="BW()" pt="bw" rel="svp" root="weg" sense="weg" word="weg"/>
+        </node>
+        <node begin="10" cat="smain" end="16" id="17" rel="dp">
+          <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="18" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="11" end="12" frame="verb(hebben,past(sg),subj_control(te_inf))" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="durfde" his_1_1_2="dorst" his_1_2="normal" id="19" infl="sg" lcat="smain" lemma="durven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="durf" sc="subj_control(te_inf)" sense="durf" stype="declarative" tense="past" v_per="thi" word="dorst" wvorm="pv"/>
+          <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="20" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+          <node begin="10" cat="ti" end="16" id="21" rel="vc">
+            <node begin="13" end="14" frame="complementizer(te)" his="normal" his_1="normal" id="22" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="10" cat="inf" end="16" id="23" rel="body">
+              <node begin="10" end="11" id="24" index="1" rel="su"/>
+              <node begin="14" buiging="zonder" end="15" frame="verb(unacc,inf,aux(inf))" his="normal" his_1="normal" id="25" infl="inf" lcat="inf" lemma="blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="aux(inf)" sense="blijf" word="blijven" wvorm="inf"/>
+              <node begin="10" cat="inf" end="16" id="26" rel="vc">
+                <node begin="10" end="11" id="27" index="1" rel="su"/>
+                <node begin="15" buiging="zonder" end="16" frame="verb(hebben,inf(no_e),intransitive)" his="normal" his_1="normal" id="28" infl="inf(no_e)" lcat="inf" lemma="staan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="sta" sc="intransitive" sense="sta" word="staan" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="23-9">Maar om vijf minuten voor vieren ging Bekker weg , hij dorst niet te blijven staan .</sentence>
+  <comments>
+    <comment>Q#23-9|Maar om vijf minuten voor vieren ging Bekker weg , hij dorst niet te blijven staan .|1|1|-4.530469275800001</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="sv1" end="8" id="1" rel="--">
+      <node begin="0" dropped_agr="pl" end="1" frame="verb(hebben,pl,pc_pp(op))" his="normal" his_1="decap" his_1_1="normal" id="2" infl="pl" lcat="sv1" lemma="hopen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="hoop" sc="pc_pp(op)" sense="hoop-op" stype="topic_drop" tense="present" v_per="thi;fir" word="Hopen" wvorm="pv"/>
+      <node begin="1" cat="pp" end="8" id="3" rel="pc">
+        <node begin="1" end="2" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="4" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="2" cat="np" end="8" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="God" sense="God" word="God"/>
+          <node begin="4" cat="rel" end="8" id="8" rel="mod">
+            <node begin="4" case="no_obl" end="5" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="9" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="4" cat="ssub" end="8" id="10" rel="body">
+              <node begin="4" end="5" id="11" index="1" rel="su"/>
+              <node begin="5" end="6" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="12" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+              <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+              <node begin="7" end="8" frame="verb(unacc,sg_is,intransitive)" his="normal" his_1="normal" id="14" infl="sg_is" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(vraag)" his="normal" his_1="normal" id="15" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="63-6">Hopen op een God die er niet is ?</sentence>
+  <comments>
+    <comment>Q#63-6|Hopen op een God die er niet is ?|1|1|-4.4024658545</comment>
+  </comments>
+</alpino_ds>

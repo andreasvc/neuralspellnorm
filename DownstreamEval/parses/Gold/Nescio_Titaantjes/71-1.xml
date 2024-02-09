@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="smain" end="9" id="1" rel="--">
+      <node begin="0" cat="pp" end="3" id="2" rel="mod">
+        <node begin="0" end="1" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="Met"/>
+        <node begin="1" cat="np" end="3" id="4" rel="obj1">
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="lijn" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="lijn" sense="lijn" word="lijn"/>
+          <node begin="2" end="3" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="6" infl="pl_num" lcat="detp" lemma="twee" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="twee" sense="twee" word="twee"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb('hebben/zijn',past(sg),ld_pp)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="rijden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="rijd" sc="ld_pp" sense="rijd" stype="declarative" tense="past" v_per="fir" word="reed" wvorm="pv"/>
+      <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="5" cat="pp" end="9" id="9" rel="ld">
+        <node begin="5" end="6" frame="preposition(over,[heen])" his="normal" his_1="normal" id="10" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+        <node begin="6" cat="np" end="9" id="11" rel="obj1">
+          <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="7" cat="mwu" end="9" his="normal" his_1="names_dictionary" id="13" rel="hd">
+            <node begin="7" end="8" frame="proper_name(sg,'LOC')" id="14" lcat="np" lemma="Nieuwezijds" neclass="LOC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Nieuwezijds" sense="Nieuwezijds" spectype="deeleigen" word="Nieuwezijds"/>
+            <node begin="8" end="9" frame="proper_name(sg,'LOC')" id="15" lcat="np" lemma="Voorburgwal" neclass="LOC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Voorburgwal" sense="Voorburgwal" spectype="deeleigen" word="Voorburgwal"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="16" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="71-1">Met lijn twee reed ik over de Nieuwezijds Voorburgwal .</sentence>
+  <comments>
+    <comment>Q#71-1|Met lijn twee reed ik over de Nieuwezijds Voorburgwal .|1|1|-1.5503194033000005</comment>
+  </comments>
+</alpino_ds>

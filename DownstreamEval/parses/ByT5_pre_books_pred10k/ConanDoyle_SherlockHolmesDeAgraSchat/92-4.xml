@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:54" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="whq" end="11" id="1" rel="--">
+      <node begin="0" case="both" def="indef" end="1" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+      <node begin="0" cat="sv1" end="11" id="3" rel="body">
+        <node begin="0" end="1" id="4" index="1" rel="predc"/>
+        <node begin="1" end="2" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="5" infl="sg_is" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="whquestion" tense="present" v_per="thi" word="is" wvorm="pv"/>
+        <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="3" cat="np" end="11" id="7" rel="su">
+          <node begin="3" buiging="zonder" end="4" frame="determiner(pron)" getal="getal" his="normal" his_1="normal" id="8" infl="pron" lcat="detp" lemma="u" naamval="stan" npagr="agr" pdtype="det" persoon="2" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="u" sense="u" status="vol" vwtype="bez" word="uw"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="oordeel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="oordeel" sense="oordeel" word="oordeel"/>
+          <node begin="5" cat="pp" end="11" id="10" rel="mod">
+            <node begin="5" end="6" frame="preposition(omtrent,[])" his="normal" his_1="normal" id="11" lcat="pp" lemma="omtrent" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="omtrent" sense="omtrent" vztype="init" word="omtrent"/>
+            <node begin="6" cat="np" end="11" id="12" rel="obj1">
+              <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="13" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+              <node begin="7" end="8" frame="ge_v_noun(intransitive)" genus="onz" getal="ev" graad="basis" his="normal" his_1="ge-" id="14" lcat="np" lemma="geschrijf" naamval="stan" ntype="soort" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="geschrijf" sc="intransitive" sense="geschrijf" special="ge_v_noun" word="geschrijf"/>
+              <node begin="8" cat="pp" end="11" id="15" rel="mod">
+                <node begin="8" end="9" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="16" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                <node begin="9" cat="np" end="11" id="17" rel="obj1">
+                  <node begin="9" buiging="met-e" end="10" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="deze" his_1_1_2="dezen" his_1_2="normal" id="18" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="dezen"/>
+                  <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="knaap" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="knaap" sense="knaap" word="knaap"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(vraag)" his="normal" his_1="normal" id="20" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="12" end="13" frame="punct(aanhaal_both)" his="skip" id="21" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="92-4">Wat is dan uw oordeel omtrent het geschrijf van dezen knaap ? &quot;</sentence>
+  <comments>
+    <comment>Q#92-4|Wat is dan uw oordeel omtrent het geschrijf van dezen knaap ? &quot;|1|1|-2.509109232500001</comment>
+  </comments>
+</alpino_ds>

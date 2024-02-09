@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="pp" end="5" id="1" rel="--">
+      <node begin="0" end="1" frame="preposition(over,[heen])" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="Over"/>
+      <node begin="1" cat="np" end="5" id="3" rel="obj1">
+        <node begin="1" end="2" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="vers" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="vers" sense="vers" word="verzen"/>
+        <node begin="2" cat="cp" end="5" id="5" rel="mod">
+          <node begin="2" conjtype="onder" end="3" frame="complementizer(als)" his="normal" his_1="normal" id="6" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+          <node begin="3" cat="np" end="5" id="7" rel="body">
+            <node aform="super" begin="3" buiging="met-e" end="4" frame="adjective(ste)" graad="sup" his="normal" his_1="normal" id="8" infl="e" lcat="ap" lemma="oud" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="mod" root="oud" sense="oud" vform="adj" word="oudste"/>
+            <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="taal" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="taal" sense="taal" word="taal"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="258-1">Over verzen als oudste taal .</sentence>
+  <comments>
+    <comment>Q#258-1|Over verzen als oudste taal .|1|1|1.9444010048999987</comment>
+  </comments>
+</alpino_ds>

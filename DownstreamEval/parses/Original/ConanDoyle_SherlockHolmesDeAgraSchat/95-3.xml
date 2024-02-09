@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="2" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="2" rel="--">
+      <node begin="0" cat="smain" end="8" id="3" rel="dp">
+        <node begin="0" cat="np" end="3" id="4" rel="su">
+          <node begin="0" end="1" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="man" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="man" sense="man" word="Mannen"/>
+          <node begin="1" cat="pp" end="3" id="6" rel="mod">
+            <node begin="1" end="2" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="7" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="2" end="3" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="karakter" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="karakter" sense="karakter" word="karakter"/>
+          </node>
+        </node>
+        <node begin="3" end="4" frame="verb(hebben,pl,transitive)" his="normal" his_1="normal" id="9" infl="pl" lcat="smain" lemma="maken" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="maak" sc="transitive" sense="maak" stype="declarative" tense="present" v_per="thi" word="maken" wvorm="pv"/>
+        <node begin="4" end="5" frame="sentence_adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+        <node begin="5" cat="np" end="8" id="11" rel="obj1">
+          <node begin="5" end="6" frame="determiner(een)" his="normal" his_1="normal" id="12" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="6" cat="mwu" end="8" his="normal" his_1="english_compound" id="13" rel="hd">
+            <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" id="14" lcat="np" lemma="onderscheid" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" rnum="sg" root="onderscheid" sense="onderscheid" word="onderscheid"/>
+            <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" id="15" lcat="np" lemma="tusschen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" rnum="sg" root="tusschen" sense="tusschen" word="tusschen"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" cat="du" end="21" id="16" rel="dp">
+        <node begin="8" buiging="met-e" end="9" frame="noun(both,count,sg)" gen="both" getal="mv" getal-n="zonder-n" his="normal" his_1="normal" id="17" lcat="np" lemma="hun" naamval="stan" num="sg" pdtype="det" persoon="3p" pos="noun" positie="nom" postag="VNW(bez,det,stan,vol,3p,mv,nom,met-e,zonder-n)" pt="vnw" rel="dp" rnum="sg" root="hunne" sense="hunne" status="vol" vwtype="bez" word="hunne"/>
+        <node begin="9" cat="np" end="21" id="18" rel="dp">
+          <node begin="9" cat="conj" end="12" id="19" rel="mod">
+            <node aform="base" begin="9" buiging="met-e" end="10" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="20" infl="e" lcat="ap" lemma="gewoon" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="cnj" root="gewoon" sense="gewoon" vform="adj" word="gewone"/>
+            <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="21" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node aform="base" begin="11" buiging="met-e" end="12" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="22" infl="e" lcat="ap" lemma="lang" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="cnj" root="lang" sense="lang" vform="adj" word="lange"/>
+          </node>
+          <node begin="12" end="13" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="letter" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="letter" sense="letter" word="letters"/>
+          <node begin="14" cat="whrel" end="21" id="24" rel="mod">
+            <node begin="14" cat="ap" end="16" id="25" index="1" rel="rhd">
+              <node begin="14" end="15" frame="wh_adjective" his="normal" his_1="normal" id="26" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+              <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="27" infl="no_e" lcat="ap" lemma="onregelmatig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="onregelmatig" sense="onregelmatig" vform="adj" word="onregelmatig"/>
+            </node>
+            <node begin="14" cat="ssub" end="21" id="28" rel="body">
+              <node begin="16" case="nom" def="def" end="17" frame="pronoun(nwh,thi,both,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="29" index="2" lcat="np" lemma="zij" naamval="nomin" num="both" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,vol,3p,mv)" pt="vnw" rel="su" rnum="pl" root="zij" sense="zij" status="vol" vwtype="pers" wh="nwh" word="zij"/>
+              <node begin="19" end="20" frame="verb(hebben,pl,modifier(aux(inf)))" his="normal" his_1="normal" id="30" infl="pl" lcat="ssub" lemma="mogen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="mag" sc="modifier(aux(inf))" sense="mag" tense="present" v_per="thi" word="mogen" wvorm="pv"/>
+              <node begin="14" cat="inf" end="21" id="31" rel="vc">
+                <node begin="14" end="16" id="32" index="1" rel="mod"/>
+                <node begin="16" end="17" id="33" index="2" rel="su"/>
+                <node begin="17" end="18" frame="sentence_adverb" his="normal" his_1="normal" id="34" lcat="advp" lemma="overigens" pos="adv" postag="BW()" pt="bw" rel="mod" root="overigens" sense="overigens" special="sentence" word="overigens"/>
+                <node begin="18" end="19" frame="sentence_adverb" his="normal" his_1="normal" id="35" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+                <node begin="20" buiging="zonder" end="21" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="36" infl="inf" lcat="inf" lemma="schrijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="schrijf" sc="intransitive" sense="schrijf" word="schrijven" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="robust_skip" id="37" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="95-3">Mannen van karakter maken altijd een onderscheid tusschen hunne gewone en lange letters , hoe onregelmatig zij overigens ook mogen schrijven .</sentence>
+  <comments>
+    <comment>Q#95-3|Mannen van karakter maken altijd een onderscheid tusschen hunne gewone en lange letters , hoe onregelmatig zij overigens ook mogen schrijven .|1|2|6.369920502799998</comment>
+  </comments>
+</alpino_ds>

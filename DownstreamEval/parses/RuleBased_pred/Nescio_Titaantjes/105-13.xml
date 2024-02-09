@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:42" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="10" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="cnj">
+        <node begin="0" cat="pp" end="2" id="4" rel="mod">
+          <node begin="0" end="1" frame="er_vp_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="Er"/>
+          <node begin="1" end="2" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="6" lcat="pp" lemma="uit" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="uit" sense="uit" vztype="fin" word="uit"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(pl),intransitive)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="wil" sc="intransitive" sense="wil" stype="declarative" tense="past" v_per="thi" word="wilden" wvorm="pv"/>
+        <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="8" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      </node>
+      <node begin="5" conjtype="neven" end="6" frame="conj(maar)" his="normal" his_1="normal" id="9" lcat="vg" lemma="maar" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="maar" sense="maar" word="maar"/>
+      <node begin="6" cat="smain" end="10" id="10" rel="cnj">
+        <node begin="6" case="both" def="def" end="7" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="11" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="7" end="8" frame="verb(hebben,past(pl),transitive_ndev)" his="normal" his_1="normal" id="12" infl="pl" lcat="smain" lemma="doen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="doe" sc="transitive_ndev" sense="doe" stype="declarative" tense="past" v_per="thi" word="deden" wvorm="pv"/>
+        <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="13" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+        <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-13">Er uit wilden ze , maar ze deden &apos;t niet .</sentence>
+  <comments>
+    <comment>Q#105-13|Er uit wilden ze , maar ze deden &apos;t niet .|1|1|-4.092828298800001</comment>
+  </comments>
+</alpino_ds>

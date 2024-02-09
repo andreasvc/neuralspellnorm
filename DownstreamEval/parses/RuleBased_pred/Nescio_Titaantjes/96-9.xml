@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="du" end="10" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="10" id="3" rel="nucl">
+        <node begin="2" end="3" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+        <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="5" index="1" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+        <node begin="1" cat="inf" end="10" id="6" rel="vc">
+          <node begin="1" end="2" frame="sentence_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="misschien" pos="adv" postag="BW()" pt="bw" rel="mod" root="misschien" sense="misschien" special="sentence" word="misschien"/>
+          <node begin="3" end="4" id="8" index="1" rel="su"/>
+          <node begin="4" cat="pp" end="6" id="9" rel="mod">
+            <node begin="4" end="5" frame="preposition(zonder,[])" his="normal" his_1="normal" id="10" lcat="pp" lemma="zonder" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="zonder" sense="zonder" vztype="init" word="zonder"/>
+            <node begin="5" end="6" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="11" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+          </node>
+          <node begin="6" end="7" frame="sentence_adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+          <node begin="7" end="8" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+          <node aform="base" begin="8" end="9" frame="adjective(pred(adv))" his="normal" his_1="normal" id="14" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+          <node begin="9" buiging="zonder" end="10" frame="verb(zijn,inf(no_e),intransitive)" his="normal" his_1="normal" id="15" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="intransitive" sense="ga" word="gaan" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="16" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-9">En misschien zou &apos;t zonder Hoyer ook nog wel gaan .</sentence>
+  <comments>
+    <comment>Q#96-9|En misschien zou &apos;t zonder Hoyer ook nog wel gaan .|1|1|-4.415466559000002</comment>
+  </comments>
+</alpino_ds>

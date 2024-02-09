@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:52" cats="1" skips="0" />
+  <node begin="0" cat="top" end="28" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="21" end="22" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="27" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="27" id="5" rel="nucl">
+        <node begin="1" cat="smain" end="6" id="6" rel="cnj">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="7" index="1" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+          <node begin="2" end="3" frame="verb(hebben,past(pl),vp)" his="normal" his_1="normal" id="8" infl="pl" lcat="smain" lemma="proberen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="probeer" sc="vp" sense="probeer" stype="declarative" tense="past" v_per="fir" word="probeerden" wvorm="pv"/>
+          <node begin="1" cat="ti" end="6" id="9" rel="vc">
+            <node begin="4" end="5" frame="complementizer(te)" his="normal" his_1="normal" id="10" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="1" cat="inf" end="6" id="11" rel="body">
+              <node begin="1" end="2" id="12" index="1" rel="su"/>
+              <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="13" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+              <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="geloven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geloof" sc="transitive" sense="geloof" word="gelooven" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+        <node begin="7" cat="smain" end="11" id="15" rel="cnj">
+          <node begin="7" cat="np" end="9" id="16" rel="su">
+            <node begin="7" end="8" frame="modal_adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="zelfs" pos="adv" postag="BW()" pt="bw" rel="mod" root="zelfs" sc="modal" sense="zelfs" word="zelfs"/>
+            <node begin="8" end="9" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="18" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+          </node>
+          <node begin="9" end="10" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="19" infl="sg" lcat="smain" lemma="proberen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="probeer" sc="transitive" sense="probeer" stype="declarative" tense="past" v_per="thi" word="probeerde" wvorm="pv"/>
+          <node begin="10" end="11" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="20" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="21" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="12" cat="smain" end="21" id="22" rel="cnj">
+          <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="23" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+          <node begin="13" end="14" frame="verb(hebben,past(pl),acc_np_sbar)" his="normal" his_1="normal" id="24" infl="pl" lcat="smain" lemma="overtuigen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="overtuig" sc="acc_np_sbar" sense="overtuig" stype="declarative" tense="past" v_per="fir" word="overtuigden" wvorm="pv"/>
+          <node begin="14" case="dat_acc" def="def" end="15" frame="pronoun(nwh,fir,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="25" lcat="np" lemma="ons" naamval="obl" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,mv)" pt="vnw" rel="obj1" rnum="pl" root="ons" sense="ons" status="vol" vwtype="pr" wh="nwh" word="ons"/>
+          <node begin="15" end="16" frame="predm_adverb" his="normal" his_1="normal" id="26" lcat="advp" lemma="zelf" pos="adv" postag="BW()" pt="bw" rel="predm" root="zelf" sense="zelf" special="predm" word="zelf"/>
+          <node begin="16" cat="cp" end="21" id="27" rel="vc">
+            <node begin="16" conjtype="onder" end="17" frame="complementizer(dat)" his="normal" his_1="normal" id="28" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="17" cat="ssub" end="21" id="29" rel="body">
+              <node begin="17" end="18" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="30" index="2" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+              <node begin="17" cat="inf" end="20" id="31" rel="vc">
+                <node begin="17" end="18" id="32" index="2" rel="su"/>
+                <node begin="18" end="19" frame="adverb" his="normal" his_1="normal" id="33" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+                <node begin="19" buiging="zonder" end="20" frame="verb(zijn,inf(no_e),intransitive)" his="normal" his_1="normal" id="34" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="intransitive" sense="ga" word="gaan" wvorm="inf"/>
+              </node>
+              <node begin="20" end="21" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="35" infl="sg" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+        <node begin="22" conjtype="neven" end="23" frame="conj(maar)" his="normal" his_1="normal" id="36" lcat="vg" lemma="maar" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="maar" sense="maar" word="maar"/>
+        <node begin="23" cat="smain" end="27" id="37" rel="cnj">
+          <node begin="23" case="nom" def="def" end="24" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="38" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+          <node begin="24" end="25" frame="verb(hebben,past(pl),transitive)" his="normal" his_1="normal" id="39" infl="pl" lcat="smain" lemma="geloven" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="geloof" sc="transitive" sense="geloof" stype="declarative" tense="past" v_per="fir" word="geloofden" wvorm="pv"/>
+          <node begin="25" end="26" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="40" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="26" end="27" frame="adverb" his="normal" his_1="normal" id="41" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        </node>
+      </node>
+    </node>
+    <node begin="27" end="28" frame="punct(punt)" his="normal" his_1="normal" id="42" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="44-3">En wij probeerden &apos;t te gelooven , zelfs Hoyer probeerde &apos;t en wij overtuigden ons zelf dat &apos;t zoo gaan zou , maar wij geloofden &apos;t niet .</sentence>
+  <comments>
+    <comment>Q#44-3|En wij probeerden &apos;t te [ @alt geloven gelooven ] , zelfs Hoyer probeerde &apos;t en wij overtuigden ons zelf dat &apos;t [ @alt zo zoo ] gaan zou , maar wij geloofden &apos;t niet .|1|1|-8.3584430294</comment>
+  </comments>
+</alpino_ds>

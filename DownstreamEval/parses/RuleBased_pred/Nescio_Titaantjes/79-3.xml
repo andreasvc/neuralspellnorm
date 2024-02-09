@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:36" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="cp" end="8" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer(of)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="of" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="of" sc="of" sense="of" word="Of"/>
+      <node begin="1" cat="ssub" end="8" id="3" rel="body">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="6" end="7" frame="verb(hebben,past(sg),modifier(aux(inf)))" his="normal" his_1="normal" id="5" infl="sg" lcat="ssub" lemma="mogen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="mag" sc="modifier(aux(inf))" sense="mag" tense="past" v_per="thi" word="mocht" wvorm="pv"/>
+        <node begin="1" cat="inf" end="8" id="6" rel="vc">
+          <node begin="1" end="2" id="7" index="1" rel="su"/>
+          <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node aform="base" begin="4" end="5" frame="adjective(both(tmpadv))" his="normal" his_1="normal" id="10" infl="both" lcat="ap" lemma="even" pos="adj" postag="BW()" pt="bw" rel="mod" root="even" sense="even" vform="adj" word="even"/>
+          <node begin="5" end="6" frame="particle(voor)" his="normal" his_1="normal" id="11" lcat="part" lemma="voor" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="voor" sense="voor" vztype="fin" word="voor"/>
+          <node begin="7" buiging="zonder" end="8" frame="verb(zijn,inf(no_e),part_transitive(voor))" his="normal" his_1="normal" id="12" infl="inf(no_e)" lcat="inf" lemma="voor_gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga_voor" sc="part_transitive(voor)" sense="ga_voor" word="gaan" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="79-3">Of hij me maar even voor mocht gaan .</sentence>
+  <comments>
+    <comment>Q#79-3|Of hij me maar even voor mocht gaan .|1|1|-1.437910798200001</comment>
+  </comments>
+</alpino_ds>

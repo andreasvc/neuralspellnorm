@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:23" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" cat="sv1" end="15" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg1,sbar)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg1" lcat="sv1" lemma="zien" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zie" sc="sbar" sense="zie" stype="imparative" tense="present" v_per="invje" word="Zie" wvorm="pv"/>
+      <node begin="1" cat="whsub" end="15" id="3" rel="vc">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="4" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="1" cat="conj" end="15" id="5" rel="body">
+          <node begin="1" cat="ssub" end="9" id="6" rel="cnj">
+            <node begin="1" end="2" id="7" index="1" rel="mod"/>
+            <node begin="2" cat="np" end="5" id="8" index="2" rel="su">
+              <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="geel" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="geel" sense="geel" vform="adj" word="gele"/>
+              <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="mist" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="mist" sense="mist" word="mist"/>
+            </node>
+            <node begin="5" cat="pp" end="8" id="12" rel="ld">
+              <node begin="5" end="6" frame="preposition(over,[heen])" his="normal" his_1="normal" id="13" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+              <node begin="6" cat="np" end="8" id="14" rel="obj1">
+                <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="straat" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="straat" sense="straat" word="straat"/>
+              </node>
+            </node>
+            <node begin="8" end="9" frame="verb(hebben,sg3,ld_pp)" his="normal" his_1="normal" id="17" infl="sg3" lcat="ssub" lemma="hangen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="hang" sc="ld_pp" sense="hang" tense="present" v_per="thi" word="hangt" wvorm="pv"/>
+          </node>
+          <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="1" cat="ssub" end="15" id="19" rel="cnj">
+            <node begin="1" end="2" id="20" index="1" rel="mod"/>
+            <node begin="2" end="5" id="21" index="2" rel="su"/>
+            <node begin="10" cat="pp" end="14" id="22" rel="ld">
+              <node begin="10" end="11" frame="preposition(langs,[heen])" his="normal" his_1="normal" id="23" lcat="pp" lemma="langs" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="langs" sense="langs" vztype="init" word="langs"/>
+              <node begin="11" cat="np" end="14" id="24" rel="obj1">
+                <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="25" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node aform="base" begin="12" buiging="met-e" end="13" frame="adjective(ge_e)" his="compound" his_1="1" id="26" infl="e" lcat="ppart" lemma="zwart_blakeren" pos="adj" positie="prenom" postag="WW(vd,prenom,met-e)" pt="ww" rel="mod" root="zwart_blakeren" sense="zwart_blakeren" vform="psp" word="zwart-geblakerde" wvorm="vd"/>
+                <node begin="13" end="14" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="huis" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="huis" sense="huis" word="huizen"/>
+              </node>
+            </node>
+            <node begin="14" end="15" frame="verb(zijn,sg3,ld_pp)" his="normal" his_1="normal" id="28" infl="sg3" lcat="ssub" lemma="dwarrelen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="dwarrel" sc="ld_pp" sense="dwarrel" tense="present" v_per="thi" word="dwarrelt" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="47-6">Zie hoe de gele mist over de straat hangt en langs de zwart-geblakerde huizen dwarrelt .</sentence>
+  <comments>
+    <comment>Q#47-6|Zie hoe de gele mist over de straat hangt en langs de zwart-geblakerde huizen dwarrelt .|1|1|-5.5516690473</comment>
+  </comments>
+</alpino_ds>

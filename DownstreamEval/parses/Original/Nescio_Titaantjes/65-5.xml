@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:30" cats="2" skips="2" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="7" end="8" frame="particle(aan)" his="robust_skip" id="1" lcat="--" lemma="aan" pos="part" postag="VZ(init)" pt="vz" rel="--" root="aan" sense="aan" vztype="init" word="aan"/>
+    <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="robust_skip" id="2" lcat="--" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="--" root="en" sense="en" word="en"/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="4" rel="--">
+      <node begin="0" cat="du" end="7" id="5" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="smain" end="7" id="7" rel="nucl">
+          <node begin="1" cat="pp" end="3" id="8" rel="mod">
+            <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="normal" id="9" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="2" end="3" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="10" lcat="np" lemma="ootmoed" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="ootmoed" sense="ootmoed" word="ootmoed"/>
+          </node>
+          <node begin="3" end="4" frame="verb(hebben,sg1,intransitive)" his="normal" his_1="normal" id="11" infl="sg1" lcat="smain" lemma="pijpen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="pijp" sc="intransitive" sense="pijp" stype="declarative" tense="present" v_per="fir" word="pijp" wvorm="pv"/>
+          <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+          <node begin="6" end="7" frame="tmp_adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+        </node>
+      </node>
+      <node begin="9" cat="smain" end="16" id="15" rel="dp">
+        <node begin="9" end="10" frame="verb(hebben,sg1,ninv(incorporated_subj_topic(pred_refl),incorporated_subj_topic(pred_refl)))" his="normal" his_1="normal" id="16" infl="sg1" lcat="smain" lemma="voelen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="voel" sc="incorporated_subj_topic(pred_refl)" sense="voel" stype="declarative" tense="present" v_per="invje;fir" word="voel" wvorm="pv"/>
+        <node begin="10" end="11" frame="reflexive(fir,sg)" getal="ev" his="normal" his_1="normal" id="17" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" refl="refl" rel="se" root="mij" sense="mij" status="vol" vwtype="pr" word="mij"/>
+        <node begin="11" cat="np" end="15" id="18" rel="predc">
+          <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="God" sense="God" word="God"/>
+          <node begin="13" cat="np" end="15" id="20" rel="app">
+            <node begin="13" end="14" frame="determiner(de)" his="normal" his_1="normal" id="21" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="14" end="15" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="oneindigheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oneindigheid" sense="oneindigheid" word="oneindigheid"/>
+          </node>
+        </node>
+        <node begin="15" end="16" frame="predm_adverb" his="normal" his_1="normal" id="23" lcat="advp" lemma="zelf" pos="adv" postag="BW()" pt="bw" rel="predm" root="zelf" sense="zelf" special="predm" word="zelf"/>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="24" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="65-5">En in ootmoed pijp ik nog eens aan en voel mij God , de oneindigheid zelf .</sentence>
+  <comments>
+    <comment>Q#65-5|En in ootmoed pijp ik nog eens aan en voel mij God , de oneindigheid zelf .|1|4|7.700409279899994</comment>
+  </comments>
+</alpino_ds>

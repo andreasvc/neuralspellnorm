@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:06" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="0" cat="smain" end="6" id="2" rel="--">
+      <node begin="0" cat="np" end="3" id="3" rel="su">
+        <node begin="0" buiging="met-e" end="1" frame="determiner(alle,nwh,mod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="alle" lcat="detp" lemma="al" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,met-e,agr)" pt="vnw" rel="det" root="al" sense="al" vwtype="onbep" wh="nwh" word="Alle"/>
+        <node aform="compar" begin="1" buiging="met-e" end="2" frame="adjective(ere)" graad="basis" his="normal" his_1="normal" id="5" infl="e" lcat="ap" lemma="ander" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ander" sense="ander" vform="adj" word="andere"/>
+        <node begin="2" end="3" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="6" lcat="np" lemma="menschen" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="menschen" sense="menschen" word="menschen"/>
+      </node>
+      <node begin="3" end="4" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" v_per="thi" word="waren" wvorm="pv"/>
+      <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="8" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="predc" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+    </node>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="9" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-7">Alle andere menschen waren &quot; ze &quot; .</sentence>
+  <comments>
+    <comment>Q#4-7|Alle andere menschen waren &quot; ze &quot; .|1|1|-2.842349101</comment>
+  </comments>
+</alpino_ds>

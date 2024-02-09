@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:51" cats="1" skips="0" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(punt_komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma=";" pos="punct" postag="LET()" pt="let" rel="--" root=";" sense=";" special="punt_komma" word=";"/>
+    <node begin="7" end="8" frame="punct(ligg_streep)" his="skip" id="3" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="15" end="16" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="19" id="5" rel="--">
+      <node begin="1" cat="du" end="6" id="6" rel="dp">
+        <node begin="1" cat="cp" end="4" id="7" rel="dp">
+          <node begin="1" end="2" frame="complementizer(zoals)" his="normal" his_1="decap" his_1_1="normal" id="8" lcat="cp" lemma="zover" pos="comp" postag="BW()" pt="bw" rel="cmp" root="zover" sc="zoals" sense="zover" word="Zoover"/>
+          <node begin="2" cat="ssub" end="4" id="9" rel="body">
+            <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="10" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+            <node begin="3" end="4" frame="verb(hebben,pl,tr_sbar)" his="normal" his_1="normal" id="11" infl="pl" lcat="ssub" lemma="weten" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="weet" sc="tr_sbar" sense="weet" tense="present" v_per="fir" word="weten" wvorm="pv"/>
+          </node>
+        </node>
+        <node begin="4" cat="np" end="6" id="12" rel="dp">
+          <node begin="4" end="5" frame="modal_adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="slechts" pos="adv" postag="BW()" pt="bw" rel="mod" root="slechts" sc="modal" sense="slechts" word="slechts"/>
+          <node begin="5" case="both" def="indef" end="6" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="nom" postag="TW(hoofd,nom,zonder-n,basis)" pt="tw" rel="hd" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+        </node>
+      </node>
+      <node begin="8" cat="du" end="19" id="15" rel="dp">
+        <node begin="8" cat="np" end="18" id="16" rel="dp">
+          <node aform="base" begin="8" buiging="met-e" end="9" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="17" infl="e" lcat="ap" lemma="zeker" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="zeker" sense="zeker" vform="adj" word="zekere"/>
+          <node begin="9" cat="mwu" end="11" his="name" his_1="not_begin" id="18" rel="hd">
+            <node begin="9" end="10" frame="proper_name(sg,'PER')" id="19" lcat="np" lemma="Majoor" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Majoor" sense="Majoor" spectype="deeleigen" word="Majoor"/>
+            <node begin="10" end="11" frame="proper_name(sg,'PER')" id="20" lcat="np" lemma="Sholto" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Sholto" sense="Sholto" spectype="deeleigen" word="Sholto"/>
+          </node>
+          <node begin="11" cat="pp" end="18" id="21" rel="mod">
+            <node begin="11" end="12" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="22" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="12" cat="np" end="18" id="23" rel="obj1">
+              <node begin="12" buiging="zonder" end="13" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="24" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+              <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(both(nonadv))" graad="basis" his="normal" his_1="normal" id="25" infl="both" lcat="ap" lemma="eigen" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="eigen" sense="eigen" vform="adj" word="eigen"/>
+              <node begin="14" end="15" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="regiment" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="regiment" sense="regiment" word="regiment"/>
+              <node begin="16" cat="np" end="18" id="27" rel="app">
+                <node begin="16" end="17" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="28" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+                <node begin="17" end="18" frame="number(rang)" getal-n="zonder-n" his="normal" his_1="number_rang" id="29" lcat="np" lemma="34" numtype="rang" pos="num" positie="nom" postag="TW(rang,nom,zonder-n)" pt="tw" rel="hd" rnum="sg" root="34" sense="34" word="34e"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="18" end="19" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap_and_compound" his_1="2" id="30" lcat="np" lemma="Bombay_infanterie" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="Bombay_infanterie" sense="Bombay_infanterie" word="Bombay-Infanterie"/>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="normal" his_1="normal" id="31" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="69-1">&quot; Zoover wij weten slechts een ; - zekere Majoor Sholto van zijn eigen regiment , het 34e Bombay-Infanterie .</sentence>
+  <comments>
+    <comment>Q#69-1|&quot; [ @alt Zover Zoover ] wij weten slechts een ; - zekere Majoor Sholto van zijn eigen regiment , het 34e Bombay-Infanterie .|1|1|4.001790900900001</comment>
+  </comments>
+</alpino_ds>

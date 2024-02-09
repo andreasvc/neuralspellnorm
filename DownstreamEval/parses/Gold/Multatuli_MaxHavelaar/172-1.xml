@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="np" end="5" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'ORG')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="2" lcat="np" lemma="Me" naamval="stan" neclass="ORG" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Me" sense="Me" word="Me"/>
+      <node begin="1" cat="pp" end="5" id="3" rel="mod">
+        <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="normal" id="4" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="2" cat="np" end="5" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node aform="compar" begin="3" buiging="zonder" end="4" frame="adjective(er(adv))" graad="comp" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="prenom" postag="ADJ(prenom,comp,zonder)" pt="adj" rel="mod" root="goed" sense="goed" vform="adj" word="beter"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="vaderland" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="vaderland" sense="vaderland" word="vaderland"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="172-1">Me in een beter vaderland</sentence>
+  <comments>
+    <comment>Q#172-1|Me in een beter vaderland|1|1|2.2832490087999995</comment>
+  </comments>
+</alpino_ds>

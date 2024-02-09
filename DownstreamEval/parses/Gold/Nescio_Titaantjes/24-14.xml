@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:18" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="smain" end="12" id="1" rel="--">
+      <node begin="0" cat="cp" end="6" id="2" rel="mod">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="Toen"/>
+        <node begin="1" cat="ssub" end="6" id="4" rel="body">
+          <node begin="1" case="both" def="def" end="2" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+          <node begin="3" cat="np" end="5" id="7" rel="mod">
+            <node begin="3" buiging="zonder" end="4" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="8" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="dien"/>
+            <node begin="4" end="5" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="middag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="middag" sense="middag" special="tmp" word="middag"/>
+          </node>
+          <node begin="5" end="6" frame="verb(hebben,past(sg),ninv(transitive,part_transitive(in)))" his="normal" his_1="part-V" id="10" infl="sg" lcat="ssub" lemma="in_halen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="haal_in" sc="part_transitive(in)" sense="haal_in" tense="past" v_per="thi" word="inhaalde" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="6" end="7" frame="verb(zijn,past(sg),ld_pp)" his="normal" his_1="normal" id="11" infl="sg" lcat="smain" lemma="gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga" sc="ld_pp" sense="ga" stype="declarative" tense="past" v_per="thi" word="ging" wvorm="pv"/>
+      <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="rakelings" pos="adv" postag="BW()" pt="bw" rel="mod" root="rakelings" sense="rakelings" word="rakelings"/>
+      <node begin="9" cat="pp" end="12" id="14" rel="ld">
+        <node begin="9" end="10" frame="preposition(langs,[heen])" his="normal" his_1="normal" id="15" lcat="pp" lemma="langs" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="langs" sense="langs" vztype="init" word="langs"/>
+        <node begin="10" case="dat_acc" def="def" end="11" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+        <node begin="11" end="12" frame="particle(heen)" his="normal" his_1="normal" id="17" lcat="part" lemma="heen" pos="part" postag="VZ(fin)" pt="vz" rel="hdf" root="heen" sense="heen" vztype="fin" word="heen"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="24-14">Toen ze me dien middag inhaalde ging ze rakelings langs me heen .</sentence>
+  <comments>
+    <comment>Q#24-14|Toen ze me [ @alt die dien ] middag inhaalde ging ze rakelings langs me heen .|1|1|-7.1574215551</comment>
+  </comments>
+</alpino_ds>

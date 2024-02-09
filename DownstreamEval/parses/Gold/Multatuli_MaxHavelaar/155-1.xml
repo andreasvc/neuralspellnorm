@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="pp" end="7" id="3" rel="nucl">
+        <node begin="1" end="2" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="4" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+        <node begin="2" cat="np" end="7" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="heil" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="heil" sense="heil" word="heil"/>
+          <node begin="4" cat="rel" end="7" id="8" rel="mod">
+            <node begin="4" end="5" frame="waar_adverb(naar)" his="normal" his_1="normal" id="9" lcat="pp" lemma="waarnaar" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarnaar" sense="waarnaar" special="waar" word="waarnaar"/>
+            <node begin="5" cat="du" end="7" id="10" rel="body">
+              <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="11" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="dp" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+              <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="12" lcat="np" lemma="trachtte" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="trachtte" sense="trachtte" word="trachtte"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="13" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="155-1">En voor &apos;t heil waarnaar ik trachtte ,</sentence>
+  <comments>
+    <comment>Q#155-1|En voor &apos;t heil waarnaar ik trachtte ,|1|1|2.2584501434999997</comment>
+  </comments>
+</alpino_ds>

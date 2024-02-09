@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="3" skips="1" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(hellip)" his="normal" his_1="normal" id="1" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="8" end="9" frame="verb(hebben,sg1,sbar)" his="robust_skip" id="2" infl="sg1" lcat="--" lemma="menen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="--" root="meen" sc="sbar" sense="meen" tense="present" word="meen" wvorm="pv"/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="smain" end="6" id="4" rel="dp">
+        <node begin="0" cat="ap" end="2" id="5" rel="mod">
+          <node begin="0" buiging="zonder" end="1" frame="intensifier" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="advp" lemma="heel" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heel" sense="heel" special="intensifier" word="Heel"/>
+          <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="toevallig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="toevallig" sense="toevallig" vform="adj" word="toevallig"/>
+        </node>
+        <node begin="2" end="3" frame="verb(zijn,past(sg),pc_pp(achter))" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="komen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kom" sc="pc_pp(achter)" sense="kom-achter" stype="declarative" tense="past" v_per="fir" word="kwam" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="4" end="5" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="10" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+        <node begin="5" end="6" frame="preposition(achter,[aan,door,langs,om,uit,vandaan])" his="normal" his_1="normal" id="11" lcat="pp" lemma="achter" pos="prep" postag="VZ(init)" pt="vz" rel="pc" root="achter" sense="achter" vztype="init" word="achter"/>
+      </node>
+      <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="dp" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="9" cat="pp" end="16" id="13" rel="dp">
+        <node begin="9" end="10" frame="preposition(achter,[aan,door,langs,om,uit,vandaan])" his="normal" his_1="normal" id="14" lcat="pp" lemma="achter" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="achter" sense="achter" vztype="init" word="achter"/>
+        <node begin="10" cat="np" end="16" id="15" rel="obj1">
+          <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="11" end="12" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="17" lcat="np" lemma="knoeierij" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="knoeierij" sense="knoeierij" word="knoeierij"/>
+          <node begin="12" cat="pp" end="16" id="18" rel="mod">
+            <node begin="12" end="13" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="19" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="13" cat="mwu" end="16" his="name" his_1="not_begin" id="20" rel="obj1">
+              <node begin="13" end="14" frame="proper_name(both,'ORG')" id="21" lcat="np" lemma="Busselinck" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Busselinck" sense="Busselinck" spectype="deeleigen" word="Busselinck"/>
+              <node begin="14" end="15" frame="proper_name(both,'ORG')" id="22" lcat="np" lemma="&amp;" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="&amp;" sense="&amp;" spectype="deeleigen" word="&amp;"/>
+              <node begin="15" end="16" frame="proper_name(both,'ORG')" id="23" lcat="np" lemma="Waterman" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Waterman" sense="Waterman" spectype="deeleigen" word="Waterman"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="24" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="22-8">Heel toevallig kwam ik daar achter ... ik meen achter de knoeierij van Busselinck &amp; Waterman .</sentence>
+  <comments>
+    <comment>Q#22-8|Heel toevallig kwam ik daar achter ... ik meen achter de knoeierij van Busselinck &amp; Waterman .|1|4|3.0915378550999986</comment>
+  </comments>
+</alpino_ds>

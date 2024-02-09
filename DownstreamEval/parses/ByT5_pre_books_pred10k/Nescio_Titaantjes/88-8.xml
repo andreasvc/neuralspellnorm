@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:04" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),sbar)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="geloven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="geloof" sc="sbar" sense="geloof" stype="declarative" tense="past" v_per="thi" word="geloofde" wvorm="pv"/>
+      <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+      <node begin="4" cat="cp" end="13" id="6" rel="vc">
+        <node begin="4" conjtype="onder" end="5" frame="complementizer(dat)" his="normal" his_1="normal" id="7" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="5" cat="ssub" end="13" id="8" rel="body">
+          <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="9" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="11" end="12" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+          <node begin="5" cat="inf" end="13" id="11" rel="vc">
+            <node begin="5" end="6" id="12" index="1" rel="su"/>
+            <node begin="6" case="dat_acc" def="def" end="7" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+            <node begin="7" cat="pp" end="9" id="14" rel="mod">
+              <node begin="7" end="8" frame="preposition(voor,[],tmp_adv)" his="normal" his_1="normal" id="15" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sc="tmp_adv" sense="voor" vztype="init" word="voor"/>
+              <node begin="8" end="9" frame="tmp_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="vanavond" pos="adv" postag="BW()" pt="bw" rel="obj1" root="vanavond" sense="vanavond" special="tmp" word="vanavond"/>
+            </node>
+            <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="laat" sense="laat" vform="adj" word="laat"/>
+            <node begin="10" buiging="zonder" end="11" frame="particle(kwijt)" graad="basis" his="normal" his_1="normal" id="18" lcat="part" lemma="kwijt" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="kwijt" sense="kwijt" word="kwijt"/>
+            <node begin="12" buiging="zonder" end="13" frame="verb(unacc,inf,part_transitive(kwijt))" his="normal" his_1="normal" id="19" infl="inf" lcat="inf" lemma="kwijt_raken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="raak_kwijt" sc="part_transitive(kwijt)" sense="raak_kwijt" word="raken" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(hellip)" his="normal" his_1="normal" id="20" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="88-8">Hij geloofde niet , dat hij hem voor vanavond laat kwijt zou raken ...</sentence>
+  <comments>
+    <comment>Q#88-8|Hij geloofde niet , dat hij hem voor vanavond laat kwijt zou raken ...|1|1|-11.4773836667</comment>
+  </comments>
+</alpino_ds>

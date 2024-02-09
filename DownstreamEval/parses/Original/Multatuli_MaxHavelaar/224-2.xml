@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" end="1" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="1" lcat="np" lemma="rust" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="--" rnum="sg" root="rust" sense="rust" word="Rust"/>
+    <node begin="1" end="2" frame="punct(uitroep)" his="normal" his_1="normal" id="2" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="2" end="3" frame="punct(aanhaal_both)" his="skip" id="3" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="224-2">Rust ! &quot;</sentence>
+  <comments>
+    <comment>Q#224-2|Rust ! &quot;|1|1|0.4619794799999999</comment>
+  </comments>
+</alpino_ds>

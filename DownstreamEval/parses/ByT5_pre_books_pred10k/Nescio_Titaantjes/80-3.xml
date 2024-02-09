@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:03" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="du" end="11" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="cp" end="11" id="3" rel="nucl">
+        <node begin="1" conjtype="onder" end="2" frame="complementizer(of)" his="normal" his_1="normal" id="4" lcat="cp" lemma="of" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="of" sc="of" sense="of" word="of"/>
+        <node begin="2" cat="ssub" end="11" id="5" rel="body">
+          <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="9" end="10" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="7" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" v_per="thi" word="had" wvorm="pv"/>
+          <node begin="2" cat="ppart" end="11" id="8" rel="vc">
+            <node begin="2" end="3" id="9" index="1" rel="su"/>
+            <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+            <node aform="base" begin="4" end="5" frame="adjective(pred(adv))" his="normal" his_1="normal" id="11" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+            <node begin="5" end="6" frame="tmp_adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+            <node begin="6" end="7" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="iets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="iets" sense="iets" special="meas_mod" status="vol" vwtype="onbep" word="iets"/>
+            <node begin="7" cat="pp" end="9" id="14" rel="pc">
+              <node begin="7" end="8" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="15" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="8" end="9" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="16" lcat="np" lemma="Kees" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Kees" sense="Kees" word="Kees"/>
+            </node>
+            <node begin="10" buiging="zonder" end="11" frame="verb(hebben,psp,np_pc_pp(van))" his="normal" his_1="normal" id="17" infl="psp" lcat="ppart" lemma="horen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="hoor" sc="np_pc_pp(van)" sense="hoor-van" word="gehoord" wvorm="vd"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(vraag)" his="normal" his_1="normal" id="18" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="80-3">En of hij nog wel eens iets van Kees had gehoord ?</sentence>
+  <comments>
+    <comment>Q#80-3|En of hij nog wel eens iets van Kees had gehoord ?|1|1|-7.196958888300002</comment>
+  </comments>
+</alpino_ds>

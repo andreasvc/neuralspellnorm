@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="18" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(hebben,sg1,aux_psp_hebben)" his="normal" his_1="normal" id="4" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" v_per="fir" word="heb" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="18" id="5" rel="vc">
+        <node begin="0" end="1" id="6" index="1" rel="su"/>
+        <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="3" end="4" frame="sentence_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+        <node begin="4" end="5" frame="sentence_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,psp,ninv(sbar,part_sbar(op)))" his="normal" his_1="part-V" id="10" infl="psp" lcat="ppart" lemma="op_merken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="merk_op" sc="part_sbar(op)" sense="merk_op" word="opgemerkt" wvorm="vd"/>
+        <node begin="6" cat="cp" end="18" id="11" rel="vc">
+          <node begin="6" conjtype="onder" end="7" frame="complementizer(dat)" his="normal" his_1="normal" id="12" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="7" cat="ssub" end="18" id="13" rel="body">
+            <node begin="7" cat="np" end="14" id="14" rel="su">
+              <node begin="7" end="8" frame="noun(both,count,pl)" gen="both" getal="mv" graad="basis" his="normal" his_1="normal" id="15" lcat="np" lemma="mens" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="mens" sense="mens" word="menschen"/>
+              <node begin="8" cat="rel" end="14" id="16" rel="mod">
+                <node begin="8" case="no_obl" end="9" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="17" index="2" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="pl" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+                <node begin="8" cat="ssub" end="14" id="18" rel="body">
+                  <node begin="8" end="9" id="19" index="2" rel="su"/>
+                  <node begin="9" end="10" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="20" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+                  <node begin="10" cat="pp" end="13" id="21" rel="pc">
+                    <node begin="10" end="11" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="22" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+                    <node begin="11" cat="mwu" end="13" his="mwu_alt" his_1="normal" id="23" rel="obj1">
+                      <node begin="11" case="both" def="indef" end="12" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" genus="zijd" getal="ev" graad="basis" id="24" lcat="np" lemma="zoo" naamval="stan" ntype="soort" num="sg" per="thi" pos="pron" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="zoo" sense="zoo" special="strpro" wh="nwh" word="zoo"/>
+                      <node begin="12" case="both" def="indef" end="13" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" genus="zijd" getal="ev" graad="basis" id="25" lcat="np" lemma="-iets" naamval="stan" ntype="soort" num="sg" per="thi" pos="pron" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="-iets" sense="-iets" special="strpro" wh="nwh" word="-iets"/>
+                    </node>
+                  </node>
+                  <node begin="13" end="14" frame="verb(hebben,pl,ninv(refl_pc_pp(met),part_refl_pc_pp(in,met)))" his="normal" his_1="part-V" id="26" infl="pl" lcat="ssub" lemma="in_laten" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="laat_in" sc="part_refl_pc_pp(in,met)" sense="zich-laat_in-met" tense="present" v_per="thi" word="inlaten" wvorm="pv"/>
+                </node>
+              </node>
+            </node>
+            <node begin="15" cat="ap" end="17" id="27" rel="mod">
+              <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="28" infl="no_e" lcat="ap" lemma="gewoonlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="gewoonlijk" sense="gewoonlijk" vform="adj" word="gewoonlijk"/>
+              <node aform="base" begin="16" buiging="zonder" end="17" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="29" infl="no_e" lcat="ap" lemma="slecht" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="slecht" sense="slecht" vform="adj" word="slecht"/>
+            </node>
+            <node begin="17" end="18" frame="verb(unacc,pl,ninv(intransitive,part_intransitive(weg)))" his="normal" his_1="part-V" id="30" infl="pl" lcat="ssub" lemma="weg_komen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="kom_weg" sc="part_intransitive(weg)" sense="kom_weg" tense="present" v_per="thi" word="wegkomen" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="31" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="2-8">Ik heb dan ook altijd opgemerkt dat menschen die zich met zoo -iets inlaten , gewoonlijk slecht wegkomen .</sentence>
+  <comments>
+    <comment>Q#2-8|Ik heb dan ook altijd opgemerkt dat [ @alt mensen menschen ] die zich met [ @mwu_alt zoiets zoo -iets ] inlaten , gewoonlijk slecht wegkomen .|1|1|-11.983223250400002</comment>
+  </comments>
+</alpino_ds>

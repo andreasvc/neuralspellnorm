@@ -1,0 +1,859 @@
+id	gender	human	number	size	firstmention	mentions	label
+0	n	0	sg	1	0	0	EERSTE HOOFDSTUK
+1	m	1	sg	563	1	1,2,1025,1028,1026,6,1029,1030,9,2060,13,2063,16,17,18,2039,2065,21,1045,23,24,25,1050,27,28,2068,30,2074,2075,2080,34,2076,36,2085,38,39,40,1062,2088,2090,2097,1074,2101,2106,60,61,62,2109,64,2113,2112,2115,68,1093,1094,1095,2118,73,1098,74,76,1097,2120,1103,1104,1105,82,1107,2127,85,1110,87,1112,2129,2134,2139,2140,2135,2143,1120,97,1121,1122,1124,101,1125,1126,20,1129,1130,1131,2156,1133,110,1135,2157,2159,1138,1139,2168,2169,2171,2179,2181,2183,2185,2186,2190,2191,2192,2195,2197,2066,2204,2205,2203,2215,2220,1202,1204,2230,2231,1211,188,190,2239,1218,1219,2244,1260,198,199,1222,1224,2246,1227,1228,1229,2249,2252,2254,1233,2256,2250,2260,2261,213,215,1240,2265,2266,1242,1244,1245,1246,223,1248,2269,226,2270,2272,1249,2283,2279,232,2280,1258,234,236,2284,238,1263,240,2285,242,2286,1268,2287,2290,1271,1269,1273,250,1275,253,1277,2301,1280,2303,1282,2304,260,261,2306,2308,264,1290,1291,2315,1293,1295,1297,1304,2332,1309,290,292,293,1316,1318,1320,296,1321,299,300,1324,302,1322,304,1328,1329,314,1338,1341,318,321,1346,323,325,1350,327,328,1351,330,1352,2373,1357,2376,1359,1360,337,1362,1356,1364,1365,1367,1370,2394,1374,1376,2400,1378,2401,2404,2407,1385,2409,1389,1392,2416,1393,1396,2420,1399,1400,1403,1405,1406,388,1413,393,1420,1426,1430,407,1432,411,1438,1443,1456,2121,1458,1460,1462,1471,448,451,452,1475,1480,1483,1484,1485,1486,1487,1489,1490,1492,470,1494,1496,1497,475,1501,1506,490,1516,1518,502,1526,1528,1530,507,1533,1534,1539,516,517,1541,1540,520,1546,524,1549,526,529,1554,1555,1553,1557,534,535,537,1561,541,1565,544,545,546,1571,548,1572,551,1576,1575,554,1579,555,1578,1581,1583,556,1585,1586,563,1589,567,568,569,1593,1594,1595,573,1597,576,1600,578,580,1605,581,583,585,586,588,1613,589,593,597,601,1635,616,1642,619,620,1643,622,623,625,626,1652,633,634,640,644,1671,1674,651,663,664,666,1691,1354,1698,1699,1708,1710,1713,1714,1715,1717,709,1742,720,1748,1749,1753,730,1762,1768,1769,745,746,1771,750,1774,752,753,1776,1778,1780,1781,1782,1783,760,763,1790,767,1792,1793,770,1795,1797,1799,1800,1803,1805,1807,1808,787,789,790,1815,1816,1818,796,1820,1821,799,800,811,812,813,1837,1839,817,1842,819,1843,823,824,826,1851,829,1854,831,1856,1857,1859,1863,1873,1876,1877,1878,1879,1880,857,1881,859,1883,1887,1890,1891,1893,1894,1896,1900,1901,1906,1910,1918,1921,1925,1927,1930,1933,1935,1937,1939,1941,1942,1944,924,1948,1950,1952,930,1955,932,1957,935,1962,941,1968,945,951,954,955,959,963,967,970,1994,972,975,976,977,978,980,2004,2007,2008,2012,989,2017,2020,2021,1000,2027,1005,2030,1008,1009,2032,1011,1012,2034,2035,2037,1016,201,2044,1022,2047	Ik
+3	m	1	sg	19	3	449,3,195,70,712,19,604,2206,889,865,2274,2214,41,46,629,54,57,570,1727	koffie
+4	-	-	sg	4	4	713,4,605,2207	de Lauriergracht
+5	n	0	sg	1	5	5	mijn gewoonte
+7	n	-	pl	3	7	52,333,7	romans
+8	n	0	pl	31	8	65,961,66,67,1285,1286,962,8,1801,1225,1226,269,78,79,400,1618,338,339,1109,91,92,29,224,225,2144,2145,997,998,1265,1266,1267	zulke dingen
+10	n	0	sg	1	10	10	een paar riem papier extra
+11	n	0	sg	3	11	11,668,334	riem papier extra
+12	n	0	sg	1	12	12	het werk
+14	fm	1	sg	3	14	2136,557,14	lieve lezer
+15	n	0	sg	5	15	1201,1199,1193,1118,15	de hand
+22	n	0	sg	1	22	22	een roman
+26	n	0	pl	1	26	26	zaken
+31	n	0	sg	1	31	31	de onbeschaamdheid
+32	fm	1	sg	1	32	32	een dichter
+33	-	-	sg	1	33	33	romanverteller
+35	n	0	sg	1	35	35	dat
+37	n	0	sg	3	37	37,566,1791	mijn vak
+42	-	-	sg	8	42	768,2208,866,450,42,715,571,606	Lauriergracht N
+43	n	0	sg	2	43	43,44	een principaal
+45	-	-	sg	1	45	45	die
+47	n	0	sg	1	47	47	een opgave
+48	n	0	sg	1	48	48	een klein gedeelte der onwaarheden
+49	-	-	pl	3	49	312,49,313	der onwaarheden
+50	-	-	pl	1	50	50	die
+51	n	0	pl	1	51	51	gedichten
+53	n	0	sg	1	53	53	de hoofdzaak
+55	n	0	pl	11	55	611,617,618,749,751,2098,725,1270,55,792,636	Busselinck & Waterman
+56	fm	1	pl	10	56	864,194,2403,711,59,888,56,603,637,1726	makelaars in koffie
+58	n	0	sg	1	58	58	hun adres
+63	n	0	pl	2	63	2225,63	andere valsche opgaven
+69	n	0	sg	10	69	608,69,615,1353,1289,1355,587,624,723,1368	de beurs
+71	-	-	sg	1	71	71	die
+72	n	0	sg	1	72	72	ondervinding
+75	n	0	pl	3	75	81,75,77	de oorzaken
+80	-	-	pl	1	80	80	de meesten
+83	-	-	sg	12	83	320,549,453,679,396,83,1276,1719,2232,2396,574,2271	waarheid
+84	n	0	sg	1	84	84	gezond verstand
+86	n	0	sg	2	86	1102,86	de Schrift
+88	n	0	sg	3	88	88,399,391	een uitzondering
+89	n	0	sg	1	89	89	De fout
+90	m	1	sg	4	90	129,90,132,130	Van Alphen
+93	m	1	sg	69	93	2176,2177,2178,387,771,645,646,647,776,773,394,775,128,135,2062,654,137,401,138,144,131,791,2077,164,2092,1709,814,815,2096,2095,818,692,693,827,833,834,835,708,836,838,840,841,2253,850,93,734,478,94,737,121,739,740,741,744,105,106,112,755,627,2164,628,757,1654,115,118,123,764,125,2175	dien ouden heer
+95	fm	1	sg	2	95	98,95	een aanbidder van mijn zusje Truitje
+96	n	0	both	1	96	96	mijn zusje Truitje
+99	n	0	pl	6	99	99,1253,1912,1033,842,1132	zeere oogen
+100	m	1	sg	3	100	107,100,103	mijn broêr Gerrit
+102	m	1	sg	1	102	102	Gerrit
+104	n	0	sg	2	104	104,994	zijn neus
+108	n	0	pl	1	108	108	die versjes
+109	n	0	sg	15	109	227,1895,1963,204,109,205,2000,180,181,1972,1847,1913,218,187,1919	liefde gedrongen
+111	fm	1	sg	5	111	2148,2149,1884,1053,111	kind
+113	m	1	sg	55	113	1668,1796,1798,1673,1676,532,1694,1695,1696,1697,291,1703,295,298,301,305,949,952,2107,2108,1599,1728,1603,1604,1606,1611,1612,2255,2259,854,1369,858,1628,1756,2141,1632,1760,1763,1636,1765,1639,1386,1646,1648,113,114,1777,1649,1651,119,249,2172,2173,126,255	u
+116	-	-	pl	3	116	146,116,117	de marmerknikkers
+120	n	0	sg	1	120	120	mijn naam
+122	n	0	sg	1	122	122	banket
+124	n	0	sg	1	124	124	Batavus
+127	fm	1	sg	1	127	127	een leugenaar
+133	fm	1	pl	4	133	145,169,133,141	ons
+134	m	1	sg	4	134	136,465,1099,134	mijn vader
+139	fm	1	sg	2	139	139,140	Pauweltje Winser
+142	-	-	sg	1	142	142	de Batavierstraat
+143	n	0	sg	1	143	143	mijn kleine hond
+147	n	0	sg	2	147	147,1435	de opvoeding
+148	f	1	sg	1	148	148	Het nieuwe zusjen
+149	-	-	sg	1	149	149	de groenvrouw
+150	n	0	sg	2	150	2161,150	een groote kool
+151	m	1	pl	1	151	151	Hollanders
+152	m	1	pl	2	152	152,154	De Romeinen
+153	n	0	pl	1	153	153	de Batavieren
+155	m	1	sg	2	155	155,158	De Beij van Tunis
+156	n	0	sg	1	156	156	Tunis
+157	n	0	sg	1	157	157	een kolijk
+159	n	0	sg	1	159	159	de nederlandsche vlag
+160	mn	-	sg	2	160	160,162	De hertog van Alva
+161	m	1	sg	1	161	161	Alva
+163	n	0	sg	1	163	163	De eb
+165	n	0	sg	3	165	165,166,167	Nederland
+168	fm	1	pl	3	168	168,171,172	onze oude luî
+170	n	0	pl	1	170	170	hun zaken
+173	n	0	sg	3	173	552,2242,173	het ware geloof
+174	n	0	sg	5	174	1474,178,1417,174,830	de zaak
+175	n	0	pl	1	175	175	andere leugens
+176	f	1	sg	12	176	1091,360,361,362,364,237,366,176,177,241,368,182	Een meisjen
+179	f	1	pl	1	179	179	zusters
+183	n	0	sg	1	183	183	het een
+184	n	0	sg	1	184	184	ander voorwerp
+185	n	0	sg	4	185	185,186,1956,206	der aarde
+189	f	1	sg	11	189	192,769,1634,1638,523,748,2158,979,724,189,191	mijn vrouw
+193	m	1	sg	16	193	736,193,710,650,652,466,467,596,886,887,632,602,1723,412,1725,863	Last & Co
+196	n	0	sg	3	196	196,2381,222	ons huwelijk
+197	m	1	pl	48	197	1536,1409,1666,1411,780,657,1685,408,794,1307,925,414,927,672,929,1056,1055,678,1325,1071,821,1077,1078,1079,1081,1084,1724,197,1869,463,207,209,210,982,727,217,1626,1117,990,610,487,488,1512,2023,2163,758,504,506	ons
+200	m	1	sg	1	200	200	Artis
+202	n	0	sg	1	202	202	een sjaallong van twee-en-negentig gulden
+203	n	0	sg	2	203	482,203	twee-en-negentig gulden
+208	n	0	sg	1	208	208	spraak
+211	n	0	sg	1	211	211	een toertje naar Den Haag
+212	n	0	pl	2	212	212,981	Den Haag
+214	n	0	sg	5	214	214,984,985,986,987	flanel
+216	n	0	pl	1	216	216	borstrokken
+219	n	0	sg	9	219	1251,612,1672,457,1615,1264,406,2138,219	de wereld
+220	n	0	sg	3	220	1802,220,1596	gekheid
+221	n	0	pl	1	221	221	leugens
+228	n	0	sg	1	228	228	de tering
+229	n	0	sg	1	229	229	den hals
+230	n	0	pl	1	230	230	de haren uit het hoofd
+231	n	0	sg	1	231	231	het hoofd
+233	n	0	sg	1	233	233	mijn huishouden
+235	n	0	sg	5	235	243,1688,1689,235,716	het wezen
+239	n	0	pl	3	239	276,254,239	verzen
+244	n	0	sg	2	244	244,245	verzenmaken
+246	-	-	pl	1	246	246	ivoordraaien
+247	-	-	pl	1	247	247	de ulevellen met deviezen
+248	n	0	pl	1	248	248	deviezen
+251	n	0	sg	2	251	251,1940	den prijs van een stel billardballen
+252	n	0	sg	1	252	252	een stel billardballen
+256	n	0	pl	1	256	256	de woorden in gelid
+257	n	0	sg	2	257	257,265	gelid
+258	n	0	sg	4	258	259,258,266,271	De lucht
+262	-	-	sg	1	262	262	die
+263	n	0	pl	1	263	263	mijn woorden
+267	-	-	sg	1	267	267	De verzenmaker
+268	m	1	sg	2	268	268,270	de guurheid van den eersten regel
+272	m	1	sg	3	272	272,273,438	de maat
+274	n	0	sg	1	274	274	het weêr
+275	-	-	sg	1	275	275	Eén van beiden
+277	-	-	sg	1	277	277	onwaarheid
+278	n	0	sg	1	278	278	den schouwburg
+279	n	0	pl	1	279	279	leugens
+280	m	1	sg	5	280	416,418,280,284,287	De held van 't stuk
+281	n	0	sg	6	281	2305,2382,2419,1764,281,2142	't stuk
+282	n	0	sg	3	282	282,307,317	het water
+283	m	1	sg	2	283	283,285	die
+286	n	0	sg	1	286	286	zijn halve vermogen
+288	n	0	sg	1	288	288	de Prinsengracht
+289	n	0	sg	1	289	289	mijn hoed
+294	-	-	both	1	294	294	die
+297	n	0	sg	1	297	297	een dubbeltje
+303	n	0	sg	2	303	306,303	zeker mijn halve vermogen
+308	-	-	pl	1	308	308	zulke vertooningen op het tooneel
+309	n	0	sg	6	309	514,403,309,390,332,415	het tooneel
+310	fm	1	sg	3	310	1505,310,311	het publiek
+315	n	0	sg	2	315	315,446	lust
+316	n	0	sg	2	316	316,319	zoo'n heel parterre
+322	fm	1	sg	7	322	1281,322,1283,1284,421,422,1279	mijn persoon
+324	n	0	sg	1	324	324	hoog bergloon
+326	fm	1	both	1	326	326	Zondags
+329	n	0	sg	1	329	329	mijn kantilje ketting
+331	n	0	sg	1	331	331	een anderen rok
+335	n	0	sg	15	335	675,707,1687,777,778,718,335,719,2291,538,373,695,1498,539,380	dat alles
+336	fm	1	pl	6	336	336,1377,1442,1315,1436,525	kinderen
+340	n	0	pl	1	340	340	zaken
+341	-	-	pl	2	341	344,341	die tooneelmenschen
+342	n	0	sg	2	342	2425,342	armoede
+343	-	-	sg	1	343	343	hun voorstelling
+345	f	1	sg	20	345	1035,1036,1046,1176,345,1048,347,1693,350,352,353,354,1059,1892,356,1254,1255,1128,1257,1897	Een meisje
+346	-	-	sg	3	346	346,357,358	de familie
+348	-	-	pl	2	348	348,349	de steken
+351	n	0	sg	1	351	351	het heele bedrijf
+355	n	0	sg	1	355	355	't venster
+359	n	0	sg	1	359	359	dezen arbeid
+363	n	0	pl	1	363	363	de trappen
+365	f	1	sg	9	365	772,1734,2151,365,2319,367,1841,1745,2071	mijne moeder
+369	n	0	sg	6	369	369,370,371,455,459,375	de deugd
+372	n	0	pl	1	372	372	een paar wollen kousen
+374	n	0	pl	1	374	374	valsche denkbeelden van deugd , en
+376	n	0	pl	2	376	376,1508	werken
+377	n	0	sg	1	377	377	den kost
+378	n	0	pl	1	378	378	leugens
+379	m	1	sg	2	379	379,381	haar eerste minnaar
+382	-	1	sg	2	382	384,382	klerk
+383	n	0	sg	1	383	383	't kopieboek
+385	n	0	pl	1	385	385	weer leugens
+386	n	0	sg	4	386	386,1427,389,1087	geld
+392	n	0	sg	1	392	392	mijn aanmerking
+395	n	0	sg	1	395	395	den zin voor waarheid
+397	n	0	sg	2	397	397,398	het volk
+402	n	0	sg	3	402	402,2117,2170	de publieke zedelijkheid
+404	fm	1	sg	1	404	404	koopman
+405	n	0	sg	1	405	405	een bespottelijke krankzinnigheid
+409	n	0	sg	6	409	928,681,1412,2245,409,795	't kantoor van mijn schoonvader
+410	m	1	sg	10	410	480,483,485,486,410,885,599,600,474,477	mijn schoonvader
+413	n	0	pl	4	413	1410,413,926,943	ons dertienen
+417	n	0	sg	1	417	417	zijn stijven komediestap
+419	n	0	sg	1	419	419	't verdrukte vaderland
+420	n	0	sg	2	420	420,1205	de dubbele achterdeur
+423	n	0	pl	1	423	423	verzen
+424	m	1	sg	5	424	642,661,424,425,1739	de ander
+426	n	0	sg	3	426	1681,426,439	't rijm
+427	m	1	sg	3	427	441,427,430	de veldheer tot de prinses
+428	f	1	sg	8	428	432,434,436,437,442,443,428,431	de prinses
+429	n	0	pl	1	429	429	de poorten
+433	n	0	sg	1	433	433	zwaard
+435	n	0	sg	1	435	435	de poort
+440	n	0	sg	1	440	440	een pure leugen
+444	n	0	sg	1	444	444	't poortsluiten
+445	fm	1	sg	11	445	1313,1314,1287,1288,1292,1294,1298,1300,1308,445,1310	't mensch
+447	n	0	sg	1	447	447	die beloonde deugd
+454	n	0	sg	1	454	454	Beloonde deugd
+456	n	0	sg	1	456	456	een handelsartikel
+458	n	0	sg	3	458	458,508,1519	de verdienste
+460	n	0	pl	1	460	460	die infame leugens altijd voorgewend
+461	m	1	sg	4	461	491,492,461,495	Lukas
+462	m	1	sg	4	462	464,473,462,471	onze pakhuisknecht
+468	n	1	pl	2	468	468,484	Last & Meijer
+469	fm	1	sg	2	469	469,598	de Meijers
+472	n	0	sg	1	472	472	de kerk
+476	n	0	sg	2	476	536,476	Driebergen
+479	n	0	sg	1	479	479	de kas
+481	n	0	sg	1	481	481	de Bank
+489	n	0	sg	4	489	489,505,501,509	jong volk
+493	m	1	sg	2	493	493,494	een prins
+496	-	-	pl	1	496	496	diamanten
+497	f	1	sg	1	497	497	een fee
+498	m	1	sg	6	498	498,499,500,503,510,511	die
+512	n	0	sg	1	512	512	Gods bedoeling
+513	-	-	pl	2	513	513,515	de braven
+518	n	0	sg	2	518	521,518	belooning
+519	n	0	pl	2	519	522,519	mijn zaken
+527	fm	1	sg	1	527	527	dokter
+528	fm	1	sg	1	528	528	apteker
+530	n	0	sg	1	530	530	een sommetje
+531	-	-	sg	1	531	531	ter-zij
+533	n	0	sg	3	533	643,533,2237	mijn plaats
+540	n	0	pl	1	540	540	de omstandigheden
+542	n	0	pl	6	542	577,1250,2166,988,1165,542	de zaken pas
+543	n	0	sg	1	543	543	mijn deugd
+547	n	0	sg	1	547	547	mijn liefde voor de waarheid
+550	n	0	sg	1	550	550	mijn gehechtheid aan het geloof
+553	n	0	sg	1	553	553	mijn hoofdneiging
+558	n	0	sg	1	558	558	de verontschuldiging
+559	n	0	sg	1	559	559	't schrijven van dit boek
+560	n	0	sg	7	560	560,1722,1787,956,1261,1262,1711	dit boek
+561	n	0	sg	3	561	561,562,565	Een tweede neiging
+564	-	-	sg	1	564	564	waarheidsliefde
+572	n	0	sg	1	572	572	mijn onkreukbare liefde voor de waarheid
+575	n	0	sg	2	575	582,575	mijn ijver voor de zaken
+579	n	0	pl	1	579	579	deze bladen
+584	n	0	sg	1	584	584	afscheid van u
+590	n	0	sg	1	590	590	een tweede hoofdstuk
+591	-	-	sg	1	591	591	weerziens
+592	fm	1	sg	1	592	592	Eilieve
+594	n	0	sg	1	594	594	een kleine moeite
+595	n	0	sg	3	595	595,862,1375	een adreskaartje
+607	n	0	sg	1	607	607	TWEEDE HOOFDSTUK
+609	fm	1	sg	5	609	1424,609,613,614,1274	de voorjaarsveiling
+621	n	0	both	1	621	621	Ludwig Stern aftenemen
+630	n	0	sg	2	630	630,631	Hamburg
+635	n	0	sg	1	635	635	de knoeierij van Busselinck & Waterman
+638	n	0	sg	1	638	638	een kwart procent van de courtage
+639	n	0	sg	1	639	639	de courtage
+641	-	-	sg	1	641	641	dien slag
+648	n	0	sg	1	648	648	konsideratie om de langdurige diensten van Last & Co
+649	-	-	pl	1	649	649	de langdurige diensten van Last & Co
+653	n	0	sg	1	653	653	vier ton
+655	-	-	sg	1	655	655	Die konnexie
+656	n	0	sg	1	656	656	't kontinentaal stelsel
+658	-	-	sg	1	658	658	dekoloniale
+659	n	0	pl	1	659	659	waren
+660	n	0	both	1	660	660	Helgoland
+662	-	-	sg	1	662	662	onderkruipen
+665	n	0	both	1	665	665	Polen
+667	n	0	sg	1	667	667	pen
+669	n	0	sg	3	669	676,669,670	de groote uitbreiding
+671	n	0	pl	1	671	671	onze zaken
+673	n	0	pl	3	673	673,2091,705	de vele geëerde orders uit Noord-Duitschland
+674	n	0	sg	1	674	674	Noord-Duitschland
+677	fm	1	sg	1	677	677	ons personeel
+680	-	1	sg	3	680	680,683,684	de boekhouder
+682	n	0	sg	1	682	682	zijn bril
+685	n	0	sg	1	685	685	de behoefte
+686	n	0	sg	1	686	686	gevoelen
+687	fm	1	pl	1	687	687	fatsoenlijke , welopgevoede jongelieden
+688	n	0	sg	3	688	688,2288,756	de korrespondentie in het duitsch
+689	n	0	sg	1	689	689	het duitsch
+690	n	0	sg	6	690	690,1236,694,1003,1021,991	Amsterdam
+691	n	0	pl	1	691	691	de vereischte bekwaamheden
+696	n	0	sg	1	696	696	ligtzinnigheid
+697	n	0	sg	1	697	697	onzedelijkheid
+698	fm	1	pl	1	698	698	het getal fortuinzoekers
+699	n	0	sg	1	699	699	de noodzakelijkheid
+700	n	0	sg	2	700	700,703	soliditeit van gedrag , hand-aan-hand
+701	n	0	sg	1	701	701	gedrag
+702	-	-	sg	1	702	702	hand-aan-hand
+704	n	0	sg	1	704	704	de uitvoering
+706	n	0	sg	1	706	706	waarachtig , alles
+714	n	0	-	1	714	714	N °
+717	-	-	sg	1	717	717	sujetten
+721	m	1	sg	3	721	721,722,839	de jonge Duitscher
+726	f	1	sg	10	726	2082,1704,779,2093,782,2160,1716,726,728,1208	Onze Marie
+729	n	0	sg	2	729	729,1001	September
+731	n	0	sg	1	731	731	de eer
+732	-	-	sg	2	732	732,733	den heer Saffeler
+735	fm	1	sg	1	735	735	de geachte chef der firma
+738	m	1	sg	1	738	738	een zoon
+742	-	-	sg	1	742	742	volmaking zijner kommercieele kennis
+743	-	-	sg	3	743	1085,2222,743	zijner kommercieele kennis
+747	n	0	sg	2	747	2281,747	de geschiedenis der dochter van Busselinck & Waterman
+754	n	0	sg	1	754	754	het oog dáárop
+759	n	0	sg	1	759	759	kiesheid
+761	n	0	sg	1	761	761	honorarium
+762	n	0	sg	1	762	762	salaris
+765	n	0	sg	1	765	765	het verblijf ten onzen huize
+766	n	0	sg	1	766	766	onzen huize
+774	n	0	sg	1	774	774	zijn linnengoed in huis
+781	m	1	sg	9	781	938,940,781,783,785,946,2069,2070,2072	de Heer
+784	n	0	sg	1	784	784	zijn zak
+786	n	0	pl	1	786	786	de Sterns
+788	n	0	sg	8	788	1457,1394,1459,788,1467,1465,2251,1390	mijn brief
+793	n	0	sg	1	793	793	de jonge bij ons
+797	n	0	sg	1	797	797	het antwoord
+798	n	0	sg	4	798	1272,2408,798,1806	mijn boek
+801	n	0	sg	1	801	801	de Kalverstraat
+802	n	0	sg	2	802	802,805	den winkel
+803	fm	1	sg	2	803	803,804	een kruienier
+806	n	0	sg	1	806	806	een partijtje Java
+807	n	0	sg	1	807	807	mooi-geel
+808	fm	1	sg	1	808	808	Cheribonaard
+809	n	0	sg	3	809	809,810,825	veegsel
+816	n	0	sg	1	816	816	een boekwinkel
+820	n	0	pl	1	820	820	onze blikken
+822	fm	1	pl	1	822	822	elkander
+828	n	0	pl	1	828	828	de kleeren
+832	n	0	sg	1	832	832	de gedachte
+837	fm	1	sg	1	837	837	een solieden makelaar
+843	n	0	sg	2	843	843,846	in houding en kleeding iets
+844	-	-	sg	1	844	844	houding
+845	n	0	sg	1	845	845	kleeding
+847	fm	1	sg	1	847	847	den vreemdeling
+848	n	0	sg	2	848	848,856	In-plaats van een behoorlijken winterjas
+849	n	0	sg	1	849	849	een behoorlijken winterjas
+851	n	0	sg	2	851	2296,851	een soort van sjaal over den schouder
+852	n	0	sg	4	852	1770,852,1382,1063	sjaal over den schouder
+853	n	0	sg	1	853	853	den schouder
+855	n	0	both	1	855	855	shawl
+860	m	1	sg	3	860	867,860,861	een klant
+868	n	0	sg	1	868	868	de gasvlam
+869	fm	1	sg	38	869	897,898,903,905,907,909,912,913,914,915,916,917,919,922,923,1342,1343,1349,869,870,871,872,873,876,879,880,881,882,1395,883,884,1398,1397,891,892,893,894,895	ik
+874	n	0	sg	2	874	1177,874	het genoegen
+875	n	0	sg	3	875	875,877,878	een ouden schoolkameraad
+890	m	1	sg	3	890	896,890,899	Lauriergr
+900	m	1	sg	4	900	910,900,902,911	zonderling
+901	n	0	sg	1	901	901	zijn gelaat
+904	n	0	sg	2	904	904,908	de uitwerking
+906	n	0	pl	1	906	906	vreemde parfumerien
+918	-	-	both	1	918	918	die
+920	m	1	sg	19	920	1216,1220,969,1038,1168,1169,1040,1042,1041,1235,1238,920,921,1114,1183,993,931,933,2282	den Griek
+934	n	0	pl	2	934	934,1407	goede omstandigheden
+936	fm	1	pl	1	936	936	arme menschen
+937	n	0	sg	2	937	937,950	eigen schuld
+939	-	-	sg	1	939	939	die
+942	fm	1	pl	2	942	944,942	we
+947	n	0	pl	1	947	947	dat vragen
+948	n	0	pl	1	948	948	antwoorden
+953	n	0	sg	1	953	953	den anderen kant
+957	m	1	sg	7	957	992,995,964,996,999,2424,957	een gevolg van die ontmoeting
+958	n	0	sg	1	958	958	die ontmoeting
+960	n	0	sg	2	960	960,965	het goede
+966	-	-	sg	1	966	966	die
+968	n	0	pl	1	968	968	de handen van den Griek
+971	fm	1	pl	1	971	971	zeeroovers
+973	n	0	sg	2	973	1237,973	twist
+974	n	0	sg	1	974	974	den Levant
+983	n	0	sg	1	983	983	het Mauritshuis
+1002	n	0	sg	2	1002	1002,1020	kermis te Amsterdam
+1004	fm	1	pl	2	1004	1018,1004	mijn oude luî van voornemen
+1006	n	0	sg	1	1006	1006	voornemen
+1007	fm	1	sg	2	1007	1013,1007	een predikant
+1010	n	0	sg	2	1010	1010,1014	latijn
+1015	m	1	sg	5	1015	1840,1985,1974,1015,1902	God
+1017	n	0	sg	2	1017	1017,1379	de latijnsche school
+1019	n	0	sg	1	1019	1019	gijmnasium
+1023	n	0	both	5	1023	1617,1058,1387,1243,1023	de Westermarkt
+1024	n	0	pl	1	1024	1024	kramen
+1027	n	0	sg	1	1027	1027	mijn leeftijd
+1031	-	-	sg	2	1031	1032,1031	één was
+1034	n	0	pl	2	1034	1034,1043	de lange vlechten van een meisje
+1037	n	0	sg	6	1037	1067,1083,1039,1037,1086,1775	een Griekin
+1044	n	0	sg	1	1044	1044	allerlei reukgoed
+1047	n	0	sg	2	1047	1049,1047	den moed
+1051	f	1	pl	5	1051	1619,1622,1051,2124,1054	meisjes van achttien jaren
+1052	m	1	sg	1	1052	1052	een jongen
+1057	m	1	sg	2	1057	1057,1060	quarta
+1061	m	1	sg	9	1061	1061,1064,1065,1068,1069,1134,1072,1075,1076	die
+1066	n	0	pl	2	1066	1066,2263	de anderen
+1070	n	0	sg	2	1070	1073,1070	onze klasse
+1080	n	0	pl	1	1080	1080	ons tienen
+1082	n	0	sg	7	1082	1088,1157,1206,1127,1113,1082,1167	de kraam
+1089	n	0	sg	1	1089	1089	de goede raad
+1090	-	-	pl	1	1090	1090	de stoute schoenen
+1092	n	0	sg	3	1092	1834,1092,1951	het lot
+1096	n	0	pl	1	1096	1096	gevaren
+1100	-	-	sg	1	1100	1100	die
+1101	n	0	sg	2	1101	1108,1101	het gevaar
+1106	n	0	pl	1	1106	1106	mijn denkbeelden over gevaar en zulke dingen
+1111	n	0	sg	1	1111	1111	dezelfde meening
+1115	-	-	pl	2	1115	1115,1116	de twaalf stuivers
+1119	n	0	sg	1	1119	1119	valsche schaamte
+1123	fm	1	pl	4	1123	1123,1188,1197,1252	mijn makkers
+1136	f	1	sg	2	1136	1136,1137	Plaît-il
+1140	fm	1	sg	1	1140	1140	Meenin aeide thea
+1141	n	0	sg	2	1141	1141,1142	Egijpte
+1143	n	0	sg	1	1143	1143	den Nijl
+1144	fm	1	sg	20	1144	1152,1158,1161,1163,1164,1166,1171,1172,1175,1178,1179,1181,1184,1186,1187,1189,1200,1144,1145,1150	Ik
+1146	n	0	sg	1	1146	1146	de kennismaking
+1147	n	0	sg	4	1147	2411,2123,1147,1686	een mijner makkers uit kinderachtige baldadigheid
+1148	fm	1	pl	1	1148	1148	mijner makkers uit kinderachtige baldadigheid
+1149	n	0	sg	1	1149	1149	kinderachtige baldadigheid
+1151	n	0	sg	1	1151	1151	den rug
+1153	n	0	sg	2	1153	1153,1154	de uitstalkast
+1155	-	-	sg	1	1155	1155	halvemanshoogte
+1156	-	-	sg	1	1156	1156	de voorzij van de kraam
+1159	n	0	sg	1	1159	1159	een greep
+1160	n	0	sg	1	1160	1160	mijn nek
+1162	n	0	sg	1	1162	1162	een tweeden greep
+1170	m	1	sg	2	1170	1170,1173	verstaanbaar fransch
+1174	-	-	sg	1	1174	1174	de policie
+1180	n	0	sg	1	1180	1180	genade
+1182	n	0	sg	2	1182	1928,1182	angst
+1185	n	0	sg	1	1185	1185	den arm
+1190	fm	1	pl	1	1190	1190	we
+1191	fm	1	sg	3	1191	1192,1194,1191	Scaevola
+1195	n	0	sg	2	1195	1195,1455	't vuur
+1196	n	0	pl	2	1196	1196,1198	hun latijnsche opstellen
+1203	m	1	sg	18	1203	1215,2211,2212,1221,1702,1210,1582,1584,2236,1203,1587,1207,1209,2234,1372,1213,2238,2111	mijn Sjaalman
+1212	n	0	pl	2	1212	1212,1214	zijn oogen
+1217	n	0	sg	1	1217	1217	een vuistslag
+1223	n	0	sg	3	1223	2248,2247,1223	een vast principe
+1230	n	0	sg	2	1230	1232,1230	de reden
+1231	n	0	pl	1	1231	1231	zijn trekken
+1234	n	0	sg	1	1234	1234	reukwerk
+1239	n	0	pl	1	1239	1239	latere kermissen
+1241	n	0	sg	1	1241	1241	zijn kraam
+1247	n	0	pl	1	1247	1247	wijsgeerige opmerkingen
+1256	n	0	pl	1	1256	1256	korter vlechten
+1259	-	-	sg	1	1259	1259	die winkelkast
+1278	n	0	sg	1	1278	1278	het weerzien van dien persoon
+1296	n	0	sg	1	1296	1296	gesprek
+1299	n	0	sg	1	1299	1299	zijn jasje
+1301	n	0	sg	1	1301	1301	de kin
+1302	n	0	sg	1	1302	1302	dat
+1303	n	0	sg	1	1303	1303	een zeer slecht merk
+1305	n	0	sg	1	1305	1305	den toon van ons onderhoud
+1306	n	0	sg	1	1306	1306	ons onderhoud
+1311	n	0	sg	2	1311	1312,1311	Indie
+1317	-	-	sg	7	1317	1361,1330,1779,1331,1317,1337,1323	de Kapelsteeg
+1319	n	0	sg	1	1319	1319	die steeg
+1326	n	0	sg	2	1326	1326,1327	dat straatje
+1332	fm	1	sg	4	1332	1336,1332,1334,1335	me
+1333	fm	1	sg	1	1333	1333	u
+1339	n	0	sg	2	1339	1339,1358	een knoop van mijn jas
+1340	n	0	sg	2	1340	1340,1383	mijn jas
+1344	fm	1	sg	1	1344	1344	ik
+1345	fm	1	sg	1	1345	1345	u
+1347	n	0	sg	1	1347	1347	een rilling door de leden
+1348	fm	1	pl	1	1348	1348	de leden
+1363	n	0	sg	4	1363	1592,1363,2243,1591	fatsoen
+1366	n	0	sg	1	1366	1366	DERDE HOOFDSTUK
+1371	m	1	sg	2	1371	1371,1373	de beschrijving
+1380	n	0	sg	1	1380	1380	een schoolkameraad die een sjaal draagt in plaats van een jas
+1381	-	-	sg	1	1381	1381	die
+1384	-	-	sg	1	1384	1384	die
+1388	n	0	pl	1	1388	1388	kramen
+1391	n	0	sg	14	1391	1602,1701,1767,2216,2187,2188,1550,1551,1391,1712,2258,2110,1785,1598	een groot pak
+1401	-	-	sg	1	1401	1401	ten-uwent
+1402	n	0	sg	2	1402	1402,1903	het doel
+1404	n	0	sg	3	1404	1408,1404,1588	een verzoek
+1414	n	0	sg	1	1414	1414	gebruik
+1415	n	0	sg	1	1415	1415	uw krediet
+1416	fm	1	both	1	1416	1416	uw
+1418	fm	1	sg	5	1418	1428,1429,1418,1419,1422	tot-stand
+1421	n	0	sg	1	1421	1421	groot gewicht
+1423	n	0	sg	1	1423	1423	een order op de voorjaarsveiling
+1425	n	0	pl	1	1425	1425	velerlei omstandigheden
+1431	f	1	sg	1	1431	1431	mijn lieve vrouw
+1433	fm	1	sg	10	1433	1472,1444,1446,1450,1453,1461,1433,1466,1470,1439	veraangenaming des levens
+1434	n	0	sg	2	1434	1440,1434	des levens
+1437	n	0	sg	1	1437	1437	een geldelijk oog
+1441	n	0	sg	1	1441	1441	Opvoeding van de kinderen
+1445	f	1	sg	1	1445	1445	zijn vrouw
+1447	n	0	sg	1	1447	1447	een loge in de Opera
+1448	n	0	sg	1	1448	1448	de Opera
+1449	fm	1	pl	1	1449	1449	zijn kinderen op een instituut
+1451	n	0	sg	1	1451	1451	een instituut
+1452	n	0	sg	1	1452	1452	Genève
+1454	n	0	sg	1	1454	1454	een vliering
+1463	n	0	sg	1	1463	1463	den zotten toon van zijn geschrijf
+1464	n	0	sg	1	1464	1464	zijn geschrijf
+1468	n	0	sg	1	1468	1468	de maatschappij
+1469	n	0	sg	1	1469	1469	Gods wil
+1473	-	-	sg	1	1473	1473	die opsiering van de zaak
+1476	n	0	sg	1	1476	1476	de verplichting
+1477	n	0	sg	1	1477	1477	rust
+1478	n	0	pl	1	1478	1478	de behoeften der mijnen
+1479	n	0	pl	1	1479	1479	der mijnen
+1481	n	0	sg	2	1481	1481,1482	talent
+1488	n	0	sg	1	1488	1488	mijn kindsheid
+1491	n	0	pl	1	1491	1491	mijn aandoeningen
+1493	n	0	pl	1	1493	1493	verzen
+1495	n	0	sg	3	1495	1827,1830,1495	mijn ziel
+1499	-	-	pl	1	1499	1499	die
+1500	n	0	sg	2	1500	2275,1500	waarde
+1502	n	0	sg	4	1502	1504,1794,1502,1503	een uitgever
+1507	-	-	pl	1	1507	1507	de uitgevers
+1509	n	0	sg	2	1509	1509,2167	naam van den schrijver
+1510	fm	1	sg	5	1510	2307,1510,2311,2310,2314	den schrijver
+1511	n	0	sg	2	1511	2257,1511	den inhoud
+1513	m	1	sg	3	1513	1537,1513,1814	de koffie naar de renommee van de merken
+1514	n	0	sg	1	1514	1514	de renommee van de merken
+1515	n	0	pl	1	1515	1515	de merken
+1517	n	0	sg	1	1517	1517	mijn werk
+1520	n	0	sg	1	1520	1520	de uitgave
+1521	fm	1	pl	2	1521	1521,1524	de boekhandelaars
+1522	n	0	sg	1	1522	1522	de betaling van drukloon , enz. vooruit
+1523	n	0	sg	1	1523	1523	drukloon
+1525	n	0	sg	3	1525	1741,1525,1527	groot gelijk
+1529	n	0	sg	1	1529	1529	mijn arbeid
+1531	n	0	pl	2	1531	1531,1543	de kosten
+1532	n	0	sg	1	1532	1532	mijn woord
+1535	n	0	sg	1	1535	1535	onze ontmoeting van voorgisteren
+1538	n	0	sg	1	1538	1538	het besluit
+1542	fm	1	sg	1	1542	1542	een boekhandelaar
+1544	n	0	sg	1	1544	1544	eener eerste uitgave
+1545	n	0	sg	1	1545	1545	een klein boekdeeltje
+1547	n	0	sg	1	1547	1547	de keus van die eerste proeve
+1548	n	0	sg	1	1548	1548	die eerste proeve
+1552	m	1	sg	2	1552	1552,1556	hiernevens
+1558	-	-	sg	1	1558	1558	geheel-en-al
+1559	n	0	sg	1	1559	1559	gebrek aan indrukken
+1560	n	0	pl	1	1560	1560	indrukken
+1562	n	0	sg	1	1562	1562	afwachting van een vriendelijk antwoord
+1563	n	0	sg	1	1563	1563	een vriendelijk antwoord
+1564	fm	1	both	3	1564	1569,1564,1566	ik
+1567	fm	1	both	1	1567	1567	uw
+1568	n	0	sg	2	1568	1568,1570	zijn naam
+1573	n	0	sg	1	1573	1573	opspraak
+1574	fm	1	sg	2	1574	1577,1574	Waarde lezer
+1580	n	0	pl	1	1580	1580	verzen
+1590	n	0	sg	1	1590	1590	deftigheid
+1601	n	0	sg	1	1601	1601	zijn adres
+1607	n	0	sg	2	1607	1637,1607	krans bij de Rosemeijers
+1608	n	0	pl	7	1608	2104,2103,1608,1609,1658,1659,1660	de Rosemeijers
+1610	n	0	sg	3	1610	2105,1610,1661	suiker
+1614	m	1	sg	8	1614	1616,1746,1733,1735,1736,1738,1614,1743	een jong mensch in de wereld
+1620	n	0	sg	1	1620	1620	piano
+1621	n	0	sg	2	1621	1621,1655	't dessert
+1623	-	-	pl	1	1623	1623	elkaar
+1624	n	0	sg	1	1624	1624	dat
+1625	n	0	sg	1	1625	1625	de voorkamer
+1627	n	0	sg	1	1627	1627	't gentsch whisten
+1629	f	1	sg	8	1629	1633,1665,1650,1629,1640,1645,1758,1631	Louise
+1630	f	1	sg	6	1630	1664,2130,2147,2132,1657,1630	Betsij Rosemeijer
+1641	n	0	sg	1	1641	1641	zoo –iets
+1644	n	0	sg	1	1644	1644	een hartig woordje
+1647	fm	1	sg	1	1647	1647	Ik
+1653	f	1	sg	3	1653	2001,2002,1653	de vrouw van 't huis
+1656	n	0	sg	1	1656	1656	een aardigheidje
+1662	n	0	sg	1	1662	1662	aandeel in een schip
+1663	n	0	sg	1	1663	1663	een schip
+1667	n	0	sg	2	1667	1667,1669	een dacapo aan Frits
+1670	n	0	sg	1	1670	1670	een kalkoen
+1675	n	0	sg	1	1675	1675	zijn repertoire op een haar
+1677	n	0	sg	1	1677	1677	een haar
+1678	-	-	sg	1	1678	1678	de godenbruiloft
+1679	n	0	pl	1	1679	1679	de boeken van het Oude-Testament op rijm
+1680	n	0	sg	1	1680	1680	het Oude-Testament
+1682	n	0	sg	1	1682	1682	een epizode uit de bruiloft van Kamacho
+1683	n	0	sg	1	1683	1683	de bruiloft van Kamacho
+1684	fm	1	sg	1	1684	1684	Kamacho
+1690	-	-	pl	2	1690	1690,1700	tranen
+1692	n	0	sg	1	1692	1692	een raadsel
+1705	n	0	both	2	1705	1705,1707	een neuswijsheid
+1706	n	0	sg	1	1706	1706	een sentimentaliteit
+1718	-	-	sg	1	1718	1718	die
+1720	-	-	sg	1	1720	1720	die
+1721	n	0	pl	1	1721	1721	zijn zaken
+1729	n	0	sg	5	1729	2128,1729,1730,1766,2174	een ding
+1731	n	0	sg	1	1731	1731	nonsens
+1732	-	-	sg	1	1732	1732	aan-één
+1737	f	1	sg	2	1737	1737,1740	zijn meisje
+1744	n	0	sg	1	1744	1744	weerwil hiervan
+1747	-	-	pl	1	1747	1747	deze laatste drie regels
+1750	n	0	sg	1	1750	1750	een broodje met kaas
+1751	f	1	sg	1	1751	1751	kaas
+1752	n	0	pl	1	1752	1752	twee peren
+1754	n	0	sg	1	1754	1754	het orberen van de derde
+1755	n	0	sg	1	1755	1755	de derde
+1757	n	0	sg	4	1757	1809,1813,1812,1757	die vertelling
+1759	f	1	pl	1	1759	1759	de dames
+1761	-	-	both	1	1761	1761	die
+1772	m	1	pl	1	1772	1772	de heeren
+1773	n	0	sg	1	1773	1773	mijn huis
+1784	n	0	pl	1	1784	1784	andere dingen
+1786	n	0	sg	3	1786	1786,2405,2406	een-en-ander
+1788	-	-	pl	1	1788	1788	de Koffiveilingen van de Handelmaatschappij
+1789	-	-	sg	1	1789	1789	de Handelmaatschappij
+1804	n	0	pl	1	1804	1804	mijn aanmerkingen
+1810	n	0	sg	1	1810	1810	de buurt van Padang
+1811	n	0	sg	1	1811	1811	Padang
+1817	n	0	sg	1	1817	1817	't land
+1819	n	0	pl	2	1819	1819,2038	mijn eerste tranen
+1822	-	-	sg	1	1822	1822	opwies aan uw hand
+1823	n	0	sg	1	1823	1823	uw hand
+1824	fm	1	both	1	1824	1824	uw
+1825	-	-	sg	1	1825	1825	uw moedertrouw der ziel
+1826	fm	1	both	1	1826	1826	uw
+1828	m	1	sg	4	1828	1832,1833,1828,1831	den knaap
+1829	n	0	pl	1	1829	1829	haar zorgen
+1835	n	0	pl	1	1835	1835	de banden
+1836	n	0	pl	1	1836	1836	Die ons
+1838	n	0	pl	1	1838	1838	vreemde stranden
+1844	n	0	sg	1	1844	1844	vreugd
+1845	n	0	sg	2	1845	1845,1949	verdriet
+1846	n	0	sg	1	1846	1846	twijfel aan de liefde
+1848	n	0	sg	9	1848	1922,1988,1989,1864,1960,1865,2036,1975,1848	het hart uws zoons
+1849	m	1	pl	1	1849	1849	uws zoons
+1850	n	0	sg	1	1850	1850	twee paar jaren
+1852	-	-	sg	1	1852	1852	gindschen grond
+1853	n	0	sg	1	1853	1853	den oever
+1855	n	0	sg	1	1855	1855	't schoone
+1858	n	0	sg	2	1858	1858,1861	het heden
+1860	m	1	sg	2	1860	1860,1871	Die
+1862	n	0	sg	1	1862	1862	mijn schreên
+1866	n	0	sg	2	1866	1866,1867	een uitweg
+1868	n	0	sg	3	1868	2154,2155,1868	ons onttogen
+1870	n	0	sg	1	1870	1870	een schim
+1872	n	0	pl	1	1872	1872	Diepe , diepe sporen
+1874	n	0	sg	2	1874	1874,1947	vreugde
+1875	n	0	both	1	1875	1875	smart met-één
+1882	n	0	sg	1	1882	1882	levensheil
+1885	n	0	sg	4	1885	2016,1885,1886,2015	den Hemel
+1888	fm	1	sg	2	1888	1888,2018	uw kind
+1889	fm	1	both	1	1889	1889	uw
+1898	n	0	sg	1	1898	1898	een eerekroon
+1899	n	0	sg	1	1899	1899	een eindloon van mijn streven
+1904	-	1	sg	5	1904	1904,1953,1969,1943,1917	den reinen schat
+1905	-	-	pl	1	1905	1905	Die
+1907	mn	-	sg	2	1907	1907,1909	Die
+1908	n	0	sg	1	1908	1908	Zijn gunst
+1911	n	0	sg	1	1911	1911	een traan in de oogen
+1914	n	0	sg	2	1914	1914,2116	godsdienst
+1915	n	0	sg	2	1915	1915,1958	't gemoed
+1916	n	0	sg	1	1916	1916	den Hoogen
+1920	n	0	sg	1	1920	1920	Onrust
+1923	n	0	sg	2	1923	1923,1924	de smart
+1926	n	0	sg	1	1926	1926	't week gemoed
+1929	n	0	sg	1	1929	1929	leed
+1931	n	0	sg	2	1931	1938,1931	genot
+1932	n	0	sg	1	1932	1932	't heil
+1934	n	0	sg	1	1934	1934	me gif
+1936	n	0	sg	1	1936	1936	wee
+1945	n	0	sg	1	1945	1945	ramp
+1946	-	-	pl	1	1946	1946	onspoedsslagen
+1954	n	0	sg	1	1954	1954	dàt beeld
+1959	n	0	sg	1	1959	1959	een onwaardeerbaar goed
+1961	n	0	pl	1	1961	1961	mijn zinnen
+1964	n	0	sg	1	1964	1964	de laatste snik van 't leven
+1965	n	0	sg	2	1965	2040,1965	Me in een beter vaderland
+1966	n	0	sg	1	1966	1966	een beter vaderland
+1967	n	0	sg	1	1967	1967	Eind'lijk haar
+1970	n	0	sg	2	1970	1970,1971	min
+1973	fm	1	sg	3	1973	1987,1973,1990	't Kind
+1976	n	0	sg	1	1976	1976	de moederborst
+1977	n	0	sg	1	1977	1977	den moederschoot
+1978	n	0	sg	1	1978	1978	't Eerste vocht
+1979	n	0	sg	1	1979	1979	den dorst
+1980	n	0	sg	2	1980	1980,2359	't Eerste licht in moederoogen
+1981	n	0	pl	1	1981	1981	moederoogen
+1982	-	-	sg	1	1982	1982	die
+1983	n	0	sg	1	1983	1983	Vaster harten
+1984	n	0	sg	1	1984	1984	de band
+1986	n	0	sg	2	1986	1986,1999	't moederhart
+1991	n	0	sg	2	1991	1992,1991	het schoon
+1993	n	0	sg	1	1993	1993	Dat
+1995	n	0	pl	1	1995	1995	doornen
+1996	fm	1	sg	1	1996	1996	Zou
+1997	n	0	sg	1	1997	1997	datzelfde hart
+1998	-	-	sg	1	1998	1998	de trouw
+2003	n	0	pl	1	2003	2003	mijn eerste kinderkreten
+2005	n	0	sg	1	2005	2005	't bezorgd gemoed
+2006	-	-	sg	1	2006	2006	Die
+2009	n	0	pl	1	2009	2009	Traantjes van de wangen
+2010	n	0	pl	1	2010	2010	de wangen
+2011	fn	-	sg	2	2011	2011,2014	Die
+2013	n	0	sg	1	2013	2013	haar bloed
+2019	fm	1	both	1	2019	2019	uw
+2022	n	0	sg	1	2022	2022	ons zoets
+2024	n	0	sg	1	2024	2024	schoons
+2025	n	0	sg	1	2025	2025	't genot van de eerste jeugd
+2026	n	0	sg	1	2026	2026	mijn deel
+2028	n	0	sg	1	2028	2028	't Eenzaam harte
+2029	n	0	pl	1	2029	2029	mijn paden
+2031	-	-	sg	1	2031	2031	Onspoed
+2033	-	-	sg	1	2033	2033	de last
+2041	n	0	sg	1	2041	2041	den boezem der Natuur
+2042	n	0	sg	1	2042	2042	der Natuur
+2043	n	0	sg	1	2043	2043	't Hoofd
+2045	-	-	sg	1	2045	2045	de moed ontzonk
+2046	n	0	sg	2	2046	2067,2046	de zucht
+2048	fm	1	sg	1	2048	2048	me
+2049	n	0	pl	1	2049	2049	de dooden
+2050	fm	1	sg	1	2050	2050	mij
+2051	fm	1	sg	1	2051	2051	me
+2052	n	0	sg	2	2052	2057,2052	gene zijde
+2053	-	-	sg	1	2053	2053	de mond des doods
+2054	n	0	sg	1	2054	2054	des doods
+2055	fm	1	sg	1	2055	2055	mij
+2056	fm	1	sg	1	2056	2056	me
+2058	fm	1	sg	1	2058	2058	ik
+2059	n	0	pl	1	2059	2059	mijn lippen
+2061	-	-	sg	1	2061	2061	de beê
+2064	n	0	pl	1	2064	2064	mijn knieën
+2073	n	0	sg	1	2073	2073	VIERDE HOOFDSTUK
+2078	m	1	sg	5	2078	2081,2084,2086,2078,2079	een aardig ventje
+2083	n	0	sg	1	2083	2083	Zijn uitzet
+2087	n	0	sg	1	2087	2087	't kopijboek
+2089	n	0	sg	1	2089	2089	den hollandschen stijl
+2094	n	0	pl	1	2094	2094	een paar pantoffels voor hem
+2099	n	0	sg	1	2099	2099	't net
+2100	fm	1	sg	1	2100	2100	Een fatsoenlijk makelaar
+2102	n	0	sg	1	2102	2102	dat kransje bij de Rosemeijers
+2114	n	0	sg	1	2114	2114	mijn gezin
+2119	n	0	sg	1	2119	2119	mijn eerste peer
+2122	n	0	sg	1	2122	2122	het gelaat van een der meisjes
+2125	n	0	sg	3	2125	2184,2125,2126	dat vers
+2131	n	0	sg	2	2131	2131,2133	haar broodje
+2137	-	-	sg	1	2137	2137	die
+2146	n	0	sg	1	2146	2146	Betsij's broodje
+2150	n	0	sg	2	2150	2152,2150	de borst van de moeder
+2153	n	0	sg	1	2153	2153	den moederlijken schoot
+2162	n	0	pl	1	2162	2162	ooievaars
+2165	n	0	both	1	2165	2165	den Volewijk
+2180	n	0	both	1	2180	2180	Doctrina
+2182	n	0	sg	1	2182	2182	mijn lessenaar
+2189	n	0	sg	1	2189	2189	aanstoot
+2193	n	0	pl	2	2193	2193,2194	talen
+2196	n	0	sg	1	2196	2196	mijn oog
+2198	n	0	sg	1	2198	2198	een bundel
+2199	n	0	sg	1	2199	2199	Verslag over de Koffikultuur in de Residentie Menado
+2200	n	0	both	1	2200	2200	de Koffikultuur in de Residentie Menado
+2201	n	0	both	2	2201	2201,2209	de Residentie Menado
+2202	n	0	sg	1	2202	2202	Mijn hart
+2210	n	0	sg	1	2210	2210	een goed merk
+2213	n	0	pl	1	2213	2213	zulke onzedelijke verzen
+2217	n	0	sg	1	2217	2217	een heel ander oog
+2218	n	0	pl	1	2218	2218	stukken
+2219	-	-	sg	1	2219	2219	die
+2221	-	-	pl	1	2221	2221	die
+2223	n	0	pl	1	2223	2223	zaken
+2224	n	0	pl	1	2224	2224	staten
+2226	-	-	pl	1	2226	2226	berekeningen met cijfers
+2227	n	0	pl	1	2227	2227	cijfers
+2228	n	0	sg	1	2228	2228	zulk een zorg
+2229	n	0	sg	1	2229	2229	nauwkeurigheid
+2233	n	0	sg	1	2233	2233	het denkbeeld
+2235	fm	1	sg	1	2235	2235	de derde klerk
+2240	n	0	pl	1	2240	2240	informatiën
+2241	n	0	sg	1	2241	2241	eerlijkheid
+2262	n	0	sg	1	2262	2262	den eenen bundel vóór
+2264	n	0	pl	2	2264	2264,2278	de opschriften
+2267	n	0	sg	1	2267	2267	de verscheidenheid der behandelde onderwerpen
+2268	n	0	pl	1	2268	2268	der behandelde onderwerpen
+2273	-	-	both	1	2273	2273	die
+2276	n	0	sg	1	2276	2276	deze beoordeeling
+2277	n	0	sg	1	2277	2277	de lijst der opschriften alleen
+2289	n	0	sg	1	2289	2289	een makelaars kantoor
+2292	n	0	both	1	2292	2292	multa , non multum
+2293	n	0	sg	2	2293	2293,2295	de omnibus aliquid
+2294	n	0	sg	1	2294	2294	de toto
+2297	n	0	sg	1	2297	2297	wrevel
+2298	-	-	sg	1	2298	2298	zekeren aandrang
+2299	n	0	sg	2	2299	2299,2300	de geleerdheid
+2302	n	0	sg	1	2302	2302	't latijn aantespreken
+2309	n	0	sg	1	2309	2309	zijn taak
+2312	n	0	sg	1	2312	2312	een groote soliditeit in zijn redeneeringen
+2313	n	0	pl	1	2313	2313	zijn redeneeringen
+2316	n	0	pl	1	2316	2316	verhandelingen
+2317	n	0	pl	1	2317	2317	opstellen
+2318	n	0	sg	1	2318	2318	het SANSKRIT
+2320	-	-	pl	1	2320	2320	de germaansche taaltakken
+2321	n	0	pl	1	2321	2321	de strafbepalingen op kindermoord
+2322	-	-	sg	1	2322	2322	kindermoord
+2323	n	0	sg	1	2323	2323	den oorsprong van den adel
+2324	m	1	sg	1	2324	2324	den adel
+2325	n	0	sg	1	2325	2325	het verschil tusschen de begrippen
+2326	n	0	pl	1	2326	2326	de begrippen
+2327	n	0	both	1	2327	2327	ONEINDIGE TijD
+2328	n	0	both	1	2328	2328	EEUWIGHEID
+2329	-	-	sg	1	2329	2329	de kansrekening
+2330	n	0	sg	1	2330	2330	het boek van JOB
+2331	mn	-	sg	2	2331	2331,2333	JOB
+2334	n	0	sg	1	2334	2334	proteïne in de athmospherische lucht
+2335	n	0	sg	1	2335	2335	de athmospherische lucht
+2336	n	0	sg	1	2336	2336	de staatkunde van Rusland
+2337	n	0	sg	1	2337	2337	Rusland
+2338	-	-	pl	1	2338	2338	de klinkletters
+2339	n	0	pl	1	2339	2339	cellulaire gevangenissen
+2340	-	-	pl	1	2340	2340	de oude stellingen omtrent het
+2341	n	0	sg	1	2341	2341	het
+2342	n	0	sg	1	2342	2342	HORROR VACUI
+2343	n	0	sg	1	2343	2343	de wenschelijkheid der afschaffing van strafbepalingen op laster
+2344	n	0	sg	1	2344	2344	der afschaffing van strafbepalingen
+2345	n	0	pl	1	2345	2345	strafbepalingen
+2346	n	0	sg	1	2346	2346	laster
+2347	n	0	pl	1	2347	2347	de oorzaken van den opstand der Nederlanders tegen Spanje , NIET
+2348	n	0	sg	1	2348	2348	den opstand der Nederlanders tegen Spanje
+2349	m	1	pl	1	2349	2349	der Nederlanders
+2350	n	0	sg	1	2350	2350	Spanje
+2351	n	0	sg	1	2351	2351	de begeerte naar godsdienstige of staatkundige vrijheid
+2352	-	-	sg	1	2352	2352	godsdienstige of staatkundige vrijheid
+2353	n	0	sg	1	2353	2353	het PERPETUUM MOBILE
+2354	-	-	sg	1	2354	2354	PERPETUUM
+2355	-	-	sg	1	2355	2355	de cirkelkwadratuur
+2356	n	0	sg	1	2356	2356	den wortel van wortellooze getallen
+2357	n	0	pl	1	2357	2357	wortellooze getallen
+2358	n	0	sg	1	2358	2358	de zwaarte van het licht
+2360	n	0	sg	1	2360	2360	den achteruitgang der beschaving sedert het ontstaan des Christendoms
+2361	n	0	sg	1	2361	2361	der beschaving sedert het ontstaan des Christendoms
+2362	n	0	both	1	2362	2362	des Christendoms
+2363	n	0	both	1	2363	2363	de ijslandsche Mijthologie
+2364	m	1	sg	1	2364	2364	den EMILE van ROUSSEAU
+2365	m	1	sg	1	2365	2365	ROUSSEAU
+2366	n	0	both	1	2366	2366	de Civiele Rechtsvordering
+2367	n	0	pl	1	2367	2367	zaken van koophandel
+2368	n	0	sg	1	2368	2368	koophandel
+2369	n	0	sg	1	2369	2369	SIRIUS als middelpunt van een zonnestelsel
+2370	n	0	sg	1	2370	2370	middelpunt van een zonnestelsel
+2371	n	0	sg	1	2371	2371	een zonnestelsel
+2372	n	0	both	1	2372	2372	Inkomende-Rechten
+2374	n	0	pl	1	2374	2374	verzen als oudste taal
+2375	n	0	sg	1	2375	2375	oudste taal
+2377	n	0	pl	1	2377	2377	witte mieren
+2378	-	-	sg	1	2378	2378	het tegennatuurlijke van School-Inrichtingen
+2379	-	-	pl	1	2379	2379	School-Inrichtingen
+2380	n	0	sg	1	2380	2380	de prostitutie in het huwelijk
+2383	n	0	pl	1	2383	2383	hijdraulische onderwerpen in verband met de rijstkultuur
+2384	-	-	sg	1	2384	2384	de rijstkultuur
+2385	n	0	sg	1	2385	2385	het schijnbaar overwicht der westersche beschaving
+2386	n	0	sg	1	2386	2386	der westersche beschaving
+2387	n	0	sg	1	2387	2387	kadaster
+2388	n	0	sg	2	2388	2393,2388	registratie
+2389	m	1	sg	3	2389	2402,2395,2389	zegel
+2390	n	0	pl	1	2390	2390	kinderboekjes
+2391	n	0	pl	1	2391	2391	fabels
+2392	n	0	pl	1	2392	2392	sprookjes
+2397	n	0	sg	1	2397	2397	bemiddeling
+2398	n	0	sg	2	2398	2398,2399	den handel
+2410	n	0	sg	1	2410	2410	successierecht
+2412	n	0	pl	1	2412	2412	der beste belastingen
+2413	n	0	sg	1	2413	2413	de uitvinding der kuisheid . 
+2414	n	0	sg	2	2414	2414,2415	der kuisheid . 
+2417	-	-	sg	1	2417	2417	vermenigvuldiging
+2418	n	0	sg	1	2418	2418	Deze titel
+2421	n	0	sg	1	2421	2421	zeker soort van geest der Franschen
+2422	m	1	sg	1	2422	2422	geest der Franschen
+2423	-	-	pl	2	2423	2427,2423	der Franschen
+2426	n	0	sg	1	2426	2426	hun taal

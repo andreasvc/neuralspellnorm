@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="abbreviation" his_1_1="normal" id="2" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="red" vwtype="pers" wh="nwh" word="&apos;k"/>
+      <node begin="1" end="2" frame="verb(hebben,sg1,aux_psp_hebben)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" v_per="fir" word="Heb" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="5" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" cat="pp" end="4" id="6" rel="pc">
+          <node begin="2" end="3" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="7" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="compound" his_1="2" id="8" lcat="np" lemma="leven_heil" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="leven_heil" sense="leven_heil" word="levensheil"/>
+        </node>
+        <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,pc_pp(naar))" his="normal" his_1="normal" id="9" infl="psp" lcat="ppart" lemma="streven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="streef" sc="pc_pp(naar)" sense="streef-naar" word="gestreefd" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="10" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="128-1">&apos;k Heb naar levensheil gestreefd ,</sentence>
+  <comments>
+    <comment>Q#128-1|&apos;k Heb naar levensheil gestreefd ,|1|1|-8.511217223200001</comment>
+  </comments>
+</alpino_ds>

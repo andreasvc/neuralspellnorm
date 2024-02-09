@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:53" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="sv1" end="5" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg,fixed([vc(zie,inf,intransitive),acc],no_passive))" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg" lcat="sv1" lemma="laten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="laat" sc="fixed([vc(zie,inf,intransitive),acc],no_passive)" sense="laat-zie" stype="imparative" tense="present" v_per="invje" word="Laat" wvorm="pv"/>
+      <node begin="1" case="dat_acc" def="def" end="2" frame="pronoun(nwh,fir,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="3" lcat="np" lemma="ons" naamval="obl" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,mv)" pt="vnw" rel="obj1" rnum="pl" root="ons" sense="ons" status="vol" vwtype="pr" wh="nwh" word="ons"/>
+      <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+      <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+      <node begin="4" buiging="zonder" end="5" frame="verb(hebben,inf(no_e),intransitive)" his="normal" his_1="normal" id="6" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="svp" root="zie" sc="intransitive" sense="zie" word="zien" wvorm="inf"/>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="7" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="skip" id="8" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="82-2">Laat ons nu eens zien . &quot;</sentence>
+  <comments>
+    <comment>Q#82-2|Laat ons nu eens zien . &quot;|1|1|-4.7208543177</comment>
+  </comments>
+</alpino_ds>

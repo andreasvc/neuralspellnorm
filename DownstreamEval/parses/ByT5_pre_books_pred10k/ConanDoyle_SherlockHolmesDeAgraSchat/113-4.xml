@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:57" cats="1" skips="0" />
+  <node begin="0" cat="top" end="24" id="0" rel="top">
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="23" id="2" rel="--">
+      <node begin="0" cat="smain" end="13" id="3" rel="cnj">
+        <node begin="0" cat="np" end="6" id="4" index="1" rel="su">
+          <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+          <node aform="base" begin="1" buiging="met-e" end="2" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="6" infl="e" lcat="ap" lemma="geel" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="geel" sense="geel" vform="adj" word="gele"/>
+          <node begin="2" end="3" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="licht_straal" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="licht_straal" sense="licht_straal" word="lichtstralen"/>
+          <node begin="3" cat="pp" end="6" id="8" rel="mod">
+            <node begin="3" end="4" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="9" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+            <node begin="4" cat="np" end="6" id="10" rel="obj1">
+              <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="5" end="6" frame="noun(both,count,pl)" gen="both" getal="mv" graad="basis" his="compound" his_1="2" id="12" lcat="np" lemma="winkel_raam" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="winkel_raam" sense="winkel_raam" word="winkelramen"/>
+            </node>
+          </node>
+        </node>
+        <node begin="6" end="7" frame="verb(zijn,past(pl),ld_pp)" his="normal" his_1="normal" id="13" infl="pl" lcat="smain" lemma="dringen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="dring" sc="ld_pp" sense="dring" tense="past" v_per="thi" word="drongen" wvorm="pv"/>
+        <node begin="7" cat="pp" end="9" id="14" rel="ld">
+          <node begin="7" end="8" frame="preposition(naar,[toe],loc_adv)" his="normal" his_1="normal" id="15" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sc="loc_adv" sense="naar" vztype="init" word="naar"/>
+          <node begin="8" end="9" frame="loc_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="buiten" pos="adv" postag="VZ(fin)" pt="vz" rel="obj1" root="buiten" sense="buiten" special="loc" vztype="fin" word="buiten"/>
+        </node>
+        <node begin="9" cat="pp" end="13" id="17" rel="mod">
+          <node begin="9" end="10" frame="preposition(door,[heen])" his="normal" his_1="normal" id="18" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+          <node begin="10" cat="np" end="13" id="19" rel="obj1">
+            <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="20" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="11" buiging="met-e" end="12" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="21" infl="e" lcat="ap" lemma="dampachtig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="dampachtig" sense="dampachtig" vform="adj" word="dampachtige"/>
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="lucht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="lucht" sense="lucht" word="lucht"/>
+          </node>
+        </node>
+      </node>
+      <node begin="14" conjtype="neven" end="15" frame="conj(en)" his="normal" his_1="normal" id="23" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="23" id="24" rel="cnj">
+        <node begin="0" end="6" id="25" index="1" rel="su"/>
+        <node begin="15" end="16" frame="verb(hebben,past(pl),fixed([{[acc(licht),pc(op)]}],norm_passive))" his="normal" his_1="normal" id="26" infl="pl" lcat="smain" lemma="werpen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="werp" sc="fixed([{[acc(licht),pc(op)]}],norm_passive)" sense="licht-werp-op" tense="past" v_per="thi" word="wierpen" wvorm="pv"/>
+        <node begin="16" cat="np" end="19" id="27" rel="obj1">
+          <node begin="16" end="17" frame="determiner(een)" his="normal" his_1="normal" id="28" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node aform="base" begin="17" buiging="zonder" end="18" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="29" infl="no_e" lcat="ap" lemma="spookachtig" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="spookachtig" sense="spookachtig" vform="adj" word="spookachtig"/>
+          <node begin="18" end="19" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="30" lcat="np" lemma="licht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="licht" sense="licht" word="licht"/>
+        </node>
+        <node begin="19" cat="pp" end="23" id="31" rel="pc">
+          <node begin="19" end="20" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="32" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="20" cat="np" end="23" id="33" rel="obj1">
+            <node begin="20" end="21" frame="determiner(de)" his="normal" his_1="normal" id="34" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="21" end="22" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="35" lcat="np" lemma="menigte" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="menigte" sense="menigte" word="menigte"/>
+            <node begin="22" end="23" frame="er_adverb(buiten)" his="normal" his_1="normal" id="36" lcat="pp" lemma="daarbuiten" pos="pp" postag="BW()" pt="bw" rel="mod" root="daarbuiten" sense="daarbuiten" special="er" word="daarbuiten"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="23" end="24" frame="punct(punt)" his="normal" his_1="normal" id="37" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="113-4">De gele lichtstralen uit de winkelramen drongen naar buiten door de dampachtige lucht , en wierpen een spookachtig licht op de menigte daarbuiten .</sentence>
+  <comments>
+    <comment>Q#113-4|De gele lichtstralen uit de winkelramen drongen naar buiten door de dampachtige lucht , en wierpen een spookachtig licht op de menigte daarbuiten .|1|1|-7.988874867599998</comment>
+  </comments>
+</alpino_ds>

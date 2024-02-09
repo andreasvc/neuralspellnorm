@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:49" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="0" cat="du" end="18" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="want" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="want" sc="root" sense="want" word="Want"/>
+      <node begin="1" cat="smain" end="18" id="3" rel="nucl">
+        <node begin="1" cat="np" end="8" id="4" rel="mod">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="5" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="2" end="3" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="6" infl="pl_num" lcat="detp" lemma="zes" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="zes" sense="zes" word="zes"/>
+          <node aform="compar" begin="3" buiging="met-e" end="4" frame="adjective(ere)" graad="basis" his="normal" his_1="normal" id="7" infl="e" lcat="ap" lemma="ander" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ander" sense="ander" vform="adj" word="andere"/>
+          <node begin="4" end="5" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="dag" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="dag" sense="dag" special="tmp" word="dagen"/>
+          <node begin="5" cat="pp" end="8" id="9" rel="mod">
+            <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="10" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="6" cat="np" end="8" id="11" rel="obj1">
+              <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="7" end="8" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="week" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="week" sense="week" special="tmp" word="week"/>
+            </node>
+          </node>
+        </node>
+        <node begin="8" end="9" frame="verb(hebben,past(pl),transitive)" his="normal" his_1="normal" id="14" infl="pl" lcat="smain" lemma="dragen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="draag" sc="transitive" sense="draag" stype="declarative" tense="past" v_per="thi" word="droegen" wvorm="pv"/>
+        <node begin="9" cat="np" end="12" id="15" rel="su">
+          <node begin="9" end="10" frame="number(hoofd(pl_num))" getal-n="zonder-n" graad="basis" his="normal" his_1="number_expression" id="16" infl="pl_num" lcat="np" lemma="drie" numtype="hoofd" pos="num" positie="nom" postag="TW(hoofd,nom,zonder-n,basis)" pt="tw" rel="hd" rnum="pl" root="drie" sense="drie" word="drie"/>
+          <node begin="10" cat="pp" end="12" id="17" rel="mod">
+            <node begin="10" end="11" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="18" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="11" case="dat_acc" def="def" end="12" frame="pronoun(nwh,fir,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="19" lcat="np" lemma="ons" naamval="obl" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,mv)" pt="vnw" rel="obj1" rnum="pl" root="ons" sense="ons" status="vol" vwtype="pr" wh="nwh" word="ons"/>
+          </node>
+        </node>
+        <node begin="12" cat="np" end="18" id="20" rel="obj1">
+          <node begin="12" buiging="met-e" end="13" frame="determiner(onze)" getal="mv" his="normal" his_1="normal" id="21" infl="onze" lcat="detp" lemma="ons" naamval="stan" npagr="rest" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)" pt="vnw" rel="det" root="ons" sense="ons" status="vol" vwtype="bez" word="onze"/>
+          <node begin="13" end="14" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="keten" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="keten" sense="keten" word="ketenen"/>
+          <node begin="14" cat="pp" end="16" id="23" rel="mod">
+            <node begin="14" end="15" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="24" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="15" end="16" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="25" infl="pl_num" lcat="np" lemma="negen" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="obj1" root="negen" sense="negen" word="negen"/>
+          </node>
+          <node begin="16" cat="pp" end="18" id="26" rel="mod">
+            <node begin="16" end="17" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="27" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+            <node begin="17" end="18" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="28" infl="pl_num" lcat="np" lemma="zes" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="obj1" root="zes" sense="zes" word="zes"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="31-3">Want de zes andere dagen van de week droegen drie van ons onze ketenen van negen tot zes .</sentence>
+  <comments>
+    <comment>Q#31-3|Want de zes andere dagen van de week droegen drie van ons onze ketenen van negen tot zes .|1|1|3.8259780577000035</comment>
+  </comments>
+</alpino_ds>

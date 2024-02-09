@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="2" rel="--">
+      <node begin="0" cat="smain" end="8" id="3" rel="dp">
+        <node begin="2" end="3" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" v_per="thi" word="had" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        <node begin="0" cat="ppart" end="8" id="6" rel="vc">
+          <node begin="0" cat="np" end="2" id="7" rel="obj1">
+            <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="8" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="Z&apos;n"/>
+            <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="bediende" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bediende" sense="bediende" word="bediende"/>
+          </node>
+          <node begin="3" end="4" id="10" index="1" rel="su"/>
+          <node begin="4" cat="ap" end="6" id="11" rel="mod">
+            <node begin="4" end="5" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="maand" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="me" rnum="pl" root="maand" sense="maand" special="tmp" word="maanden"/>
+            <node begin="5" end="6" frame="pred_np_me_adjective(tmpadv)" his="normal" his_1="normal" id="13" lcat="ap" lemma="geleden" pos="adj" postag="BW()" pt="bw" rel="hd" root="geleden" sc="pred_np_me" sense="geleden" word="geleden"/>
+          </node>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="14" infl="no_e" lcat="ppart" lemma="doen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="doen" sense="doen" vform="psp" word="gedaan" wvorm="vd"/>
+          <node begin="7" buiging="zonder" end="8" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="15" infl="psp" lcat="ppart" lemma="geven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="geef" sc="transitive" sense="geef" word="gegeven" wvorm="vd"/>
+        </node>
+      </node>
+      <node begin="9" cat="smain" end="14" id="16" rel="dp">
+        <node begin="11" end="12" frame="verb(hebben,past(pl),aux_psp_hebben)" his="normal" his_1="normal" id="17" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="past" v_per="thi" word="hadden" wvorm="pv"/>
+        <node begin="12" case="both" def="def" end="13" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="18" index="2" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="9" cat="ppart" end="14" id="19" rel="vc">
+          <node begin="9" cat="np" end="11" id="20" rel="obj1">
+            <node begin="9" end="10" frame="determiner(de)" his="normal" his_1="normal" id="21" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="telefoon" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="telefoon" sense="telefoon" word="telefoon"/>
+          </node>
+          <node begin="12" end="13" id="23" index="2" rel="su"/>
+          <node begin="13" buiging="zonder" end="14" frame="verb(hebben,psp,ninv(transitive,part_transitive(weg)))" his="normal" his_1="part-V" id="24" infl="psp" lcat="ppart" lemma="weg_nemen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="neem_weg" sc="part_transitive(weg)" sense="neem_weg" word="weggenomen" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-20">Z&apos;n bediende had -ie maanden geleden gedaan gegeven , de telefoon hadden ze weggenomen .</sentence>
+  <comments>
+    <comment>Q#96-20|Z&apos;n bediende had [ @alt ~hij~je -ie ] maanden geleden gedaan gegeven , de telefoon hadden ze weggenomen .|1|1|-3.464572595699999</comment>
+  </comments>
+</alpino_ds>

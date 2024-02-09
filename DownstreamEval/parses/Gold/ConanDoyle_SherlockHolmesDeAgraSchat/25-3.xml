@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:18" cats="4" skips="1" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="4" buiging="met-e" end="5" frame="determiner(der)" his="robust_skip" id="1" infl="der" lcat="--" lemma="deze" naamval="gen" npagr="rest3" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,gen,prenom,met-e,rest3)" pt="vnw" rel="--" root="deze" sense="deze" vwtype="aanw" word="dezer"/>
+    <node begin="0" cat="du" end="9" id="2" rel="--">
+      <node begin="0" cat="smain" end="4" id="3" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="no_e" lcat="ap" lemma="gewis" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="gewis" sense="gewis" vform="adj" word="Gewis"/>
+        <node begin="1" end="2" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="5" infl="sg3" lcat="smain" lemma="vullen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="vul" sc="intransitive" sense="vul" stype="declarative" tense="present" v_per="thi" word="vult" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" his="normal" his_1="normal" id="6" rel="su">
+          <node begin="2" end="3" frame="determiner(de)" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="3" case="both" def="indef" end="4" frame="pronoun(nwh,thi,sg,both,both,indef)" gen="both" id="8" lcat="np" lemma="een" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" rnum="sg" root="een" sense="een" wh="nwh" word="eene"/>
+        </node>
+      </node>
+      <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="gave" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="gave" sense="gave" word="gave"/>
+      <node begin="6" cat="np" end="8" id="10" rel="dp">
+        <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node aform="compar" begin="7" buiging="met-e" end="8" frame="adjective(ere)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="12" infl="e" lcat="np" lemma="ander" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="ander" sense="ander" vform="adj" word="andere"/>
+      </node>
+      <node aform="base" begin="8" end="9" frame="adjective(pred(nonadv))" his="normal" his_1="normal" id="13" infl="pred" lcat="ap" lemma="aan" pos="adj" postag="VZ(fin)" pt="vz" rel="dp" root="aan" sense="aan" vform="adj" vztype="fin" word="aan"/>
+    </node>
+    <node begin="9" end="10" frame="punct(vraag)" his="robust_skip" id="14" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="robust_skip" id="15" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="25-3">Gewis vult de eene dezer gave de andere aan ? &quot;</sentence>
+  <comments>
+    <comment>Q#25-3|Gewis vult de [ @alt een eene ] dezer gave de andere aan ? &quot;|1|5|12.558873479999999</comment>
+  </comments>
+</alpino_ds>

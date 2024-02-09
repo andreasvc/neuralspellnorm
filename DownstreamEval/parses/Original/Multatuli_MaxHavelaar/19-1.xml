@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(staand_streep)" his="robust_skip" id="1" lcat="--" lemma="|" pos="punct" postag="LET()" pt="let" rel="--" root="|" sense="|" special="staand_streep" word="|"/>
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="np" end="6" id="3" rel="--">
+      <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap_and_compound" his_1="2" id="4" lcat="np" lemma="laurier_gracht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="laurier_gracht" sense="laurier_gracht" word="Lauriergracht"/>
+      <node begin="3" cat="np" end="6" id="5" rel="app">
+        <node begin="3" end="4" frame="proper_name(sg)" genus="genus" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" lcat="np" lemma="N" naamval="stan" neclass="MISC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="mod" rnum="sg" root="N" sense="N" word="N"/>
+        <node begin="4" end="5" frame="meas_mod_noun(both,count,meas)" gen="both" his="normal" his_1="normal" id="7" lcat="np" lemma="°" num="meas" pos="noun" postag="SPEC(symb)" pt="spec" rel="hd" rnum="sg" root="°" sense="°" special="meas_mod" spectype="symb" word="°"/>
+        <node begin="5" end="6" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="8" infl="pl_num" lcat="detp" lemma="37" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="37" sense="37" word="37"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(staand_streep)" his="robust_skip" id="9" lcat="--" lemma="|" pos="punct" postag="LET()" pt="let" rel="--" root="|" sense="|" special="staand_streep" word="|"/>
+  </node>
+  <sentence sentid="19-1">| Lauriergracht , N ° 37 |</sentence>
+  <comments>
+    <comment>Q#19-1|__ Lauriergracht , N ° 37 __|1|1|2.3044841590000003</comment>
+  </comments>
+</alpino_ds>

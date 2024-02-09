@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="1" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="3" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="3" id="3" rel="nucl">
+        <node begin="1" case="dat_acc" def="def" end="2" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="dp" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        <node begin="2" end="3" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="paradijs" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="paradijs" sense="paradijs" word="paradijzen"/>
+      </node>
+    </node>
+    <node begin="3" end="4" frame="verb(hebben,past(sg),refl_np)" his="robust_skip" id="6" infl="sg" lcat="--" lemma="scheppen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="schep" sc="refl_np" sense="zich-schep" tense="past" word="schiep" wvorm="pv"/>
+    <node begin="4" end="5" frame="punct(hellip)" his="robust_skip" id="7" lcat="--" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="113-1">En mij paradijzen schiep ...</sentence>
+  <comments>
+    <comment>Q#113-1|En mij paradijzen schiep ...|1|2|2.4868137200000002</comment>
+  </comments>
+</alpino_ds>

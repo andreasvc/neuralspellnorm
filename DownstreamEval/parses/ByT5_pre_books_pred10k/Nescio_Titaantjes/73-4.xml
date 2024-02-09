@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:00" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="du" end="12" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whsub" end="12" id="3" rel="nucl">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="4" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="1" cat="ssub" end="12" id="5" rel="body">
+          <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" index="2" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="4" end="5" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="7" infl="sg" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+          <node begin="1" cat="inf" end="12" id="8" rel="vc">
+            <node begin="1" end="2" id="9" index="1" rel="predc"/>
+            <node begin="2" end="3" id="10" index="2" rel="su"/>
+            <node begin="3" buiging="zonder" end="4" frame="verb(zijn,inf(no_e),ap_copula)" his="normal" his_1="normal" id="11" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="ap_copula" sense="ga" word="gaan" wvorm="inf"/>
+            <node begin="5" cat="pp" end="12" id="12" rel="mod">
+              <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="6" cat="np" end="12" id="14" rel="obj1">
+                <node begin="6" buiging="zonder" end="7" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+                <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="16" infl="e" lcat="ap" lemma="net" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="net" sense="net" vform="adj" word="nette"/>
+                <node begin="8" end="9" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="scheiding" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="scheiding" sense="scheiding" word="scheidingen"/>
+                <node begin="9" cat="pp" end="12" id="18" rel="mod">
+                  <node begin="9" end="10" frame="preposition(in,[])" his="normal" his_1="normal" id="19" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                  <node begin="10" cat="np" end="12" id="20" rel="obj1">
+                    <node begin="10" buiging="zonder" end="11" frame="determiner(pron)" getal="mv" his="normal" his_1="normal" id="21" infl="pron" lcat="detp" lemma="hun" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="hun" sense="hun" status="vol" vwtype="bez" word="hun"/>
+                    <node begin="11" end="12" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="haar" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="haar" sense="haar" word="haar"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(vraag)" his="normal" his_1="normal" id="23" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="73-4">En hoe &apos;t gaan zou met die nette scheidingen in hun haar ?</sentence>
+  <comments>
+    <comment>Q#73-4|En hoe &apos;t gaan zou met die nette scheidingen in hun haar ?|1|1|-1.229750255499999</comment>
+  </comments>
+</alpino_ds>

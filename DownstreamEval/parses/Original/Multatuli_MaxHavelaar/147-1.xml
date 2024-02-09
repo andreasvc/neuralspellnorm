@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="2" skips="1" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="1" end="2" frame="verb(zijn,past(sg),ninv(intransitive,part_intransitive(op)))" his="robust_skip" id="1" infl="sg" lcat="--" lemma="op_stijgen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="stijg_op" sc="part_intransitive(op)" sense="stijg_op" tense="past" word="opsteeg" wvorm="pv"/>
+    <node begin="0" cat="du" end="5" id="2" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(end(both))" his="normal" his_1="decap" his_1_1="V-d" his_1_1_1="normal" id="3" infl="no_e" lcat="ppres" lemma="danken" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="dp" root="dank" sense="dank" vform="gerund" word="Dankend" wvorm="od"/>
+      <node begin="2" cat="du" end="5" id="4" rel="dp">
+        <node begin="2" cat="pp" end="4" id="5" rel="dp">
+          <node begin="2" end="3" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="6" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="den" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="den" sense="den" word="den"/>
+        </node>
+        <node begin="4" end="5" frame="proper_name(both,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="8" lcat="np" lemma="Hoogen" naamval="stan" neclass="PER" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="dp" root="Hoogen" sense="Hoogen" word="Hoogen"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="skip" id="9" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="147-1">Dankend opsteeg tot den Hoogen ,</sentence>
+  <comments>
+    <comment>Q#147-1|Dankend opsteeg tot den Hoogen ,|1|3|4.7972844199999995</comment>
+  </comments>
+</alpino_ds>

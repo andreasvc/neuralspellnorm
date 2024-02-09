@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="25" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(ligg_streep)" his="skip" id="3" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="13" end="14" frame="punct(ligg_streep)" his="skip" id="4" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="15" end="16" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="conj" end="24" id="6" rel="--">
+      <node begin="1" cat="du" end="12" id="7" rel="cnj">
+        <node begin="1" cat="smain" end="7" id="8" rel="nucl">
+          <node begin="2" end="3" frame="verb(hebben,pl,aux(inf))" his="normal" his_1="normal" id="9" infl="pl" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" v_per="fir" word="zullen" wvorm="pv"/>
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="10" index="1" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+          <node begin="1" cat="inf" end="7" id="11" rel="vc">
+            <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="decap" his_1_1="normal" id="12" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="Dan"/>
+            <node begin="3" end="4" id="13" index="1" rel="su"/>
+            <node begin="4" cat="ap" end="6" id="14" rel="predc">
+              <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="zeer" pos="adv" postag="BW()" pt="bw" rel="mod" root="zeer" sense="zeer" word="zeer"/>
+              <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="zeker" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="zeker" sense="zeker" vform="adj" word="zeker"/>
+            </node>
+            <node begin="6" buiging="zonder" end="7" frame="verb(zijn,inf(no_e),ap_copula)" his="normal" his_1="normal" id="17" infl="inf(no_e)" lcat="inf" lemma="gaan" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ga" sc="ap_copula" sense="ga" word="gaan" wvorm="inf"/>
+          </node>
+        </node>
+        <node begin="9" cat="conj" end="12" id="18" rel="sat">
+          <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="19" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="cnj" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+          <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="11" case="nom" def="def" end="12" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="cnj" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        </node>
+      </node>
+      <node begin="12" conjtype="neven" end="13" frame="conj(en)" his="normal" his_1="normal" id="22" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="14" cat="du" end="24" id="23" rel="cnj">
+        <node begin="14" end="15" frame="tag" his="normal" his_1="normal" id="24" lcat="advp" lemma="ja" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="ja" sense="ja" word="ja"/>
+        <node begin="16" cat="du" end="24" id="25" rel="nucl">
+          <node begin="16" end="17" frame="tag" his="normal" his_1="normal" id="26" lcat="advp" lemma="wel" pos="tag" postag="BW()" pt="bw" rel="tag" root="wel" sense="wel" word="wel"/>
+          <node begin="17" cat="smain" end="24" id="27" rel="nucl">
+            <node begin="17" cat="mwu" end="19" his="normal" his_1="names_dictionary" id="28" rel="su">
+              <node begin="17" end="18" frame="proper_name(sg,'PER')" id="29" lcat="np" lemma="Dr." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Dr." sense="Dr." spectype="deeleigen" word="Dr."/>
+              <node begin="18" end="19" frame="proper_name(sg,'PER')" id="30" lcat="np" lemma="Watson" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Watson" sense="Watson" spectype="deeleigen" word="Watson"/>
+            </node>
+            <node begin="19" end="20" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="31" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            <node aform="base" begin="20" buiging="zonder" end="21" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="32" infl="no_e" lcat="ap" lemma="juist" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="juist" sense="juist" vform="adj" word="juist"/>
+            <node begin="21" cat="np" end="24" id="33" rel="predc">
+              <node begin="21" end="22" frame="determiner(de)" his="normal" his_1="normal" id="34" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node aform="base" begin="22" buiging="met-e" end="23" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="35" infl="e" lcat="ap" lemma="recht" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="recht" sense="recht" vform="adj" word="rechte"/>
+              <node begin="23" end="24" frame="noun(de,count,bare_meas)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="36" lcat="np" lemma="man" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="man" sense="man" word="man"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="24" end="25" frame="punct(punt)" his="normal" his_1="normal" id="37" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="78-1">&quot; Dan zullen wij zeer zeker gaan , - gij en ik en - ja , wel Dr. Watson is juist de rechte man .</sentence>
+  <comments>
+    <comment>Q#78-1|&quot; Dan zullen wij zeer zeker gaan , - gij en ik en - ja , wel Dr. Watson is juist de rechte man .|1|1|-5.134689598800003</comment>
+  </comments>
+</alpino_ds>

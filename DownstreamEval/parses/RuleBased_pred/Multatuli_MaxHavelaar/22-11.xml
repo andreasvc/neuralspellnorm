@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:13" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="15" id="2" rel="--">
+      <node begin="0" cat="np" end="2" id="3" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="Die"/>
+        <node begin="1" end="2" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="5" lcat="np" lemma="konnexie" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="konnexie" sense="konnexie" word="konnexie"/>
+      </node>
+      <node begin="2" end="3" frame="verb('hebben/zijn',sg3,pc_pp(van))" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="dateren" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="dateer" sc="pc_pp(van)" sense="dateer-van" stype="declarative" tense="present" v_per="thi" word="dateert" wvorm="pv"/>
+      <node begin="3" cat="pp" end="7" id="7" rel="pc">
+        <node begin="3" end="4" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="8" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+        <node begin="4" cat="np" end="7" id="9" rel="obj1">
+          <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="10" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="aal" id="11" infl="no_e" lcat="ap" lemma="kontinentaal" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="kontinentaal" sense="kontinentaal" vform="adj" word="kontinentaal"/>
+          <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="stelsel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="stelsel" sense="stelsel" word="stelsel"/>
+        </node>
+      </node>
+      <node begin="8" cat="cp" end="15" id="13" rel="mod">
+        <node begin="8" conjtype="onder" end="9" frame="complementizer" his="normal" his_1="normal" id="14" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="toen"/>
+        <node begin="9" cat="ssub" end="15" id="15" rel="body">
+          <node begin="9" case="nom" def="def" end="10" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="16" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+          <node begin="10" end="11" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="17" lcat="np" lemma="dekoloniale" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="dekoloniale" sense="dekoloniale" word="dekoloniale"/>
+          <node begin="12" end="13" frame="verb(hebben,past(pl),ninv(np_ld_transitive,part_np_ld_transitive(in)))" his="normal" his_1="part-V" id="18" infl="pl" lcat="ssub" lemma="in_smokkelen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="smokkel_in" sc="part_np_ld_transitive(in)" sense="smokkel_in" tense="past" v_per="fir" word="insmokkelden" wvorm="pv"/>
+          <node begin="11" cat="np" end="15" id="19" rel="ld">
+            <node begin="11" end="12" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="waren" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="waren" sense="waren" word="waren"/>
+            <node begin="13" cat="pp" end="15" id="21" rel="mod">
+              <node begin="13" end="14" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="22" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="14" end="15" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="23" lcat="np" lemma="Helgoland" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" root="Helgoland" sense="Helgoland" word="Helgoland"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="24" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="22-11">Die konnexie dateert van &apos;t kontinentaal stelsel , toen wij dekoloniale waren insmokkelden van Helgoland .</sentence>
+  <comments>
+    <comment>Q#22-11|Die konnexie dateert van &apos;t kontinentaal stelsel , toen wij dekoloniale waren insmokkelden van Helgoland .|1|1|5.062877135799999</comment>
+  </comments>
+</alpino_ds>

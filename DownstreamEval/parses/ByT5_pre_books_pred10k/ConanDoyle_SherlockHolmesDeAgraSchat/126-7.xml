@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:59" cats="2" skips="0" />
+  <node begin="0" cat="top" end="28" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="15" end="16" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="27" id="3" rel="--">
+      <node begin="0" cat="smain" end="10" id="4" rel="dp">
+        <node begin="0" cat="conj" end="7" id="5" rel="su">
+          <node begin="0" cat="np" end="5" id="6" rel="cnj">
+            <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="7" index="1" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+            <node begin="1" cat="conj" end="4" id="8" index="2" rel="mod">
+              <node aform="super" begin="1" buiging="met-e" end="2" frame="adjective(ste)" graad="sup" his="normal" his_1="normal" id="9" infl="e" lcat="ap" lemma="rijk" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="cnj" root="rijk" sense="rijk" vform="adj" word="rijkste"/>
+              <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="normal" his_1="normal" id="10" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+              <node aform="super" begin="3" buiging="met-e" end="4" frame="adjective(ste)" graad="sup" his="normal" his_1="normal" id="11" infl="e" lcat="ap" lemma="kostbaar" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="cnj" root="kostbaar" sense="kostbaar" vform="adj" word="kostbaarste"/>
+            </node>
+            <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="gordijn" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="gordijn" sense="gordijn" word="gordijnen"/>
+          </node>
+          <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="0" cat="np" end="7" id="14" rel="cnj">
+            <node begin="0" end="1" id="15" index="1" rel="det"/>
+            <node begin="1" end="4" id="16" index="2" rel="mod"/>
+            <node begin="6" end="7" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="tapijt" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="tapijt" sense="tapijt" word="tapijten"/>
+          </node>
+        </node>
+        <node begin="7" end="8" frame="verb(hebben,past(pl),transitive)" his="normal" his_1="normal" id="18" infl="pl" lcat="smain" lemma="bedekken" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="bedek" sc="transitive" sense="bedek" stype="declarative" tense="past" v_per="thi" word="bedekten" wvorm="pv"/>
+        <node begin="8" cat="np" end="10" id="19" rel="obj1">
+          <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="20" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="wand" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="wand" sense="wand" word="wanden"/>
+        </node>
+      </node>
+      <node begin="11" cat="ppart" end="27" id="22" rel="dp">
+        <node begin="11" cat="conj" end="14" id="23" rel="mod">
+          <node begin="11" end="12" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="24" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="cnj" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="hier"/>
+          <node begin="12" conjtype="neven" end="13" frame="conj(en)" his="normal" his_1="normal" id="25" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="13" end="14" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="26" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="cnj" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+        </node>
+        <node begin="14" buiging="zonder" end="15" frame="verb(hebben,psp,ninv(intransitive,part_intransitive(terug)))" his="compound" his_1="2" id="27" infl="psp" lcat="ppart" lemma="terug_schuiven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="schuif_terug" sc="part_intransitive(terug)" sense="schuif_terug" word="teruggeschoven" wvorm="vd"/>
+        <node begin="16" cat="cp" end="27" id="28" rel="mod">
+          <node begin="16" cat="mwu" end="18" his="normal" his_1="normal" id="29" rel="cmp">
+            <node begin="16" end="17" frame="complementizer(inf)" id="30" lcat="cp" lemma="te" pos="comp" postag="VZ(versm)" pt="vz" rel="mwp" root="ten" sc="inf" sense="ten" vztype="versm" word="ten"/>
+            <node begin="17" end="18" frame="complementizer(inf)" genus="onz" getal="ev" graad="basis" id="31" lcat="cp" lemma="einde" naamval="stan" ntype="soort" pos="comp" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="einde" sc="inf" sense="einde" word="einde"/>
+          </node>
+          <node begin="18" cat="ti" end="27" id="32" rel="body">
+            <node begin="19" end="20" frame="complementizer(te)" his="normal" his_1="normal" id="33" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="18" cat="inf" end="27" id="34" rel="body">
+              <node begin="20" buiging="zonder" end="21" frame="verb(hebben,inf,transitive_ndev_ndev)" his="normal" his_1="normal" id="35" infl="inf" lcat="inf" lemma="laten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="laat" sc="transitive_ndev_ndev" sense="laat" word="laten" wvorm="inf"/>
+              <node begin="18" cat="np" end="27" id="36" rel="obj1">
+                <node begin="18" end="19" frame="meas_mod_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="37" lcat="np" lemma="plaats" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="plaats" sense="plaats" special="meas_mod" word="plaats"/>
+                <node begin="21" cat="pp" end="27" id="38" rel="mod">
+                  <node begin="21" end="22" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="39" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+                  <node begin="22" cat="conj" end="27" id="40" rel="obj1">
+                    <node begin="22" cat="np" end="24" id="41" rel="cnj">
+                      <node begin="22" end="23" frame="determiner(een)" his="normal" his_1="normal" id="42" index="3" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                      <node begin="23" end="24" frame="meas_mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="compound" his_1="2" id="43" lcat="np" lemma="schilder_stuk" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="schilder_stuk" sense="schilder_stuk" special="meas_mod" word="schilderstuk"/>
+                    </node>
+                    <node begin="24" conjtype="neven" end="25" frame="conj(of)" his="normal" his_1="normal" id="44" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+                    <node begin="22" cat="np" end="27" id="45" rel="cnj">
+                      <node begin="22" end="23" id="46" index="3" rel="det"/>
+                      <node aform="base" begin="25" buiging="met-e" end="26" frame="adjective(e)" graad="basis" his="name_adj" his_1="not_begin" id="47" infl="e" lcat="ap" lemma="Oosters" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="Oosters" sense="Oosters" vform="adj" word="Oostersche"/>
+                      <node begin="26" end="27" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="48" lcat="np" lemma="vaas" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vaas" sense="vaas" word="vaas"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="27" end="28" frame="punct(punt)" his="robust_skip" id="49" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="126-7">De rijkste en kostbaarste gordijnen en tapijten bedekten de wanden , hier en daar teruggeschoven , ten einde plaats te laten voor een schilderstuk of Oostersche vaas .</sentence>
+  <comments>
+    <comment>Q#126-7|De rijkste en kostbaarste gordijnen en tapijten bedekten de wanden , hier en daar teruggeschoven , ten einde plaats te laten voor een schilderstuk of [ @alt Oosterse Oostersche ] vaas .|1|2|0.6059831163000023</comment>
+  </comments>
+</alpino_ds>

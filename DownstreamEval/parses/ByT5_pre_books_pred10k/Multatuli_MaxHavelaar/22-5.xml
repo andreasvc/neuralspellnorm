@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="14" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="Men"/>
+      <node begin="1" end="2" frame="verb(hebben,sg3,part_transitive(bij))" his="normal" his_1="normal" id="4" infl="sg3" lcat="smain" lemma="bij_wonen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="woon_bij" sc="part_transitive(bij)" sense="woon_bij" stype="declarative" tense="present" v_per="thi" word="woont" wvorm="pv"/>
+      <node begin="2" cat="mwu" end="4" his="mwu_alt" his_1="normal" id="5" rel="obj1">
+        <node begin="2" case="both" def="indef" end="3" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" genus="zijd" getal="ev" graad="basis" id="6" lcat="np" lemma="zoo" naamval="stan" ntype="soort" num="sg" per="thi" pos="pron" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="zoo" sense="zoo" special="strpro" wh="nwh" word="zoo"/>
+        <node begin="3" case="both" def="indef" end="4" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" getal="ev" id="7" lcat="np" lemma="iets" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mwp" rnum="sg" root="iets" sense="iets" special="strpro" status="vol" vwtype="onbep" wh="nwh" word="iets"/>
+      </node>
+      <node begin="4" end="5" frame="particle(bij)" his="normal" his_1="normal" id="8" lcat="part" lemma="bij" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="bij" sense="bij" vztype="fin" word="bij"/>
+      <node begin="6" cat="cp" end="14" id="9" rel="mod">
+        <node begin="6" conjtype="onder" end="7" frame="complementizer(als)" his="normal" his_1="normal" id="10" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+        <node begin="7" cat="ssub" end="14" id="11" rel="body">
+          <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="men"/>
+          <node begin="8" cat="np" end="11" id="13" rel="mod">
+            <node begin="8" cat="detp" end="10" id="14" rel="det">
+              <node begin="8" buiging="zonder" end="9" frame="pre_num_adv(pl_indef)" his="normal" his_1="normal" id="15" infl="pl_indef" lcat="advp" lemma="zo&apos;n" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,agr)" pt="vnw" rel="mod" root="zo&apos;n" sense="zo&apos;n" special="pre_num_adv" vwtype="aanw" word="zoo&apos;n"/>
+              <node begin="9" end="10" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="16" infl="pl_num" lcat="detp" lemma="twintig" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="hd" root="twintig" sense="twintig" word="twintig"/>
+            </node>
+            <node begin="10" end="11" frame="tmp_noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="jaar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="jaar" sense="jaar" special="tmp" word="jaren"/>
+          </node>
+          <node begin="11" cat="np" end="13" id="18" rel="obj1">
+            <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="beurs" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="beurs" sense="beurs" word="beurs"/>
+          </node>
+          <node begin="13" end="14" frame="verb(hebben,sg3,transitive)" his="normal" his_1="normal" id="21" infl="sg3" lcat="ssub" lemma="bezoeken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="bezoek" sc="transitive" sense="bezoek" tense="present" v_per="thi" word="bezoekt" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="22-5">Men woont zoo iets bij , als men zoo&apos;n twintig jaren de beurs bezoekt .</sentence>
+  <comments>
+    <comment>Q#22-5|Men woont [ @mwu_alt zoiets zoo iets ] bij , als men [ @alt zo&apos;n zoo&apos;n ] twintig jaren de beurs bezoekt .|1|1|-4.0297070782</comment>
+  </comments>
+</alpino_ds>

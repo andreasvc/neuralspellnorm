@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:00" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(ligg_streep)" his="skip" id="2" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="0" cat="du" end="13" id="3" rel="--">
+      <node begin="0" cat="sv1" end="5" id="4" rel="sat">
+        <node begin="0" end="1" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="decap" his_1_1="normal" id="5" infl="sg" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="fir" word="Zou" wvorm="pv"/>
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="1" cat="inf" end="5" id="7" rel="vc">
+          <node begin="1" end="2" id="8" index="1" rel="su"/>
+          <node begin="3" buiging="zonder" end="4" frame="verb(hebben,inf,modifier(aux(inf)))" his="normal" his_1="normal" id="9" infl="inf" lcat="inf" lemma="mogen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="mag" sc="modifier(aux(inf))" sense="mag" word="mogen" wvorm="inf"/>
+          <node begin="1" cat="inf" end="5" id="10" rel="vc">
+            <node begin="1" end="2" id="11" index="1" rel="su"/>
+            <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="12" lcat="np" lemma="u" naamval="obl" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pr,pron,obl,vol,2,getal)" pt="vnw" rel="obj1" rnum="sg" root="u" sense="u" status="vol" vwtype="pr" wh="nwh" word="u"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="13" infl="inf" lcat="inf" lemma="verzoeken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="verzoek" sc="transitive" sense="verzoek" word="verzoeken" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="7" cat="sv1" end="13" id="14" rel="nucl">
+        <node begin="7" end="8" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zou" his_1_1_2="zoudt" his_1_2="normal" id="15" infl="sg" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="past" v_per="u" word="zoudt" wvorm="pv"/>
+        <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="16" index="2" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+        <node begin="8" cat="inf" end="13" id="17" rel="vc">
+          <node begin="8" end="9" id="18" index="2" rel="su"/>
+          <node begin="11" buiging="zonder" end="12" frame="verb(hebben,inf,modifier(aux(inf)))" his="normal" his_1="normal" id="19" infl="inf" lcat="inf" lemma="willen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" word="willen" wvorm="inf"/>
+          <node begin="8" cat="inf" end="13" id="20" rel="vc">
+            <node begin="8" end="9" id="21" index="2" rel="su"/>
+            <node begin="9" cat="ap" end="11" id="22" rel="predc">
+              <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="23" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+              <node aform="base" begin="10" buiging="zonder" end="11" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="24" infl="no_e" lcat="ap" lemma="vriendelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="vriendelijk" sense="vriendelijk" vform="adj" word="vriendelijk"/>
+            </node>
+            <node begin="12" buiging="zonder" end="13" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="25" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="copula" sense="ben" word="zijn" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(vraag)" his="normal" his_1="normal" id="26" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="128-2">Zou ik u mogen verzoeken , - zoudt gij zoo vriendelijk willen zijn ?</sentence>
+  <comments>
+    <comment>Q#128-2|Zou ik u mogen verzoeken , - zoudt gij [ @alt zo zoo ] vriendelijk willen zijn ?|1|1|-8.7637693001</comment>
+  </comments>
+</alpino_ds>

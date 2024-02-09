@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),modifier(tr_sbar))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="wil" sc="modifier(tr_sbar)" sense="wil" stype="declarative" tense="past" v_per="fir" word="wou" wvorm="pv"/>
+      <node begin="2" cat="cp" end="7" id="4" rel="vc">
+        <node begin="2" conjtype="onder" end="3" frame="complementizer(dat)" his="normal" his_1="normal" id="5" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+        <node begin="3" cat="ssub" end="7" id="6" rel="body">
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="8" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="5" end="6" frame="tmp_adverb" his="compound" his_1="2" id="9" lcat="advp" lemma="nog_eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog_eens" sense="nog_eens" special="tmp" word="nogeens"/>
+          <node begin="6" end="7" frame="verb(hebben,past(sg),transitive_ndev)" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="doen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="doe" sc="transitive_ndev" sense="doe" tense="past" v_per="thi" word="deed" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(uitroep)" his="normal" his_1="normal" id="11" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="86-2">Ik wou dat hij &apos;t nogeens deed !</sentence>
+  <comments>
+    <comment>Q#86-2|Ik wou dat hij &apos;t nogeens deed !|1|1|-6.468660262799999</comment>
+  </comments>
+</alpino_ds>

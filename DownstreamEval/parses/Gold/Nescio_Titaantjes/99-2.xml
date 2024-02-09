@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="conj" end="6" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,sg3,part_transitive(op))" his="normal" his_1="normal" id="4" infl="sg3" lcat="smain" lemma="op_lossen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="los_op" sc="part_transitive(op)" sense="los_op" tense="present" v_per="thi" word="lost" wvorm="pv"/>
+        <node begin="2" end="3" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="compound" his_1="2" id="5" lcat="np" lemma="schaak_probleem" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="schaak_probleem" sense="schaak_probleem" word="schaakproblemen"/>
+        <node begin="3" end="4" frame="particle(op)" his="normal" his_1="normal" id="6" lcat="part" lemma="op" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="op" sense="op" vztype="fin" word="op"/>
+      </node>
+      <node begin="4" conjtype="neven" end="5" frame="conj(of)" his="normal" his_1="normal" id="7" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+      <node begin="0" cat="smain" end="6" id="8" rel="cnj">
+        <node begin="0" end="1" id="9" index="1" rel="su"/>
+        <node begin="5" end="6" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="10" infl="sg3" lcat="smain" lemma="slapen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="slaap" sc="intransitive" sense="slaap" tense="present" v_per="thi" word="slaapt" wvorm="pv"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="99-2">Hij lost schaakproblemen op of slaapt .</sentence>
+  <comments>
+    <comment>Q#99-2|Hij lost schaakproblemen op of slaapt .|1|1|-2.5689915422</comment>
+  </comments>
+</alpino_ds>

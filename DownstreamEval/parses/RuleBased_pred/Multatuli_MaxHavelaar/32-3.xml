@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:14" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(hellip)" his="normal" his_1="normal" id="1" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="3" rel="--">
+      <node begin="0" cat="du" end="10" id="4" rel="nucl">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+        <node begin="2" cat="smain" end="10" id="6" rel="nucl">
+          <node begin="2" end="3" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="sup" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="het"/>
+          <node begin="3" end="4" frame="verb(hebben,modal_not_u,sbar_subj)" his="normal" his_1="normal" id="8" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="sbar_subj" sense="kan" stype="declarative" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+          <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="nooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="nooit" sense="nooit" special="tmp" word="nooit"/>
+          <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="kwaad" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predm" root="kwaad" sense="kwaad" vform="adj" word="kwaad"/>
+          <node begin="6" cat="cp" end="10" id="11" rel="su">
+            <node begin="6" conjtype="onder" end="7" frame="complementizer(dat)" his="normal" his_1="normal" id="12" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="7" cat="ssub" end="10" id="13" rel="body">
+              <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="14" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+              <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="15" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="obj1" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+              <node begin="9" end="10" frame="verb(hebben,pl,transitive)" his="normal" his_1="normal" id="16" infl="pl" lcat="ssub" lemma="weten" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="weet" sc="transitive" sense="weet" tense="present" v_per="thi" word="weten" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="11" cat="sv1" end="13" his="normal" his_1="normal" id="17" rel="tag">
+        <node begin="11" end="12" frame="verb(hebben,sg1,dip_sbar_subj_so_np_no_het)" id="18" infl="sg1" lcat="sv1" lemma="dunken" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="dunk" sc="dip_sbar_subj_so_np_no_het" sense="dunk" tense="present" word="dunkt" wvorm="pv"/>
+        <node begin="12" case="dat_acc" def="def" end="13" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" id="19" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="su" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="32-3">Maar ... het kan nooit kwaad dat ze &apos;t weten , dunkt me .</sentence>
+  <comments>
+    <comment>Q#32-3|Maar ... het kan nooit kwaad dat ze &apos;t weten , dunkt me .|1|1|-6.802732939000001</comment>
+  </comments>
+</alpino_ds>

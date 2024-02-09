@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:06" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="conj" end="8" id="1" rel="--">
+      <node begin="3" conjtype="neven" end="4" frame="conj(of)" his="normal" his_1="normal" id="2" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+      <node begin="0" cat="smain" end="8" id="3" rel="cnj">
+        <node begin="0" cat="mwu" end="2" his="name" his_1="begin" id="4" index="1" rel="obj1">
+          <node begin="0" end="1" frame="proper_name(sg,'PER')" id="5" lcat="np" lemma="Van" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Van" sense="Van" spectype="deeleigen" word="Van"/>
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" id="6" lcat="np" lemma="Bekker" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Bekker" sense="Bekker" spectype="deeleigen" word="Bekker"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,sg1,transitive_ndev_ndev)" his="normal" his_1="normal" id="7" infl="sg1" lcat="smain" lemma="zien" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" tense="present" v_per="invje" word="zie" wvorm="pv"/>
+        <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="8" index="2" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+        <node begin="6" cat="ap" end="8" id="9" index="3" rel="mod">
+          <node begin="6" end="7" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="niks" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="me" rnum="sg" root="niks" sense="niks" special="meas_mod" status="vol" vwtype="onbep" word="niks"/>
+          <node aform="compar" begin="7" buiging="zonder" end="8" frame="adjective(meer)" graad="comp" his="normal" his_1="normal" id="11" infl="meer" lcat="ap" lemma="veel" naamval="stan" pdtype="grad" pos="adj" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="hd" root="meer" sense="meer" vform="adj" vwtype="onbep" word="meer"/>
+        </node>
+      </node>
+      <node begin="0" cat="ssub" end="8" id="12" rel="cnj">
+        <node begin="0" end="2" id="13" index="1" rel="obj1"/>
+        <node begin="4" end="5" frame="verb(hebben,sg1,transitive_ndev_ndev)" his="normal" his_1="normal" id="14" infl="sg1" lcat="ssub" lemma="horen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="hoor" sc="transitive_ndev_ndev" sense="hoor" tense="present" v_per="invje" word="hoor" wvorm="pv"/>
+        <node begin="5" end="6" id="15" index="2" rel="su"/>
+        <node begin="6" end="8" id="16" index="3" rel="mod"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-16">Van Bekker zie of hoor je niks meer .</sentence>
+  <comments>
+    <comment>Q#4-16|Van Bekker zie of hoor je niks meer .|1|1|3.6386918496000016</comment>
+  </comments>
+</alpino_ds>

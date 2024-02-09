@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:43" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="11" end="12" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="13" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="6" id="5" rel="cnj">
+          <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+          <node begin="2" end="3" frame="verb(zijn,sg3,transitive_ndev_ndev)" his="normal" his_1="normal" id="7" infl="sg3" lcat="smain" lemma="gaan" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ga" sc="transitive_ndev_ndev" sense="ga" stype="declarative" tense="present" v_per="thi" word="gaat" wvorm="pv"/>
+          <node begin="3" end="4" frame="noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="alles" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="alles" sense="alles" status="vol" vwtype="onbep" word="alles"/>
+          <node begin="4" cat="np" end="6" id="9" rel="obj1">
+            <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="10" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+            <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="11" lcat="np" lemma="gang" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="gang_DIM" sense="gang_DIM" word="gangetje"/>
+          </node>
+        </node>
+        <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="12" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="7" cat="du" end="13" id="13" rel="cnj">
+          <node begin="7" end="8" frame="tag" his="normal" his_1="normal" id="14" lcat="advp" lemma="wee" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="wee" sense="wee" word="wee"/>
+          <node begin="8" cat="np" end="13" id="15" rel="nucl">
+            <node begin="8" case="dat_acc" def="def" end="9" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="hd" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+            <node begin="9" cat="rel" end="13" id="17" rel="mod">
+              <node begin="9" case="no_obl" end="10" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="18" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+              <node begin="9" cat="du" end="13" id="19" rel="body">
+                <node begin="9" cat="ssub" end="11" id="20" rel="tag">
+                  <node begin="9" end="10" id="21" index="1" rel="su"/>
+                  <node begin="10" end="11" frame="verb(hebben,sg3,sbar)" his="normal" his_1="normal" id="22" infl="sg3" lcat="ssub" lemma="vragen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="vraag" sc="sbar" sense="vraag" tense="present" v_per="thi" word="vraagt" wvorm="pv"/>
+                </node>
+                <node begin="12" end="13" frame="waar_adverb(om)" his="normal" his_1="decap" his_1_1="normal" id="23" lcat="pp" lemma="waarom" pos="pp" postag="BW()" pt="bw" rel="nucl" root="waarom" sense="waarom" special="waar" stype="whquestion" word="Waarom"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(vraag)" his="normal" his_1="normal" id="24" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="119-7">En zoo gaat alles z&apos;n gangetje en wee hem die vraagt : Waarom ?</sentence>
+  <comments>
+    <comment>Q#119-7|En [ @alt zo zoo ] gaat alles z&apos;n gangetje en wee hem die vraagt : Waarom ?|1|1|-0.05942483009999908</comment>
+  </comments>
+</alpino_ds>

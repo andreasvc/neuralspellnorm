@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:37" cats="1" skips="0" />
+  <node begin="0" cat="top" end="28" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="16" end="17" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="27" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="ppart" end="27" id="5" rel="nucl">
+        <node begin="1" cat="np" end="8" id="6" rel="obj1">
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="iemand" naamval="stan" num="sg" pdtype="pron" persoon="3p" pos="noun" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="hd" rnum="sg" root="iemand" sense="iemand" status="vol" vwtype="onbep" word="iemand"/>
+          <node begin="2" cat="rel" end="8" id="8" rel="mod">
+            <node begin="2" case="no_obl" end="3" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="9" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="2" cat="ssub" end="8" id="10" rel="body">
+              <node begin="2" end="3" id="11" index="1" rel="su"/>
+              <node begin="5" end="6" frame="verb(hebben,sg_heeft,aux_psp_hebben)" his="normal" his_1="normal" id="12" infl="sg_heeft" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="present" v_per="thi" word="heeft" wvorm="pv"/>
+              <node begin="2" cat="ppart" end="8" id="13" rel="vc">
+                <node begin="2" end="3" id="14" index="1" rel="su"/>
+                <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="15" infl="psp" lcat="ppart" lemma="vertalen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="vertaal" sc="transitive" sense="vertaal" word="vertaald" wvorm="vd"/>
+                <node begin="3" cat="conj" end="8" id="16" rel="obj1">
+                  <node begin="3" end="4" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="17" lcat="np" lemma="Dante" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Dante" sense="Dante" word="Dante"/>
+                  <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+                  <node begin="7" end="8" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="19" lcat="np" lemma="gedicht" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="cnj" rnum="pl" root="gedicht_DIM" sense="gedicht_DIM" word="gedichtjes"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="20" infl="psp" lcat="ppart" lemma="maken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="maak" sc="transitive" sense="maak" word="gemaakt" wvorm="vd"/>
+        <node begin="10" cat="cp" end="27" id="21" rel="mod">
+          <node begin="10" conjtype="onder" end="11" frame="complementizer(al)" his="normal" his_1="normal" id="22" lcat="cp" lemma="al" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="al" sc="al" sense="al" word="al"/>
+          <node begin="11" cat="sv1" end="27" id="23" rel="body">
+            <node begin="11" end="12" frame="verb(unacc,pl,cleft)" his="normal" his_1="normal" id="24" infl="pl" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="cleft" sense="ben" tense="present" v_per="thi" word="zijn" wvorm="pv"/>
+            <node begin="12" end="13" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="25" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="pl" root="het" sense="het" special="het" status="red" vwtype="pers" word="&apos;t"/>
+            <node begin="13" end="14" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="26" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+            <node begin="14" end="15" frame="adverb" his="normal" his_1="normal" id="27" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+            <node begin="15" cat="np" end="18" id="28" rel="predc">
+              <node begin="15" end="16" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="29" infl="pl_num" lcat="np" lemma="dertien" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" root="dertien" sense="dertien" word="dertien"/>
+              <node begin="17" end="18" frame="determiner(de,nwh,nmod,pro,nparg)" getal="getal" his="normal" his_1="normal" id="30" infl="de" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(aanw,pron,stan,vol,3,getal)" pt="vnw" rel="app" rnum="sg" root="die" sense="die" status="vol" vwtype="aanw" wh="nwh" word="die"/>
+            </node>
+            <node begin="18" cat="sv1" end="27" id="31" rel="mod">
+              <node begin="18" end="19" frame="verb('hebben/zijn',sg,modifier(aux(inf)))" his="normal" his_1="normal" id="32" infl="sg" lcat="sv1" lemma="moeten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="moet" sc="modifier(aux(inf))" sense="moet" tense="present" v_per="thi" word="moet" wvorm="pv"/>
+              <node begin="19" cat="np" end="25" id="33" index="2" rel="su">
+                <node begin="19" buiging="zonder" end="20" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="34" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+                <node begin="20" end="21" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="35" lcat="np" lemma="agent" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="agent" sense="agent" word="agent"/>
+                <node begin="21" cat="pp" end="25" id="36" rel="mod">
+                  <node begin="21" end="22" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="37" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                  <node begin="22" cat="conj" end="25" id="38" rel="obj1">
+                    <node begin="22" end="23" frame="within_word_conjunct" his="within_word_conjunct" id="39" lcat="np" lemma="binnen-" pos="prefix" postag="SPEC(afgebr)" pt="spec" rel="cnj" root="binnen-" sense="binnen-" spectype="afgebr" word="binnen-"/>
+                    <node begin="23" conjtype="neven" end="24" frame="conj(en)" his="normal" his_1="normal" id="40" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+                    <node begin="24" end="25" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="41" lcat="np" lemma="buitenlandsche" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="buitenlandsche" sense="buitenlandsche" word="buitenlandsche"/>
+                  </node>
+                </node>
+              </node>
+              <node begin="19" cat="inf" end="27" id="42" rel="vc">
+                <node begin="19" end="25" id="43" index="2" rel="su"/>
+                <node begin="25" end="26" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="44" lcat="np" lemma="huis" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="predc" rnum="pl" root="huis" sense="huis" word="huizen"/>
+                <node begin="26" buiging="zonder" end="27" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="45" infl="inf" lcat="inf" lemma="worden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="word" sc="copula" sense="word" word="worden" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="27" end="28" frame="punct(punt)" his="normal" his_1="normal" id="46" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-13">En iemand die Dante vertaald heeft en gedichtjes gemaakt , al zijn &apos;t er maar dertien , die moet geen agent van binnen- en buitenlandsche huizen worden .</sentence>
+  <comments>
+    <comment>Q#96-13|En iemand die Dante vertaald heeft en gedichtjes gemaakt , al zijn &apos;t er maar dertien , die moet geen agent van binnen- en buitenlandsche huizen worden .|1|1|3.4666645164000114</comment>
+  </comments>
+</alpino_ds>

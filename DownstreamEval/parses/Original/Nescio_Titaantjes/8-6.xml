@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="10" id="3" rel="--">
+      <node aform="compar" begin="0" buiging="met-e" end="1" frame="adjective(ere)" getal-n="zonder-n" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="e" lcat="np" lemma="ander" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="obj1" rnum="sg" root="ander" sense="ander" vform="adj" word="Andere"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),transitive_ndev_ndev)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="horen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="hoor" sc="transitive_ndev_ndev" sense="hoor" stype="declarative" tense="past" v_per="invje" word="hoorde" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+      <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(pred(adv))" graad="dim" his="normal" his_1="normal" id="7" infl="pred" lcat="ap" lemma="zacht" pos="adj" positie="vrij" postag="ADJ(vrij,dim,zonder)" pt="adj" rel="mod" root="zachtjes" sense="zachtjes" vform="adj" word="zachtjes"/>
+      <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="ver" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="ver" sense="ver" vform="adj" word="ver"/>
+      <node begin="7" cat="ap" end="9" id="9" rel="mod">
+        <node begin="7" buiging="zonder" end="8" frame="intensifier" graad="basis" his="normal" his_1="normal" id="10" lcat="advp" lemma="heel" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heel" sense="heel" special="intensifier" word="heel"/>
+        <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="ver" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="ver" sense="ver" vform="adj" word="ver"/>
+      </node>
+      <node aform="base" begin="9" end="10" frame="adjective(pred(locadv))" his="normal" his_1="normal" id="12" infl="pred" lcat="ap" lemma="weg" pos="adj" postag="BW()" pt="bw" rel="mod" root="weg" sense="weg" vform="adj" word="weg"/>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="8-6">Andere hoorde je zachtjes , ver , heel ver weg .</sentence>
+  <comments>
+    <comment>Q#8-6|Andere hoorde je zachtjes , ver , heel ver weg .|1|1|0.05030226729999843</comment>
+  </comments>
+</alpino_ds>

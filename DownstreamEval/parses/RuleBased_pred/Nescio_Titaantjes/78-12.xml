@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="3" rel="--">
+      <node begin="0" cat="smain" end="5" id="4" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="kijken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kijk" sc="ld_pp" sense="kijk" stype="declarative" tense="past" v_per="fir" word="keek" wvorm="pv"/>
+        <node begin="2" cat="pp" end="5" id="7" rel="ld">
+          <node begin="2" end="3" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="8" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="3" cat="np" end="5" id="9" rel="obj1">
+            <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="10" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="deur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="deur" sense="deur" word="deur"/>
+          </node>
+        </node>
+      </node>
+      <node begin="6" cat="du" end="21" id="12" rel="dp">
+        <node begin="6" cat="smain" end="14" id="13" rel="dp">
+          <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="14" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="7" end="8" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="past" v_per="fir" word="kon" wvorm="pv"/>
+          <node begin="6" cat="inf" end="14" id="16" rel="vc">
+            <node begin="6" end="7" id="17" index="1" rel="su"/>
+            <node begin="9" cat="np" end="11" id="18" rel="obj1">
+              <node begin="9" buiging="zonder" end="10" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="19" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+              <node begin="10" end="11" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="oog" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="oog" sense="oog" word="oogen"/>
+            </node>
+            <node begin="11" end="12" frame="adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+            <node begin="8" cat="pp" end="13" id="22" rel="pc">
+              <node begin="8" end="9" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="23" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+              <node begin="12" end="13" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="24" lcat="pp" lemma="van" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="van" sense="van" vztype="fin" word="van"/>
+            </node>
+            <node begin="13" buiging="zonder" end="14" frame="verb(hebben,inf,ninv(np_pc_pp(van),part_np_pc_pp(af,van)))" his="normal" his_1="part-V" id="25" infl="inf" lcat="inf" lemma="af_houden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="houd_af" sc="part_np_pc_pp(af,van)" sense="houd_af-van" word="afhouden" wvorm="inf"/>
+          </node>
+        </node>
+        <node begin="15" cat="smain" end="21" id="26" rel="dp">
+          <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="27" infl="no_e" lcat="ap" lemma="hulpeloos" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="hulpeloos" sense="hulpeloos" vform="adj" word="hulpeloos"/>
+          <node begin="16" end="17" frame="verb(hebben,past(sg),subj_control(wk_te))" his="normal" his_1="normal" id="28" infl="sg" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zit" sc="subj_control(wk_te)" sense="zit" stype="declarative" tense="past" v_per="fir" word="zat" wvorm="pv"/>
+          <node begin="17" case="nom" def="def" end="18" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="29" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="18" end="19" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="30" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+          <node begin="17" cat="ti" end="21" id="31" rel="vc">
+            <node begin="19" end="20" frame="complementizer(te)" his="normal" his_1="normal" id="32" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="17" cat="inf" end="21" id="33" rel="body">
+              <node begin="17" end="18" id="34" index="2" rel="su"/>
+              <node begin="20" buiging="zonder" end="21" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="35" infl="inf" lcat="inf" lemma="staren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="staar" sc="intransitive" sense="staar" word="staren" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="36" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="78-12">Ik keek naar de deur , ik kon er mijn oogen niet van afhouden , hulpeloos zat ik daar te staren .</sentence>
+  <comments>
+    <comment>Q#78-12|Ik keek naar de deur , ik kon er mijn [ @alt ogen oogen ] niet van afhouden , hulpeloos zat ik daar te staren .|1|1|-14.906452484999999</comment>
+  </comments>
+</alpino_ds>

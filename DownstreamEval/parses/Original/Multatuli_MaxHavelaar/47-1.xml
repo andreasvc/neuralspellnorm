@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:18" cats="3" skips="1" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="robust_skip" id="1" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="robust_skip" id="2" lcat="--" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="--" root="en" sense="en" word="en"/>
+    <node begin="0" cat="du" end="8" id="3" rel="--">
+      <node begin="0" cat="smain" end="3" id="4" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),refl)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="herstellen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="herstel" sc="refl" sense="zich-herstel" stype="declarative" tense="past" v_per="fir" word="herstelde" wvorm="pv"/>
+        <node begin="2" end="3" frame="reflexive(fir,sg)" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" refl="refl" rel="se" root="mij" sense="mij" status="vol" vwtype="pr" word="mij"/>
+      </node>
+      <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="8" lcat="np" lemma="eenigszins" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="eenigszins" sense="eenigszins" word="eenigszins"/>
+      <node begin="6" cat="sv1" end="8" id="9" rel="dp">
+        <node begin="6" dropped_agr="sg" end="7" frame="verb(zijn,past(sg),transitive_ndev_ndev)" his="normal" his_1="normal" id="10" infl="sg" lcat="sv1" lemma="gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga" sc="transitive_ndev_ndev" sense="ga" stype="topic_drop" tense="past" v_per="thi;fir" word="ging" wvorm="pv"/>
+        <node begin="7" end="8" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="voort" pos="adv" postag="BW()" pt="bw" rel="mod" root="voort" sense="voort" word="voort"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(dubb_punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+  </node>
+  <sentence sentid="47-1">Ik herstelde mij eenigszins , en ging voort :</sentence>
+  <comments>
+    <comment>Q#47-1|Ik herstelde mij eenigszins , en ging voort :|1|4|3.6926288705000014</comment>
+  </comments>
+</alpino_ds>

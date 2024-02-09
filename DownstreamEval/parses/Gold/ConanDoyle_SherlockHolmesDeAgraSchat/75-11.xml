@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="sv1" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(hebben,sg1,transitive)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg1" lcat="sv1" lemma="brengen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="breng" sc="transitive" sense="breng" stype="imparative" tense="present" v_per="invje" word="Breng" wvorm="pv"/>
+      <node begin="1" cat="np" end="3" id="3" rel="obj1">
+        <node begin="1" buiging="zonder" end="2" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="4" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+        <node begin="2" end="3" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="politie" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="politie" sense="politie" word="politie"/>
+      </node>
+      <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="mede" pos="adv" postag="BW()" pt="bw" rel="mod" root="mede" sense="mede" word="mede"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="7" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="75-11">Breng geen politie mede .</sentence>
+  <comments>
+    <comment>Q#75-11|Breng geen politie mede .|1|1|2.324853319799999</comment>
+  </comments>
+</alpino_ds>

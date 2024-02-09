@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:50" cats="2" skips="3" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="robust_skip" id="1" lcat="--" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="--" root="maar" sc="root" sense="maar" word="Maar"/>
+    <node begin="1" end="2" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="robust_skip" id="2" lcat="--" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="--" root="van" sense="van" vztype="init" word="van"/>
+    <node begin="2" end="3" frame="het_noun" his="robust_skip" id="3" lcat="--" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="noun" postag="LID(bep,stan,evon)" pt="lid" rel="--" root="het" sense="het" special="het" word="het"/>
+    <node begin="3" cat="du" end="11" id="4" rel="--">
+      <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="mijn" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="mijn" sense="mijn" word="mijne"/>
+      <node begin="4" cat="sv1" end="11" id="6" rel="dp">
+        <node begin="4" end="5" frame="verb(hebben,sg_hebt,aux(inf))" his="normal" his_1="normal" id="7" infl="sg_hebt" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="ynquestion" tense="present" v_per="u" word="zult" wvorm="pv"/>
+        <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="8" index="1" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+        <node begin="5" cat="inf" end="11" id="9" rel="vc">
+          <node begin="5" end="6" id="10" index="1" rel="su"/>
+          <node begin="9" buiging="zonder" end="10" frame="verb('hebben/zijn',inf,aux(inf))" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="kunnen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="kan" sc="aux(inf)" sense="kan" word="kunnen" wvorm="inf"/>
+          <node begin="5" cat="inf" end="11" id="12" rel="vc">
+            <node begin="5" end="6" id="13" index="1" rel="su"/>
+            <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="14" infl="het" lcat="np" lemma="dit" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dit" sense="dit" status="vol" vwtype="aanw" wh="nwh" word="dit"/>
+            <node begin="7" end="8" frame="sentence_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="tenminste" pos="adv" postag="BW()" pt="bw" rel="mod" root="tenminste" sense="tenminste" special="sentence" word="tenminste"/>
+            <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+            <node begin="10" buiging="zonder" end="11" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="17" infl="inf" lcat="inf" lemma="beweren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="beweer" sc="transitive" sense="beweer" word="beweren" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="robust_skip" id="18" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="55-2">Maar van het mijne zult gij dit tenminste niet kunnen beweren .</sentence>
+  <comments>
+    <comment>Q#55-2|Maar van het [ @alt mijn mijne ] zult gij dit tenminste niet kunnen beweren .|1|5|2.855558156399999</comment>
+  </comments>
+</alpino_ds>

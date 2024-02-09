@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:40" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="Z&apos;n"/>
+        <node begin="1" end="2" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="kleren" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="kleren" sense="kleren" word="kleeren"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,pl,passive)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="passive" sense="ben" stype="declarative" tense="present" v_per="thi" word="zijn" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="5" id="6" rel="vc">
+        <node begin="0" end="2" id="7" index="1" rel="obj1"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(pred(adv))" graad="dim" his="normal" his_1="normal" id="8" infl="pred" lcat="ap" lemma="net" pos="adj" positie="vrij" postag="ADJ(vrij,dim,zonder)" pt="adj" rel="mod" root="netjes" sense="netjes" vform="adj" word="netjes"/>
+        <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="9" infl="psp" lcat="ppart" lemma="borstelen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="borstel" sc="transitive" sense="borstel" word="geborsteld" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="10" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="99-7">Z&apos;n kleeren zijn netjes geborsteld .</sentence>
+  <comments>
+    <comment>Q#99-7|Z&apos;n [ @alt kleren kleeren ] zijn netjes geborsteld .|1|1|-2.5290319922000006</comment>
+  </comments>
+</alpino_ds>

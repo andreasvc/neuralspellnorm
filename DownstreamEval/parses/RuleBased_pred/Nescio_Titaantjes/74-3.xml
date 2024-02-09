@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:33" cats="2" skips="3" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="4" end="5" frame="verb(hebben,past(pl),aux(inf))" his="robust_skip" id="1" infl="pl" lcat="--" lemma="zullen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="--" root="zal" sc="aux(inf)" sense="zal" tense="past" word="zouden" wvorm="pv"/>
+    <node begin="5" end="6" frame="verb(unacc,inf,aux_psp_zijn)" his="robust_skip" id="2" infl="inf" lcat="--" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="--" root="ben" sc="aux_psp_zijn" sense="ben" word="zijn" wvorm="pv"/>
+    <node begin="6" buiging="zonder" end="7" frame="verb(unacc,psp,copula)" his="robust_skip" id="3" infl="psp" lcat="--" lemma="worden" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="--" root="word" sc="copula" sense="word" word="geworden" wvorm="vd"/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="12" id="5" rel="--">
+      <node begin="0" cat="du" end="4" id="6" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="7" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="ap" end="4" id="8" rel="nucl">
+          <node begin="1" end="2" frame="er_adverb(na)" his="normal" his_1="normal" id="9" lcat="pp" lemma="daarna" pos="pp" postag="BW()" pt="bw" rel="mod" root="daarna" sense="daarna" special="er" word="daarna"/>
+          <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sense="ook" special="sentence" word="ook"/>
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="gewichtig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="gewichtig" sense="gewichtig" vform="adj" word="gewichtig"/>
+        </node>
+      </node>
+      <node begin="7" cat="inf" end="12" id="12" rel="dp">
+        <node begin="7" cat="conj" end="11" id="13" rel="mod">
+          <node begin="7" end="8" frame="sentence_adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="misschien" pos="adv" postag="BW()" pt="bw" rel="cnj" root="misschien" sense="misschien" special="sentence" word="misschien"/>
+          <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="10" end="11" frame="sentence_adverb" his="normal" his_1="normal" id="16" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="cnj" root="ook" sense="ook" special="sentence" word="ook"/>
+        </node>
+        <node begin="11" buiging="zonder" end="12" frame="verb('hebben/zijn',inf,intransitive)" his="normal" his_1="normal" id="17" infl="inf" lcat="inf" lemma="vergeten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="vergeet" sc="intransitive" sense="vergeet" word="vergeten" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="robust_skip" id="18" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="74-3">En daarna ook gewichtig zouden zijn geworden misschien , en ook vergeten .</sentence>
+  <comments>
+    <comment>Q#74-3|En daarna ook gewichtig zouden zijn geworden misschien , en ook vergeten .|1|5|5.6571281</comment>
+  </comments>
+</alpino_ds>

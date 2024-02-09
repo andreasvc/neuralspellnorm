@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:22" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="whq" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="whd">
+        <node begin="0" buiging="met-e" end="1" frame="determiner(welke,rwh,nmod,pro,yparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="welke" lcat="detp" lemma="welk" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(vb,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="welk" sense="welk" vwtype="vb" wh="rwh" word="Welke"/>
+        <node begin="1" end="2" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="datum" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="datum" sense="datum" special="tmp" word="datums"/>
+      </node>
+      <node begin="0" cat="sv1" end="9" id="5" rel="body">
+        <node begin="2" end="3" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="6" infl="sg" lcat="sv1" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="whquestion" tense="past" v_per="thi" word="kon" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="7" index="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="0" cat="inf" end="9" id="8" rel="vc">
+          <node begin="0" end="2" id="9" index="1" rel="obj1"/>
+          <node begin="3" end="4" id="10" index="2" rel="su"/>
+          <node begin="4" cat="pp" end="8" id="11" rel="mod">
+            <node begin="4" end="5" frame="preposition(bij,[vandaan])" his="normal" his_1="normal" id="12" lcat="pp" lemma="bij" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="bij" sense="bij" vztype="init" word="bij"/>
+            <node begin="5" cat="np" end="8" id="13" rel="obj1">
+              <node begin="5" end="6" frame="determiner(een)" his="normal" his_1="normal" id="14" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="compound" his_1="2" id="15" infl="no_e" lcat="ppart" lemma="on_schoon_maken" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="on_schoon_maken" sense="on_schoon_maken" vform="psp" word="onschoongemaakt" wvorm="vd"/>
+              <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="horloge" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="horloge" sense="horloge" word="horloge"/>
+            </node>
+          </node>
+          <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="17" infl="inf" lcat="inf" lemma="verwachten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="verwacht" sc="transitive" sense="verwacht" word="verwachten" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(vraag)" his="normal" his_1="normal" id="18" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="35-3">Welke datums kon hij bij een onschoongemaakt horloge verwachten ?</sentence>
+  <comments>
+    <comment>Q#35-3|Welke datums kon hij bij een onschoongemaakt horloge verwachten ?|1|1|-4.520489659900001</comment>
+  </comments>
+</alpino_ds>

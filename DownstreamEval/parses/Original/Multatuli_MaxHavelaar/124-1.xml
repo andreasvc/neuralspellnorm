@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="abbreviation" his_1_1="normal" id="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="red" vwtype="pers" wh="nwh" word="&apos;k"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg" lcat="smain" lemma="proeven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="proef" sc="transitive" sense="proef" stype="declarative" tense="past" v_per="fir" word="Proefde" wvorm="pv"/>
+      <node begin="2" cat="conj" end="6" id="4" rel="obj1">
+        <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="vreugde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="vreugde" sense="vreugde" word="vreugde"/>
+        <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="6" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="4" cat="mwu" end="6" his="name" his_1="not_begin" id="7" rel="cnj">
+          <node begin="4" end="5" frame="proper_name(both)" id="8" lcat="np" lemma="smart" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="smart" sense="smart" spectype="deeleigen" word="smart"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="9" lcat="np" lemma="met-één" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="met-één" sense="met-één" spectype="deeleigen" word="met-één"/>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="10" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="124-1">&apos;k Proefde vreugde en smart met-één ,</sentence>
+  <comments>
+    <comment>Q#124-1|&apos;k Proefde vreugde en smart met-één ,|1|1|-1.6915261932999992</comment>
+  </comments>
+</alpino_ds>

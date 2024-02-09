@@ -1,0 +1,44 @@
+Original
+Missing relation: ingenomen/6 een/4 hd/mod 
+Missing relation: een/4 weinig/5 mwp/mwp 
+Missing relation: om/10 dat/11 mwp/mwp 
+Missing relation: om/10 heeft/19 cmp/body 
+System mistake  : none/none een/4 -- / -- 
+System mistake  : is/2 weinig/5 dp/dp 
+System mistake  : weinig/5 ingenomen/6 hd/mod 
+System mistake  : is/2 dat/11 dp/dp 
+System mistake  : dat/11 heeft/19 cmp/body 
+fscore: 0.8643603288715892 (0.8635028965955083 0.865219465648855) (10881 deps overlap, 12601 deps in File1, 12576 deps in File2)
+RuleBased
+Missing relation: is/2 om/10 hd/mod 
+Missing relation: om/10 dat/11 mwp/mwp 
+Missing relation: om/10 heeft/19 cmp/body 
+System mistake  : none/none een/4 -- / -- 
+System mistake  : none/none om/10 -- / -- 
+System mistake  : is/2 weinig/5 dp/dp 
+System mistake  : weinig/5 ingenomen/6 hd/mod 
+System mistake  : is/2 dat/11 dp/dp 
+System mistake  : dat/11 heeft/19 cmp/body 
+fscore: 0.8973320628870891 (0.8968335846361399 0.8978310955747993) (11301 deps overlap, 12601 deps in File1, 12587 deps in File2)
+Neural
+Missing relation: ingenomen/6 een/4 hd/mod 
+Missing relation: een/4 weinig/5 mwp/mwp 
+Missing relation: om/10 dat/11 mwp/mwp 
+Missing relation: om/10 heeft/19 cmp/body 
+System mistake  : none/none een/4 -- / -- 
+System mistake  : is/2 weinig/5 dp/dp 
+System mistake  : weinig/5 ingenomen/6 hd/mod 
+System mistake  : is/2 dat/11 dp/dp 
+System mistake  : dat/11 heeft/19 cmp/body 
+fscore: 0.8979948381973396 (0.8973890961034838 0.8986013986013986) (11308 deps overlap, 12601 deps in File1, 12584 deps in File2)
+GoldSpelling
+Missing relation: ingenomen/6 een/4 hd/mod 
+Missing relation: een/4 weinig/5 mwp/mwp 
+Missing relation: om/10 dat/11 mwp/mwp 
+Missing relation: om/10 heeft/19 cmp/body 
+System mistake  : none/none een/4 -- / -- 
+System mistake  : is/2 weinig/5 dp/dp 
+System mistake  : weinig/5 ingenomen/6 hd/mod 
+System mistake  : is/2 dat/11 dp/dp 
+System mistake  : dat/11 heeft/19 cmp/body 
+fscore: 0.8997177948249135 (0.898182683913975 0.9012581621277274) (11318 deps overlap, 12601 deps in File1, 12558 deps in File2)

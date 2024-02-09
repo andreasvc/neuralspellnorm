@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="1" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" conjtype="onder" end="1" frame="complementizer" his="robust_skip" id="1" lcat="--" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="--" root="toen" sense="toen" word="Toen"/>
+    <node begin="1" cat="du" end="7" id="2" rel="--">
+      <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="3" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="dp" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="2" cat="mwu" end="4" his="normal" his_1="het Asuper" his_1_1="normal" id="4" rel="dp">
+        <node aform="super" begin="2" end="3" frame="adjective(het_st(tmpadv))" id="5" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="&apos;t"/>
+        <node aform="super" begin="3" buiging="zonder" end="4" frame="adjective(het_st(tmpadv))" graad="sup" id="6" infl="pred" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,sup,zonder)" pt="adj" rel="mwp" root="laat" sense="laat" vform="adj" word="laatst"/>
+      </node>
+      <node begin="4" cat="pp" end="7" id="7" rel="dp">
+        <node begin="4" end="5" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="8" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="5" cat="np" end="7" id="9" rel="obj1">
+          <node aform="base" begin="5" buiging="met-e" end="6" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="ginds" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ginds" sense="ginds" vform="adj" word="gindschen"/>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="grond" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="grond" sense="grond" word="grond"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="107-1">Toen ik &apos;t laatst op gindschen grond</sentence>
+  <comments>
+    <comment>Q#107-1|Toen ik &apos;t laatst op [ @alt gindse gindschen ] grond|1|2|4.370084401999999</comment>
+  </comments>
+</alpino_ds>

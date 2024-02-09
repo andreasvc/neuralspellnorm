@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="2" rel="--">
+      <node begin="0" cat="cp" end="7" id="3" rel="mod">
+        <node begin="0" end="1" frame="modal_adverb" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="zelfs" pos="adv" postag="BW()" pt="bw" rel="mod" root="zelfs" sc="modal" sense="zelfs" word="Zelfs"/>
+        <node begin="1" conjtype="onder" end="2" frame="complementizer(als)" his="normal" his_1="normal" id="5" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+        <node begin="2" cat="ssub" end="7" id="6" rel="body">
+          <node begin="2" cat="np" end="4" id="7" index="1" rel="su">
+            <node begin="2" buiging="zonder" end="3" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="8" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+            <node begin="3" end="4" frame="noun(both,count,pl)" gen="both" getal="mv" graad="basis" his="compound" his_1="2" id="9" lcat="np" lemma="toneel_mens" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="toneel_mens" sense="toneel_mens" word="tooneelmenschen"/>
+          </node>
+          <node begin="5" end="6" frame="verb(hebben,pl,modifier(aux(inf)))" his="normal" his_1="normal" id="10" infl="pl" lcat="ssub" lemma="willen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" tense="present" v_per="thi" word="willen" wvorm="pv"/>
+          <node begin="2" cat="inf" end="7" id="11" rel="vc">
+            <node begin="2" end="4" id="12" index="1" rel="su"/>
+            <node begin="4" end="5" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="armoede" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="armoede" sense="armoede" word="armoede"/>
+            <node begin="6" buiging="zonder" end="7" frame="verb(hebben,inf,ninv(transitive,part_transitive(voor)))" his="normal" his_1="part-V" id="14" infl="inf" lcat="inf" lemma="voor_stellen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="stel_voor" sc="part_transitive(voor)" sense="stel_voor" word="voorstellen" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="15" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+      <node begin="9" cat="np" end="11" id="16" rel="su">
+        <node begin="9" buiging="zonder" end="10" frame="determiner(pron)" getal="mv" his="normal" his_1="normal" id="17" infl="pron" lcat="detp" lemma="hun" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="hun" sense="hun" status="vol" vwtype="bez" word="hun"/>
+        <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="voorstelling" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="voorstelling" sense="voorstelling" word="voorstelling"/>
+      </node>
+      <node begin="11" end="12" frame="sentence_adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+      <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="20" infl="no_e" lcat="ap" lemma="leugenachtig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="leugenachtig" sense="leugenachtig" vform="adj" word="leugenachtig"/>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="7-5">Zelfs als die tooneelmenschen armoede willen voorstellen , is hun voorstelling altijd leugenachtig .</sentence>
+  <comments>
+    <comment>Q#7-5|Zelfs als die [ @alt toneelmensen tooneelmenschen ] armoede willen voorstellen , is hun voorstelling altijd leugenachtig .|1|1|-5.072318047699999</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:33" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="smain" end="10" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,pl,de,nom,def,wkpro)" gen="de" getal="mv" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="we" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,mv)" pt="vnw" rel="su" rnum="pl" root="we" sense="we" special="wkpro" status="red" vwtype="pers" wh="nwh" word="We"/>
+      <node begin="1" end="2" frame="verb(hebben,past(pl),aux(inf))" his="normal" his_1="normal" id="3" infl="pl" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" v_per="fir" word="zouden" wvorm="pv"/>
+      <node begin="0" cat="inf" end="10" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="hun" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,obl,vol,3p,mv)" pt="vnw" rel="obj2" rnum="pl" root="hun" sense="hun" status="vol" vwtype="pers" wh="nwh" word="hun"/>
+        <node aform="base" begin="3" end="4" frame="adjective(pred(adv))" his="normal" his_1="normal" id="7" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,fixed([vc(zie,inf,intransitive),dat,sbar],no_passive))" his="normal" his_1="normal" id="9" infl="inf" lcat="inf" lemma="laten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="laat" sc="fixed([vc(zie,inf,intransitive),dat,sbar],no_passive)" sense="laat-zie" word="laten" wvorm="inf"/>
+        <node begin="6" buiging="zonder" end="7" frame="verb(hebben,inf(no_e),intransitive)" his="normal" his_1="normal" id="10" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="svp" root="zie" sc="intransitive" sense="zie" word="zien" wvorm="inf"/>
+        <node begin="7" cat="whsub" end="10" id="11" rel="vc">
+          <node begin="7" end="8" frame="wh_adjective" his="normal" his_1="normal" id="12" index="2" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+          <node begin="7" cat="ssub" end="10" id="13" rel="body">
+            <node begin="7" end="8" id="14" index="2" rel="predc"/>
+            <node begin="8" end="9" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="15" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+            <node begin="9" end="10" frame="verb(hebben,past(sg),nonp_copula)" his="normal" his_1="normal" id="16" infl="sg" lcat="ssub" lemma="moeten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="moet" sc="nonp_copula" sense="moet" tense="past" v_per="thi" word="moest" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-5">We zouden hun wel eens laten zien hoe &apos;t moest .</sentence>
+  <comments>
+    <comment>Q#4-5|We zouden hun wel eens laten zien hoe &apos;t moest .|1|1|-9.941342404999999</comment>
+  </comments>
+</alpino_ds>

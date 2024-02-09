@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:31" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="2" rel="--">
+      <node begin="0" cat="smain" end="9" id="3" rel="dp">
+        <node begin="0" cat="np" end="5" id="4" rel="su">
+          <node begin="0" cat="np" end="2" his="normal" his_1="decap" his_1_1="normal" id="5" rel="det">
+            <node begin="0" end="1" frame="determiner(een)" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="Een"/>
+            <node begin="1" end="2" frame="noun(both,both,sg)" gen="both" genus="onz" getal="ev" graad="basis" id="7" lcat="np" lemma="paar" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" root="paar" sense="paar" word="paar"/>
+          </node>
+          <node begin="2" cat="ap" end="4" id="8" rel="mod">
+            <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="lijk" id="9" infl="no_e" lcat="ap" lemma="vreeselijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vreeselijk" sense="vreeselijk" vform="adj" word="vreeselijk"/>
+            <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="gewichtig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="gewichtig" sense="gewichtig" vform="adj" word="gewichtige"/>
+          </node>
+          <node begin="4" end="5" frame="noun(both,both,both)" gen="both" getal="mv" graad="basis" his="noun" id="11" lcat="np" lemma="heeren" ntype="soort" num="both" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="heeren" sense="heeren" word="heeren"/>
+        </node>
+        <node begin="5" end="6" frame="verb(unacc,past(pl),ld_pp)" his="normal" his_1="normal" id="12" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="ld_pp" sense="ben" stype="declarative" tense="past" v_per="thi" word="waren" wvorm="pv"/>
+        <node begin="6" cat="pp" end="9" id="13" rel="ld">
+          <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="14" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="7" cat="np" end="9" id="15" rel="obj1">
+            <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="tram" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tram" sense="tram" word="tram"/>
+          </node>
+        </node>
+      </node>
+      <node begin="10" cat="smain" end="14" id="18" rel="dp">
+        <node begin="10" end="11" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="19" lcat="np" lemma="niets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mod" rnum="sg" root="niets" sense="niets" special="meas_mod" status="vol" vwtype="onbep" word="niets"/>
+        <node begin="11" end="12" frame="verb(unacc,past(sg),er_pc_pp(bij))" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="er_pc_pp(bij)" sense="ben-bij" stype="declarative" tense="past" v_per="fir" word="was" wvorm="pv"/>
+        <node begin="12" case="nom" def="def" end="13" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="13" end="14" frame="er_adverb(bij)" his="normal" his_1="normal" id="22" lcat="pp" lemma="daarbij" pos="pp" postag="BW()" pt="bw" rel="pc" root="daarbij" sense="daarbij" special="er" word="daarbij"/>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="72-2">Een paar vreeselijk gewichtige heeren waren in de tram , niets was ik daarbij .</sentence>
+  <comments>
+    <comment>Q#72-2|Een paar vreeselijk gewichtige heeren waren in de tram , niets was ik daarbij .|1|1|2.1813735131999996</comment>
+  </comments>
+</alpino_ds>

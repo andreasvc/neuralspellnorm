@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="2" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="16" id="3" rel="--">
+      <node begin="1" cat="du" end="11" id="4" rel="dp">
+        <node begin="1" cat="mwu" end="9" his="name" his_1="begin" id="5" rel="nucl">
+          <node begin="1" end="2" frame="proper_name(both)" id="6" lcat="np" lemma="J&apos;ai" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="J&apos;ai" sense="J&apos;ai" spectype="deeleigen" word="J&apos;ai"/>
+          <node begin="2" end="3" frame="proper_name(both)" id="7" lcat="np" lemma="attendu" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="attendu" sense="attendu" spectype="deeleigen" word="attendu"/>
+          <node begin="3" end="4" frame="proper_name(both)" id="8" lcat="np" lemma="le" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="le" sense="le" spectype="deeleigen" word="le"/>
+          <node begin="4" end="5" frame="proper_name(both)" id="9" lcat="np" lemma="Seigneur" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Seigneur" sense="Seigneur" spectype="deeleigen" word="Seigneur"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="10" lcat="np" lemma="avec" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="avec" sense="avec" spectype="deeleigen" word="avec"/>
+          <node begin="6" end="7" frame="proper_name(both)" id="11" lcat="np" lemma="une" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="une" sense="une" spectype="deeleigen" word="une"/>
+          <node begin="7" end="8" frame="proper_name(both)" id="12" lcat="np" lemma="grande" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="grande" sense="grande" spectype="deeleigen" word="grande"/>
+          <node begin="8" end="9" frame="proper_name(both)" id="13" lcat="np" lemma="patience" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="patience" sense="patience" spectype="deeleigen" word="patience"/>
+        </node>
+        <node begin="10" end="11" frame="tag" his="normal" his_1="normal" id="14" lcat="advp" lemma="enfin" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="enfin" sense="enfin" word="enfin"/>
+      </node>
+      <node begin="11" cat="mwu" end="16" his="name" his_1="not_begin" id="15" rel="dp">
+        <node begin="11" end="12" frame="proper_name(both)" id="16" lcat="np" lemma="il" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="il" sense="il" spectype="deeleigen" word="il"/>
+        <node begin="12" end="13" frame="proper_name(both)" id="17" lcat="np" lemma="s&apos;est" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="s&apos;est" sense="s&apos;est" spectype="deeleigen" word="s&apos;est"/>
+        <node begin="13" end="14" frame="proper_name(both)" id="18" lcat="np" lemma="abaissé" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="abaissé" sense="abaissé" spectype="deeleigen" word="abaissé"/>
+        <node begin="14" end="15" frame="proper_name(both)" id="19" lcat="np" lemma="jusqu&apos;à" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="jusqu&apos;à" sense="jusqu&apos;à" spectype="deeleigen" word="jusqu&apos;à"/>
+        <node begin="15" end="16" frame="proper_name(both)" id="20" lcat="np" lemma="moi" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="moi" sense="moi" spectype="deeleigen" word="moi"/>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="21" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="robust_skip" id="22" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="12-10">&quot; J&apos;ai attendu le Seigneur avec une grande patience , enfin il s&apos;est abaissé jusqu&apos;à moi . &quot;</sentence>
+  <comments>
+    <comment>Q#12-10|&quot; J&apos;ai attendu le Seigneur avec une grande patience , enfin il s&apos;est abaissé jusqu&apos;à moi . &quot;|1|2|10.92045004</comment>
+  </comments>
+</alpino_ds>

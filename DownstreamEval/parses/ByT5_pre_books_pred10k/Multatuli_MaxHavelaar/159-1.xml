@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="smain" end="6" id="1" rel="--">
+      <node begin="1" end="2" frame="verb(hebben,past(sg),aci)" his="normal" his_1="normal" id="2" infl="sg" lcat="smain" lemma="doen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="doe" sc="aci" sense="doe" stype="declarative" tense="past" v_per="thi" word="deed" wvorm="pv"/>
+      <node begin="2" cat="np" end="4" id="3" rel="su">
+        <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="4" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+        <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="prijs" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="prijs" sense="prijs" word="prijs"/>
+      </node>
+      <node begin="4" case="dat_acc" def="def" end="5" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+      <node begin="0" cat="inf" end="6" id="7" rel="vc">
+        <node begin="0" end="1" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap_and_compound" his_1="2" id="8" lcat="np" lemma="on_spoed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="me" rnum="sg" root="on_spoed" sense="on_spoed" word="Onspoed"/>
+        <node begin="4" end="5" id="9" index="1" rel="su"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(zijn,inf,meas)" his="normal" his_1="normal" id="10" infl="inf" lcat="inf" lemma="stijgen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="stijg" sc="meas" sense="stijg" word="stijgen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(dubb_punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+  </node>
+  <sentence sentid="159-1">Onspoed deed den prijs mij stijgen :</sentence>
+  <comments>
+    <comment>Q#159-1|Onspoed deed [ @alt de den ] prijs mij stijgen :|1|1|3.0518366980999985</comment>
+  </comments>
+</alpino_ds>

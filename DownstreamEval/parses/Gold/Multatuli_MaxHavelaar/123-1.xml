@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="5" id="2" rel="--">
+      <node begin="0" cat="np" end="4" id="3" rel="su">
+        <node aform="base" begin="0" buiging="met-e" end="1" frame="adjective(e)" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="e" lcat="ap" lemma="diep" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="diep" sense="diep" vform="adj" word="Diepe"/>
+        <node aform="base" begin="2" buiging="met-e" end="3" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="5" infl="e" lcat="ap" lemma="diep" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="diep" sense="diep" vform="adj" word="diepe"/>
+        <node begin="3" end="4" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="spoor" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="spoor" sense="spoor" word="sporen"/>
+      </node>
+      <node begin="4" end="5" frame="verb(hebben,pl,intransitive)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="sta" sc="intransitive" sense="sta" stype="declarative" tense="present" v_per="thi" word="staan" wvorm="pv"/>
+    </node>
+    <node begin="5" end="6" frame="punct(uitroep)" his="normal" his_1="normal" id="8" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="123-1">Diepe , diepe sporen staan !</sentence>
+  <comments>
+    <comment>Q#123-1|Diepe , diepe sporen staan !|1|1|-1.4807151449999996</comment>
+  </comments>
+</alpino_ds>

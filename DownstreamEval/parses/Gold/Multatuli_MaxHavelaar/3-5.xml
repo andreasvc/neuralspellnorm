@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:07" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="5" end="6" frame="punct(dubb_punt)" his="normal" his_1="normal" id="2" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="5" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="6" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="16" id="7" rel="nucl">
+        <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="dp" root="toch" sense="toch" word="toch"/>
+        <node begin="3" cat="smain" end="16" id="9" rel="dp">
+          <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="4" end="5" frame="verb(hebben,sg3,tr_sbar)" his="normal" his_1="normal" id="11" infl="sg3" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" stype="declarative" tense="present" v_per="thi" word="zegt" wvorm="pv"/>
+          <node begin="7" cat="cp" end="16" id="12" rel="vc">
+            <node begin="7" conjtype="onder" end="8" frame="complementizer(dat)" his="normal" his_1="normal" id="13" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="8" cat="ssub" end="16" id="14" rel="body">
+              <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+              <node begin="9" cat="np" end="11" id="16" rel="obj1">
+                <node begin="9" buiging="zonder" end="10" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="17" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+                <node begin="10" end="11" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="18" lcat="np" lemma="vers" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="vers_DIM" sense="vers_DIM" word="versjes"/>
+              </node>
+              <node begin="11" end="12" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="19" infl="sg" lcat="ssub" lemma="zingen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zing" sc="transitive" sense="zing" tense="past" v_per="thi" word="zong" wvorm="pv"/>
+              <node begin="13" cat="pp" end="16" id="20" rel="mod">
+                <node begin="13" end="14" frame="preposition(door,[heen])" his="normal" his_1="normal" id="21" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+                <node begin="14" cat="np" end="16" id="22" rel="obj1">
+                  <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="liefde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="liefde" sense="liefde" word="liefde"/>
+                  <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="24" infl="both" lcat="ppart" lemma="dringen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="dringen" sense="dringen" vform="psp" word="gedrongen" wvorm="vd"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="26" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="3-5">En toch , hij zegt : &quot; dat hij die versjes zong , door liefde gedrongen . &quot;</sentence>
+  <comments>
+    <comment>Q#3-5|En toch , hij zegt : &quot; dat hij die versjes zong , door liefde gedrongen . &quot;|1|1|-5.3315574989</comment>
+  </comments>
+</alpino_ds>

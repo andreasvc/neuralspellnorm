@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="1" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="verb(hebben,past(sg),ninv(sbar,part_sbar(op)))" his="robust_skip" id="1" infl="sg" lcat="--" lemma="op_vangen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="vang_op" sc="part_sbar(op)" sense="vang_op" tense="past" word="Opving" wvorm="pv"/>
+    <node begin="1" cat="pp" end="5" id="2" rel="--">
+      <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="normal" id="3" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+      <node begin="2" cat="np" end="5" id="4" rel="obj1">
+        <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="5" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(ge_no_e(padv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ppart" lemma="bezorgd" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="bezorgd" sense="bezorgd" vform="psp" word="bezorgd"/>
+        <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="gemoed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gemoed" sense="gemoed" word="gemoed"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(vraag)" his="robust_skip" id="8" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="195-1">Opving in &apos;t bezorgd gemoed ?</sentence>
+  <comments>
+    <comment>Q#195-1|Opving in &apos;t bezorgd gemoed ?|1|2|3.5208401550999997</comment>
+  </comments>
+</alpino_ds>

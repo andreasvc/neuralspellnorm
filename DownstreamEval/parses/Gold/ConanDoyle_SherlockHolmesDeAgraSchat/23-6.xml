@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="13" end="14" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="15" end="16" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="2" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="0" cat="smain" end="21" id="3" rel="--">
+      <node begin="1" end="2" frame="verb(unacc,sg_is,cleft)" his="normal" his_1="normal" id="4" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="cleft" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+      <node begin="2" cat="np" end="4" id="5" rel="predc">
+        <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node begin="3" end="4" frame="meas_mod_noun(both,count,bare_meas)" gen="both" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="punt" naamval="stan" ntype="soort" num="bare_meas" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="punt" sense="punt" special="meas_mod" word="punt"/>
+      </node>
+      <node begin="0" cat="np" end="21" id="8" rel="su">
+        <node begin="0" end="1" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="9" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="hd" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="Het"/>
+        <node begin="4" cat="conj" end="21" id="10" rel="mod">
+          <node begin="4" cat="rel" end="9" id="11" rel="cnj">
+            <node begin="4" case="no_obl" end="5" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="12" index="1" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+            <node begin="4" cat="ssub" end="9" id="13" rel="body">
+              <node begin="4" end="5" id="14" index="1" rel="su"/>
+              <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="15" infl="no_e" lcat="ppart" lemma="regelen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="regelen" sense="regelen" vform="psp" word="geregeld" wvorm="vd"/>
+              <node begin="6" cat="pp" end="8" id="16" rel="ld">
+                <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="17" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                <node begin="7" end="8" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="compound" his_1="1" id="18" lcat="np" lemma="straf_proces" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="straf_proces" sense="straf_proces" word="straf-processen"/>
+              </node>
+              <node begin="8" end="9" frame="verb(unacc,sg3,ninv(ld_pp,part_ld_pp(voor)))" his="normal" his_1="part-V" id="19" infl="sg3" lcat="ssub" lemma="voor_komen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="kom_voor" sc="part_ld_pp(voor)" sense="kom_voor" tense="present" v_per="thi" word="voorkomt" wvorm="pv"/>
+            </node>
+          </node>
+          <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="20" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="10" cat="rel" end="21" id="21" rel="cnj">
+            <node begin="10" case="no_obl" end="11" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="22" index="2" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+            <node begin="10" cat="ssub" end="21" id="23" rel="body">
+              <node begin="10" end="11" id="24" index="2" rel="su"/>
+              <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="25" infl="no_e" lcat="ap" lemma="vaak" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="vaak" sense="vaak" vform="adj" word="vaak"/>
+              <node begin="12" cat="cp" end="15" id="26" rel="predm">
+                <node begin="12" conjtype="onder" end="13" frame="complementizer(als)" his="normal" his_1="normal" id="27" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+                <node begin="14" end="15" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="sleutel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="body" rnum="sg" root="sleutel" sense="sleutel" word="sleutel"/>
+              </node>
+              <node begin="16" cat="pp" end="20" id="29" rel="predc">
+                <node begin="16" end="17" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="30" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+                <node begin="17" cat="np" end="20" id="31" rel="obj1">
+                  <node begin="17" end="18" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="32" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+                  <node aform="super" begin="18" buiging="met-e" end="19" frame="adjective(ste)" graad="sup" his="normal" his_1="normal" id="33" infl="e" lcat="ap" lemma="groot" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="mod" root="groot" sense="groot" vform="adj" word="grootste"/>
+                  <node begin="19" end="20" frame="noun(het,count,sg,pred_pp(van))" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="34" lcat="np" lemma="belang" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="belang" sc="pred_pp(van)" sense="belang" word="belang"/>
+                </node>
+              </node>
+              <node begin="20" end="21" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="35" infl="sg_is" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(punt)" his="normal" his_1="normal" id="36" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="23-6">Het is een punt dat geregeld in straf-processen voorkomt en dat vaak als &quot; sleutel &quot; van het grootste belang is .</sentence>
+  <comments>
+    <comment>Q#23-6|Het is een punt dat geregeld in straf-processen voorkomt en dat vaak als &quot; sleutel &quot; van het grootste belang is .|1|1|-7.142066518600002</comment>
+  </comments>
+</alpino_ds>

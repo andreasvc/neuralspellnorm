@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:35" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="14" id="5" rel="nucl">
+        <node begin="8" cat="mwu" end="10" his="normal" his_1="normal" id="6" rel="tag">
+          <node begin="8" end="9" frame="tag" id="7" lcat="advp" lemma="o" pos="tag" postag="TSW()" pt="tsw" rel="mwp" root="o" sense="o" word="o"/>
+          <node begin="9" end="10" frame="tag" id="8" lcat="advp" lemma="ja" pos="tag" postag="TSW()" pt="tsw" rel="mwp" root="ja" sense="ja" word="ja"/>
+        </node>
+        <node begin="1" cat="du" end="14" id="9" rel="nucl">
+          <node begin="1" cat="smain" end="7" id="10" rel="dp">
+            <node begin="1" end="2" frame="sentence_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="onderwijl" pos="adv" postag="BW()" pt="bw" rel="mod" root="onderwijl" sense="onderwijl" special="sentence" word="onderwijl"/>
+            <node begin="2" end="3" frame="verb(zijn,past(sg),part_pc_pp(door,met))" his="normal" his_1="normal" id="12" infl="sg" lcat="smain" lemma="door_gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga_door" sc="part_pc_pp(door,met)" sense="ga_door-met" stype="declarative" tense="past" v_per="thi" word="ging" wvorm="pv"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="iemand" naamval="stan" num="sg" pdtype="pron" persoon="3p" pos="noun" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="su" rnum="sg" root="iemand" sense="iemand" status="vol" vwtype="onbep" word="iemand"/>
+            <node begin="4" end="5" frame="particle(door)" his="normal" his_1="normal" id="14" lcat="part" lemma="door" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="door" sense="door" vztype="fin" word="door"/>
+            <node begin="5" cat="pp" end="7" id="15" rel="pc">
+              <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="16" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="6" buiging="zonder" end="7" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="17" lcat="np" lemma="praten" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="obj1" rnum="sg" root="praat" sc="intransitive" sense="praat" special="v_noun" word="praten" wvorm="inf"/>
+            </node>
+          </node>
+          <node begin="11" cat="smain" end="14" id="18" rel="dp">
+            <node begin="11" end="12" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="19" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+            <node begin="12" end="13" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="20" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" v_per="thi" word="was" wvorm="pv"/>
+            <node begin="13" end="14" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="21" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="78-15">En onderwijl ging iemand door met praten , o ja , dat was Hoyer .</sentence>
+  <comments>
+    <comment>Q#78-15|En onderwijl ging iemand door met praten , o ja , dat was Hoyer .|1|1|-3.6278271824000012</comment>
+  </comments>
+</alpino_ds>

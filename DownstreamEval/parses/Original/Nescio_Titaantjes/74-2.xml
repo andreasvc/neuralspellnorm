@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" cat="du" end="2" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="3" infl="no_e" lcat="ppart" lemma="zoenen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="nucl" root="zoenen" sense="zoenen" vform="psp" word="gezoend" wvorm="vd"/>
+    </node>
+    <node begin="2" end="3" frame="punct(punt)" his="normal" his_1="normal" id="4" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="74-2">En gezoend .</sentence>
+  <comments>
+    <comment>Q#74-2|En gezoend .|1|1|0.1790310399999999</comment>
+  </comments>
+</alpino_ds>

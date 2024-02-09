@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" end="1" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="neen" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="neen" sense="neen" word="Neen"/>
+      <node begin="2" cat="np" end="7" id="4" rel="nucl">
+        <node begin="2" buiging="zonder" end="3" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="5" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+        <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="band" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="band" sense="band" word="band"/>
+        <node begin="4" cat="rel" end="7" id="7" rel="mod">
+          <node begin="4" case="no_obl" end="5" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="8" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+          <node begin="4" cat="ssub" end="7" id="9" rel="body">
+            <node begin="4" end="5" id="10" index="1" rel="su"/>
+            <node aform="compar" begin="5" buiging="zonder" end="6" frame="adjective(er(adv))" graad="comp" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="vast" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="mod" root="vast" sense="vast" vform="adj" word="vaster"/>
+            <node begin="6" end="7" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="12" infl="sg3" lcat="ssub" lemma="binden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="bind" sc="intransitive" sense="bind" tense="present" v_per="thi" word="bindt" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="13" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="183-1">Neen , geen band die vaster bindt ,</sentence>
+  <comments>
+    <comment>Q#183-1|Neen , geen band die vaster bindt ,|1|1|-5.762901354100002</comment>
+  </comments>
+</alpino_ds>

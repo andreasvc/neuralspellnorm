@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:24" cats="1" skips="0" />
+  <node begin="0" cat="top" end="3" id="0" rel="top">
+    <node begin="0" cat="ap" end="2" id="1" rel="--">
+      <node aform="base" begin="0" end="1" frame="adjective(pred(adv))" his="normal" his_1="decap" his_1_1="normal" id="2" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="Wel"/>
+      <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="3" infl="no_e" lcat="ap" lemma="zeker" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="zeker" sense="zeker" vform="adj" word="zeker"/>
+    </node>
+    <node begin="2" end="3" frame="punct(uitroep)" his="normal" his_1="normal" id="4" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="73-2">Wel zeker !</sentence>
+  <comments>
+    <comment>Q#73-2|Wel zeker !|1|1|1.259826216</comment>
+  </comments>
+</alpino_ds>

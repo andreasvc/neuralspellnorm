@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" end="1" frame="tmp_adverb" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="Dan"/>
+      <node begin="1" end="2" frame="verb(hebben,sg1,subj_control(pass_te))" his="normal" his_1="normal" id="3" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="subj_control(pass_te)" sense="heb" stype="declarative" tense="present" v_per="fir" word="heb" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="2" cat="ti" end="8" id="5" rel="vc">
+        <node begin="6" end="7" frame="complementizer(te)" his="normal" his_1="normal" id="6" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="2" cat="inf" end="8" id="7" rel="body">
+          <node begin="2" end="3" id="8" index="1" rel="su"/>
+          <node begin="3" cat="pp" end="6" id="9" rel="pc">
+            <node begin="3" end="4" frame="preposition(over,[heen])" his="normal" his_1="normal" id="10" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+            <node begin="4" cat="np" end="6" id="11" rel="obj1">
+              <node aform="base" begin="4" buiging="met-e" end="5" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="12" infl="e" lcat="ap" lemma="wonderbaarlijk" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="wonderbaarlijk" sense="wonderbaarlijk" vform="adj" word="wonderbaarlijke"/>
+              <node begin="5" end="6" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="middel" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="middel" sense="middel" word="middelen"/>
+            </node>
+          </node>
+          <node begin="7" buiging="zonder" end="8" frame="verb(hebben,inf,pc_pp(over))" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="beschikken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="beschik" sc="pc_pp(over)" sense="beschik-over" word="beschikken" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="10-3">Dan heb ik over wonderbaarlijke middelen te beschikken .</sentence>
+  <comments>
+    <comment>Q#10-3|Dan heb ik over wonderbaarlijke middelen te beschikken .|1|1|-5.5330255654</comment>
+  </comments>
+</alpino_ds>

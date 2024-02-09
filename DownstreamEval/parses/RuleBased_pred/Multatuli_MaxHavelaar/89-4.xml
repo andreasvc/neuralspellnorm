@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="sv1" end="8" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(unacc,pl,copula)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="pl" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="ynquestion" tense="present" v_per="thi" word="Zijn" wvorm="pv"/>
+      <node begin="1" cat="np" end="5" id="3" rel="su">
+        <node begin="1" buiging="met-e" end="2" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="4" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+        <node begin="2" buiging="met-e" end="3" frame="number(rang)" graad="sup" his="normal" his_1="normal" id="5" lcat="ap" lemma="laat" naamval="stan" numtype="rang" pos="num" positie="prenom" postag="ADJ(prenom,sup,met-e,stan)" pt="adj" rel="mod" root="laat" sense="laat" word="laatste"/>
+        <node begin="3" end="4" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="6" infl="pl_num" lcat="detp" lemma="drie" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="drie" sense="drie" word="drie"/>
+        <node begin="4" end="5" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="regel" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="regel" sense="regel" word="regels"/>
+      </node>
+      <node begin="5" cat="conj" end="8" id="8" rel="predc">
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="9" infl="no_e" lcat="ap" lemma="duidelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="duidelijk" sense="duidelijk" vform="adj" word="duidelijk"/>
+        <node begin="6" conjtype="neven" end="7" frame="conj(of)" id="10" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+        <node begin="7" end="8" frame="adverb" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="cnj" root="niet" sense="niet" word="niet"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(vraag)" his="normal" his_1="normal" id="12" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="89-4">Zijn deze laatste drie regels duidelijk of niet ?</sentence>
+  <comments>
+    <comment>Q#89-4|Zijn deze laatste drie regels duidelijk of niet ?|1|1|-2.7239988945999993</comment>
+  </comments>
+</alpino_ds>

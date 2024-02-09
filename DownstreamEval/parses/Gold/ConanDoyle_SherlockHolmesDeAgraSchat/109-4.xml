@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="15" id="2" rel="--">
+      <node begin="0" cat="pp" end="3" id="3" rel="mod">
+        <node begin="0" end="1" frame="preposition(op,[af,na])" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="Op"/>
+        <node begin="1" cat="np" end="3" id="5" rel="obj1">
+          <node begin="1" end="2" frame="determiner(de)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="7" lcat="np" lemma="linker_hoek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="linker_hoek" sense="linker_hoek" word="linkerhoek"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb(hebben,pl,ld_pp)" his="normal" his_1="normal" id="8" infl="pl" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="sta" sc="ld_pp" sense="sta" stype="declarative" tense="present" v_per="thi" word="staan" wvorm="pv"/>
+      <node begin="4" cat="np" end="6" id="9" rel="su">
+        <node begin="4" end="5" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="10" infl="pl_num" lcat="detp" lemma="vier" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="vier" sense="vier" word="vier"/>
+        <node begin="5" end="6" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="11" lcat="np" lemma="kruis" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="kruis_DIM" sense="kruis_DIM" word="kruisjes"/>
+      </node>
+      <node begin="6" cat="pp" end="15" id="12" rel="ld">
+        <node begin="6" end="7" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="13" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="7" cat="np" end="15" id="14" rel="obj1">
+          <node begin="7" end="8" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="lijn" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="lijn" sense="lijn" word="lijn"/>
+          <node begin="10" cat="rel" end="15" id="17" rel="mod">
+            <node begin="10" end="11" frame="waar_adverb(van)" his="normal" his_1="normal" id="18" index="1" lcat="pp" lemma="waarvan" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarvan" sense="waarvan" special="waar" word="waarvan"/>
+            <node begin="10" cat="ssub" end="15" id="19" rel="body">
+              <node begin="10" end="11" id="20" index="1" rel="pc"/>
+              <node begin="11" cat="np" end="13" id="21" rel="su">
+                <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="22" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node aform="base" begin="12" buiging="met-e" end="13" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="arm" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="hd" rnum="pl" root="arm" sense="arm" special="a_noun" word="armen"/>
+              </node>
+              <node begin="13" case="dat_acc" def="def" end="14" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="24" lcat="np" lemma="elkander" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,obl,vol,3p,mv)" pt="vnw" rel="predc" rnum="pl" root="elkander" sense="elkander" status="vol" vwtype="pers" wh="nwh" word="elkander"/>
+              <node begin="14" end="15" frame="verb(unacc,pl,pred_pc_pp(van))" his="normal" his_1="normal" id="25" infl="pl" lcat="ssub" lemma="raken" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="raak" sc="pred_pc_pp(van)" sense="raak-van" tense="present" v_per="thi" word="raken" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="109-4">Op den linkerhoek staan vier kruisjes op een lijn , waarvan de armen elkander raken .</sentence>
+  <comments>
+    <comment>Q#109-4|Op [ @alt de den ] linkerhoek staan vier kruisjes op een lijn , waarvan de armen elkander raken .|1|1|-2.9904022858000037</comment>
+  </comments>
+</alpino_ds>

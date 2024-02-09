@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:39" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="15" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="15" id="4" rel="nucl">
+        <node begin="1" cat="pp" end="4" id="5" rel="ld">
+          <node begin="1" end="2" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="6" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="2" cat="np" end="4" id="7" rel="obj1">
+            <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="8" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="schoorsteen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="schoorsteen" sense="schoorsteen" word="schoorsteen"/>
+          </node>
+        </node>
+        <node begin="4" end="5" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="10" infl="sg" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="ld_pp" sense="sta" stype="declarative" tense="past" v_per="thi" word="stond" wvorm="pv"/>
+        <node begin="5" cat="np" end="15" id="11" rel="su">
+          <node begin="5" end="6" frame="determiner(een)" his="normal" his_1="normal" id="12" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="dik" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="dik" sense="dik" vform="adj" word="dik"/>
+          <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="boek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="boek" sense="boek" word="boek"/>
+          <node begin="9" cat="np" end="15" id="15" rel="app">
+            <node begin="9" end="10" frame="determiner(een)" his="normal" his_1="normal" id="16" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="17" lcat="np" lemma="pracht_uitgave" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="pracht_uitgave" sense="pracht_uitgave" word="prachtuitgave"/>
+            <node begin="11" cat="pp" end="15" id="18" rel="mod">
+              <node begin="11" end="12" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="19" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="12" cat="np" end="15" id="20" rel="obj1">
+                <node begin="12" end="13" frame="determiner(de)" his="normal" his_1="normal" id="21" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node begin="13" cat="mwu" end="15" his="normal" his_1="names_dictionary" id="22" rel="hd">
+                  <node begin="13" end="14" frame="proper_name(sg)" id="23" lcat="np" lemma="Divina" neclass="MISC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Divina" sense="Divina" spectype="deeleigen" word="Divina"/>
+                  <node begin="14" end="15" frame="proper_name(sg)" id="24" lcat="np" lemma="Commedia" neclass="MISC" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Commedia" sense="Commedia" spectype="deeleigen" word="Commedia"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="96-23">En op den schoorsteen stond een dik boek , een prachtuitgave van de Divina Commedia .</sentence>
+  <comments>
+    <comment>Q#96-23|En op [ @alt ~de~den den ] schoorsteen stond een dik boek , een prachtuitgave van de Divina Commedia .|1|1|-3.1123104</comment>
+  </comments>
+</alpino_ds>

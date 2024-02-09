@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="Z&apos;n"/>
+        <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="atelier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="atelier" sense="atelier" word="atelier"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,past(sg),ld_adv)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="ld_adv" sense="ben" stype="declarative" tense="past" v_per="thi" word="was" wvorm="pv"/>
+      <node begin="3" end="4" frame="loc_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="boven" pos="adv" postag="VZ(fin)" pt="vz" rel="ld" root="boven" sense="boven" special="loc" vztype="fin" word="boven"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="7" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="79-2">Z&apos;n atelier was boven .</sentence>
+  <comments>
+    <comment>Q#79-2|Z&apos;n atelier was boven .|1|1|-1.5593014233000004</comment>
+  </comments>
+</alpino_ds>

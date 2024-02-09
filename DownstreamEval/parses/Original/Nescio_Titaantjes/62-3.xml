@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="21" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="21" id="4" rel="nucl">
+        <node begin="1" case="both" def="indef" end="2" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" stype="whquestion" vwtype="vb" wh="ywh" word="wat"/>
+        <node begin="2" end="3" frame="verb(hebben,sg,sbar_subj_np_np)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="baten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="baat" sc="sbar_subj_np_np" sense="baat" stype="declarative" tense="present" v_per="thi" word="baat" wvorm="pv"/>
+        <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj2" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        <node begin="4" cat="np" end="21" id="8" rel="obj1">
+          <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="wijsheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wijsheid" sense="wijsheid" word="wijsheid"/>
+          <node begin="7" cat="rel" end="21" id="11" rel="mod">
+            <node begin="7" case="no_obl" end="8" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="12" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="7" cat="conj" end="21" id="13" rel="body">
+              <node begin="7" cat="ssub" end="15" id="14" rel="cnj">
+                <node begin="7" end="8" id="15" index="1" rel="su"/>
+                <node begin="8" case="dat_acc" def="def" end="9" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj2" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+                <node begin="9" end="10" frame="verb(hebben,sg3,np_sbar)" his="normal" his_1="normal" id="17" infl="sg3" lcat="ssub" lemma="leren" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="leer" sc="np_sbar" sense="leer" tense="present" v_per="thi" word="leert" wvorm="pv"/>
+                <node begin="10" cat="cp" end="15" id="18" rel="vc">
+                  <node begin="10" conjtype="onder" end="11" frame="complementizer(dat)" his="normal" his_1="normal" id="19" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+                  <node begin="11" cat="ssub" end="15" id="20" rel="body">
+                    <node begin="11" end="12" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="21" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+                    <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="22" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+                    <node aform="compar" begin="13" end="14" frame="adjective(anders)" his="normal" his_1="normal" id="23" infl="anders" lcat="ap" lemma="anders" pos="adj" postag="BW()" pt="bw" rel="predc" root="anders" sense="anders" vform="adj" word="anders"/>
+                    <node begin="14" end="15" frame="verb(hebben,modal_not_u,ap_copula)" his="normal" his_1="normal" id="24" infl="modal_not_u" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="ap_copula" sense="kan" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+                  </node>
+                </node>
+              </node>
+              <node begin="15" conjtype="neven" end="16" frame="conj(en)" his="normal" his_1="normal" id="25" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+              <node begin="7" cat="ssub" end="21" id="26" rel="cnj">
+                <node begin="7" end="8" id="27" index="1" rel="su"/>
+                <node begin="18" end="19" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="28" infl="modal_not_u" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="present" v_per="thi" word="zal" wvorm="pv"/>
+                <node begin="7" cat="inf" end="21" id="29" rel="vc">
+                  <node begin="7" end="8" id="30" index="1" rel="su"/>
+                  <node begin="16" end="17" frame="adverb" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="zo" his_1_1_2="zoo" his_1_2="normal" id="31" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+                  <node begin="17" buiging="zonder" end="18" frame="verb(unacc,inf,ld_pp)" his="normal" his_1="normal" id="32" infl="inf" lcat="inf" lemma="blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="ld_pp" sense="blijf" word="blijven" wvorm="inf"/>
+                  <node begin="19" cat="pp" end="21" id="33" rel="ld">
+                    <node begin="19" end="20" frame="preposition(in,[])" his="normal" his_1="normal" id="34" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                    <node begin="20" end="21" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="35" lcat="np" lemma="eeuwigheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="eeuwigheid" sense="eeuwigheid" special="tmp" word="eeuwigheid"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="21" end="22" frame="punct(vraag)" his="normal" his_1="normal" id="36" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="62-3">En wat baat mij de wijsheid , die mij leert dat &apos;t niet anders kan en zoo blijven zal in eeuwigheid ?</sentence>
+  <comments>
+    <comment>Q#62-3|En wat baat mij de wijsheid , die mij leert dat &apos;t niet anders kan en zoo blijven zal in eeuwigheid ?|1|1|-1.6892313986999958</comment>
+  </comments>
+</alpino_ds>

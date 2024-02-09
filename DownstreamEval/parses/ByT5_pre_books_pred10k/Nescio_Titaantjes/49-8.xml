@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:53" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="10" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="advp" end="10" id="5" rel="nucl">
+        <node begin="1" end="2" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="6" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="hd" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+        <node begin="3" cat="pp" end="10" id="7" rel="mod">
+          <node begin="3" end="4" frame="preposition(bij,[vandaan])" his="normal" his_1="normal" id="8" lcat="pp" lemma="bij" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="bij" sense="bij" vztype="init" word="bij"/>
+          <node begin="4" cat="np" end="10" id="9" rel="obj1">
+            <node begin="4" end="5" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="10" lcat="np" lemma="Driehuis" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Driehuis" sense="Driehuis" word="Driehuis"/>
+            <node begin="6" cat="rel" end="10" id="11" rel="mod">
+              <node begin="6" end="7" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="normal" id="12" index="1" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="rhd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="waar"/>
+              <node begin="6" cat="ssub" end="10" id="13" rel="body">
+                <node begin="6" end="7" id="14" index="1" rel="ld"/>
+                <node begin="7" cat="np" end="9" id="15" rel="su">
+                  <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                  <node begin="8" end="9" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="compound" his_1="2" id="17" lcat="np" lemma="boog_lamp" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="boog_lamp" sense="boog_lamp" word="booglampen"/>
+                </node>
+                <node begin="9" end="10" frame="verb(hebben,pl,ld_adv)" his="normal" his_1="normal" id="18" infl="pl" lcat="ssub" lemma="staan" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="sta" sc="ld_adv" sense="sta" tense="present" v_per="thi" word="staan" wvorm="pv"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="49-8">En daar , bij Driehuis , waar de booglampen staan .</sentence>
+  <comments>
+    <comment>Q#49-8|En daar , bij Driehuis , waar de booglampen staan .|1|1|-3.3697839273000008</comment>
+  </comments>
+</alpino_ds>

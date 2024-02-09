@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:59" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" cat="du" end="14" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="14" id="3" rel="nucl">
+        <node begin="1" cat="np" end="4" id="4" index="1" rel="su">
+          <node begin="1" end="2" frame="modal_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="mod" root="ook" sc="modal" sense="ook" word="ook"/>
+          <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="3" end="4" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="7" lcat="np" lemma="Rokin" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Rokin" sense="Rokin" word="Rokin"/>
+        </node>
+        <node begin="4" end="5" frame="verb(hebben,past(sg),aux(inf))" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="past" v_per="thi" word="zou" wvorm="pv"/>
+        <node begin="1" cat="inf" end="14" id="9" rel="vc">
+          <node begin="1" end="4" id="10" index="1" rel="su"/>
+          <node aform="base" begin="5" end="6" frame="adjective(pred(adv))" his="normal" his_1="normal" id="11" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="12" infl="no_e" lcat="ppart" lemma="dempen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="dempen" sense="dempen" vform="psp" word="gedempt" wvorm="vd"/>
+          <node begin="7" buiging="zonder" end="8" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="13" infl="inf" lcat="inf" lemma="komen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="kom" sc="intransitive" sense="kom" word="komen" wvorm="inf"/>
+          <node begin="8" cat="cp" end="14" id="14" rel="mod">
+            <node begin="8" conjtype="onder" end="9" frame="complementizer(als)" his="normal" his_1="normal" id="15" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+            <node begin="9" cat="ssub" end="14" id="16" rel="body">
+              <node begin="9" case="both" def="def" end="10" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="17" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+              <node begin="10" cat="pp" end="12" id="18" rel="pc">
+                <node begin="10" end="11" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="19" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                <node begin="11" end="12" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="20" lcat="pp" lemma="aan" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="aan" sense="aan" vztype="fin" word="aan"/>
+              </node>
+              <node begin="12" end="13" frame="particle(toe)" his="normal" his_1="normal" id="21" lcat="part" lemma="toe" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="toe" sense="toe" vztype="fin" word="toe"/>
+              <node begin="13" end="14" frame="verb(unacc,past(pl),part_pc_pp(toe,aan))" his="normal" his_1="normal" id="22" infl="pl" lcat="ssub" lemma="toe_zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben_toe" sc="part_pc_pp(toe,aan)" sense="ben_toe-aan" tense="past" v_per="thi" word="waren" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="70-9">En ook &apos;t Rokin zou wel gedempt komen als ze er aan toe waren .</sentence>
+  <comments>
+    <comment>Q#70-9|En ook &apos;t Rokin zou wel gedempt komen als ze er aan toe waren .|1|1|-4.5064285525</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:50" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="13" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="weten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="weet" sc="tr_sbar" sense="weet" tense="past" v_per="thi" word="wist" wvorm="pv"/>
+        <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        <node begin="3" cat="whsub" end="7" id="7" rel="vc">
+          <node begin="3" cat="ap" end="5" id="8" index="2" rel="whd">
+            <node begin="3" end="4" frame="wh_adjective" his="normal" his_1="normal" id="9" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+            <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="laat" sense="laat" vform="adj" word="laat"/>
+          </node>
+          <node begin="3" cat="ssub" end="7" id="11" rel="body">
+            <node begin="3" end="5" id="12" index="2" rel="predc"/>
+            <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="13" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+            <node begin="6" end="7" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="14" infl="sg" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" tense="past" v_per="thi" word="was" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="13" id="16" rel="cnj">
+        <node begin="0" end="1" id="17" index="1" rel="su"/>
+        <node begin="9" end="10" frame="verb(hebben,past(sg),modifier(aux(inf)))" his="normal" his_1="normal" id="18" infl="sg" lcat="smain" lemma="willen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" tense="past" v_per="thi" word="wilde" wvorm="pv"/>
+        <node begin="0" cat="inf" end="13" id="19" rel="vc">
+          <node begin="0" end="1" id="20" index="1" rel="su"/>
+          <node begin="10" case="dat_acc" def="def" end="11" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="21" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj2" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+          <node begin="11" end="12" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="22" lcat="np" lemma="iets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="iets" sense="iets" special="meas_mod" status="vol" vwtype="onbep" word="iets"/>
+          <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,np_np)" his="normal" his_1="normal" id="23" infl="inf" lcat="inf" lemma="vragen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="vraag" sc="np_np" sense="vraag" word="vragen" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(uitroep)" his="normal" his_1="normal" id="24" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="57-2">Hij wist niet hoe laat het was , en wilde mij iets vragen !</sentence>
+  <comments>
+    <comment>Q#57-2|Hij wist niet hoe laat het was , en wilde mij iets vragen !|1|1|-11.200436255400001</comment>
+  </comments>
+</alpino_ds>

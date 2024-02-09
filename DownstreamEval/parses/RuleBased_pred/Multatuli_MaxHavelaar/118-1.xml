@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="8" id="2" rel="--">
+      <node begin="0" cat="du" end="3" id="3" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+        <node begin="1" cat="np" end="3" id="5" rel="nucl">
+          <node begin="1" buiging="zonder" end="2" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          <node begin="2" end="3" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="tijd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tijd" sense="tijd" special="tmp" word="tijd"/>
+        </node>
+      </node>
+      <node begin="4" cat="du" end="8" id="8" rel="dp">
+        <node begin="4" cat="np" end="7" id="9" rel="dp">
+          <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="10" lcat="np" lemma="sints" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="sints" sense="sints" word="sints"/>
+          <node begin="5" cat="mwu" end="7" his="normal" his_1="het Asuper" his_1_1="normal" id="11" rel="mod">
+            <node aform="super" begin="5" end="6" frame="adjective(het_st(tmpadv))" id="12" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="&apos;t"/>
+            <node aform="super" begin="6" buiging="zonder" end="7" frame="adjective(het_st(tmpadv))" graad="sup" id="13" infl="pred" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,sup,zonder)" pt="adj" rel="mwp" root="laat" sense="laat" vform="adj" word="laatst"/>
+          </node>
+        </node>
+        <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="vaarwel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="dp" rnum="sg" root="vaarwel" sense="vaarwel" word="vaarwel"/>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="118-1">Maar die tijd , sints &apos;t laatst vaarwel</sentence>
+  <comments>
+    <comment>Q#118-1|Maar die tijd , sints &apos;t laatst vaarwel|1|1|4.127195274</comment>
+  </comments>
+</alpino_ds>

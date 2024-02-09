@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:38" cats="3" skips="1" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="12" case="no_obl" end="13" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="robust_skip" id="2" lcat="--" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="--" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="sv1" end="12" id="4" rel="dp">
+        <node begin="0" end="1" frame="verb(unacc,sg3,intransitive)" his="normal" his_1="decap" his_1_1="normal" id="5" infl="sg3" lcat="sv1" lemma="komen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="kom" sc="intransitive" sense="kom" stype="ynquestion" tense="present" v_per="thi" word="Komt" wvorm="pv"/>
+        <node begin="1" end="2" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="6" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="2" cat="conj" end="12" id="7" rel="su">
+          <node begin="2" cat="np" end="8" id="8" rel="cnj">
+            <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="prins" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="prins" sense="prins" word="prins"/>
+            <node begin="4" cat="rel" end="8" id="11" rel="mod">
+              <node begin="4" case="no_obl" end="5" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="12" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+              <node begin="4" cat="ssub" end="8" id="13" rel="body">
+                <node begin="4" end="5" id="14" index="1" rel="su"/>
+                <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj2" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+                <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="diamant" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="diamant" sense="diamant" word="diamanten"/>
+                <node begin="7" end="8" frame="verb(hebben,sg3,np_np)" his="normal" his_1="normal" id="17" infl="sg3" lcat="ssub" lemma="geven" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="geef" sc="np_np" sense="geef" tense="present" v_per="thi" word="geeft" wvorm="pv"/>
+              </node>
+            </node>
+          </node>
+          <node begin="9" conjtype="neven" end="10" frame="conj(of)" his="normal" his_1="normal" id="18" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+          <node begin="10" cat="np" end="12" id="19" rel="cnj">
+            <node begin="10" end="11" frame="determiner(een)" his="normal" his_1="normal" id="20" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="fee" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="fee" sense="fee" word="fee"/>
+          </node>
+        </node>
+      </node>
+      <node begin="13" cat="du" end="15" id="22" rel="dp">
+        <node begin="13" case="dat_acc" def="def" end="14" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="23" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="dp" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+        <node begin="14" end="15" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="boterham" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="boterham" sense="boterham" word="boterhammen"/>
+      </node>
+      <node begin="15" dropped_agr="sg" dropped_prs="thi" end="16" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="25" infl="sg3" lcat="sv1" lemma="smeren" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="dp" root="smeer" sc="intransitive" sense="smeer" stype="topic_drop" tense="present" v_per="thi" word="smeert" wvorm="pv"/>
+    </node>
+    <node begin="16" end="17" frame="punct(vraag)" his="robust_skip" id="26" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="10-16">Komt er een prins die hem diamanten geeft , of een fee die hem boterhammen smeert ?</sentence>
+  <comments>
+    <comment>Q#10-16|Komt er een prins die hem diamanten geeft , of een fee die hem boterhammen smeert ?|1|4|2.0642220760999987</comment>
+  </comments>
+</alpino_ds>

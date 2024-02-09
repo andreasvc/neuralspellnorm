@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:38" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="15" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" stype="declarative" tense="past" v_per="thi" word="begon" wvorm="pv"/>
+      <node begin="0" cat="ti" end="15" id="5" rel="vc">
+        <node begin="4" end="5" frame="complementizer(te)" his="normal" his_1="normal" id="6" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="0" cat="inf" end="15" id="7" rel="body">
+          <node begin="0" end="1" id="8" index="1" rel="su"/>
+          <node begin="2" cat="np" end="4" id="9" rel="obj1">
+            <node begin="2" end="3" frame="determiner(wat,nwh,mod,pro,nparg,ntopicpro)" getal="ev" his="normal" his_1="normal" id="10" infl="wat" lcat="detp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="det" root="wat" sense="wat" status="vol" vwtype="onbep" wh="nwh" word="wat"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="opgang" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="opgang" sense="opgang" word="opgang"/>
+          </node>
+          <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="maken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="maak" sc="transitive" sense="maak" word="maken" wvorm="inf"/>
+          <node begin="7" cat="cp" end="15" id="13" rel="mod">
+            <node begin="7" conjtype="onder" end="8" frame="complementizer" his="normal" his_1="normal" id="14" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="toen"/>
+            <node begin="8" cat="ssub" end="15" id="15" rel="body">
+              <node begin="8" cat="np" end="10" id="16" rel="su">
+                <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="17" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="strijd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="strijd" sense="strijd" word="strijd"/>
+              </node>
+              <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="al" pos="adv" postag="BW()" pt="bw" rel="mod" root="al" sense="al" word="al"/>
+              <node begin="11" cat="pp" end="14" id="20" rel="pc">
+                <node begin="11" end="12" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="21" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+                <node begin="12" cat="np" end="14" id="22" rel="obj1">
+                  <node begin="12" end="13" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="23" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+                  <node begin="13" end="14" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="24" lcat="np" lemma="eind" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="eind" sense="eind" special="tmp" word="eind"/>
+                </node>
+              </node>
+              <node begin="14" end="15" frame="verb(zijn,past(sg),pc_pp(op))" his="normal" his_1="normal" id="25" infl="sg" lcat="ssub" lemma="lopen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="loop" sc="pc_pp(op)" sense="loop-op" tense="past" v_per="thi" word="liep" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="104-3">Hij begon wat opgang te maken , toen de strijd al op &apos;t eind liep .</sentence>
+  <comments>
+    <comment>Q#104-3|Hij begon wat opgang te maken , toen de strijd al op &apos;t eind liep .|1|1|-7.6673795148999995</comment>
+  </comments>
+</alpino_ds>

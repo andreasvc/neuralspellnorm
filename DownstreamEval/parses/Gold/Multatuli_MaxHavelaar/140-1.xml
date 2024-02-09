@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="ppart" end="6" id="1" rel="--">
+      <node begin="0" case="dat_acc" def="def" end="1" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="Mij"/>
+      <node begin="1" cat="pp" end="5" id="3" rel="mod">
+        <node begin="1" end="2" frame="preposition(door,[heen])" his="normal" his_1="normal" id="4" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+        <node begin="2" cat="np" end="5" id="5" rel="obj1">
+          <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="God" naamval="stan" ntype="eigen" num="sg" pos="noun" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="God" sense="God" word="God"/>
+          <node begin="3" cat="pp" end="5" id="7" rel="mod">
+            <node begin="3" end="4" frame="preposition(ten,[],nodet)" his="normal" his_1="normal" id="8" lcat="pp" lemma="te" pos="prep" postag="VZ(versm)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="versm" word="ten"/>
+            <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="doel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="doel" sense="doel" word="doel"/>
+          </node>
+        </node>
+      </node>
+      <node begin="5" buiging="zonder" end="6" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="10" infl="psp" lcat="ppart" lemma="geven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="geef" sc="transitive" sense="geef" word="gegeven" wvorm="vd"/>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="140-1">Mij door God ten doel gegeven .</sentence>
+  <comments>
+    <comment>Q#140-1|Mij door God ten doel gegeven .|1|1|2.8035079401999994</comment>
+  </comments>
+</alpino_ds>

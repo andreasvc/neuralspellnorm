@@ -1,0 +1,2532 @@
+id	start	end	type	head	neclass	person	quote	gender	human	number	cluster	text
+0	1	2	noun	2	-	-	O	n	0	sg	0	EERSTE HOOFDSTUK
+1	4	7	noun	5	-	-	O	f	1	sg	1	De kennis der gevolgtrekking
+2	6	7	noun	7	-	-	O	n	0	sg	2	der gevolgtrekking
+3	9	10	name	10	PER	-	O	m	1	sg	3	Sherlock Holmes
+4	12	22	noun	13	-	-	O	n	0	sg	4	zijn flesch van den schoorsteenmantel en zijn werktuig voor onderhuidsche inspuitingen
+5	12	12	pronoun	12	-	3	O	m	1	sg	3	zijn
+6	15	16	noun	16	-	-	O	n	0	sg	6	den schoorsteenmantel
+7	18	22	noun	19	-	-	O	n	0	sg	7	zijn werktuig voor onderhuidsche inspuitingen
+8	18	18	pronoun	18	-	3	O	m	1	sg	3	zijn
+9	24	26	name	26	MISC	-	O	n	0	both	9	zijn marokijnen foudraal
+10	24	24	pronoun	24	-	3	O	m	1	sg	3	zijn
+11	29	35	noun	35	-	-	O	-	-	pl	11	zijne lange , witte , zenuwachtige vingers
+12	29	29	pronoun	29	-	3	O	m	1	sg	3	zijne
+13	37	37	pronoun	37	-	3	O	m	1	sg	3	hij
+14	38	40	noun	40	-	-	O	n	0	sg	14	de fijne naald
+15	46	50	noun	47	-	-	O	-	-	sg	15	de linkermouw van zijn overhemd
+16	49	50	noun	50	-	-	O	n	0	sg	16	zijn overhemd
+17	49	49	pronoun	49	-	3	O	m	1	sg	3	zijn
+18	54	55	noun	54	-	-	O	mn	-	sg	18	eenigen tijd
+19	57	58	noun	58	-	-	O	-	-	pl	19	zijne oogen
+20	57	57	pronoun	57	-	3	O	mn	-	sg	18	zijne
+21	61	61	noun	61	-	-	O	n	0	sg	21	den
+22	63	63	noun	63	-	-	O	-	-	both	22	voorarm
+23	65	66	noun	65	-	-	O	-	-	sg	23	pols gericht
+24	68	68	pronoun	68	-	-	O	-	-	both	22	die
+25	70	73	noun	71	-	-	O	m	1	sg	25	ontelbare teekenen van inprikkingen
+26	73	73	noun	73	-	-	O	-	-	pl	26	inprikkingen
+27	80	80	pronoun	80	-	3	O	m	1	sg	25	hij
+28	81	83	noun	83	-	-	O	n	0	sg	28	de scherpe punt
+29	87	87	noun	87	-	-	O	n	0	sg	21	den
+30	96	102	noun	96	-	-	O	-	-	sg	30	zucht van voldoening in den fluweelen armstoel
+31	98	102	noun	98	-	-	O	-	-	sg	31	voldoening in den fluweelen armstoel
+32	100	102	noun	102	-	-	O	n	0	sg	32	den fluweelen armstoel
+33	109	109	pronoun	109	-	1	O	fm	1	sg	33	ik
+34	114	114	noun	114	-	-	O	fm	1	sg	34	getuige
+35	117	118	noun	118	-	-	O	n	0	sg	35	deze verrichting
+36	121	122	noun	122	-	-	O	n	0	sg	36	de gewoonte
+37	125	125	pronoun	125	-	1	O	fm	1	sg	33	mij
+38	127	128	noun	128	-	-	O	n	0	sg	38	dit opzicht
+39	141	141	pronoun	141	-	1	O	fm	1	sg	33	mij
+40	142	144	noun	143	-	-	O	n	0	sg	40	het gezicht ervan
+41	152	152	pronoun	152	-	1	O	fm	1	sg	33	ik
+42	153	153	pronoun	153	-	1	O	fm	1	sg	33	mij
+43	154	157	noun	155	-	-	O	n	0	sg	43	mijn gebrek aan moed
+44	154	154	pronoun	154	-	1	O	fm	1	sg	33	mijn
+45	157	157	noun	157	-	-	O	m	1	sg	45	moed
+46	160	160	pronoun	160	-	1	O	fm	1	sg	33	mij
+47	168	168	pronoun	168	-	1	O	fm	1	sg	33	ik
+48	169	169	pronoun	169	-	1	O	fm	1	sg	33	mij
+49	175	175	pronoun	175	-	1	O	fm	1	sg	33	mij
+50	177	179	noun	179	-	-	O	n	0	sg	50	de noodige opheldering
+51	186	188	noun	188	-	-	O	n	0	sg	51	zooveel koele onverschilligheid
+52	190	194	noun	191	-	-	O	n	0	sg	52	het voorkomen van mijn metgezel
+53	193	194	noun	194	-	-	O	m	1	sg	53	mijn metgezel
+54	193	193	pronoun	193	-	1	O	fm	1	sg	33	mijn
+55	198	198	pronoun	198	-	3	O	n	0	sg	51	zich
+56	204	204	pronoun	204	-	3	O	n	0	sg	51	zich
+57	208	208	pronoun	208	-	3	O	m	1	sg	53	hem
+58	212	213	noun	213	-	-	O	n	0	sg	58	Zijn kracht
+59	212	212	pronoun	212	-	3	O	n	0	sg	51	Zijn
+60	216	217	noun	217	-	-	O	n	0	sg	60	gebiedend uiterlijk
+61	220	221	noun	221	-	-	O	n	0	sg	61	de ondervinding
+62	222	222	pronoun	222	-	-	O	n	0	sg	61	die
+63	223	223	pronoun	223	-	1	O	fm	1	sg	33	ik
+64	226	229	noun	229	-	-	O	n	0	pl	64	zijne vele buitengewone eigenschappen
+65	226	226	pronoun	226	-	3	O	n	0	sg	61	zijne
+66	231	232	noun	232	-	-	O	n	0	sg	66	dit alles
+67	234	234	pronoun	234	-	1	O	fm	1	sg	33	mij
+68	239	239	pronoun	239	-	1	O	fm	1	sg	33	mij
+69	242	242	pronoun	242	-	3	O	m	1	sg	53	hem
+70	244	244	noun	244	-	-	O	n	0	sg	21	den
+71	258	266	noun	266	-	-	O	n	0	sg	71	tengevolge van den meer dan gewonen en krachtigen wijn
+72	260	260	noun	260	-	-	O	n	0	sg	21	den
+73	269	269	pronoun	269	-	1	O	fm	1	sg	33	ik
+74	271	272	noun	272	-	-	O	n	0	sg	74	mijn lunch
+75	271	271	pronoun	271	-	1	O	fm	1	sg	33	mijn
+76	278	279	noun	279	-	-	O	m	1	sg	76	mijne zelfbeheersching
+77	278	278	pronoun	278	-	1	O	fm	1	sg	33	mijne
+78	285	285	pronoun	285	-	1	O	fm	1	sg	33	ik
+79	287	287	pronoun	287	-	1	O	fm	1	sg	33	ik
+80	288	288	pronoun	288	-	1	O	fm	1	sg	33	mij
+81	302	302	pronoun	302	-	1	O	fm	1	sg	33	ik
+82	305	305	noun	305	-	-	I	n	0	sg	82	morphine
+83	307	307	noun	307	-	-	I	n	0	sg	83	cocaïne
+84	310	310	pronoun	310	-	3	O	m	1	sg	76	Hij
+85	312	313	noun	313	-	-	O	-	-	both	19	zijne oogen
+86	312	312	pronoun	312	-	3	O	m	1	sg	76	zijne
+87	317	318	noun	318	-	-	O	mn	-	sg	87	het notitie-boek
+88	319	319	pronoun	319	-	3	O	n	0	sg	87	dat
+89	320	320	pronoun	320	-	3	O	m	1	sg	76	hij
+90	331	331	pronoun	331	-	3	O	m	1	sg	76	hij
+91	334	338	noun	335	-	-	I	mn	-	sg	76	een oplossing van zeven percent
+92	337	338	noun	338	-	-	I	n	0	sg	92	zeven percent
+93	341	341	pronoun	341	-	2	I	fm	1	sg	33	gij
+94	356	356	pronoun	356	-	1	O	fm	1	sg	33	ik
+95	360	361	noun	361	-	-	I	n	0	sg	95	mijn gestel
+96	360	360	pronoun	360	-	1	I	fm	1	sg	33	mijn
+97	363	366	noun	364	-	-	I	n	0	sg	97	de campagne in Afghanistan
+98	366	366	name	366	LOC	-	I	n	0	sg	98	Afghanistan
+99	372	372	pronoun	372	-	1	I	fm	1	sg	33	Ik
+100	379	379	pronoun	379	-	1	I	fm	1	sg	33	mij
+101	386	386	pronoun	386	-	3	O	m	1	sg	76	Hij
+102	389	391	noun	391	-	-	O	fn	-	sg	102	mijne voorgewende zwakte
+103	389	389	pronoun	389	-	1	O	fm	1	sg	33	mijne
+104	396	396	pronoun	396	-	2	I	m	1	sg	104	gij
+105	399	399	name	399	PER	-	I	m	1	sg	104	Watson
+106	403	403	pronoun	403	-	3	O	m	1	sg	76	hij
+107	406	406	pronoun	406	-	1	I	m	1	sg	76	ik
+108	409	410	noun	410	-	-	I	n	0	sg	108	haar invloed
+109	409	409	pronoun	409	-	3	I	fn	-	sg	102	haar
+110	415	415	pronoun	415	-	1	I	fm	1	sg	76	Ik
+111	417	417	pronoun	417	-	1	I	fm	1	sg	76	mij
+112	427	428	noun	428	-	-	I	m	1	sg	112	den geest
+113	431	437	noun	433	-	-	I	n	0	sg	113	de latere werking slechts van zeer korten
+114	448	448	pronoun	448	-	1	O	fm	1	sg	33	ik
+115	454	455	noun	455	-	-	I	fm	1	pl	115	de gevolgen
+116	459	460	noun	460	-	-	I	n	0	sg	116	Uw brein
+117	459	459	pronoun	459	-	2	I	fm	1	both	117	Uw
+118	464	464	pronoun	464	-	2	I	fm	1	sg	118	gij
+119	475	479	noun	479	-	-	I	n	0	sg	87	een pathologisch en ziekelijk proces
+120	481	481	pronoun	481	-	3	I	n	0	sg	87	dat
+121	485	486	noun	486	-	-	I	n	0	pl	121	de longen
+122	491	493	noun	493	-	-	I	n	0	sg	122	een permanente zwakte
+123	497	497	pronoun	497	-	2	I	fm	1	sg	118	Gij
+124	505	505	pronoun	505	-	2	I	fm	1	sg	118	gij
+125	510	511	noun	511	-	-	I	n	0	sg	125	het sop
+126	513	514	noun	514	-	-	I	n	0	sg	126	de kool
+127	520	520	pronoun	520	-	2	I	fm	1	sg	118	gij
+128	523	526	noun	526	-	-	I	n	0	sg	128	een kort voorbijgaand genoegen
+129	528	529	noun	529	-	-	I	n	0	sg	129	het verlies
+130	532	533	noun	533	-	-	I	n	-	pl	130	de groote
+131	536	536	pronoun	536	-	2	I	fm	1	sg	118	gij
+132	541	541	pronoun	541	-	2	I	fm	1	sg	118	u
+133	544	544	pronoun	544	-	1	I	fm	1	sg	133	ik
+134	548	548	pronoun	548	-	2	I	fm	1	sg	118	u
+135	551	551	noun	551	-	-	I	m	1	sg	135	kameraad
+136	556	556	noun	556	-	-	I	m	1	sg	136	geneeskundige
+137	558	559	noun	559	-	-	I	n	0	sg	137	die eenigszins
+138	561	562	noun	562	-	-	I	n	0	sg	138	uw gestel
+139	561	561	pronoun	561	-	2	I	fm	1	both	139	uw
+140	569	569	pronoun	569	-	3	O	m	1	sg	136	Hij
+141	578	578	pronoun	578	-	3	O	m	1	sg	135	hij
+142	580	581	noun	581	-	-	O	n	0	pl	142	zijn vingertoppen
+143	580	580	pronoun	580	-	3	O	m	1	sg	135	zijn
+144	587	594	noun	588	-	-	O	-	-	pl	144	zijne ellebogen op de leuningen van zijn stoel
+145	587	587	pronoun	587	-	3	O	m	1	sg	135	zijne
+146	590	594	noun	591	-	-	O	n	0	pl	146	de leuningen van zijn stoel
+147	593	594	noun	594	-	-	O	n	0	sg	147	zijn stoel
+148	593	593	pronoun	593	-	3	O	m	1	sg	135	zijn
+149	598	598	pronoun	598	-	-	O	-	-	both	149	die
+150	600	600	noun	600	-	-	O	n	0	sg	150	wenschte
+151	605	606	noun	606	-	-	I	m	1	sg	151	Mijn geest
+152	605	605	pronoun	605	-	1	I	m	1	sg	135	Mijn
+153	608	608	pronoun	608	-	3	I	fm	1	sg	135	zich
+154	619	619	pronoun	619	-	3	O	m	1	sg	135	hij
+155	623	623	pronoun	623	-	1	I	m	1	sg	135	mij
+156	624	624	noun	624	-	-	I	-	-	pl	156	problema's
+157	627	627	pronoun	627	-	1	I	fm	1	sg	135	mij
+158	628	628	noun	628	-	-	I	n	0	sg	87	werk
+159	631	631	pronoun	631	-	1	I	fm	1	sg	135	mij
+160	637	640	noun	640	-	-	I	n	0	sg	160	de meest raadselachtige analyse
+161	644	644	pronoun	644	-	1	I	fm	1	sg	135	ik
+162	647	647	pronoun	647	-	1	I	fm	1	sg	135	mij
+163	653	653	pronoun	653	-	1	I	fm	1	sg	135	ik
+164	655	656	noun	656	-	-	I	n	0	pl	164	wonderbaarlijke middelen
+165	661	661	pronoun	661	-	1	I	fm	1	sg	135	ik
+166	663	666	noun	666	MISC	-	O	n	0	sg	166	de onbeduidende " sleur
+167	669	671	noun	671	-	-	I	n	0	sg	167	het menschelijk bestaan
+168	673	673	pronoun	673	-	1	I	m	1	sg	135	Ik
+169	676	677	noun	677	-	-	I	fm	1	sg	169	geestelijke verheffing
+170	681	681	pronoun	681	-	3	I	n	0	sg	166	het
+171	684	684	pronoun	684	-	1	I	fm	1	sg	135	ik
+172	685	688	noun	688	-	-	I	n	0	sg	172	mijn eigen bizonder beroep
+173	685	685	pronoun	685	-	1	I	fm	1	sg	135	mijn
+174	700	700	pronoun	700	-	1	I	fm	1	sg	135	ik
+175	702	709	noun	703	-	-	I	fm	1	sg	135	de eenige op dat gebied in de wereld
+176	705	709	noun	706	-	-	I	n	0	sg	176	dat gebied in de wereld
+177	708	709	noun	709	-	-	I	n	0	sg	177	de wereld
+178	713	716	noun	716	-	-	I	fm	1	sg	178	De eenige particuliere detective
+179	720	720	pronoun	720	-	1	O	fm	1	sg	33	ik
+180	722	723	name	723	PER	-	O	m	1	sg	19	groote oogen
+181	727	732	noun	732	-	-	I	fm	1	sg	181	De eenige particuliere , consulteerende detective
+182	736	736	pronoun	736	-	3	O	m	1	sg	19	hij
+183	739	739	pronoun	739	-	1	I	m	1	sg	19	ik
+184	741	749	name	745	ORG	-	I	-	-	sg	19	het laatste en hoogste Hof van appèl voor onthullingen
+185	747	749	noun	747	-	-	I	n	0	sg	185	appèl voor onthullingen
+186	749	749	noun	749	-	-	I	-	-	pl	186	onthullingen
+187	752	752	name	752	PER	-	I	m	1	sg	187	Gregson
+188	755	755	name	755	LOC	-	I	m	1	sg	188	Lestrade
+189	758	759	name	759	PER	-	I	fm	1	both	189	Athelney Jones
+190	769	771	noun	771	-	-	I	n	0	pl	190	de meeste gevallen
+191	777	778	noun	778	-	-	I	n	0	sg	191	de zaak
+192	780	780	pronoun	780	-	1	I	fm	1	sg	19	mij
+193	783	783	pronoun	783	-	1	I	fm	1	sg	19	Ik
+194	785	786	noun	786	-	-	I	n	0	sg	194	den data
+195	789	790	noun	790	-	-	I	fm	1	sg	195	een gezworene
+196	794	795	noun	795	-	-	I	n	0	sg	196	een oordeel
+197	798	799	noun	799	-	-	I	n	0	sg	197	een specialiteit
+198	801	801	pronoun	801	-	1	I	fm	1	sg	19	Ik
+199	806	807	noun	807	-	-	I	n	0	pl	199	dusdanige gevallen
+200	809	810	noun	810	-	-	I	n	0	sg	200	Mijn naam
+201	809	809	pronoun	809	-	1	I	fm	1	sg	19	Mijn
+202	816	818	noun	817	-	-	I	n	0	sg	87	Het werk zelve
+203	820	821	noun	821	-	-	I	n	0	sg	128	het genoegen
+204	822	823	noun	823	-	-	I	n	0	sg	204	een veld
+205	827	830	noun	830	-	-	I	n	0	pl	205	mijne eigen zeldzame gaven
+206	827	827	pronoun	827	-	1	I	fm	1	sg	19	mijne
+207	833	835	noun	835	-	-	I	n	0	sg	87	mijn hoogste belooning
+208	833	833	pronoun	833	-	1	I	fm	1	sg	19	mijn
+209	838	838	pronoun	838	-	2	I	fm	1	sg	181	gij
+210	841	842	noun	842	-	-	I	n	0	sg	61	eenige ondervinding
+211	845	854	noun	846	-	-	I	n	0	sg	211	mijne methode van werken in 't geval van Jefferson Hope
+212	845	845	pronoun	845	-	1	I	fm	1	sg	19	mijne
+213	850	854	noun	851	-	-	I	n	0	sg	213	't geval van Jefferson Hope
+214	853	854	name	854	PER	-	I	m	1	sg	214	Jefferson Hope
+215	862	862	pronoun	862	-	1	O	fm	1	sg	33	ik
+216	865	865	pronoun	865	-	1	I	fm	1	sg	33	ik
+217	870	870	pronoun	870	-	1	I	fm	1	sg	33	mijn
+218	876	876	pronoun	876	-	1	I	fm	1	sg	33	Ik
+219	880	881	noun	881	-	-	I	n	0	sg	87	een werk
+220	886	888	noun	887	-	-	I	n	0	sg	220	den titel van
+221	891	892	name	892	MISC	-	O	n	0	sg	221	Een Godsgericht
+222	895	898	name	898	MISC	-	I	n	0	both	222	_A Study in Scarlet_
+223	910	914	name	910	LOC	-	O	n	0	sg	223	Amsterdam bij N. J. Boon
+224	912	914	name	914	PER	-	O	m	1	sg	224	N. J. Boon
+225	917	917	pronoun	917	-	3	O	m	1	sg	224	Hij
+226	920	921	noun	921	-	-	O	n	0	sg	226	het hoofd
+227	924	924	pronoun	924	-	1	I	m	1	sg	224	Ik
+228	931	931	pronoun	931	-	3	O	m	1	sg	224	hij
+229	937	937	pronoun	937	-	1	I	m	1	sg	224	ik
+230	938	938	pronoun	938	-	2	I	fm	1	sg	230	u
+231	952	954	noun	954	-	-	I	n	0	sg	231	een bepaalde wetenschap
+232	959	961	noun	961	-	-	I	n	0	sg	232	dezelfde ongevoelige wijze
+233	966	966	pronoun	966	-	2	I	fm	1	sg	33	Gij
+234	970	972	noun	972	-	-	I	n	0	sg	234	een romantische tint
+235	979	980	noun	980	-	-	I	n	0	sg	235	dezelfde uitwerking
+236	984	984	pronoun	984	-	2	I	fm	1	sg	33	gij
+237	985	986	noun	986	-	-	I	n	0	sg	237	een liefdeshistorie
+238	988	989	noun	989	-	-	I	n	0	sg	238	een schaking
+239	991	994	noun	992	-	-	I	m	1	sg	112	den geest van Euclides
+240	994	994	name	994	PER	-	I	fm	1	sg	240	Euclides
+241	1001	1002	noun	1002	-	-	I	-	-	sg	241	de roman
+242	1008	1008	pronoun	1008	-	1	O	fm	1	sg	33	ik
+243	1011	1011	pronoun	1011	-	1	I	fm	1	sg	33	ik
+244	1013	1014	noun	1014	-	-	I	n	0	pl	244	de feiten
+245	1021	1026	noun	1023	-	-	I	n	0	sg	87	Het eenige feit in het geval
+246	1025	1026	noun	1026	-	-	I	n	0	sg	213	het geval
+247	1028	1028	noun	1028	-	-	I	m	1	sg	247	eene
+248	1034	1039	noun	1037	-	-	I	-	-	sg	248	de zeldzame analytische redeneering van oorzaken
+249	1039	1039	noun	1039	-	-	I	n	0	pl	249	oorzaken
+250	1041	1041	noun	1041	-	-	I	fm	1	pl	250	gevolgen
+251	1045	1045	pronoun	1045	-	1	I	fm	1	sg	251	mij
+252	1047	1048	noun	1048	-	-	I	n	0	sg	252	het kluwen
+253	1055	1055	pronoun	1055	-	1	O	fm	1	sg	33	mij
+254	1056	1057	noun	1057	-	-	O	n	0	sg	87	een werk
+255	1058	1058	pronoun	1058	-	3	O	n	0	sg	87	dat
+256	1059	1059	pronoun	1059	-	1	O	fm	1	sg	33	ik
+257	1064	1065	noun	1065	-	-	O	n	0	sg	257	het doel
+258	1067	1067	pronoun	1067	-	3	O	m	1	sg	247	hem
+259	1068	1068	noun	1068	-	-	O	n	0	sg	128	genoegen
+260	1074	1074	pronoun	1074	-	3	O	m	1	sg	247	hem
+261	1081	1081	pronoun	1081	-	1	O	fm	1	sg	33	ik
+262	1084	1084	pronoun	1084	-	1	O	fm	1	sg	33	ik
+263	1088	1089	noun	1089	-	-	O	n	0	sg	263	zijn egoïsme
+264	1088	1088	pronoun	1088	-	3	O	n	0	sg	128	zijn
+265	1092	1092	pronoun	1092	-	3	O	m	1	sg	247	hij
+266	1101	1102	noun	1102	-	-	O	n	0	sg	266	mijn vlugschrift
+267	1101	1101	pronoun	1101	-	1	O	fm	1	sg	33	mijn
+268	1104	1106	noun	1106	-	-	O	n	0	pl	268	zijne bizondere werkzaamheden
+269	1104	1104	pronoun	1104	-	3	O	m	1	sg	247	zijne
+270	1112	1112	pronoun	1112	-	1	O	fm	1	sg	33	Ik
+271	1118	1118	pronoun	1118	-	1	O	fm	1	sg	33	ik
+272	1120	1120	pronoun	1120	-	3	O	m	1	sg	247	hem
+273	1122	1122	name	1122	LOC	-	O	n	0	both	273	Baker-Street
+274	1132	1139	noun	1136	-	-	O	n	0	sg	274	het kalm en meesterachtig uiterlijk van mijn metgezel
+275	1138	1139	noun	1139	-	-	O	fm	1	sg	53	mijn metgezel
+276	1138	1138	pronoun	1138	-	1	O	fm	1	sg	33	mijn
+277	1147	1147	pronoun	1147	-	1	O	fm	1	sg	33	Ik
+278	1156	1158	noun	1158	-	-	O	n	0	sg	278	mijn gewond been
+279	1156	1156	pronoun	1156	-	1	O	fm	1	sg	33	mijn
+280	1162	1162	pronoun	1162	-	1	O	fm	1	sg	33	Ik
+281	1164	1164	noun	1164	-	-	O	-	-	sg	18	eenigen
+282	1168	1169	noun	1169	-	-	O	n	0	sg	282	een kogel
+283	1175	1175	pronoun	1175	-	1	O	fm	1	sg	33	ik
+284	1185	1186	noun	1186	-	-	O	n	0	sg	284	pijnlijke wijze
+285	1195	1196	noun	1196	-	-	I	n	0	sg	285	mijn practijk
+286	1195	1195	pronoun	1195	-	1	I	m	1	sg	3	mijn
+287	1197	1197	pronoun	1197	-	3	I	n	0	sg	285	zich
+288	1201	1202	noun	1202	-	-	I	n	0	sg	288	het Vasteland
+289	1206	1206	name	1206	PER	-	O	m	1	sg	3	Holmes
+290	1212	1212	pronoun	1212	-	3	O	m	1	sg	3	hij
+291	1213	1217	noun	1215	-	-	O	n	0	sg	291	zijn oude pijp van rozeboomenhout
+292	1213	1213	pronoun	1213	-	3	O	m	1	sg	3	zijn
+293	1217	1217	noun	1217	-	-	O	-	-	sg	293	rozeboomenhout
+294	1221	1221	pronoun	1221	-	1	I	m	1	sg	3	ik
+295	1230	1232	name	1232	PER	-	I	m	1	sg	295	François le Villard
+296	1234	1234	pronoun	1234	-	-	I	m	1	sg	296	die
+297	1236	1236	pronoun	1236	-	2	I	fm	1	sg	297	je
+298	1242	1242	noun	1242	-	-	I	n	0	sg	21	den
+299	1246	1247	noun	1247	-	-	I	n	0	sg	299	den voorgrond
+300	1251	1255	noun	1251	-	-	I	f	1	sg	300	dienst van de Fransche detectiven
+301	1253	1255	name	1255	MISC	-	I	n	0	both	301	de Fransche detectiven
+302	1257	1257	pronoun	1257	-	3	I	m	1	sg	296	Hij
+303	1260	1265	noun	1262	-	-	I	n	0	sg	303	de Celtische kracht van snelle waarneming
+304	1264	1265	noun	1265	-	-	I	-	-	sg	304	snelle waarneming
+305	1268	1268	pronoun	1268	-	3	I	m	1	sg	296	hij
+306	1273	1281	noun	1275	-	-	I	-	-	sg	306	de juiste beoordeeling der feiten en de algemeene kennis
+307	1276	1277	noun	1277	-	-	I	n	0	pl	244	der feiten
+308	1279	1281	noun	1281	-	-	I	f	1	sg	1	de algemeene kennis
+309	1282	1282	pronoun	1282	-	-	I	-	-	sg	306	die
+310	1286	1291	noun	1288	-	-	I	n	0	sg	310	de hoogere ontwikkeling van zijn kunst
+311	1290	1291	noun	1291	-	-	I	n	0	sg	311	zijn kunst
+312	1290	1290	pronoun	1290	-	3	I	m	1	sg	296	zijn
+313	1293	1294	noun	1294	-	-	I	n	0	sg	213	Het geval
+314	1299	1300	noun	1300	-	-	I	n	0	sg	314	een testament
+315	1306	1306	pronoun	1306	-	1	I	fm	1	sg	3	Ik
+316	1310	1310	pronoun	1310	-	3	I	m	1	sg	296	hem
+317	1317	1319	noun	1319	-	-	I	n	0	pl	317	twee gelijksoortige gevallen
+318	1321	1326	noun	1322	-	-	I	n	0	sg	318	het een te Riga in 1857
+319	1324	1326	name	1324	LOC	-	I	n	0	sg	319	Riga in 1857
+320	1328	1332	noun	1329	-	-	I	n	0	sg	320	het ander te St. Louis
+321	1331	1332	name	1332	LOC	-	I	m	1	sg	321	St. Louis
+322	1337	1337	pronoun	1337	-	3	I	m	1	sg	296	hij
+323	1339	1341	noun	1341	-	-	I	-	-	sg	323	de juiste oplossing
+324	1347	1353	noun	1348	-	-	I	n	0	sg	324	de brief van dankbetuiging voor mijne hulp
+325	1350	1353	noun	1350	-	-	I	n	0	sg	325	dankbetuiging voor mijne hulp
+326	1352	1353	noun	1353	-	-	I	m	1	sg	326	mijne hulp
+327	1352	1352	pronoun	1352	-	1	I	fm	1	sg	3	mijne
+328	1356	1356	pronoun	1356	-	1	I	fm	1	sg	3	ik
+329	1362	1362	pronoun	1362	-	3	O	m	1	sg	326	hij
+330	1363	1363	pronoun	1363	-	3	O	n	0	sg	324	dit
+331	1367	1367	pronoun	1367	-	3	O	m	1	sg	326	hij
+332	1368	1368	pronoun	1368	-	1	O	fm	1	sg	33	mij
+333	1369	1373	noun	1371	-	-	O	n	0	sg	333	een verfrommeld vel buitenlandsch papier
+334	1376	1376	pronoun	1376	-	1	O	fm	1	sg	33	Ik
+335	1381	1381	noun	1381	-	-	O	n	0	sg	335	blik
+336	1385	1385	pronoun	1385	-	1	O	fm	1	sg	33	ik
+337	1388	1394	noun	1388	-	-	O	n	0	pl	337	betuigingen van bewondering van den Franschman voor
+338	1390	1394	noun	1390	-	-	O	n	0	sg	338	bewondering van den Franschman voor
+339	1391	1393	name	1393	PER	-	O	fm	1	sg	339	van den Franschman
+340	1396	1399	name	1399	PER	-	I	m	1	sg	3	den eenigen Sherlock Holmes
+341	1404	1404	pronoun	1404	-	3	I	m	1	sg	3	Hij
+342	1407	1408	noun	1408	-	-	I	fm	1	sg	342	een leerling
+343	1410	1411	noun	1411	-	-	I	m	1	sg	343	zijn meester
+344	1410	1410	pronoun	1410	-	3	I	m	1	sg	3	zijn
+345	1415	1415	pronoun	1415	-	1	O	fm	1	sg	33	ik
+346	1420	1420	pronoun	1420	-	3	I	m	1	sg	343	hij
+347	1422	1423	noun	1423	-	-	I	n	0	sg	347	mijn hulp
+348	1422	1422	pronoun	1422	-	1	I	m	1	sg	3	mijn
+349	1429	1430	name	1430	PER	-	O	m	1	sg	3	Sherlock Holmes
+350	1433	1433	pronoun	1433	-	3	I	m	1	sg	343	hij
+351	1436	1436	noun	1436	-	-	I	mn	1	both	130	groote
+352	1439	1439	pronoun	1439	-	3	I	m	1	sg	343	Hij
+353	1441	1445	noun	1441	-	-	I	n	0	-	353	twee van de drie eigenschappen
+354	1443	1445	noun	1445	-	-	I	n	0	pl	64	de drie eigenschappen
+355	1446	1446	pronoun	1446	-	-	I	fm	1	pl	355	die
+356	1448	1448	noun	1448	-	-	I	n	0	sg	21	den
+357	1454	1454	pronoun	1454	-	3	I	m	1	sg	343	Hij
+358	1457	1457	noun	1457	-	-	I	-	-	sg	358	opmerkingsen
+359	1458	1458	noun	1458	-	-	I	n	0	sg	359	onthullings-vermogen
+360	1462	1462	pronoun	1462	-	3	I	m	1	sg	343	hem
+361	1465	1465	noun	1465	-	-	I	f	1	sg	1	kennis
+362	1467	1467	pronoun	1467	-	3	I	f	1	sg	1	die
+363	1469	1469	pronoun	1469	-	3	I	m	1	sg	343	hij
+364	1473	1473	pronoun	1473	-	3	I	m	1	sg	343	Hij
+365	1477	1482	noun	1479	-	-	I	n	0	pl	365	mijne kleine werken in het Fransch
+366	1477	1477	pronoun	1477	-	1	I	m	1	sg	3	mijne
+367	1481	1482	name	1482	LOC	-	I	n	0	sg	367	het Fransch
+368	1488	1489	noun	1489	-	-	I	n	0	pl	368	Uwe werken
+369	1488	1488	pronoun	1488	-	2	I	fm	1	both	369	Uwe
+370	1496	1496	pronoun	1496	-	2	I	fm	1	sg	370	gij
+371	1502	1502	pronoun	1502	-	3	O	m	1	sg	343	hij
+372	1508	1508	pronoun	1508	-	1	I	m	1	sg	343	ik
+373	1510	1510	pronoun	1510	-	1	I	fm	1	sg	343	mij
+374	1512	1513	noun	1513	-	-	I	n	0	pl	374	verscheiden handschriften
+375	1517	1517	pronoun	1517	-	3	I	fm	1	pl	355	Zij
+376	1521	1522	noun	1522	-	-	I	n	0	pl	376	technische onderwerpen
+377	1533	1541	noun	1534	-	-	O	n	0	sg	377	het onderscheid tusschen de asch van verschillende soorten tabak
+378	1535	1537	name	1537	ORG	-	O	mn	-	sg	378	tusschen de asch
+379	1539	1541	noun	1540	-	-	O	n	0	pl	379	verschillende soorten tabak
+380	1546	1546	pronoun	1546	-	1	I	fm	1	sg	380	ik
+381	1547	1560	noun	1550	-	-	I	n	0	pl	381	een honderd veertig soorten van sigaren , cigaretten- en pijp-tabak , met gekleurde platen
+382	1552	1552	noun	1552	-	-	I	n	0	pl	382	sigaren
+383	1554	1554	name	1554	-	-	I	-	-	-	383	cigaretten-
+384	1556	1556	noun	1556	-	-	I	n	0	sg	384	pijp-tabak
+385	1559	1560	noun	1560	-	-	I	n	0	pl	385	gekleurde platen
+386	1561	1561	pronoun	1561	-	-	I	-	-	both	386	die
+387	1562	1566	noun	1563	-	-	I	n	0	sg	387	het verschil van asch ervan
+388	1565	1565	name	1565	LOC	-	I	n	0	sg	378	asch
+389	1569	1569	pronoun	1569	-	3	I	n	0	sg	378	Het
+390	1571	1572	noun	1572	-	-	I	n	0	sg	28	een punt
+391	1573	1573	pronoun	1573	-	3	I	n	0	sg	391	dat
+392	1576	1576	noun	1576	-	-	I	n	0	pl	392	straf-processen
+393	1579	1579	pronoun	1579	-	3	I	n	0	sg	393	dat
+394	1583	1583	noun	1583	-	-	O	n	0	sg	394	sleutel
+395	1586	1588	noun	1588	-	-	I	n	0	sg	395	het grootste belang
+396	1592	1592	pronoun	1592	-	2	I	fm	1	sg	396	gij
+397	1599	1603	noun	1603	-	-	I	n	0	sg	397	de een of andere moord
+398	1607	1608	noun	1608	-	-	I	m	1	sg	104	een man
+399	1610	1610	pronoun	1610	-	-	I	m	1	sg	104	die
+400	1611	1613	name	1613	MISC	-	I	n	0	sg	400	een Indiaansche lunkah
+401	1618	1622	noun	1619	-	-	I	n	0	sg	401	het terrein van uw onderzoek
+402	1621	1622	noun	1622	-	-	I	n	0	sg	402	uw onderzoek
+403	1621	1621	pronoun	1621	-	2	I	fm	1	both	403	uw
+404	1626	1628	noun	1628	-	-	I	n	0	sg	404	het geoefend oog
+405	1631	1633	noun	1633	-	-	I	n	0	sg	87	evenveel verschil tusschen
+406	1634	1639	noun	1636	-	-	I	-	-	sg	406	de zwarte asch van een Trichinopoly
+407	1638	1639	name	1639	PER	-	I	n	0	sg	407	een Trichinopoly
+408	1641	1645	noun	1642	-	-	I	n	0	sg	408	de witte van een Havana
+409	1644	1645	name	1645	LOC	-	I	n	0	sg	409	een Havana
+410	1648	1648	noun	1648	-	-	I	n	0	sg	87	tusschen
+411	1649	1649	pronoun	1649	-	3	I	n	0	sg	87	die
+412	1651	1652	noun	1652	-	-	I	n	0	sg	126	een kool
+413	1654	1655	noun	1655	-	-	I	n	0	sg	413	een aardappel
+414	1659	1659	pronoun	1659	-	2	I	fm	1	sg	414	Gij
+415	1661	1661	noun	1661	-	-	I	fn	-	sg	247	eene
+416	1662	1665	noun	1663	-	-	I	n	0	sg	416	zeldzame gave van opmerken
+417	1669	1669	pronoun	1669	-	1	O	fm	1	sg	33	ik
+418	1673	1673	pronoun	1673	-	1	I	fm	1	sg	418	Ik
+419	1675	1675	pronoun	1675	-	3	I	fn	-	sg	247	hare
+420	1680	1681	noun	1681	-	-	I	n	0	sg	420	mijn handschrift
+421	1680	1680	pronoun	1680	-	1	I	fm	1	sg	418	mijn
+422	1686	1686	noun	1686	-	-	I	n	0	pl	422	voetstappen
+423	1689	1697	noun	1690	-	-	I	n	0	pl	423	eenige opmerkingen omtrent het toepassen van de Parijsche pleisters
+424	1695	1697	noun	1697	-	-	I	n	0	pl	424	de Parijsche pleisters
+425	1696	1696	name	1696	LOC	-	I	n	0	both	425	Parijsche
+426	1700	1702	noun	1700	-	-	I	-	-	sg	426	bewaarster der indrukken
+427	1701	1702	noun	1702	-	-	I	n	0	pl	427	der indrukken
+428	1706	1706	pronoun	1706	-	2	I	fm	1	both	428	gij
+429	1708	1711	noun	1711	-	-	I	n	0	sg	429	een klein curieus boek
+430	1713	1714	noun	1714	-	-	I	n	0	sg	108	den invloed
+431	1716	1717	noun	1717	-	-	I	n	0	sg	402	een onderzoek
+432	1719	1723	noun	1720	-	-	I	n	0	sg	432	een vorm van de hand
+433	1722	1723	noun	1723	-	-	I	n	0	sg	433	de hand
+434	1726	1728	noun	1726	-	-	I	n	0	pl	434	afbeeldingen van handen
+435	1728	1728	noun	1728	-	-	I	n	0	pl	435	handen
+436	1730	1730	noun	1730	-	-	I	-	-	sg	436	leidekkers
+437	1732	1732	noun	1732	-	-	I	fm	1	both	428	matrozen
+438	1734	1734	noun	1734	-	-	I	-	-	sg	438	kurksnijders
+439	1736	1736	noun	1736	-	-	I	-	-	pl	439	loodwerkers
+440	1738	1738	noun	1738	-	-	I	fm	1	pl	440	wevers
+441	1740	1740	noun	1740	-	-	I	-	-	sg	441	diamantslijpers
+442	1744	1751	noun	1745	-	-	I	n	0	sg	191	een zaak van groot practisch belang voor den
+443	1747	1751	noun	1749	-	-	I	n	0	sg	443	groot practisch belang voor den
+444	1751	1751	noun	1751	-	-	I	n	0	sg	21	den
+445	1757	1759	noun	1757	-	-	I	n	0	pl	445	gevallen van onopgevraagde
+446	1759	1759	noun	1759	-	-	I	m	1	sg	446	onopgevraagde
+447	1766	1770	noun	1768	-	-	I	n	0	pl	447	der vroegere antecedenten van misdadigers
+448	1770	1770	noun	1770	-	-	I	fm	1	pl	448	misdadigers
+449	1773	1773	pronoun	1773	-	1	I	fm	1	sg	418	ik
+450	1775	1775	pronoun	1775	-	2	I	fm	1	sg	428	u
+451	1778	1779	noun	1779	-	-	I	n	0	sg	451	mijn gebabbel
+452	1778	1778	pronoun	1778	-	1	I	fm	1	sg	418	mijn
+453	1789	1789	pronoun	1789	-	1	O	fm	1	sg	33	ik
+454	1795	1795	pronoun	1795	-	1	I	fm	1	sg	33	mij
+455	1797	1799	noun	1799	-	-	I	n	0	sg	395	het grootste belang
+456	1802	1802	pronoun	1802	-	1	I	fm	1	sg	33	ik
+457	1803	1804	noun	1804	-	-	I	n	0	sg	457	de gelegenheid
+458	1808	1810	noun	1809	-	-	I	n	0	sg	458	uwe toepassing ervan
+459	1808	1808	pronoun	1808	-	2	I	fm	1	both	459	uwe
+460	1816	1816	pronoun	1816	-	2	I	m	1	sg	446	gij
+461	1817	1822	name	1818	PER	-	I	fm	1	both	461	spraakt zooeven van opmerking en gevolgtrekking
+462	1820	1820	noun	1820	-	-	I	n	0	sg	462	opmerking
+463	1822	1822	noun	1822	-	-	I	n	0	sg	2	gevolgtrekking
+464	1826	1829	noun	1827	-	-	I	-	-	sg	247	de eene dezer gave
+465	1828	1829	noun	1829	-	-	I	n	0	sg	416	dezer gave
+466	1830	1831	noun	1831	-	-	I	-	-	sg	466	de andere
+467	1838	1839	noun	1839	-	-	I	n	0	sg	467	geringe mate
+468	1843	1843	pronoun	1843	-	3	O	m	1	sg	446	hij
+469	1847	1848	noun	1848	-	-	O	n	0	sg	469	zijn armstoel
+470	1847	1847	pronoun	1847	-	3	O	m	1	sg	446	zijn
+471	1852	1858	noun	1855	-	-	O	n	0	pl	471	dikke , blauwe rookwolken uit zijn pijp
+472	1857	1858	noun	1858	-	-	O	n	0	sg	291	zijn pijp
+473	1857	1857	pronoun	1857	-	3	O	m	1	sg	446	zijn
+474	1864	1864	noun	1864	-	-	I	n	0	sg	474	voorbeeld
+475	1866	1866	noun	1866	-	-	I	n	0	sg	462	opmerking
+476	1868	1868	pronoun	1868	-	1	I	m	1	sg	446	mij
+477	1870	1870	pronoun	1870	-	2	I	fm	1	sg	33	gij
+478	1873	1878	noun	1874	-	-	I	n	0	sg	478	het Postkantoor in de Wigmore Street
+479	1876	1878	name	1878	LOC	-	I	n	0	both	479	de Wigmore Street
+480	1883	1883	noun	1883	-	-	I	n	0	sg	2	gevolgtrekking
+481	1885	1885	pronoun	1885	-	1	I	fm	1	sg	446	mij
+482	1887	1887	pronoun	1887	-	2	I	fm	1	sg	33	gij
+483	1889	1890	noun	1890	-	-	I	n	0	sg	483	een telegram
+484	1902	1902	pronoun	1902	-	1	O	fm	1	sg	33	ik
+485	1910	1910	pronoun	1910	-	1	I	fm	1	sg	33	ik
+486	1913	1913	pronoun	1913	-	1	I	fm	1	sg	33	ik
+487	1917	1917	pronoun	1917	-	2	I	m	1	sg	446	gij
+488	1924	1929	noun	1927	-	-	I	n	0	sg	488	een plotseling opkomende gedachte van mij
+489	1929	1929	pronoun	1929	-	1	I	fm	1	sg	33	mij
+490	1931	1931	pronoun	1931	-	1	I	fm	1	sg	33	ik
+491	1949	1949	pronoun	1949	-	3	O	m	1	sg	446	hij
+492	1952	1952	pronoun	1952	-	3	O	m	1	sg	446	zich
+493	1955	1956	noun	1956	-	-	O	n	0	sg	493	mijne verbazing
+494	1955	1955	pronoun	1955	-	1	O	fm	1	sg	33	mijne
+495	1975	1975	pronoun	1975	-	2	I	fm	1	sg	495	u
+496	1976	1978	noun	1978	-	-	I	n	0	sg	87	de grens tusschen
+497	1979	1979	noun	1979	-	-	I	n	0	sg	462	opmerking
+498	1981	1981	noun	1981	-	-	I	n	0	sg	2	gevolgtrekking
+499	1986	1986	noun	1986	-	-	I	n	0	sg	462	Opmerking
+500	1988	1988	pronoun	1988	-	1	I	m	1	sg	446	mij
+501	1990	1990	pronoun	1990	-	2	I	fm	1	sg	495	gij
+502	1992	1996	noun	1993	-	-	I	n	0	sg	502	de zool van uw schoen
+503	1995	1996	noun	1996	-	-	I	-	-	sg	503	uw schoen
+504	1995	1995	pronoun	1995	-	2	I	fm	1	both	504	uw
+505	1999	2000	noun	2000	-	-	I	n	0	sg	505	roode modder
+506	1999	1999	name	1999	-	-	I	m	1	sg	506	roode
+507	2005	2010	noun	2006	-	-	I	n	0	sg	478	het Postkantoor in de Wigmore Street
+508	2008	2010	name	2010	LOC	-	I	mn	-	sg	479	de Wigmore Street
+509	2012	2013	noun	2013	-	-	I	fm	1	sg	509	de straat
+510	2016	2016	noun	2016	-	-	I	n	0	sg	510	aarde
+511	2018	2018	pronoun	2018	-	-	I	n	0	sg	510	die
+512	2019	2019	pronoun	2019	-	3	I	fm	1	sg	509	men
+513	2022	2022	pronoun	2022	-	3	I	fm	1	sg	509	men
+514	2023	2023	pronoun	2023	-	3	I	fm	1	sg	509	zich
+515	2025	2026	noun	2026	-	-	I	n	0	sg	515	het kantoor
+516	2033	2034	noun	2034	-	-	I	n	0	sg	510	Deze aarde
+517	2037	2038	name	2038	PER	-	I	m	1	sg	506	bizonder roode
+518	2039	2039	noun	2039	-	-	I	n	0	sg	510	kleur
+519	2042	2042	pronoun	2042	-	-	I	n	0	sg	510	die
+520	2045	2046	noun	2046	-	-	I	n	0	sg	520	den omtrek
+521	2057	2058	noun	2058	-	-	I	-	-	sg	521	het overige
+522	2065	2065	noun	2065	-	-	I	-	-	sg	522	kwaamt
+523	2066	2066	pronoun	2066	-	2	I	m	1	sg	446	ge
+524	2069	2070	noun	2070	-	-	I	n	0	sg	2	de gevolgtrekking
+525	2073	2073	pronoun	2073	-	1	I	fm	1	sg	33	ik
+526	2074	2075	noun	2075	-	-	I	n	0	sg	483	een telegram
+527	2083	2083	pronoun	2083	-	1	I	m	1	sg	446	ik
+528	2086	2086	pronoun	2086	-	2	I	fm	1	sg	33	gij
+529	2088	2089	name	2089	MISC	-	I	n	0	sg	529	den ganschen
+530	2092	2092	pronoun	2092	-	1	I	fm	1	sg	446	ik
+531	2094	2095	noun	2095	-	-	I	n	0	sg	531	uw gezelschap
+532	2094	2094	pronoun	2094	-	2	I	fm	1	both	532	uw
+533	2106	2106	pronoun	2106	-	1	I	fm	1	sg	446	ik
+534	2109	2109	pronoun	2109	-	2	I	fm	1	both	534	uwen
+535	2111	2111	noun	2111	-	-	I	-	-	sg	535	lessenaar
+536	2114	2114	pronoun	2114	-	2	I	fm	1	sg	33	gij
+537	2115	2115	noun	2115	-	-	I	fm	1	pl	537	postzegels
+538	2117	2119	noun	2118	-	-	I	n	0	sg	538	een pakket briefkaarten
+539	2124	2124	noun	2124	-	-	I	-	-	sg	539	kondet
+540	2125	2125	pronoun	2125	-	2	I	fm	1	sg	33	gij
+541	2128	2129	noun	2129	-	-	I	n	0	sg	478	het postkantoor
+542	2134	2135	noun	2135	-	-	I	n	0	sg	542	een dépêche
+543	2145	2145	pronoun	2145	-	3	I	fm	1	pl	537	elkander
+544	2151	2153	noun	2153	-	-	I	n	0	sg	544	de eenige gevolgtrekking
+545	2154	2155	noun	2155	-	-	I	m	1	sg	545	de juiste
+546	2161	2162	noun	2162	-	-	I	n	0	sg	213	dit geval
+547	2170	2170	pronoun	2170	-	1	O	fm	1	sg	33	ik
+548	2177	2178	noun	2178	-	-	I	n	0	sg	191	de zaak
+549	2181	2181	pronoun	2181	-	2	I	fm	1	sg	549	gij
+550	2187	2187	pronoun	2187	-	2	I	fm	1	sg	549	gij
+551	2192	2192	pronoun	2192	-	1	I	fm	1	sg	33	ik
+552	2193	2194	noun	2194	-	-	I	n	0	pl	552	uwe theorieën
+553	2193	2193	pronoun	2193	-	2	I	fm	1	both	553	uwe
+554	2196	2199	noun	2199	-	-	I	n	0	sg	554	een meer ernstige proef
+555	2208	2208	pronoun	2208	-	3	O	m	1	sg	545	hij
+556	2213	2213	pronoun	2213	-	1	I	m	1	sg	545	mij
+557	2216	2216	noun	2216	-	-	I	-	-	sg	247	eene
+558	2217	2219	noun	2218	-	-	I	n	0	sg	558	tweede dosis cocaïne
+559	2225	2225	pronoun	2225	-	1	I	fm	1	sg	545	mij
+560	2227	2228	noun	2228	-	-	I	n	0	sg	87	eenig probleem
+561	2230	2230	pronoun	2230	-	3	I	n	0	sg	87	dat
+562	2231	2231	pronoun	2231	-	2	I	fm	1	sg	562	gij
+563	2233	2234	noun	2234	-	-	I	n	0	sg	563	mijn oordeel
+564	2233	2233	pronoun	2233	-	1	I	fm	1	sg	545	mijn
+565	2245	2245	pronoun	2245	-	1	I	fm	1	sg	565	Ik
+566	2247	2247	pronoun	2247	-	2	I	m	1	sg	545	u
+567	2255	2256	noun	2256	-	-	I	m	1	sg	104	een man
+568	2259	2260	noun	2260	-	-	I	n	0	sg	568	eenig voorwerp
+569	2266	2272	noun	2267	-	-	I	n	0	sg	569	den indruk van zijn persoonlijkheid er in
+570	2269	2272	noun	2270	-	-	I	n	0	sg	570	zijn persoonlijkheid er in
+571	2269	2269	pronoun	2269	-	3	I	n	0	sg	568	zijn
+572	2281	2283	noun	2283	-	-	I	n	0	sg	572	een geoefend opmerker
+573	2284	2284	pronoun	2284	-	-	I	-	-	both	573	die
+574	2291	2291	pronoun	2291	-	1	I	fm	1	sg	565	ik
+575	2294	2295	noun	2295	-	-	I	n	0	sg	87	een horloge
+576	2296	2296	pronoun	2296	-	3	I	n	0	sg	87	dat
+577	2300	2301	noun	2301	-	-	I	n	0	sg	577	mijn bezit
+578	2300	2300	pronoun	2300	-	1	I	fm	1	sg	565	mijn
+579	2306	2306	pronoun	2306	-	2	I	fm	1	sg	545	gij
+580	2313	2313	pronoun	2313	-	1	I	fm	1	sg	565	mij
+581	2314	2321	noun	2315	-	-	I	n	0	sg	581	uw oordeel omtrent het karakter of de gewoonten
+582	2314	2314	pronoun	2314	-	2	I	fm	1	both	582	uw
+583	2317	2318	noun	2318	-	-	I	n	0	sg	583	het karakter
+584	2320	2321	noun	2321	-	-	I	n	0	pl	584	de gewoonten
+585	2323	2323	noun	2323	-	-	I	n	0	sg	21	den
+586	2325	2325	noun	2325	-	-	I	m	1	sg	586	eigenaar
+587	2330	2330	pronoun	2330	-	1	O	fm	1	sg	33	Ik
+588	2332	2332	pronoun	2332	-	3	O	m	1	sg	586	hem
+589	2333	2337	noun	2334	-	-	O	n	0	sg	87	het horloge met eenig leedvermaak
+590	2336	2337	noun	2337	-	-	O	n	0	sg	590	eenig leedvermaak
+591	2342	2342	pronoun	2342	-	1	O	fm	1	sg	33	ik
+592	2343	2343	pronoun	2343	-	1	O	fm	1	sg	33	mij
+593	2348	2349	noun	2349	-	-	O	n	0	sg	554	de proef
+594	2352	2352	pronoun	2352	-	1	O	fm	1	sg	33	ik
+595	2355	2356	noun	2356	-	-	O	n	0	sg	595	een les
+596	2362	2362	noun	2362	-	-	O	n	0	sg	21	den
+597	2365	2365	pronoun	2365	-	3	O	n	0	sg	595	dien
+598	2366	2366	pronoun	2366	-	3	O	m	1	sg	586	hij
+599	2371	2371	pronoun	2371	-	3	O	m	1	sg	586	Hij
+600	2373	2373	pronoun	2373	-	3	O	n	0	sg	595	het
+601	2374	2374	noun	2374	-	-	O	n	0	sg	601	uurwerk
+602	2376	2377	noun	2377	-	-	O	n	0	sg	433	zijn hand
+603	2376	2376	pronoun	2376	-	3	O	m	1	sg	586	zijn
+604	2380	2381	noun	2381	-	-	O	n	0	sg	604	de wijzerplaat
+605	2388	2389	noun	2389	-	-	O	n	0	sg	87	het werk
+606	2393	2395	noun	2395	-	-	O	n	0	sg	606	zijn bloote oog
+607	2393	2393	pronoun	2393	-	3	O	m	1	sg	586	zijn
+608	2399	2401	noun	2401	-	-	O	n	0	sg	608	een sterke lens
+609	2403	2403	pronoun	2403	-	1	O	fm	1	sg	33	Ik
+610	2406	2407	noun	2407	-	-	O	n	0	sg	610	mijn lach
+611	2406	2406	pronoun	2406	-	1	O	fm	1	sg	33	mijn
+612	2413	2415	noun	2415	-	-	O	n	0	sg	87	zijn teleurgesteld gelaat
+613	2413	2413	pronoun	2413	-	3	O	n	0	sg	610	zijn
+614	2417	2417	pronoun	2417	-	3	O	m	1	sg	586	hij
+615	2419	2420	noun	2420	-	-	O	n	0	sg	615	de kast
+616	2425	2425	pronoun	2425	-	1	O	fm	1	sg	33	mij
+617	2438	2438	pronoun	2438	-	3	O	m	1	sg	586	hij
+618	2442	2443	noun	2443	-	-	I	n	0	sg	87	het horloge
+619	2451	2451	pronoun	2451	-	3	I	n	0	sg	87	dat
+620	2452	2452	pronoun	2452	-	1	I	m	1	sg	586	mij
+621	2454	2457	noun	2457	-	-	I	-	-	pl	621	de meeste denkbare daadzaken
+622	2462	2462	pronoun	2462	-	2	I	m	1	sg	586	Gij
+623	2468	2468	pronoun	2468	-	1	O	fm	1	sg	33	ik
+624	2476	2476	pronoun	2476	-	1	I	fm	1	sg	33	mij
+625	2482	2483	noun	2483	-	-	O	n	0	sg	625	mijn hart
+626	2482	2482	pronoun	2482	-	1	O	fm	1	sg	33	mijn
+627	2485	2485	pronoun	2485	-	1	O	fm	1	sg	33	ik
+628	2486	2487	noun	2487	-	-	O	m	1	sg	53	mijn metgezel
+629	2486	2486	pronoun	2486	-	1	O	fm	1	sg	33	mijn
+630	2489	2489	pronoun	2489	-	3	O	m	1	sg	53	hij
+631	2490	2496	noun	2491	-	-	O	n	0	sg	631	zijn onvermogen achter een niet beduidende uitvlucht
+632	2490	2490	pronoun	2490	-	3	O	m	1	sg	53	zijn
+633	2493	2496	noun	2496	-	-	O	n	0	sg	633	een niet beduidende uitvlucht
+634	2502	2502	pronoun	2502	-	3	O	m	1	sg	53	hij
+635	2504	2506	noun	2506	-	-	O	n	0	sg	87	een onschoongemaakt horloge
+636	2515	2516	noun	2516	-	-	I	n	0	sg	402	mijn onderzoek
+637	2515	2515	pronoun	2515	-	1	I	m	1	sg	53	mijn
+638	2524	2524	pronoun	2524	-	3	O	m	1	sg	53	hij
+639	2527	2534	noun	2530	-	-	O	-	-	sg	639	droomerige half gesloten oogen naar de zoldering starende
+640	2532	2533	noun	2533	-	-	O	n	0	sg	640	de zoldering
+641	2538	2538	noun	2538	-	-	I	n	0	sg	641	verbetering
+642	2540	2540	pronoun	2540	-	1	I	m	1	sg	53	ik
+643	2543	2547	noun	2544	-	-	I	n	0	sg	87	het horloge aan uw oudsten
+644	2546	2547	noun	2547	-	-	I	-	-	pl	644	uw oudsten
+645	2546	2546	pronoun	2546	-	2	I	fm	1	both	645	uw
+646	2548	2548	noun	2548	-	-	I	m	1	sg	646	broeder
+647	2552	2552	pronoun	2552	-	-	I	m	1	sg	646	die
+648	2555	2556	noun	2556	-	-	I	m	1	sg	300	uwen vader
+649	2555	2555	pronoun	2555	-	2	I	fm	1	both	649	uwen
+650	2564	2564	pronoun	2564	-	2	I	m	1	sg	53	gij
+651	2568	2573	name	2570	PER	-	I	f	1	sg	651	de H. W. op de kast
+652	2572	2573	noun	2573	-	-	I	n	0	sg	615	de kast
+653	2580	2581	name	2581	MISC	-	I	f	1	sg	651	De W.
+654	2583	2585	noun	2585	-	-	I	n	0	sg	200	uw eigen naam
+655	2583	2583	pronoun	2583	-	2	I	fm	1	both	655	uw
+656	2591	2592	noun	2592	-	-	I	n	0	sg	87	het horloge
+657	2603	2604	noun	2604	-	-	I	-	-	pl	657	de initialen
+658	2609	2611	noun	2610	-	-	I	n	0	sg	87	het horloge zelve
+659	2617	2617	noun	2617	-	-	I	n	0	sg	21	den
+660	2619	2619	noun	2619	-	-	I	m	1	sg	660	zoon
+661	2623	2623	pronoun	2623	-	3	I	m	1	sg	300	hij
+662	2626	2627	noun	2627	-	-	I	n	0	sg	662	den regel
+663	2631	2632	noun	2632	-	-	I	m	1	sg	300	de vader
+664	2634	2635	noun	2635	-	-	I	m	1	sg	300	Uw vader
+665	2634	2634	pronoun	2634	-	2	I	fm	1	both	665	Uw
+666	2639	2639	pronoun	2639	-	1	I	m	1	sg	53	ik
+667	2640	2640	pronoun	2640	-	1	I	fm	1	sg	53	mij
+668	2651	2658	noun	2652	-	-	I	n	0	sg	87	het horloge in handen gekomen van uw oudsten
+669	2654	2654	noun	2654	-	-	I	n	0	pl	435	handen
+670	2657	2658	noun	2658	-	-	I	fm	1	pl	644	uw oudsten
+671	2657	2657	pronoun	2657	-	2	I	fm	1	both	671	uw
+672	2665	2665	pronoun	2665	-	2	I	m	1	sg	53	gij
+673	2670	2670	pronoun	2670	-	1	O	fm	1	sg	33	ik
+674	2674	2674	pronoun	2674	-	2	I	fm	1	sg	674	gij
+675	2680	2680	pronoun	2680	-	3	I	m	1	sg	104	Hij
+676	2682	2689	noun	2683	-	-	I	m	1	sg	104	een man van zeer ongestadige en zorgelooze levenswijze
+677	2686	2686	noun	2686	-	-	I	-	-	sg	677	ongestadige
+678	2691	2691	pronoun	2691	-	3	I	m	1	sg	104	Hij
+679	2694	2695	noun	2695	-	-	I	n	0	pl	679	goede vooruitzichten
+680	2698	2698	pronoun	2698	-	3	I	m	1	sg	104	hij
+681	2700	2701	noun	2701	-	-	I	n	0	sg	681	zijn geluk
+682	2700	2700	pronoun	2700	-	3	I	m	1	sg	104	zijn
+683	2705	2706	noun	2705	-	-	I	-	-	sg	18	eenigen tijd
+684	2708	2708	noun	2708	-	-	I	n	0	sg	684	armoede
+685	2711	2714	noun	2712	-	-	I	-	-	sg	685	korte tusschenpoozen van voorspoed
+686	2714	2714	noun	2714	-	-	I	n	0	sg	686	voorspoed
+687	2718	2718	pronoun	2718	-	3	I	m	1	sg	104	hij
+688	2721	2722	noun	2722	-	-	I	n	0	sg	688	den drank
+689	2728	2728	pronoun	2728	-	3	I	m	1	sg	104	hij
+690	2734	2734	pronoun	2734	-	1	I	fm	1	sg	690	ik
+691	2739	2739	pronoun	2739	-	1	O	fm	1	sg	33	Ik
+692	2742	2743	noun	2743	-	-	O	n	0	sg	147	mijn stoel
+693	2742	2742	pronoun	2742	-	1	O	fm	1	sg	33	mijn
+694	2751	2752	noun	2752	-	-	O	n	0	sg	694	de kamer
+695	2762	2762	pronoun	2762	-	2	I	m	1	sg	3	u
+696	2764	2764	name	2764	PER	-	I	m	1	sg	3	Holmes
+697	2768	2768	pronoun	2768	-	1	O	fm	1	sg	33	ik
+698	2771	2771	pronoun	2771	-	1	I	fm	1	sg	698	ik
+699	2776	2776	noun	2776	-	-	I	-	-	sg	699	gelooven
+700	2779	2779	pronoun	2779	-	2	I	m	1	sg	3	gij
+701	2780	2780	pronoun	2780	-	2	I	fm	1	sg	3	u
+702	2782	2782	noun	2782	-	-	I	n	0	sg	702	zoo
+703	2787	2787	pronoun	2787	-	2	I	fm	1	sg	3	Gij
+704	2789	2789	noun	2789	-	-	I	n	0	sg	402	onderzoek
+705	2792	2796	noun	2793	-	-	I	n	0	sg	705	de geschiedenis van mijn ongelukkigen
+706	2795	2796	noun	2796	-	-	I	n	0	pl	706	mijn ongelukkigen
+707	2795	2795	pronoun	2795	-	1	I	fm	1	sg	698	mijn
+708	2803	2803	noun	2803	-	-	I	n	0	pl	708	gevolgtrekkingen
+709	2805	2806	noun	2806	-	-	I	n	0	sg	231	deze wetenschap
+710	2811	2811	pronoun	2811	-	2	I	fm	1	sg	3	Gij
+711	2816	2816	pronoun	2816	-	1	I	fm	1	sg	698	mij
+712	2819	2819	pronoun	2819	-	1	I	fm	1	sg	698	ik
+713	2820	2820	noun	2820	-	-	I	-	-	sg	699	gelooven
+714	2823	2823	pronoun	2823	-	2	I	fm	1	sg	3	gij
+715	2824	2829	noun	2825	-	-	I	n	0	sg	66	dit alles op dit oud horloge
+716	2827	2829	noun	2829	-	-	I	n	0	sg	87	dit oud horloge
+717	2840	2842	noun	2842	-	-	I	m	1	sg	717	de volle waarheid
+718	2847	2850	noun	2848	-	-	I	n	0	sg	718	het iets van charlatanisme
+719	2850	2850	noun	2850	-	-	I	-	-	sg	719	charlatanisme
+720	2854	2855	noun	2855	-	-	I	fm	1	sg	720	Waarde dokter
+721	2859	2859	pronoun	2859	-	3	O	m	1	sg	717	hij
+722	2863	2863	pronoun	2863	-	1	I	m	1	sg	717	ik
+723	2865	2865	pronoun	2865	-	2	I	fm	1	sg	720	u
+724	2868	2869	noun	2869	-	-	I	n	0	sg	724	mijne verontschuldiging
+725	2868	2868	pronoun	2868	-	1	I	fm	1	sg	717	mijne
+726	2872	2877	noun	2873	-	-	I	n	0	sg	191	De zaak als een gewoon vraagstuk
+727	2875	2877	noun	2877	-	-	I	n	0	sg	727	een gewoon vraagstuk
+728	2881	2881	pronoun	2881	-	1	I	fm	1	sg	717	ik
+729	2887	2887	pronoun	2887	-	2	I	fm	1	sg	720	u
+730	2888	2890	noun	2889	-	-	I	-	-	sg	730	de oplossing ervan
+731	2894	2894	pronoun	2894	-	1	I	fm	1	sg	717	Ik
+732	2896	2896	pronoun	2896	-	2	I	fm	1	sg	720	u
+733	2898	2900	noun	2900	-	-	I	n	0	sg	733	de heilige verzekering
+734	2902	2902	pronoun	2902	-	1	I	fm	1	sg	717	ik
+735	2907	2907	pronoun	2907	-	2	I	fm	1	sg	720	gij
+736	2908	2909	noun	2909	-	-	I	m	1	sg	646	een broeder
+737	2914	2914	pronoun	2914	-	2	I	fm	1	sg	720	ge
+738	2915	2915	pronoun	2915	-	1	I	fm	1	sg	717	mij
+739	2916	2917	noun	2917	-	-	I	n	0	sg	87	dit horloge
+740	2920	2920	noun	2920	-	-	I	n	0	sg	433	hand
+741	2935	2935	noun	2935	-	-	I	f	1	sg	522	kwaamt
+742	2936	2936	pronoun	2936	-	2	I	m	1	sg	717	gij
+743	2940	2941	noun	2941	-	-	I	n	0	pl	244	deze feiten
+744	2943	2943	pronoun	2943	-	3	I	fm	1	pl	644	Zij
+745	2960	2960	pronoun	2960	-	1	I	m	1	sg	717	Ik
+746	2962	2962	pronoun	2962	-	1	I	fm	1	sg	717	mij
+747	2964	2964	pronoun	2964	-	3	I	fm	1	pl	644	ze
+748	2966	2966	noun	2966	-	-	I	n	0	pl	748	waarschijnlijkheden
+749	2969	2969	pronoun	2969	-	1	I	fm	1	sg	717	Ik
+750	2986	2986	noun	2986	-	-	I	n	0	pl	750	gissingen
+751	2994	2994	pronoun	2994	-	1	I	fm	1	sg	33	ik
+752	3000	3002	noun	3002	-	-	I	n	0	sg	752	een dwaze gewoonte
+753	3008	3010	noun	3010	-	-	I	n	0	sg	753	het logisch verband
+754	3013	3013	pronoun	3013	-	2	I	fm	1	sg	754	u
+755	3018	3018	pronoun	3018	-	3	I	n	0	sg	753	dit
+756	3022	3022	pronoun	3022	-	2	I	fm	1	sg	754	gij
+757	3023	3024	noun	3024	-	-	I	n	0	sg	757	mijn gedachtengang
+758	3023	3023	pronoun	3023	-	1	I	fm	1	sg	33	mijn
+759	3028	3029	noun	3029	-	-	I	n	0	pl	759	geringe omstandigheden
+760	3031	3031	pronoun	3031	-	-	I	n	0	pl	759	die
+761	3033	3035	noun	3035	-	-	I	n	0	pl	761	de grootste ophelderingen
+762	3044	3044	noun	3044	-	-	I	n	0	sg	474	voorbeeld
+763	3046	3046	pronoun	3046	-	1	I	fm	1	sg	33	ik
+764	3051	3052	noun	3052	-	-	I	m	1	sg	764	uw broeder
+765	3051	3051	pronoun	3051	-	2	I	fm	1	both	765	uw
+766	3057	3057	pronoun	3057	-	2	I	fm	1	sg	754	gij
+767	3059	3062	noun	3059	-	-	I	n	0	pl	767	benedengedeelten van deze horlogekast
+768	3061	3062	noun	3062	-	-	I	n	0	sg	768	deze horlogekast
+769	3067	3067	pronoun	3067	-	2	I	fm	1	sg	754	gij
+770	3070	3070	pronoun	3070	-	3	I	f	1	sg	522	zij
+771	3074	3075	noun	3075	-	-	I	n	0	pl	771	twee plaatsen
+772	3080	3080	pronoun	3080	-	3	I	f	1	sg	522	zij
+773	3088	3089	noun	3089	-	-	I	n	0	sg	36	de gewoonte
+774	3090	3090	pronoun	3090	-	-	I	n	0	sg	36	die
+775	3091	3091	pronoun	3091	-	3	I	m	1	sg	764	hij
+776	3096	3097	name	3097	MISC	-	I	n	0	both	776	denzelfden vestzak
+777	3099	3101	noun	3101	-	-	I	n	0	pl	777	andere harde voorwerpen
+778	3106	3106	noun	3106	-	-	I	n	0	pl	778	sleutels
+779	3115	3115	noun	3115	-	-	I	n	0	sg	779	vernuft
+780	3118	3119	noun	3119	-	-	I	n	0	sg	2	de gevolgtrekking
+781	3124	3124	pronoun	3124	-	3	I	m	1	sg	764	hij
+782	3126	3126	pronoun	3126	-	-	I	-	-	sg	782	die
+783	3130	3134	noun	3131	-	-	I	n	0	sg	87	een horloge van vijftig guinjes
+784	3133	3134	noun	3134	-	-	I	-	-	pl	784	vijftig guinjes
+785	3137	3139	noun	3139	-	-	I	m	1	sg	104	een zorgeloos man
+786	3152	3153	noun	3153	-	-	I	m	1	sg	104	een man
+787	3154	3154	pronoun	3154	-	-	I	-	-	both	787	die
+788	3155	3159	noun	3156	-	-	I	n	0	sg	788	een voorwerp van zulke groote
+789	3158	3159	noun	3159	-	-	I	mn	1	sg	130	zulke groote
+790	3160	3160	noun	3160	-	-	I	n	0	sg	790	waarde
+791	3165	3166	noun	3165	-	-	I	n	0	pl	791	middelen ontbloot
+792	3170	3170	pronoun	3170	-	1	O	fm	1	sg	33	Ik
+793	3174	3174	noun	3174	-	-	O	mn	-	sg	793	bewijze
+794	3176	3176	pronoun	3176	-	1	O	fm	1	sg	33	ik
+795	3177	3178	noun	3178	-	-	O	-	-	sg	795	zijne redeneering
+796	3177	3177	pronoun	3177	-	3	O	mn	-	sg	793	zijne
+797	3185	3185	noun	3185	-	-	I	-	-	sg	797	pand-beleeners
+798	3187	3187	name	3187	LOC	-	I	n	0	sg	798	Engeland
+799	3191	3203	noun	3192	-	-	I	n	0	sg	799	het nommer van het bewijs met een graveernaald op de binnenzijde der kast
+800	3194	3203	noun	3195	-	-	I	n	0	sg	800	het bewijs met een graveernaald op de binnenzijde der kast
+801	3197	3203	noun	3198	-	-	I	n	0	sg	801	een graveernaald op de binnenzijde der kast
+802	3200	3203	noun	3201	-	-	I	n	0	sg	802	de binnenzijde der kast
+803	3202	3203	noun	3203	-	-	I	n	0	sg	615	der kast
+804	3207	3207	pronoun	3207	-	3	I	n	0	sg	799	Dit
+805	3209	3217	noun	3210	-	-	I	n	0	sg	799	een maatregel tegen het verloren gaan van het bewijs
+806	3216	3217	noun	3217	-	-	I	n	0	sg	800	het bewijs
+807	3225	3234	noun	3226	-	-	I	-	-	pl	807	zulke nommers door mijn lens op de binnenzijde der kast
+808	3228	3234	noun	3229	-	-	I	n	0	sg	808	mijn lens op de binnenzijde der kast
+809	3228	3228	pronoun	3228	-	1	I	fm	1	sg	809	mijn
+810	3231	3234	noun	3232	-	-	I	n	0	sg	802	de binnenzijde der kast
+811	3233	3234	noun	3234	-	-	I	n	0	sg	615	der kast
+812	3240	3241	noun	3241	-	-	I	m	1	sg	764	uw broeder
+813	3240	3240	pronoun	3240	-	2	I	fm	1	both	813	uw
+814	3245	3246	noun	3246	-	-	I	n	0	sg	814	zwart zaad
+815	3249	3250	noun	3250	-	-	I	n	0	sg	815	Tweede gevolgtrekking
+816	3253	3253	pronoun	3253	-	3	I	m	1	sg	764	hij
+817	3265	3265	pronoun	3265	-	3	I	m	1	sg	764	hij
+818	3266	3267	noun	3267	-	-	I	n	0	sg	818	het pand
+819	3277	3277	pronoun	3277	-	1	I	fm	1	sg	809	ik
+820	3278	3278	pronoun	3278	-	2	I	fm	1	sg	33	u
+821	3279	3280	noun	3280	-	-	I	n	0	sg	821	de binnenplaat
+822	3285	3285	pronoun	3285	-	3	I	n	0	sg	821	zich
+823	3286	3287	noun	3287	-	-	I	n	0	sg	821	het sleutelgat
+824	3293	3298	noun	3294	-	-	I	-	-	pl	824	de duizenden krassen rondom de opening
+825	3297	3298	noun	3298	-	-	I	-	-	sg	825	de opening
+826	3301	3307	noun	3301	-	-	I	-	-	sg	826	teekenen van het uitglijden van den sleutel
+827	3306	3307	noun	3307	-	-	I	n	0	sg	394	den sleutel
+828	3313	3314	noun	3314	-	-	I	n	0	sg	828	die plaat
+829	3319	3319	pronoun	3319	-	1	I	fm	1	sg	809	Ik
+830	3321	3321	pronoun	3321	-	2	I	fm	1	sg	33	u
+831	3323	3323	pronoun	3323	-	2	I	fm	1	sg	33	gij
+832	3325	3329	noun	3326	-	-	I	n	0	sg	87	het horloge van een dronkaard
+833	3328	3329	noun	3329	-	-	I	m	1	sg	833	een dronkaard
+834	3332	3332	noun	3332	-	-	I	n	0	pl	834	krassen
+835	3335	3335	pronoun	3335	-	3	I	m	1	sg	833	Hij
+836	3344	3349	noun	3345	-	-	I	n	0	pl	836	deze sporen van zijn onvaste hand
+837	3347	3349	noun	3349	-	-	I	n	0	sg	433	zijn onvaste hand
+838	3347	3347	pronoun	3347	-	3	I	m	1	sg	833	zijn
+839	3355	3359	noun	3356	-	-	I	n	0	sg	839	de mysterie van dit alles
+840	3358	3359	noun	3359	-	-	I	n	0	sg	66	dit alles
+841	3373	3373	pronoun	3373	-	1	O	fm	1	sg	33	ik
+842	3376	3376	pronoun	3376	-	1	I	fm	1	sg	33	ik
+843	3378	3379	noun	3379	-	-	I	n	0	sg	87	het onrecht
+844	3380	3380	pronoun	3380	-	3	I	n	0	sg	87	dat
+845	3381	3381	pronoun	3381	-	1	I	fm	1	sg	33	ik
+846	3382	3382	pronoun	3382	-	2	I	fm	1	sg	846	u
+847	3385	3385	pronoun	3385	-	1	I	fm	1	sg	33	Ik
+848	3392	3394	noun	3394	-	-	I	n	0	sg	848	uw wonderbaarlijk vermogen
+849	3392	3392	pronoun	3392	-	2	I	fm	1	both	849	uw
+850	3397	3397	pronoun	3397	-	1	I	fm	1	sg	33	ik
+851	3400	3400	pronoun	3400	-	2	I	fm	1	sg	846	gij
+852	3404	3407	noun	3407	-	-	I	n	0	sg	852	een of ander onderzoek
+853	3417	3417	pronoun	3417	-	1	I	f	1	sg	853	ik
+854	3418	3419	noun	3419	-	-	I	n	0	sg	83	de cocaïne
+855	3421	3421	pronoun	3421	-	1	I	fm	1	sg	853	Ik
+856	3426	3426	noun	3426	-	-	I	-	-	sg	856	hersen-inspanning
+857	3436	3437	noun	3437	-	-	I	n	0	sg	857	het raam
+858	3442	3443	noun	3443	-	-	I	n	0	sg	177	de wereld
+859	3453	3455	noun	3455	-	-	I	n	0	sg	859	de gele mist
+860	3457	3458	noun	3458	-	-	I	-	-	sg	509	de straat
+861	3462	3464	noun	3464	-	-	I	n	0	pl	861	de zwart-geblakerde huizen
+862	3480	3480	noun	3480	-	-	I	n	0	pl	862	vermogens
+863	3484	3484	noun	3484	-	-	I	fm	1	sg	720	dokter
+864	3494	3494	noun	3494	-	-	I	n	0	sg	864	Misdaad
+865	3501	3501	pronoun	3501	-	3	I	n	0	sg	864	dit
+866	3512	3512	noun	3512	-	-	I	n	0	sg	510	aarde
+867	3516	3516	pronoun	3516	-	1	O	fm	1	sg	33	Ik
+868	3518	3519	noun	3519	-	-	O	n	0	sg	868	mijn mond
+869	3518	3518	pronoun	3518	-	1	O	fm	1	sg	33	mijn
+870	3524	3525	noun	3525	-	-	O	n	0	sg	870	deze ontboezeming
+871	3533	3534	noun	3534	-	-	O	n	0	sg	871	de deur
+872	3538	3539	noun	3539	-	-	O	f	1	sg	872	onze hospita
+873	3538	3538	pronoun	3538	-	1	O	fm	1	pl	873	onze
+874	3543	3543	pronoun	3543	-	3	O	f	1	sg	872	zij
+875	3544	3545	noun	3545	-	-	O	n	0	sg	875	een visitekaart
+876	3547	3549	noun	3549	-	-	O	n	0	sg	876	het koperen blad
+877	3553	3557	noun	3555	-	-	I	f	1	sg	853	Een jonge dame voor u
+878	3557	3557	pronoun	3557	-	2	I	f	1	sg	853	u
+879	3563	3563	pronoun	3563	-	3	O	f	1	sg	872	zij
+880	3565	3565	pronoun	3565	-	3	O	f	1	sg	872	zich
+881	3567	3568	noun	3568	-	-	O	m	1	sg	53	mijn metgezel
+882	3567	3567	pronoun	3567	-	1	O	fm	1	sg	33	mijn
+883	3572	3574	name	3574	PER	-	I	fm	1	sg	883	Miss Mary Morstan
+884	3578	3578	pronoun	3578	-	3	O	m	1	sg	53	hij
+885	3581	3581	name	3581	-	-	I	n	0	sg	885	Hm
+886	3583	3583	pronoun	3583	-	1	I	m	1	sg	53	ik
+887	3585	3585	pronoun	3585	-	1	I	fm	1	sg	53	mij
+888	3586	3587	noun	3587	-	-	I	n	0	sg	200	dien naam
+889	3591	3593	noun	3593	-	-	I	f	1	sg	853	de jonge dame
+890	3598	3599	name	3599	PER	-	I	n	0	sg	890	Mrs. Hudson
+891	3610	3610	pronoun	3610	-	1	I	fm	1	sg	53	Ik
+892	3615	3615	pronoun	3615	-	2	I	fm	1	sg	883	gij
+893	3620	3621	noun	3621	-	-	O	n	0	sg	893	TWEEDE HOOFDSTUK
+894	3623	3627	noun	3624	-	-	O	-	-	sg	894	De beschrijving van het geval
+895	3626	3627	noun	3627	-	-	O	n	0	sg	213	het geval
+896	3629	3630	name	3630	PER	-	O	f	1	sg	883	Miss Morstan
+897	3634	3634	noun	3634	-	-	O	n	0	sg	897	stap
+898	3636	3639	noun	3639	-	-	O	n	0	sg	898	vrijmoedig voorkomen het vertrek
+899	3642	3642	pronoun	3642	-	3	O	f	1	sg	883	Zij
+900	3644	3647	noun	3647	-	-	O	f	1	sg	883	een blonde jonge dame
+901	3651	3651	noun	3651	-	-	O	n	0	sg	901	gestalte
+902	3659	3660	noun	3660	-	-	O	n	0	sg	902	haar gewaad
+903	3659	3659	pronoun	3659	-	3	O	f	1	sg	883	haar
+904	3668	3668	noun	3668	-	-	O	n	0	sg	904	weelde
+905	3674	3675	noun	3675	-	-	O	n	0	pl	905	beperkte middelen
+906	3681	3684	noun	3682	-	-	O	n	0	sg	906	een kleed van donker-grijze
+907	3684	3684	noun	3684	-	-	O	-	-	sg	907	donker-grijze
+908	3685	3685	noun	3685	-	-	O	n	0	sg	908	beige
+909	3688	3690	noun	3690	-	-	O	n	0	sg	909	de minste versiering
+910	3693	3698	noun	3695	-	-	O	n	0	sg	910	een klein hoedje van dezelfde kleur
+911	3697	3698	noun	3698	-	-	O	n	0	sg	911	dezelfde kleur
+912	3700	3700	pronoun	3700	-	-	O	n	0	sg	911	die
+913	3705	3707	noun	3707	-	-	O	n	0	sg	913	een witte veder
+914	3709	3710	noun	3710	-	-	O	n	0	sg	87	Haar gelaat
+915	3709	3709	pronoun	3709	-	3	O	n	0	sg	913	Haar
+916	3721	3721	pronoun	3721	-	3	O	n	0	pl	905	hare
+917	3729	3729	pronoun	3729	-	3	O	n	0	pl	905	hare
+918	3731	3732	noun	3732	-	-	O	-	-	sg	918	blauwe oogen
+919	3741	3741	pronoun	3741	-	1	O	fm	1	sg	33	mijne
+920	3744	3745	noun	3745	-	-	O	f	1	pl	920	de vrouwen
+921	3747	3747	pronoun	3747	-	-	O	f	1	sg	921	die
+922	3748	3748	pronoun	3748	-	1	O	fm	1	sg	33	ik
+923	3750	3752	noun	3752	-	-	O	n	0	pl	923	drie verschillende werelddeelen
+924	3757	3757	pronoun	3757	-	1	O	fm	1	sg	33	ik
+925	3760	3761	noun	3761	-	-	O	n	0	sg	87	een gelaat
+926	3763	3763	pronoun	3763	-	3	O	n	0	sg	87	dat
+927	3766	3770	noun	3770	-	-	O	n	0	sg	583	een beschaafd en gevoelig karakter
+928	3775	3775	pronoun	3775	-	1	O	fm	1	sg	33	ik
+929	3780	3780	pronoun	3780	-	3	O	f	1	sg	921	zij
+930	3781	3781	pronoun	3781	-	3	O	fm	1	sg	3	zich
+931	3783	3784	noun	3784	-	-	O	n	0	sg	147	den stoel
+932	3787	3789	name	3789	PER	-	O	m	1	sg	3	dien Sherlock Holmes
+933	3790	3790	pronoun	3790	-	3	O	f	1	sg	921	haar
+934	3793	3793	pronoun	3793	-	3	O	f	1	sg	921	hare
+935	3794	3794	noun	3794	-	-	O	n	0	pl	935	lippen
+936	3797	3797	pronoun	3797	-	3	O	f	1	sg	921	hare
+937	3806	3807	noun	3807	-	-	O	-	-	sg	937	innerlijke opgewondenheid
+938	3810	3810	pronoun	3810	-	1	I	f	1	sg	921	Ik
+939	3813	3813	pronoun	3813	-	2	I	-	1	sg	3	u
+940	3816	3817	name	3817	PER	-	I	fm	1	sg	3	Mr. Holmes
+941	3821	3821	pronoun	3821	-	3	O	f	1	sg	921	zij
+942	3825	3825	pronoun	3825	-	2	I	fm	1	sg	3	gij
+943	3827	3828	noun	3828	-	-	I	f	1	sg	943	mijne meesteres
+944	3827	3827	pronoun	3827	-	1	I	f	1	sg	921	mijne
+945	3830	3832	name	3832	MISC	-	I	n	0	both	945	Mrs. Cecil Forrester
+946	3839	3840	noun	3840	-	-	I	n	0	sg	946	kleine aangelegenheid
+947	3842	3847	noun	3842	-	-	I	n	0	sg	947	een harer dienstboden in het reine
+948	3843	3847	noun	3844	-	-	I	f	1	pl	948	harer dienstboden in het reine
+949	3846	3847	noun	3847	-	-	I	n	0	sg	949	het reine
+950	3851	3851	pronoun	3851	-	3	I	f	1	sg	943	Zij
+951	3857	3858	noun	3858	-	-	I	m	1	sg	951	uwe dienstvaardigheid
+952	3857	3857	pronoun	3857	-	2	I	fm	1	both	952	uwe
+953	3860	3860	noun	3860	-	-	I	n	0	sg	953	bekwaamheid
+954	3864	3866	name	3866	MISC	-	I	n	0	both	945	Mrs. Cecil Forrester
+955	3870	3870	pronoun	3870	-	3	O	m	1	sg	951	hij
+956	3875	3875	pronoun	3875	-	1	I	m	1	sg	951	ik
+957	3878	3878	pronoun	3878	-	1	I	fm	1	sg	951	ik
+958	3879	3879	pronoun	3879	-	3	I	f	1	sg	943	haar
+959	3883	3883	noun	3883	-	-	I	f	1	sg	300	dienst
+960	3892	3892	pronoun	3892	-	1	I	fm	1	sg	951	ik
+961	3893	3893	pronoun	3893	-	1	I	fm	1	sg	951	mij
+962	3898	3901	noun	3901	-	-	I	n	0	sg	962	een hoogst eenvoudig geval
+963	3905	3905	pronoun	3905	-	3	I	f	1	sg	300	Zij
+964	3914	3914	pronoun	3914	-	1	I	fm	1	sg	964	mijne
+965	3916	3916	pronoun	3916	-	2	I	m	1	sg	951	gij
+966	3917	3917	pronoun	3917	-	3	I	n	0	sg	962	dit
+967	3923	3923	pronoun	3923	-	1	I	fm	1	sg	964	Ik
+968	3925	3925	pronoun	3925	-	1	I	fm	1	sg	964	mij
+969	3927	3929	noun	3929	-	-	I	n	0	pl	969	een meer vreemdsoortigen
+970	3931	3931	noun	3931	-	-	I	-	-	pl	970	onverklaarbaren
+971	3932	3932	noun	3932	-	-	I	n	0	sg	971	toestand
+972	3939	3939	pronoun	3939	-	1	I	fm	1	sg	964	ik
+973	3940	3940	pronoun	3940	-	1	I	fm	1	sg	964	mij
+974	3944	3944	name	3944	PER	-	O	m	1	sg	3	Holmes
+975	3946	3947	noun	3947	-	-	O	n	0	pl	435	zijne handen
+976	3946	3946	pronoun	3946	-	3	O	m	1	sg	3	zijne
+977	3949	3950	noun	3950	-	-	O	m	1	sg	19	zijne oogen
+978	3949	3949	pronoun	3949	-	3	O	m	1	sg	3	zijne
+979	3953	3953	pronoun	3953	-	3	O	m	1	sg	19	Hij
+980	3957	3964	noun	3958	-	-	O	n	0	sg	147	zijn stoel met eene uitdrukking van buitengewone aandacht
+981	3957	3957	pronoun	3957	-	3	O	m	1	sg	19	zijn
+982	3960	3964	noun	3961	-	-	O	n	0	sg	982	eene uitdrukking van buitengewone aandacht
+983	3963	3964	noun	3964	-	-	O	n	0	sg	983	buitengewone aandacht
+984	3966	3970	noun	3970	-	-	O	-	-	pl	984	zijne scherpe , havik-achtige trekken
+985	3966	3966	pronoun	3966	-	3	O	m	1	sg	19	zijne
+986	3974	3974	pronoun	3974	-	1	I	m	1	sg	19	mij
+987	3975	3976	noun	3976	-	-	I	n	0	sg	987	uw geval
+988	3975	3975	pronoun	3975	-	2	I	fm	1	both	988	uw
+989	3980	3980	pronoun	3980	-	3	O	m	1	sg	19	hij
+990	3985	3985	pronoun	3985	-	1	O	fm	1	sg	33	Ik
+991	3988	3990	noun	3990	-	-	O	n	0	sg	137	mijn toestand eenigszins
+992	3988	3988	pronoun	3988	-	1	O	fm	1	sg	33	mijn
+993	3995	3995	pronoun	3995	-	2	I	fm	1	sg	993	Gij
+994	3997	3997	pronoun	3997	-	1	I	fm	1	sg	33	mij
+995	4005	4005	pronoun	4005	-	1	O	fm	1	sg	33	ik
+996	4007	4008	noun	4008	-	-	O	n	0	sg	147	mijn stoel
+997	4007	4007	pronoun	4007	-	1	O	fm	1	sg	33	mijn
+998	4012	4013	noun	4013	-	-	O	n	0	sg	998	mijne verwondering
+999	4012	4012	pronoun	4012	-	1	O	fm	1	sg	33	mijne
+1000	4015	4018	noun	4018	-	-	O	f	1	sg	1000	de jonge dame hare
+1001	4020	4021	noun	4021	-	-	O	n	0	sg	433	gehandschoende hand
+1002	4026	4026	pronoun	4026	-	1	O	fm	1	sg	33	mij
+1003	4033	4034	noun	4034	-	-	I	m	1	sg	1003	uw vriend
+1004	4033	4033	pronoun	4033	-	2	I	fm	1	both	1004	uw
+1005	4046	4046	pronoun	4046	-	3	O	f	1	sg	1000	zij
+1006	4050	4050	pronoun	4050	-	3	I	m	1	sg	1003	hij
+1007	4051	4051	pronoun	4051	-	1	I	f	1	sg	1000	mij
+1008	4055	4055	noun	4055	-	-	I	f	1	sg	300	dienst
+1009	4060	4060	pronoun	4060	-	1	O	fm	1	sg	33	Ik
+1010	4062	4062	pronoun	4062	-	1	O	fm	1	sg	33	mij
+1011	4068	4069	noun	4069	-	-	I	-	-	-	1011	het kort
+1012	4071	4072	noun	4072	-	-	I	n	0	pl	244	de feiten
+1013	4078	4078	pronoun	4078	-	3	O	f	1	sg	1000	zij
+1014	4081	4082	noun	4082	-	-	I	fm	1	sg	300	Mijn vader
+1015	4081	4081	pronoun	4081	-	1	I	fm	1	sg	1015	Mijn
+1016	4084	4086	noun	4084	-	-	I	fm	1	sg	1016	officier in Indischen
+1017	4087	4087	noun	4087	-	-	I	fm	1	sg	300	dienst
+1018	4089	4089	pronoun	4089	-	-	I	fm	1	sg	300	die
+1019	4090	4090	pronoun	4090	-	1	I	fm	1	sg	1015	mij
+1020	4093	4093	pronoun	4093	-	1	I	fm	1	sg	1015	ik
+1021	4095	4096	noun	4096	-	-	I	fm	1	sg	1015	een kind
+1022	4100	4101	noun	4101	-	-	I	n	0	sg	1022	het vaderland
+1023	4104	4105	noun	4105	-	-	I	f	1	sg	1023	Mijne moeder
+1024	4104	4104	pronoun	4104	-	1	I	fm	1	sg	1015	Mijne
+1025	4110	4110	pronoun	4110	-	1	I	fm	1	sg	1015	ik
+1026	4112	4115	noun	4113	-	-	I	n	0	pl	1026	geene betrekkingen in Engeland
+1027	4115	4115	name	4115	LOC	-	I	n	0	sg	798	Engeland
+1028	4117	4117	pronoun	4117	-	1	I	fm	1	sg	1015	Ik
+1029	4121	4125	noun	4123	-	-	I	n	0	sg	1029	een net opvoedingsgesticht te Edinburgh
+1030	4125	4125	name	4125	LOC	-	I	n	0	sg	1030	Edinburgh
+1031	4129	4129	pronoun	4129	-	1	I	fm	1	sg	1015	ik
+1032	4131	4131	pronoun	4131	-	1	I	fm	1	sg	1015	mijn
+1033	4141	4142	noun	4142	-	-	I	m	1	sg	300	mijn vader
+1034	4141	4141	pronoun	4141	-	1	I	fm	1	sg	1015	mijn
+1035	4144	4144	pronoun	4144	-	-	I	m	1	sg	300	die
+1036	4146	4151	noun	4148	-	-	I	fm	1	sg	1036	de oudste kapitein bij zijn regiment
+1037	4150	4151	noun	4151	-	-	I	n	0	sg	1037	zijn regiment
+1038	4150	4150	pronoun	4150	-	3	I	m	1	sg	300	zijn
+1039	4156	4156	noun	4156	-	-	I	n	0	sg	1039	verlof
+1040	4161	4161	name	4161	LOC	-	I	n	0	sg	798	Engeland
+1041	4163	4163	pronoun	4163	-	3	I	m	1	sg	300	Hij
+1042	4165	4165	pronoun	4165	-	1	I	fm	1	sg	1015	mij
+1043	4167	4167	name	4167	LOC	-	I	n	0	sg	1043	Londen
+1044	4169	4169	pronoun	4169	-	3	I	m	1	sg	300	hij
+1045	4176	4176	noun	4176	-	-	I	m	1	sg	1045	noodigde
+1046	4177	4177	pronoun	4177	-	1	I	fm	1	sg	1015	mij
+1047	4186	4186	pronoun	4186	-	3	I	m	1	sg	1045	hij
+1048	4187	4187	pronoun	4187	-	1	I	fm	1	sg	1015	mij
+1049	4188	4190	name	4190	ORG	-	I	n	0	sg	1049	het Langham Hôtel
+1050	4192	4193	noun	4193	-	-	I	n	0	sg	1050	zijn adres
+1051	4192	4192	pronoun	4192	-	3	I	m	1	sg	1045	zijn
+1052	4196	4196	pronoun	4196	-	1	I	fm	1	sg	1015	Ik
+1053	4198	4198	pronoun	4198	-	1	I	fm	1	sg	1015	mij
+1054	4200	4201	noun	4201	-	-	I	n	0	sg	1054	zijn bericht
+1055	4200	4200	pronoun	4200	-	3	I	m	1	sg	1045	zijn
+1056	4203	4203	noun	4203	-	-	I	n	0	sg	1056	verlangen
+1057	4205	4205	noun	4205	-	-	I	n	0	sg	1057	liefde
+1058	4209	4209	pronoun	4209	-	1	I	fm	1	sg	1015	ik
+1059	4211	4211	name	4211	LOC	-	I	n	0	sg	1043	Londen
+1060	4215	4215	pronoun	4215	-	1	I	fm	1	sg	1015	ik
+1061	4217	4217	name	4217	LOC	-	I	m	1	sg	1061	Langham
+1062	4222	4223	name	4223	PER	-	I	m	1	sg	883	kapitein Morstan
+1063	4229	4229	pronoun	4229	-	3	I	m	1	sg	883	hij
+1064	4243	4243	pronoun	4243	-	1	I	fm	1	sg	1015	Ik
+1065	4245	4246	noun	4246	-	-	I	n	0	sg	529	den ganschen
+1066	4252	4252	pronoun	4252	-	3	I	m	1	sg	883	hem
+1067	4259	4259	pronoun	4259	-	1	I	fm	1	sg	1015	ik
+1068	4264	4265	name	4265	MISC	-	I	n	0	both	1068	den hôtelhouder
+1069	4267	4268	noun	4268	-	-	I	-	-	sg	1069	de politie
+1070	4271	4271	noun	4271	-	-	I	f	1	sg	1	kennis
+1071	4273	4273	noun	4273	-	-	I	n	0	sg	21	den
+1072	4277	4277	pronoun	4277	-	1	I	fm	1	pl	1072	wij
+1073	4279	4279	noun	4279	-	-	I	n	0	sg	1073	oproeping
+1074	4284	4285	noun	4285	-	-	I	n	0	pl	1074	Onze onderzoekingen
+1075	4284	4284	pronoun	4284	-	1	I	fm	1	pl	1072	Onze
+1076	4289	4291	noun	4291	-	-	I	n	0	sg	1076	het minste resultaat
+1077	4300	4300	noun	4300	-	-	I	n	0	sg	1077	heden
+1078	4302	4302	pronoun	4302	-	1	I	fm	1	sg	1015	ik
+1079	4305	4309	noun	4306	-	-	I	n	0	sg	1079	een woord van mijn ongelukkigen
+1080	4308	4309	noun	4309	-	-	I	n	0	pl	706	mijn ongelukkigen
+1081	4308	4308	pronoun	4308	-	1	I	fm	1	sg	1015	mijn
+1082	4310	4310	noun	4310	-	-	I	m	1	sg	300	vader
+1083	4313	4313	pronoun	4313	-	3	I	m	1	sg	300	Hij
+1084	4316	4317	noun	4317	-	-	I	n	0	sg	1022	het vaderland
+1085	4319	4324	noun	4320	-	-	I	n	0	sg	1085	een hart vol hoop en liefde
+1086	4322	4322	noun	4322	-	-	I	m	1	sg	1086	hoop
+1087	4324	4324	noun	4324	-	-	I	n	0	sg	1057	liefde
+1088	4328	4329	noun	4329	-	-	I	n	0	sg	1088	eenige rust
+1089	4331	4332	noun	4332	-	-	I	n	0	sg	1089	vaderlijk genoegen
+1090	4338	4338	noun	4338	-	-	I	n	0	sg	1090	stede
+1091	4342	4342	pronoun	4342	-	3	O	f	1	sg	1	Zij
+1092	4344	4345	noun	4345	-	-	O	n	0	sg	433	haar hand
+1093	4344	4344	pronoun	4344	-	3	O	f	1	sg	1	haar
+1094	4347	4347	pronoun	4347	-	3	O	f	1	sg	1	hare
+1095	4351	4353	noun	4353	-	-	O	n	0	sg	1095	een korte snik
+1096	4355	4356	noun	4356	-	-	O	n	0	sg	1096	den volzin
+1097	4364	4364	name	4364	PER	-	O	m	1	sg	3	Holmes
+1098	4366	4367	noun	4367	-	-	O	n	0	sg	1098	zijn notitie-boek
+1099	4366	4366	pronoun	4366	-	3	O	m	1	sg	3	zijn
+1100	4371	4371	pronoun	4371	-	3	I	m	1	sg	300	Hij
+1101	4374	4375	noun	4375	-	-	I	n	0	sg	1101	den 3en
+1102	4387	4388	noun	4388	-	-	I	n	0	sg	1102	Zijn bagage
+1103	4387	4387	pronoun	4387	-	3	I	m	1	sg	300	Zijn
+1104	4394	4395	noun	4395	-	-	I	n	0	sg	1104	het hôtel
+1105	4402	4402	pronoun	4402	-	3	I	n	0	sg	1105	dat
+1106	4404	4405	noun	4405	-	-	I	n	0	sg	1106	eenige opheldering
+1107	4412	4413	noun	4413	-	-	I	n	0	pl	1107	eenige boeken
+1108	4420	4421	noun	4421	-	-	I	n	0	pl	1108	de Andaman-eilanden
+1109	4423	4423	pronoun	4423	-	3	I	m	1	sg	300	Hij
+1110	4426	4427	noun	4427	-	-	I	fm	1	pl	1110	der officieren
+1111	4429	4429	pronoun	4429	-	-	I	fm	1	pl	1110	die
+1112	4431	4436	noun	4432	-	-	I	-	-	sg	1112	de bewaking der daar verbannen misdadigers
+1113	4433	4436	noun	4436	-	-	I	fm	1	pl	1113	der daar verbannen misdadigers
+1114	4443	4443	pronoun	4443	-	3	I	m	1	sg	300	hij
+1115	4444	4450	noun	4447	-	-	I	m	1	sg	1115	een of ander vriend in de stad
+1116	4449	4450	noun	4450	-	-	I	n	0	sg	1116	de stad
+1117	4454	4454	name	4454	PER	-	I	fm	1	sg	1117	Zoover
+1118	4455	4455	pronoun	4455	-	1	I	fm	1	pl	1118	wij
+1119	4458	4458	noun	4458	-	-	I	n	0	sg	947	een
+1120	4461	4467	name	4463	PER	-	I	m	1	sg	883	zekere Majoor Sholto van zijn eigen regiment
+1121	4465	4467	noun	4467	-	-	I	n	0	sg	1121	zijn eigen regiment
+1122	4465	4465	pronoun	4465	-	3	I	n	0	sg	947	zijn
+1123	4469	4471	name	4471	MISC	-	I	n	0	sg	1123	het 34e Bombay-Infanterie
+1124	4473	4474	name	4474	PER	-	I	m	1	sg	883	De Majoor
+1125	4479	4480	noun	4480	-	-	I	fn	-	sg	300	den dienst
+1126	4481	4481	noun	4481	-	-	I	n	0	sg	1126	vaarwel
+1127	4486	4487	name	4487	PER	-	I	mn	-	sg	883	Upper Norwood
+1128	4489	4489	pronoun	4489	-	1	I	fm	1	pl	1118	Wij
+1129	4491	4491	pronoun	4491	-	3	I	m	1	sg	883	hem
+1130	4494	4495	noun	4495	-	-	I	n	0	sg	213	het geval
+1131	4502	4502	pronoun	4502	-	3	I	m	1	sg	883	hem
+1132	4506	4509	noun	4507	-	-	I	n	0	sg	1132	zijn mede-officier in Engeland
+1133	4506	4506	pronoun	4506	-	3	I	m	1	sg	883	zijn
+1134	4509	4509	name	4509	LOC	-	I	n	0	sg	798	Engeland
+1135	4514	4516	noun	4516	-	-	I	n	0	sg	1135	Een vreemdsoortig geval
+1136	4520	4520	name	4520	PER	-	O	m	1	sg	3	Holmes
+1137	4524	4526	noun	4525	-	-	I	-	-	sg	1137	Het vreemdsoortige ervan
+1138	4528	4528	pronoun	4528	-	1	I	fm	1	sg	1138	ik
+1139	4529	4529	pronoun	4529	-	2	I	m	1	sg	3	u
+1140	4549	4551	name	4551	MISC	-	I	f	1	pl	1140	den 4en Mei
+1141	4557	4560	noun	4558	-	-	I	n	0	sg	1141	een advertentie in de
+1142	4560	4560	noun	4560	-	-	I	m	1	sg	1142	de
+1143	4569	4574	noun	4570	-	-	I	n	0	sg	1050	het adres van Miss Mary Morstan
+1144	4572	4574	name	4574	PER	-	I	n	0	sg	883	Miss Mary Morstan
+1145	4577	4578	noun	4578	-	-	I	n	0	sg	1145	de verklaring
+1146	4582	4583	noun	4583	-	-	I	n	0	sg	1146	haar belang
+1147	4582	4582	pronoun	4582	-	3	I	n	0	sg	1141	haar
+1148	4587	4587	pronoun	4587	-	3	I	n	0	sg	1141	zich
+1149	4595	4595	noun	4595	-	-	I	n	0	sg	200	naam
+1150	4598	4598	noun	4598	-	-	I	n	0	sg	1050	adres
+1151	4602	4602	pronoun	4602	-	1	I	fm	1	sg	1151	Ik
+1152	4605	4606	noun	4606	-	-	I	n	0	sg	1152	dat tijdstip
+1153	4609	4614	noun	4610	-	-	I	n	0	sg	1153	het gezin van Mrs. Cecil Forrester
+1154	4612	4614	name	4614	MISC	-	I	n	0	both	945	Mrs. Cecil Forrester
+1155	4616	4616	noun	4616	-	-	I	f	1	sg	1155	gouvernante
+1156	4618	4618	noun	4618	-	-	I	n	0	sg	1156	betrekking
+1157	4622	4623	noun	4623	-	-	I	n	0	sg	1157	haar raad
+1158	4622	4622	pronoun	4622	-	3	I	n	0	sg	1156	haar
+1159	4625	4625	pronoun	4625	-	1	I	fm	1	sg	1151	ik
+1160	4627	4627	noun	4627	-	-	I	n	0	sg	1141	advertentie
+1161	4628	4629	noun	4629	-	-	I	n	0	sg	1161	mijn adres
+1162	4628	4628	pronoun	4628	-	1	I	fm	1	sg	1151	mijn
+1163	4634	4635	noun	4634	-	-	I	-	-	sg	1163	dienzelfden dag
+1164	4639	4640	noun	4640	-	-	I	n	-	pl	1164	de post
+1165	4641	4646	noun	4646	-	-	I	n	0	sg	1165	een aan mij geadresseerd kartonnen doosje
+1166	4643	4643	pronoun	4643	-	1	I	fm	1	sg	1151	mij
+1167	4650	4650	pronoun	4650	-	3	I	n	0	sg	1165	zich
+1168	4651	4653	noun	4653	-	-	I	n	-	sg	130	een zeer groote
+1169	4655	4656	noun	4656	-	-	I	n	0	sg	1165	schitterende parel
+1170	4676	4678	noun	4678	-	-	I	n	0	sg	1170	een gelijksoortige doos
+1171	4680	4680	pronoun	4680	-	-	I	n	0	sg	1170	die
+1172	4681	4683	noun	4683	-	-	I	n	0	sg	1172	een zelfde parel
+1173	4687	4691	noun	4688	-	-	I	n	0	sg	1173	eenige aanwijzing omtrent den afzender
+1174	4690	4691	noun	4691	-	-	I	fm	1	sg	1174	den afzender
+1175	4693	4693	pronoun	4693	-	3	I	f	1	pl	1140	Zij
+1176	4696	4697	noun	4697	-	-	I	n	0	sg	1176	een deskundige
+1177	4703	4703	pronoun	4703	-	3	I	f	1	pl	1140	zij
+1178	4707	4710	noun	4710	-	-	I	n	0	sg	1178	van buitengewoon groote waarde
+1179	4708	4709	noun	4709	-	-	I	n	0	sg	130	buitengewoon groote
+1180	4713	4713	pronoun	4713	-	2	I	fm	1	sg	1180	Gij
+1181	4716	4716	noun	4716	-	-	I	f	1	sg	1181	oordeelen
+1182	4719	4719	pronoun	4719	-	3	I	f	1	pl	1140	zij
+1183	4723	4723	pronoun	4723	-	3	O	f	1	sg	1181	Zij
+1184	4725	4727	noun	4727	-	-	O	n	0	sg	1184	een platte doos
+1185	4731	4731	pronoun	4731	-	1	O	fm	1	sg	33	mij
+1186	4733	4735	noun	4735	-	-	O	-	-	sg	1186	der prachtigste paarlen
+1187	4733	4733	pronoun	4733	-	3	O	f	1	sg	1181	der
+1188	4736	4736	pronoun	4736	-	-	O	-	-	sg	1186	die
+1189	4737	4737	pronoun	4737	-	1	O	fm	1	sg	33	ik
+1190	4743	4744	noun	4744	-	-	I	n	0	sg	1190	Uw verhaal
+1191	4743	4743	pronoun	4743	-	2	I	fm	1	both	1191	Uw
+1192	4751	4752	name	4752	PER	-	O	m	1	sg	3	Sherlock Holmes
+1193	4756	4756	pronoun	4756	-	2	I	fm	1	sg	1193	u
+1194	4767	4770	noun	4770	-	-	I	n	0	sg	1194	dat wel juist heden
+1195	4774	4775	noun	4775	-	-	I	n	0	sg	1195	de reden
+1196	4777	4777	pronoun	4777	-	1	I	fm	1	sg	1196	ik
+1197	4779	4779	pronoun	4779	-	2	I	m	1	sg	3	u
+1198	4785	4785	pronoun	4785	-	1	I	fm	1	sg	1196	ik
+1199	4786	4787	noun	4787	-	-	I	n	0	sg	324	dezen brief
+1200	4789	4789	pronoun	4789	-	3	I	n	0	sg	1195	dien
+1201	4790	4790	pronoun	4790	-	2	I	fm	1	sg	3	gij
+1202	4800	4800	pronoun	4800	-	2	I	fm	1	sg	1202	u
+1203	4804	4804	name	4804	PER	-	O	m	1	sg	3	Holmes
+1204	4807	4808	noun	4808	-	-	I	-	-	sg	1204	de enveloppe
+1205	4812	4812	pronoun	4812	-	2	I	fm	1	sg	1205	u
+1206	4817	4817	name	4817	LOC	-	I	n	0	sg	1043	Londen
+1207	4818	4820	name	4820	PER	-	I	m	1	sg	1207	S. W. Datum
+1208	4825	4825	name	4825	LOC	-	I	n	0	sg	1208	Hum
+1209	4827	4834	noun	4828	-	-	I	n	0	sg	1209	De afdruk van een mansduim in den hoek
+1210	4830	4834	noun	4831	-	-	I	n	0	sg	1210	een mansduim in den hoek
+1211	4833	4834	noun	4834	-	-	I	n	0	sg	1211	den hoek
+1212	4839	4840	noun	4840	-	-	I	n	0	sg	1212	den besteller
+1213	4842	4843	noun	4843	-	-	I	-	-	sg	1213	Beste kwaliteit
+1214	4846	4848	noun	4846	-	-	I	n	0	sg	1214	Enveloppe van six-pence
+1215	4848	4848	noun	4848	-	-	I	-	-	pl	1215	six-pence
+1216	4849	4850	noun	4850	-	-	I	n	0	sg	1216	het pak
+1217	4852	4854	noun	4854	-	-	I	m	1	sg	104	Een zonderling man
+1218	4867	4875	noun	4869	-	-	O	n	0	sg	1218	den derden pilaar van de linkerbuitenzijde van het Lyceum-Theatre
+1219	4871	4875	noun	4872	-	-	O	-	-	sg	1219	de linkerbuitenzijde van het Lyceum-Theatre
+1220	4874	4875	name	4875	LOC	-	O	n	0	sg	1220	het Lyceum-Theatre
+1221	4878	4878	pronoun	4878	-	2	O	f	1	sg	1221	gij
+1222	4885	4885	noun	4885	-	-	O	m	1	pl	1222	vrienden
+1223	4888	4888	pronoun	4888	-	2	O	f	1	sg	1221	Gij
+1224	4890	4893	noun	4893	-	-	O	f	1	sg	1221	een slecht behandeld meisje
+1225	4895	4895	pronoun	4895	-	2	O	f	1	sg	1221	u
+1226	4897	4897	noun	4897	-	-	O	n	0	sg	1226	gerechtigheid
+1227	4906	4906	pronoun	4906	-	2	O	f	1	sg	1221	gij
+1228	4907	4907	pronoun	4907	-	3	O	n	0	sg	1226	dit
+1229	4915	4917	noun	4917	-	-	O	m	1	sg	1229	Uw onbekende vriend
+1230	4915	4915	pronoun	4915	-	2	O	fm	1	both	1230	Uw
+1231	4925	4928	noun	4928	-	-	I	n	0	sg	87	een zeer aardig geheim
+1232	4932	4932	pronoun	4932	-	2	I	f	1	sg	1221	gij
+1233	4936	4937	name	4937	PER	-	I	n	0	sg	883	Miss Morstan
+1234	4944	4945	noun	4945	-	-	I	n	0	sg	1234	de vraag
+1235	4946	4946	pronoun	4946	-	-	I	n	0	sg	1234	die
+1236	4947	4947	pronoun	4947	-	1	I	f	1	sg	1221	ik
+1237	4948	4948	pronoun	4948	-	2	I	fm	1	sg	1237	u
+1238	4956	4956	pronoun	4956	-	1	I	fm	1	pl	1238	wij
+1239	4962	4962	pronoun	4962	-	2	I	f	1	sg	1221	gij
+1240	4964	4964	pronoun	4964	-	1	I	fm	1	sg	1240	ik
+1241	4970	4971	name	4971	PER	-	I	m	1	sg	104	Dr. Watson
+1242	4974	4976	noun	4976	-	-	I	m	1	sg	104	de rechte man
+1243	4978	4979	noun	4979	-	-	I	m	1	sg	1243	Uw briefschrijver
+1244	4978	4978	pronoun	4978	-	2	I	fm	1	both	1244	Uw
+1245	4982	4983	noun	4983	-	-	I	m	1	pl	1222	twee vrienden
+1246	4985	4985	pronoun	4985	-	3	I	m	1	sg	1243	Hij
+1247	4987	4987	pronoun	4987	-	1	I	fm	1	sg	1240	ik
+1248	4997	4997	pronoun	4997	-	3	I	m	1	sg	1243	hij
+1249	5003	5003	pronoun	5003	-	3	O	f	1	sg	1221	zij
+1250	5008	5009	noun	5009	-	-	O	n	0	sg	1250	haar stem
+1251	5008	5008	pronoun	5008	-	3	O	f	1	sg	1221	haar
+1252	5012	5012	pronoun	5012	-	1	I	fm	1	sg	33	Ik
+1253	5014	5014	pronoun	5014	-	1	I	fm	1	sg	33	mij
+1254	5018	5019	noun	5019	-	-	I	-	-	sg	247	er eene
+1255	5020	5020	noun	5020	-	-	I	n	0	sg	1255	eer
+1256	5026	5026	pronoun	5026	-	1	O	fm	1	sg	33	ik
+1257	5031	5031	pronoun	5031	-	1	I	fm	1	sg	33	ik
+1258	5032	5032	pronoun	5032	-	2	I	fm	1	sg	1258	u
+1259	5034	5035	noun	5035	-	-	I	n	0	sg	1259	eenig opzicht
+1260	5037	5037	noun	5037	-	-	I	f	1	sg	300	dienst
+1261	5044	5044	pronoun	5044	-	2	I	fm	1	sg	1261	Gij
+1262	5052	5052	pronoun	5052	-	3	O	f	1	sg	300	zij
+1263	5055	5055	pronoun	5055	-	1	I	f	1	sg	300	ik
+1264	5063	5064	noun	5064	-	-	I	m	1	pl	1264	geene vrienden
+1265	5066	5066	pronoun	5066	-	1	I	fm	1	sg	300	ik
+1266	5067	5067	pronoun	5067	-	1	I	fm	1	sg	300	mij
+1267	5073	5073	pronoun	5073	-	1	I	fm	1	sg	300	ik
+1268	5084	5084	pronoun	5084	-	1	I	fm	1	sg	300	ik
+1269	5102	5102	name	5102	PER	-	O	m	1	sg	3	Holmes
+1270	5109	5110	noun	5110	-	-	I	n	0	sg	1234	een vraag
+1271	5113	5114	noun	5114	-	-	I	n	0	sg	420	dit handschrift
+1272	5115	5117	noun	5115	-	-	I	n	0	sg	420	hetzelfde als dat
+1273	5119	5126	noun	5120	-	-	I	n	0	pl	1273	de adressen op de doosjes met de paarlen
+1274	5122	5126	noun	5123	-	-	I	n	0	pl	1274	de doosjes met de paarlen
+1275	5125	5126	noun	5126	-	-	I	-	-	sg	1186	de paarlen
+1276	5130	5130	pronoun	5130	-	1	I	f	1	sg	300	Ik
+1277	5132	5132	pronoun	5132	-	3	I	n	0	pl	1274	ze
+1278	5134	5134	pronoun	5134	-	1	I	fm	1	sg	300	mij
+1279	5138	5138	pronoun	5138	-	3	O	f	1	sg	300	zij
+1280	5141	5141	pronoun	5141	-	3	O	f	1	sg	300	zij
+1281	5142	5142	pronoun	5142	-	3	O	m	1	sg	3	hem
+1282	5143	5147	noun	5145	-	-	O	n	0	sg	1282	een half dozijn stukjes papier
+1283	5146	5147	noun	5146	-	-	O	n	0	pl	1283	stukjes papier
+1284	5151	5151	pronoun	5151	-	2	I	f	1	sg	300	Gij
+1285	5154	5155	noun	5155	-	-	I	n	0	sg	1285	een model-cliënt
+1286	5162	5162	pronoun	5162	-	1	I	fm	1	pl	1286	ons
+1287	5168	5168	pronoun	5168	-	3	O	m	1	sg	3	Hij
+1288	5170	5174	noun	5171	-	-	O	n	0	pl	1288	de papiertjes op de tafel
+1289	5173	5174	noun	5174	-	-	O	n	0	sg	1289	de tafel
+1290	5179	5180	noun	5180	-	-	O	n	0	sg	318	het een
+1291	5182	5183	noun	5183	-	-	O	-	-	sg	466	het andere
+1292	5186	5186	pronoun	5186	-	3	I	m	1	pl	1264	Zij
+1293	5189	5191	noun	5191	-	-	I	n	0	sg	433	een verdraaide hand
+1294	5195	5196	noun	5196	-	-	I	-	-	sg	324	de brief
+1295	5200	5200	pronoun	5200	-	3	O	m	1	sg	3	hij
+1296	5210	5211	noun	5211	-	-	I	fm	1	sg	1296	de schrijver
+1297	5218	5219	name	5219	MISC	-	I	n	0	sg	1297	de #e#
+1298	5225	5229	noun	5226	-	-	I	n	0	sg	1298	de krul van de #s#
+1299	5228	5229	name	5229	MISC	-	I	n	0	pl	1299	de #s#
+1300	5231	5231	pronoun	5231	-	3	I	n	0	pl	1299	Die
+1301	5235	5235	noun	5235	-	-	I	-	-	sg	1301	denzelfden
+1302	5238	5238	pronoun	5238	-	1	I	m	1	sg	3	Ik
+1303	5242	5245	noun	5243	-	-	I	-	-	sg	1303	ijdele hoop bij u
+1304	5245	5245	pronoun	5245	-	2	I	fm	1	sg	1304	u
+1305	5248	5249	name	5249	PER	-	I	n	0	sg	883	Miss Morstan
+1306	5254	5256	noun	5256	-	-	I	n	0	sg	87	eenige overeenkomst tusschen
+1307	5257	5258	noun	5258	-	-	I	n	0	sg	433	deze hand
+1308	5260	5260	pronoun	5260	-	3	I	-	-	sg	1303	die
+1309	5262	5263	noun	5263	-	-	I	m	1	sg	300	uwen vader
+1310	5262	5262	pronoun	5262	-	2	I	fm	1	both	1310	uwen
+1311	5274	5275	noun	5275	-	-	I	n	0	sg	1311	Dit antwoord
+1312	5277	5277	pronoun	5277	-	1	I	m	1	sg	3	ik
+1313	5279	5279	pronoun	5279	-	1	I	fm	1	pl	1313	Wij
+1314	5281	5281	pronoun	5281	-	2	I	fm	1	sg	1314	u
+1315	5293	5293	pronoun	5293	-	1	I	fm	1	sg	3	mij
+1316	5294	5295	noun	5295	-	-	I	n	0	pl	1316	de papieren
+1317	5300	5300	pronoun	5300	-	1	I	fm	1	sg	3	ik
+1318	5301	5302	noun	5302	-	-	I	n	0	sg	191	de zaak
+1319	5312	5313	name	5313	PER	-	I	-	-	sg	1319	=Au revoir=
+1320	5319	5320	name	5320	MISC	-	I	-	-	sg	1319	=Au revoir=
+1321	5324	5325	noun	5325	-	-	O	-	-	sg	1321	onze bezoekster
+1322	5324	5324	pronoun	5324	-	1	O	fm	1	pl	873	onze
+1323	5328	5334	noun	5331	-	-	O	fn	-	sg	1323	met een vriendelijken blik op ons beiden
+1324	5333	5333	pronoun	5333	-	1	O	fm	1	pl	873	ons
+1325	5338	5341	noun	5339	-	-	O	n	0	sg	1325	haar doos met paarlen
+1326	5338	5338	pronoun	5338	-	3	O	fn	-	sg	1323	haar
+1327	5341	5341	noun	5341	-	-	O	fn	1	sg	1186	paarlen
+1328	5350	5351	noun	5351	-	-	O	n	0	sg	898	het vertrek
+1329	5353	5353	pronoun	5353	-	1	O	fm	1	sg	33	Mij
+1330	5355	5357	noun	5356	-	-	O	n	0	sg	1330	het venster plaatsende
+1331	5359	5359	pronoun	5359	-	1	O	fm	1	sg	33	ik
+1332	5360	5360	pronoun	5360	-	3	O	fn	1	sg	1186	haar
+1333	5362	5364	noun	5364	-	-	O	-	-	sg	1333	de straat afloopen
+1334	5367	5373	noun	5369	-	-	O	n	0	sg	1334	haar grijs hoedje met de witte veder
+1335	5367	5367	pronoun	5367	-	3	O	fn	1	sg	1186	haar
+1336	5371	5373	noun	5373	-	-	O	n	0	sg	913	de witte veder
+1337	5375	5376	noun	5376	-	-	O	n	0	sg	1337	een vogel
+1338	5379	5381	noun	5381	-	-	O	n	0	sg	1338	de dichte menigte
+1339	5384	5387	noun	5387	-	-	I	f	1	sg	1339	Wat een aantrekkelijke vrouw
+1340	5384	5384	pronoun	5384	-	3	I	n	0	sg	1334	Wat
+1341	5391	5391	pronoun	5391	-	1	O	fm	1	sg	33	ik
+1342	5394	5394	pronoun	5394	-	1	O	fm	1	sg	33	mij
+1343	5396	5397	noun	5397	-	-	O	m	1	sg	53	mijn metgezel
+1344	5396	5396	pronoun	5396	-	1	O	fm	1	sg	33	mijn
+1345	5400	5400	pronoun	5400	-	3	O	m	1	sg	53	Hij
+1346	5402	5403	noun	5403	-	-	O	n	0	sg	291	zijn pijp
+1347	5402	5402	pronoun	5402	-	3	O	m	1	sg	53	zijn
+1348	5409	5410	noun	5410	-	-	O	f	1	sg	1348	halfgesloten oogen
+1349	5413	5414	noun	5414	-	-	O	n	0	sg	1349	zijn fauteuil
+1350	5413	5413	pronoun	5413	-	3	O	m	1	sg	53	zijn
+1351	5418	5418	pronoun	5418	-	3	I	f	1	sg	1348	zij
+1352	5423	5423	pronoun	5423	-	3	O	m	1	sg	53	hij
+1353	5429	5429	pronoun	5429	-	1	I	m	1	sg	53	ik
+1354	5437	5437	pronoun	5437	-	2	I	m	1	sg	53	Gij
+1355	5440	5441	noun	5441	-	-	I	m	1	sg	53	een automaat
+1356	5444	5445	noun	5445	-	-	I	n	0	sg	1356	een rekenmachine
+1357	5449	5449	pronoun	5449	-	1	O	fm	1	sg	33	ik
+1358	5459	5459	pronoun	5459	-	2	I	fm	1	sg	1358	u
+1359	5462	5462	pronoun	5462	-	3	O	m	1	sg	53	Hij
+1360	5470	5472	noun	5472	-	-	I	n	0	sg	395	het grootste belang
+1361	5476	5476	pronoun	5476	-	3	O	m	1	sg	53	hij
+1362	5479	5480	noun	5480	-	-	I	n	0	sg	581	uw oordeel
+1363	5479	5479	pronoun	5479	-	2	I	fm	1	both	1363	uw
+1364	5486	5487	noun	5487	-	-	I	n	0	pl	1364	persoonlijke eigenschappen
+1365	5489	5490	noun	5490	-	-	I	-	-	sg	1365	Een cliënt
+1366	5493	5493	pronoun	5493	-	1	I	m	1	sg	53	mij
+1367	5495	5496	noun	5496	-	-	I	-	-	sg	1365	eene eenheid
+1368	5498	5502	noun	5499	-	-	I	n	0	sg	1368	een factor in een vraagstuk
+1369	5501	5502	noun	5502	-	-	I	n	0	sg	727	een vraagstuk
+1370	5504	5509	noun	5509	-	-	I	n	0	pl	1370	De op het gemoed werkende eigenschappen
+1371	5506	5507	noun	5507	-	-	I	n	0	sg	1371	het gemoed
+1372	5511	5513	noun	5513	-	-	I	n	0	sg	1372	een zuivere redeneering
+1373	5518	5518	pronoun	5518	-	1	I	fm	1	sg	53	Ik
+1374	5520	5520	pronoun	5520	-	2	I	fm	1	sg	1374	u
+1375	5521	5522	noun	5522	-	-	I	n	0	sg	733	de verzekering
+1376	5524	5526	noun	5526	-	-	I	f	1	sg	1339	de bekoorlijkste vrouw
+1377	5528	5528	pronoun	5528	-	-	I	f	1	sg	1339	die
+1378	5529	5529	pronoun	5529	-	1	I	fm	1	sg	53	ik
+1379	5540	5542	noun	5542	-	-	I	fm	1	pl	1379	drie kleine kinderen
+1380	5544	5544	pronoun	5544	-	3	I	f	1	sg	1339	hunne
+1381	5551	5556	noun	5553	-	-	I	m	1	sg	104	de terugstootendste man onder mijne bekenden
+1382	5555	5556	noun	5556	-	-	I	fm	1	pl	1382	mijne bekenden
+1383	5555	5555	pronoun	5555	-	1	I	fm	1	sg	53	mijne
+1384	5557	5558	noun	5558	-	-	I	m	1	sg	104	een filantroop
+1385	5561	5561	pronoun	5561	-	-	I	m	1	sg	104	die
+1386	5563	5570	noun	5565	-	-	I	n	0	sg	1386	een kwart millioen aan de armen van Londen
+1387	5567	5570	noun	5568	-	-	I	n	0	pl	1387	de armen van Londen
+1388	5570	5570	name	5570	LOC	-	I	n	0	sg	1043	Londen
+1389	5577	5578	noun	5578	-	-	I	n	0	sg	213	dit geval
+1390	5584	5584	pronoun	5584	-	1	I	m	1	sg	53	Ik
+1391	5587	5587	noun	5587	-	-	I	n	0	pl	1391	uitzonderingen
+1392	5589	5590	noun	5590	-	-	I	n	0	sg	1392	Een uitzondering
+1393	5594	5595	noun	5595	-	-	I	n	0	sg	662	den regel
+1394	5598	5598	pronoun	5598	-	2	I	fm	1	sg	33	gij
+1395	5601	5602	noun	5602	-	-	I	n	0	sg	457	de gelegenheid
+1396	5608	5609	noun	5609	-	-	I	n	0	sg	420	een handschrift
+1397	5610	5611	noun	5611	-	-	I	n	0	sg	1397	een karakter-studie
+1398	5618	5625	noun	5619	-	-	I	n	0	sg	581	uw oordeel omtrent het geschrijf van dezen knaap
+1399	5618	5618	pronoun	5618	-	2	I	fm	1	both	1399	uw
+1400	5621	5625	noun	5622	-	-	I	n	0	sg	1400	het geschrijf van dezen knaap
+1401	5624	5625	noun	5625	-	-	I	m	1	sg	1401	dezen knaap
+1402	5637	5637	pronoun	5637	-	1	O	fm	1	sg	33	ik
+1403	5640	5648	noun	5641	-	-	I	m	1	sg	104	Een man van zaken en tamelijk vast van karakter
+1404	5643	5643	noun	5643	-	-	I	n	0	pl	1404	zaken
+1405	5648	5648	noun	5648	-	-	I	n	0	sg	583	karakter
+1406	5651	5651	name	5651	PER	-	O	m	1	sg	3	Holmes
+1407	5653	5654	noun	5654	-	-	O	n	0	sg	226	het hoofd
+1408	5661	5663	noun	5663	-	-	I	n	0	pl	1408	zijn lange letters
+1409	5661	5661	pronoun	5661	-	3	I	m	1	sg	3	zijn
+1410	5667	5667	pronoun	5667	-	3	O	m	1	sg	104	hij
+1411	5670	5670	pronoun	5670	-	3	I	fm	1	pl	1382	zij
+1412	5674	5675	noun	5675	-	-	I	fm	1	sg	1412	de gewone
+1413	5678	5679	name	5679	MISC	-	I	n	0	sg	1413	Die #d#
+1414	5682	5683	name	5683	MISC	-	I	n	0	sg	1414	een #a#
+1415	5686	5687	name	5687	MISC	-	I	n	0	both	1415	die #l#
+1416	5689	5690	name	5690	MISC	-	I	n	0	sg	1297	een #e#
+1417	5693	5695	noun	5693	-	-	I	m	1	pl	1417	Mannen van karakter
+1418	5695	5695	noun	5695	-	-	I	n	0	sg	583	karakter
+1419	5698	5700	noun	5700	-	-	I	n	0	sg	87	een onderscheid tusschen
+1420	5701	5701	pronoun	5701	-	3	I	fm	1	sg	1412	hunne
+1421	5702	5705	noun	5705	-	-	I	n	0	pl	1421	gewone en lange letters
+1422	5709	5709	pronoun	5709	-	3	I	m	1	pl	1417	zij
+1423	5717	5728	noun	5717	-	-	I	n	0	sg	1423	besluiteloosheid in zijne #k# 's en gevoel van eigenwaarde in zijne hoofdletters
+1424	5719	5721	name	5721	MISC	-	I	n	0	both	1424	zijne #k# 's
+1425	5719	5719	pronoun	5719	-	3	I	n	0	sg	1423	zijne
+1426	5723	5728	noun	5723	-	-	I	n	0	sg	1426	gevoel van eigenwaarde in zijne hoofdletters
+1427	5725	5728	noun	5725	-	-	I	n	0	sg	1427	eigenwaarde in zijne hoofdletters
+1428	5727	5728	noun	5728	-	-	I	n	0	pl	1428	zijne hoofdletters
+1429	5727	5727	pronoun	5727	-	3	I	n	0	sg	1423	zijne
+1430	5731	5731	pronoun	5731	-	1	I	m	1	sg	104	Ik
+1431	5737	5737	pronoun	5737	-	1	I	fm	1	sg	104	Ik
+1432	5744	5744	pronoun	5744	-	1	I	fm	1	sg	104	mij
+1433	5745	5745	pronoun	5745	-	2	I	fm	1	sg	1433	u
+1434	5746	5747	noun	5747	-	-	I	n	0	sg	429	dit boek
+1435	5751	5757	noun	5751	-	-	I	n	0	sg	947	een der merkwaardigste die ooit geschreven werden
+1436	5752	5753	noun	5753	-	-	I	-	-	pl	1436	der merkwaardigste
+1437	5754	5754	pronoun	5754	-	-	I	-	-	pl	1436	die
+1438	5762	5763	noun	5763	-	-	O	n	0	sg	1438	Het martelaarschap
+1439	5765	5766	noun	5766	-	-	O	m	1	sg	104	den man
+1440	5770	5771	name	5771	PER	-	I	m	1	sg	1440	Winwood Reade
+1441	5773	5773	pronoun	5773	-	1	I	fm	1	sg	1441	Ik
+1442	5782	5782	pronoun	5782	-	1	O	fm	1	sg	33	Ik
+1443	5785	5793	noun	5786	-	-	O	-	-	sg	1443	de vensternis met het aangeduide boek in mijn hand
+1444	5788	5793	noun	5790	-	-	O	n	0	sg	1444	het aangeduide boek in mijn hand
+1445	5792	5793	noun	5793	-	-	O	n	0	sg	1445	mijn hand
+1446	5792	5792	pronoun	5792	-	1	O	fm	1	sg	33	mijn
+1447	5796	5797	noun	5797	-	-	O	-	-	pl	1447	mijne gedachten
+1448	5796	5796	pronoun	5796	-	1	O	fm	1	sg	33	mijne
+1449	5801	5802	noun	5802	-	-	O	n	0	sg	87	het werk
+1450	5803	5804	noun	5804	-	-	O	-	-	pl	1447	des schrijvers
+1451	5806	5807	noun	5807	-	-	O	n	0	pl	1451	Mijn gedachten
+1452	5806	5806	pronoun	5806	-	1	O	fm	1	sg	33	Mijn
+1453	5810	5812	noun	5812	-	-	O	fn	1	sg	1453	onze laatste bezoekster
+1454	5810	5810	pronoun	5810	-	1	O	fm	1	pl	873	onze
+1455	5816	5816	noun	5816	-	-	O	n	0	pl	1455	haren
+1456	5817	5817	noun	5817	-	-	O	n	0	sg	1456	glimlach
+1457	5819	5825	noun	5822	-	-	O	-	-	pl	1457	die diepe gevoelvolle tonen van hare stem
+1458	5824	5824	pronoun	5824	-	3	O	n	0	sg	1456	hare
+1459	5828	5830	noun	5830	-	-	O	n	0	sg	87	het vreemdsoortig geheim
+1460	5831	5831	pronoun	5831	-	3	O	n	0	sg	87	dat
+1461	5832	5832	pronoun	5832	-	3	O	f	1	sg	1453	haar
+1462	5836	5836	pronoun	5836	-	3	O	f	1	sg	1453	zij
+1463	5841	5846	noun	5842	-	-	O	n	0	sg	1463	het tijdstip van haar vaders verdwijning
+1464	5844	5846	noun	5846	-	-	O	n	0	sg	1464	haar vaders verdwijning
+1465	5844	5844	pronoun	5844	-	3	O	f	1	sg	1453	haar
+1466	5850	5850	pronoun	5850	-	3	O	f	1	sg	1453	zij
+1467	5856	5858	noun	5858	-	-	O	n	0	sg	1467	een schoone leeftijd
+1468	5863	5864	noun	5864	-	-	O	n	0	sg	1468	haar zelfvertrouwen
+1469	5863	5863	pronoun	5863	-	3	O	f	1	sg	1453	haar
+1470	5869	5869	noun	5869	-	-	O	n	0	sg	61	ondervinding
+1471	5878	5878	pronoun	5878	-	1	O	fm	1	sg	33	ik
+1472	5884	5886	noun	5886	-	-	O	n	0	pl	1472	zulke gevaarlijke gedachten
+1473	5888	5888	pronoun	5888	-	1	O	fm	1	sg	33	mij
+1474	5892	5892	pronoun	5892	-	1	O	fm	1	sg	33	ik
+1475	5894	5895	noun	5895	-	-	O	n	0	sg	1475	mijn lessenaar
+1476	5894	5894	pronoun	5894	-	1	O	fm	1	sg	33	mijn
+1477	5898	5898	pronoun	5898	-	1	O	fm	1	sg	33	mij
+1478	5901	5904	noun	5902	-	-	O	n	0	sg	1478	mijn verhandeling over pathologie
+1479	5901	5901	pronoun	5901	-	1	O	fm	1	sg	33	mijn
+1480	5904	5904	noun	5904	-	-	O	n	0	sg	1480	pathologie
+1481	5910	5910	pronoun	5910	-	1	O	fm	1	sg	33	ik
+1482	5913	5915	noun	5915	-	-	O	m	1	sg	1482	Een arm geneesheer
+1483	5918	5920	noun	5920	-	-	O	n	0	sg	1483	een zwak been
+1484	5923	5925	noun	5925	-	-	O	n	0	sg	1484	een zwakker fortuin
+1485	5928	5928	pronoun	5928	-	1	O	fm	1	sg	33	ik
+1486	5930	5931	noun	5931	-	-	O	n	0	pl	1486	zulke dingen
+1487	5936	5936	pronoun	5936	-	3	O	f	1	sg	1453	Zij
+1488	5941	5942	noun	5942	-	-	O	n	0	sg	1368	een factor
+1489	5949	5949	pronoun	5949	-	1	O	fm	1	sg	33	mijn
+1490	5959	5959	pronoun	5959	-	3	O	f	1	sg	1453	haar
+1491	5961	5962	noun	5962	-	-	O	m	1	sg	104	een man
+1492	5970	5973	noun	5970	-	-	O	n	0	sg	1492	haar door onbereikbare luchtkasteelen
+1493	5972	5973	noun	5973	-	-	O	-	-	sg	1493	onbereikbare luchtkasteelen
+1494	5978	5979	noun	5979	-	-	O	n	0	sg	1494	DERDE HOOFDSTUK
+1495	5982	5982	noun	5982	-	-	O	n	0	sg	402	onderzoek
+1496	5989	5989	name	5989	PER	-	O	m	1	sg	3	Holmes
+1497	5992	5992	pronoun	5992	-	3	O	m	1	sg	3	Hij
+1498	5994	5998	noun	5998	-	-	O	mn	-	sg	3	opgeruimd en zeer goed gemutst
+1499	6003	6003	pronoun	6003	-	3	O	m	1	sg	3	hem
+1500	6011	6012	noun	6012	-	-	O	n	0	sg	1500	een gemoedsgesteldheid
+1501	6013	6013	pronoun	6013	-	-	O	n	0	sg	1500	die
+1502	6015	6015	noun	6015	-	-	O	-	-	sg	1502	ontzenuwing
+1503	6025	6026	noun	6026	-	-	I	n	0	sg	946	deze aangelegenheid
+1504	6030	6030	pronoun	6030	-	3	O	n	0	sg	946	hij
+1505	6032	6034	noun	6033	-	-	O	mn	-	sg	946	den kop thee
+1506	6037	6037	pronoun	6037	-	1	O	fm	1	sg	33	ik
+1507	6039	6039	pronoun	6039	-	3	O	m	1	sg	3	hem
+1508	6044	6045	noun	6045	-	-	I	n	0	pl	244	de feiten
+1509	6048	6048	noun	6048	-	-	I	-	-	sg	1509	ééne
+1510	6049	6049	noun	6049	-	-	I	n	0	sg	1145	verklaring
+1511	6059	6059	pronoun	6059	-	2	I	fm	1	sg	1511	gij
+1512	6075	6075	pronoun	6075	-	1	I	fm	1	sg	1512	Ik
+1513	6077	6078	noun	6078	-	-	I	n	0	sg	87	een feit
+1514	6080	6080	pronoun	6080	-	3	I	n	0	sg	87	dat
+1515	6081	6082	noun	6082	-	-	I	n	0	sg	1515	een veronderstelling
+1516	6092	6095	noun	6095	-	-	I	n	0	sg	1515	een zeer vage veronderstelling
+1517	6097	6099	noun	6099	-	-	I	-	-	pl	1517	De nadere bizonderheden
+1518	6105	6105	pronoun	6105	-	1	I	fm	1	sg	1512	Ik
+1519	6109	6112	noun	6110	-	-	I	n	0	pl	1519	oude nummers van de
+1520	6112	6112	noun	6112	-	-	I	m	1	sg	1142	de
+1521	6114	6114	name	6114	MISC	-	O	n	0	sg	1521	Times
+1522	6119	6123	name	6120	PER	-	I	n	0	sg	883	Majoor Sholto van Upper Norwood
+1523	6122	6123	name	6123	PER	-	I	mn	-	sg	883	Upper Norwood
+1524	6125	6130	noun	6125	-	-	I	-	-	sg	1524	oud-gediende van het 34e regiment Bombay-Infanterie
+1525	6127	6130	name	6130	MISC	-	I	n	0	both	1525	het 34e regiment Bombay-Infanterie
+1526	6133	6133	noun	6133	-	-	I	n	0	sg	21	den
+1527	6148	6148	name	6148	PER	-	I	m	1	sg	3	Holmes
+1528	6151	6151	pronoun	6151	-	1	I	m	1	sg	3	ik
+1529	6158	6158	pronoun	6158	-	3	I	n	0	sg	883	dit
+1530	6166	6166	pronoun	6166	-	2	I	m	1	sg	3	Gij
+1531	6168	6168	pronoun	6168	-	1	I	m	1	sg	3	mij
+1532	6174	6175	noun	6175	-	-	I	n	0	sg	1532	deze zijde
+1533	6177	6178	name	6178	PER	-	I	fm	1	sg	883	Kapitein Morstan
+1534	6181	6185	noun	6183	-	-	I	m	1	sg	1534	De eenige persoon in Londen
+1535	6185	6185	name	6185	LOC	-	I	n	0	sg	1043	Londen
+1536	6186	6186	pronoun	6186	-	3	I	n	0	sg	1043	dien
+1537	6187	6187	pronoun	6187	-	3	I	m	1	sg	1534	hij
+1538	6192	6193	name	6193	PER	-	I	fm	1	sg	883	Majoor Sholto
+1539	6195	6196	name	6196	PER	-	I	m	1	sg	883	Majoor Sholto
+1540	6203	6203	pronoun	6203	-	3	I	m	1	sg	883	hij
+1541	6205	6205	name	6205	LOC	-	I	n	0	sg	1043	Londen
+1542	6212	6212	name	6212	ORG	-	I	m	1	sg	883	Sholto
+1543	6218	6219	noun	6219	-	-	I	n	0	sg	1543	zijn dood
+1544	6218	6218	pronoun	6218	-	3	I	m	1	sg	883	zijn
+1545	6221	6225	noun	6222	-	-	I	f	1	sg	1545	de dochter van kapitein Morstan
+1546	6224	6225	name	6225	PER	-	I	fm	1	sg	883	kapitein Morstan
+1547	6226	6228	noun	6228	-	-	I	n	0	sg	87	een kostbaar geschenk
+1548	6230	6230	pronoun	6230	-	3	I	n	0	sg	87	dat
+1549	6238	6239	noun	6239	-	-	I	n	0	sg	324	een brief
+1550	6240	6240	pronoun	6240	-	-	I	n	0	sg	324	die
+1551	6241	6241	pronoun	6241	-	3	I	f	1	sg	1545	haar
+1552	6243	6246	noun	6246	-	-	I	f	1	sg	1221	een slecht behandeld meisje
+1553	6254	6254	pronoun	6254	-	3	I	n	0	sg	87	dit
+1554	6259	6263	noun	6260	-	-	I	n	0	sg	1554	de verdwijning van haren vader
+1555	6268	6269	noun	6269	-	-	I	n	0	pl	1555	de geschenken
+1556	6273	6274	noun	6274	-	-	I	n	0	sg	1556	Sholto's dood
+1557	6273	6273	name	6273	ORG	-	I	-	-	sg	883	Sholto's
+1558	6281	6282	noun	6282	-	-	I	m	1	sg	1558	Sholto's erfgenaam
+1559	6281	6281	name	6281	PER	-	I	m	1	sg	883	Sholto's
+1560	6285	6286	noun	6286	-	-	I	n	0	sg	87	het geheim
+1561	6290	6291	noun	6291	-	-	I	n	0	sg	1561	een schikking
+1562	6292	6292	noun	6292	-	-	I	fn	1	sg	1562	wenscht
+1563	6297	6297	pronoun	6297	-	2	I	fm	1	sg	3	gij
+1564	6298	6300	noun	6300	-	-	I	n	0	sg	1564	eenige tegenovergestelde theorie
+1565	6317	6317	pronoun	6317	-	3	I	m	1	sg	1558	hij
+1566	6320	6321	noun	6321	-	-	I	n	0	sg	324	een brief
+1567	6330	6331	noun	6331	-	-	I	n	0	sg	324	den brief
+1568	6335	6335	pronoun	6335	-	3	I	fn	1	sg	1562	haar
+1569	6336	6336	noun	6336	-	-	I	n	0	sg	1569	recht
+1570	6347	6348	noun	6348	-	-	I	n	0	sg	1515	De veronderstelling
+1571	6350	6351	noun	6351	-	-	I	m	1	sg	1571	haar vader
+1572	6350	6350	pronoun	6350	-	3	I	n	0	sg	1515	haar
+1573	6364	6366	noun	6366	-	-	I	n	0	sg	1573	een ander onrecht
+1574	6368	6368	pronoun	6368	-	2	I	m	1	sg	3	u
+1575	6376	6376	noun	6376	-	-	I	-	-	pl	1575	moeielijkheden
+1576	6379	6381	name	6381	PER	-	I	f	1	sg	1576	zeker groote moeielijkheden
+1577	6385	6386	name	6386	MISC	-	O	m	1	sg	3	Sherlock Holmes
+1578	6391	6394	noun	6392	-	-	I	-	-	sg	1578	onze expeditie van hedenavond
+1579	6391	6391	pronoun	6391	-	1	I	fm	1	pl	1579	onze
+1580	6396	6396	pronoun	6396	-	3	I	f	1	sg	1576	ze
+1581	6404	6405	noun	6405	-	-	I	n	0	sg	1581	een vierwieler
+1582	6407	6408	name	6408	PER	-	I	n	0	sg	883	Miss Morstan
+1583	6413	6413	pronoun	6413	-	2	I	fm	1	sg	1583	gij
+1584	6421	6421	pronoun	6421	-	1	I	fm	1	pl	1579	wij
+1585	6435	6435	pronoun	6435	-	1	O	fm	1	sg	33	Ik
+1586	6437	6438	noun	6438	-	-	O	n	0	sg	1586	mijn hoed
+1587	6437	6437	pronoun	6437	-	1	O	fm	1	sg	33	mijn
+1588	6440	6440	noun	6440	-	-	O	-	-	pl	1588	stevigsten
+1589	6447	6447	name	6447	PER	-	O	m	1	sg	3	Holmes
+1590	6448	6452	noun	6449	-	-	O	n	0	sg	1590	zijn revolver uit het wapenrek
+1591	6448	6448	pronoun	6448	-	3	O	m	1	sg	3	zijn
+1592	6451	6452	noun	6452	-	-	O	n	0	sg	1592	het wapenrek
+1593	6456	6457	noun	6457	-	-	O	n	0	sg	1593	zijn zak
+1594	6456	6456	pronoun	6456	-	3	O	m	1	sg	3	zijn
+1595	6466	6466	pronoun	6466	-	3	O	m	1	sg	3	hij
+1596	6469	6472	noun	6470	-	-	O	n	0	sg	1596	ons avondwerk van ernstigen
+1597	6469	6469	pronoun	6469	-	1	O	fm	1	pl	873	ons
+1598	6478	6479	name	6479	PER	-	O	n	0	sg	883	Miss Morstan
+1599	6482	6484	noun	6484	-	-	O	n	0	sg	1599	een donkerkleurigen mantel
+1600	6488	6490	noun	6490	-	-	O	n	0	sg	87	haar zacht gelaat
+1601	6488	6488	pronoun	6488	-	3	O	n	0	sg	883	haar
+1602	6497	6497	pronoun	6497	-	3	O	f	1	sg	1576	Zij
+1603	6501	6501	noun	6501	-	-	O	f	1	sg	1339	vrouw
+1604	6506	6506	pronoun	6506	-	3	O	f	1	sg	1576	zich
+1605	6514	6516	noun	6516	-	-	O	n	0	sg	1605	de vreemdsoortige onderneming
+1606	6518	6518	pronoun	6518	-	1	O	fm	1	pl	873	wij
+1607	6519	6519	pronoun	6519	-	1	O	fm	1	pl	873	ons
+1608	6527	6527	pronoun	6527	-	3	O	f	1	sg	1576	hare
+1609	6531	6531	pronoun	6531	-	3	O	f	1	sg	1576	zij
+1610	6536	6538	noun	6538	-	-	O	n	0	pl	1610	de weinige vragen
+1611	6540	6540	pronoun	6540	-	-	O	n	0	pl	1610	die
+1612	6541	6542	name	6542	PER	-	O	m	1	sg	3	Sherlock Holmes
+1613	6547	6547	pronoun	6547	-	3	O	f	1	sg	1576	haar
+1614	6552	6553	name	6553	PER	-	I	m	1	sg	883	Majoor Sholto
+1615	6555	6556	noun	6556	-	-	I	n	0	sg	1615	een bizonder
+1616	6557	6560	noun	6557	-	-	I	m	1	sg	883	vriend van mijn papa
+1617	6559	6560	noun	6560	-	-	I	m	1	sg	1617	mijn papa
+1618	6559	6559	pronoun	6559	-	1	I	f	1	sg	1576	mijn
+1619	6564	6564	pronoun	6564	-	3	O	f	1	sg	1576	zij
+1620	6567	6568	noun	6568	-	-	I	-	-	pl	1620	zijne brieven
+1621	6567	6567	pronoun	6567	-	3	I	m	1	sg	883	zijne
+1622	6573	6576	noun	6573	-	-	I	n	0	pl	1622	toespelingen op den Majoor
+1623	6575	6576	name	6576	PER	-	I	-	-	sg	883	den Majoor
+1624	6578	6578	pronoun	6578	-	3	I	m	1	sg	883	Hij
+1625	6580	6580	noun	6580	-	-	I	m	1	sg	1617	papa
+1626	6582	6589	noun	6583	-	-	I	n	0	sg	1626	het bevel over de troepen op de Andaman-eilanden
+1627	6585	6589	noun	6586	-	-	I	fm	1	pl	1627	de troepen op de Andaman-eilanden
+1628	6588	6589	noun	6589	-	-	I	n	0	pl	1108	de Andaman-eilanden
+1629	6593	6593	pronoun	6593	-	3	I	fm	1	pl	1627	zij
+1630	6602	6603	noun	6603	-	-	I	-	-	sg	1630	papa's lessenaar
+1631	6604	6606	noun	6606	-	-	I	n	0	sg	1631	een vreemdsoortig papier
+1632	6614	6614	pronoun	6614	-	1	I	f	1	sg	1576	Ik
+1633	6625	6625	pronoun	6625	-	1	I	fm	1	sg	1576	ik
+1634	6629	6629	pronoun	6629	-	2	I	fm	1	sg	1634	gij
+1635	6640	6640	pronoun	6640	-	1	I	fm	1	sg	1576	ik
+1636	6649	6649	name	6649	PER	-	O	m	1	sg	3	Holmes
+1637	6651	6652	noun	6652	-	-	O	n	0	sg	1631	het papier
+1638	6659	6660	noun	6660	-	-	O	n	0	sg	1638	zijn knie
+1639	6659	6659	pronoun	6659	-	3	O	m	1	sg	3	zijn
+1640	6664	6664	pronoun	6664	-	3	O	m	1	sg	3	hij
+1641	6668	6670	noun	6670	-	-	O	n	0	sg	1641	zijn dubbele lens
+1642	6668	6668	pronoun	6668	-	3	O	m	1	sg	3	zijn
+1643	6673	6674	noun	6674	-	-	I	n	0	sg	1631	Het papier
+1644	6677	6677	name	6677	LOC	-	I	n	0	sg	1644	Indië
+1645	6682	6682	pronoun	6682	-	3	O	m	1	sg	3	hij
+1646	6688	6692	noun	6688	-	-	I	-	-	sg	18	eenigen tijd op een bord
+1647	6691	6692	noun	6692	-	-	I	n	0	sg	1647	een bord
+1648	6696	6698	noun	6697	-	-	I	-	-	sg	1648	De teekening erop
+1649	6700	6701	noun	6701	-	-	I	n	0	sg	1649	het ontwerp
+1650	6705	6710	noun	6706	-	-	I	n	0	sg	1650	een gedeelte van een groot gebouw
+1651	6708	6710	noun	6710	-	-	I	n	0	sg	1651	een groot gebouw
+1652	6713	6714	noun	6714	-	-	I	n	0	pl	1652	talrijke zalen
+1653	6716	6716	noun	6716	-	-	I	n	0	pl	1653	gangen
+1654	6719	6721	noun	6721	-	-	I	n	0	sg	1211	den eenen hoek
+1655	6719	6720	name	6720	PER	-	I	m	1	sg	1655	den eenen
+1656	6723	6728	noun	6728	-	-	I	n	0	sg	1656	een met roode inkt geteekend kruis
+1657	6725	6726	noun	6726	-	-	I	n	0	sg	1657	roode inkt
+1658	6725	6725	name	6725	-	-	I	m	1	sg	506	roode
+1659	6739	6740	noun	6740	-	-	I	n	0	sg	1659	den linkerhoek
+1660	6742	6743	noun	6743	-	-	I	n	0	pl	1660	vier kruisjes
+1661	6745	6746	noun	6746	-	-	I	n	0	sg	1661	een lijn
+1662	6749	6750	noun	6750	-	-	I	-	-	pl	1387	de armen
+1663	6751	6751	pronoun	6751	-	3	I	-	-	pl	1387	elkander
+1664	6757	6758	noun	6758	-	-	I	n	0	pl	1664	ruwe karakters
+1665	6761	6764	noun	6762	-	-	I	n	0	sg	1665	Het teeken der vier
+1666	6763	6764	noun	6764	-	-	I	n	0	-	1666	der vier
+1667	6766	6767	name	6767	PER	-	I	n	0	sg	1667	Jonathan Small
+1668	6769	6770	name	6770	PER	-	I	m	1	sg	1668	Mahomed Singh
+1669	6772	6773	name	6773	PER	-	I	m	1	sg	1669	Abdullah Khan
+1670	6775	6776	name	6776	PER	-	I	fm	1	sg	1670	Dost Akbar
+1671	6782	6782	pronoun	6782	-	1	I	m	1	sg	1668	ik
+1672	6785	6785	pronoun	6785	-	1	I	fm	1	sg	1668	ik
+1673	6791	6791	pronoun	6791	-	3	I	n	0	sg	1667	dit
+1674	6793	6794	noun	6794	-	-	I	n	0	sg	191	de zaak
+1675	6797	6797	name	6797	PER	-	I	-	1	sg	1675	Desniettemin
+1676	6800	6802	noun	6802	-	-	I	n	0	sg	1676	een belangrijk document
+1677	6808	6809	noun	6809	-	-	I	n	0	sg	1677	een zakboek
+1678	6824	6824	pronoun	6824	-	1	I	fm	1	pl	1678	Wij
+1679	6828	6829	noun	6829	-	-	I	n	0	sg	1679	zijn zakboek
+1680	6828	6828	pronoun	6828	-	3	I	n	0	sg	1677	zijn
+1681	6838	6839	name	6839	PER	-	I	n	0	sg	883	Miss Morstan
+1682	6844	6844	pronoun	6844	-	1	I	fm	1	pl	1682	ons
+1683	6847	6847	noun	6847	-	-	I	n	0	sg	1683	nut
+1684	6851	6851	pronoun	6851	-	1	I	fm	1	sg	1684	Ik
+1685	6857	6858	noun	6858	-	-	I	n	0	sg	191	deze zaak
+1686	6871	6871	pronoun	6871	-	1	I	fm	1	sg	1684	ik
+1687	6872	6872	pronoun	6872	-	3	I	m	1	sg	1675	haar
+1688	6879	6879	pronoun	6879	-	1	I	fm	1	sg	1684	Ik
+1689	6881	6882	noun	6882	-	-	I	n	0	pl	1447	mijne gedachten
+1690	6881	6881	pronoun	6881	-	1	I	fm	1	sg	1684	mijne
+1691	6887	6887	pronoun	6887	-	3	O	m	1	sg	1675	Hij
+1692	6891	6892	noun	6892	-	-	O	n	0	sg	1692	het rijtuig
+1693	6894	6894	pronoun	6894	-	1	O	fm	1	sg	33	ik
+1694	6897	6899	noun	6899	-	-	O	n	0	sg	1694	zijn geheele houding
+1695	6897	6897	pronoun	6897	-	3	O	m	1	sg	1675	zijn
+1696	6902	6902	pronoun	6902	-	3	O	m	1	sg	1675	hij
+1697	6904	6905	noun	6905	-	-	O	n	0	pl	1697	zijn gedachten
+1698	6904	6904	pronoun	6904	-	3	O	m	1	sg	1675	zijn
+1699	6909	6910	name	6910	PER	-	O	n	0	sg	883	Miss Morstan
+1700	6912	6912	pronoun	6912	-	1	O	fm	1	sg	33	ik
+1701	6914	6914	pronoun	6914	-	1	O	fm	1	pl	873	wij
+1702	6916	6916	pronoun	6916	-	1	O	fm	1	pl	873	ons
+1703	6919	6924	noun	6919	-	-	O	m	1	sg	1703	toon over onze expeditie en den
+1704	6921	6922	noun	6922	-	-	O	-	-	sg	1578	onze expeditie
+1705	6921	6921	pronoun	6921	-	1	O	fm	1	pl	873	onze
+1706	6924	6924	noun	6924	-	-	O	n	0	sg	21	den
+1707	6926	6927	noun	6926	-	-	O	n	0	sg	1707	uitslag ervan
+1708	6930	6931	noun	6931	-	-	O	fm	1	sg	1708	onze metgezel
+1709	6930	6930	pronoun	6930	-	1	O	fm	1	pl	873	onze
+1710	6949	6949	name	6949	MISC	-	O	n	0	sg	1710	September
+1711	6966	6973	noun	6970	-	-	O	n	0	sg	859	een vochtige , doordringende mist over de groote
+1712	6972	6973	noun	6973	-	-	O	m	1	sg	130	de groote
+1713	6974	6974	noun	6974	-	-	O	n	0	sg	1116	stad
+1714	6977	6978	noun	6978	-	-	O	n	0	pl	1714	zwarte wolken
+1715	6980	6981	noun	6981	-	-	O	n	0	sg	859	de mist
+1716	6983	6985	noun	6985	-	-	O	-	-	pl	1716	de modderige straten
+1717	6988	6989	noun	6989	-	-	O	n	0	sg	1717	het strand
+1718	6991	6997	noun	6992	-	-	O	n	0	sg	1718	het licht der lantaarns slechts met moeite
+1719	6993	6997	noun	6994	-	-	O	n	0	pl	1719	der lantaarns slechts met moeite
+1720	6997	6997	noun	6997	-	-	O	n	0	sg	1720	moeite
+1721	6999	7000	noun	7000	-	-	O	n	0	sg	1721	den nevel
+1722	7004	7005	noun	7005	-	-	O	n	0	sg	1722	een schaarsch
+1723	7006	7010	noun	7006	-	-	O	n	0	sg	1723	schijnsel over de glibberige bestrating
+1724	7008	7010	noun	7010	-	-	O	f	1	sg	883	de glibberige bestrating
+1725	7012	7017	noun	7014	-	-	O	n	0	pl	1725	De gele lichtstralen uit de winkelramen
+1726	7016	7017	noun	7017	-	-	O	-	-	pl	1726	de winkelramen
+1727	7022	7024	noun	7024	-	-	O	n	0	sg	1727	de dampachtige lucht
+1728	7028	7030	noun	7030	-	-	O	n	0	sg	1718	een spookachtig licht
+1729	7032	7034	noun	7033	-	-	O	n	0	sg	1338	de menigte daarbuiten
+1730	7036	7037	noun	7037	-	-	O	n	0	sg	1730	Deze omstandigheid
+1731	7039	7040	noun	7040	-	-	O	n	0	sg	257	het doel
+1732	7042	7042	pronoun	7042	-	1	O	fm	1	pl	873	wij
+1733	7043	7044	noun	7044	-	-	O	n	0	sg	87	ons tusschen
+1734	7043	7043	pronoun	7043	-	1	O	fm	1	pl	873	ons
+1735	7045	7045	pronoun	7045	-	3	O	n	0	sg	87	dat
+1736	7046	7046	noun	7046	-	-	O	n	0	sg	1718	licht
+1737	7048	7048	noun	7048	-	-	O	n	0	sg	1737	donker
+1738	7052	7052	pronoun	7052	-	1	O	fm	1	sg	33	mij
+1739	7057	7057	pronoun	7057	-	1	O	fm	1	sg	33	Ik
+1740	7060	7064	noun	7061	-	-	O	n	0	sg	52	het voorkomen van Miss Morstan
+1741	7063	7064	name	7064	PER	-	O	n	0	sg	883	Miss Morstan
+1742	7067	7067	pronoun	7067	-	3	O	f	1	sg	883	zij
+1743	7073	7074	name	7073	PER	-	O	m	1	sg	3	Holmes alleen
+1744	7077	7078	noun	7078	-	-	O	-	-	pl	1744	dusdanige invloeden
+1745	7081	7081	pronoun	7081	-	3	O	m	1	sg	130	Hij
+1746	7083	7085	noun	7085	-	-	O	n	0	sg	1746	zijn geopend notitie-boek
+1747	7083	7083	pronoun	7083	-	3	O	m	1	sg	130	zijn
+1748	7087	7088	noun	7088	-	-	O	n	0	sg	1638	zijn knie
+1749	7087	7087	pronoun	7087	-	3	O	m	1	sg	130	zijn
+1750	7096	7097	noun	7097	-	-	O	-	-	pl	1750	eenige aanteekeningen
+1751	7099	7103	noun	7100	-	-	O	n	0	sg	1718	het licht van zijn zak-lantaarn
+1752	7102	7103	noun	7103	-	-	O	n	0	sg	1752	zijn zak-lantaarn
+1753	7102	7102	pronoun	7102	-	3	O	m	1	sg	130	zijn
+1754	7107	7111	noun	7108	-	-	O	n	0	pl	1754	de zijdeuren van het Lyceum-Theatre
+1755	7110	7111	name	7111	LOC	-	O	n	0	sg	1220	het Lyceum-Theatre
+1756	7113	7114	noun	7114	-	-	O	n	0	sg	1338	de menigte
+1757	7117	7119	noun	7119	-	-	O	n	0	pl	1757	de dichte drommen
+1758	7122	7122	pronoun	7122	-	1	O	fm	1	pl	873	Wij
+1759	7125	7127	noun	7127	-	-	O	n	0	sg	1218	den derden pilaar
+1760	7130	7130	pronoun	7130	-	1	O	fm	1	pl	873	wij
+1761	7146	7146	noun	7146	-	-	O	m	1	sg	1761	koetsier
+1762	7150	7150	pronoun	7150	-	1	O	fm	1	pl	873	ons
+1763	7155	7155	pronoun	7155	-	2	I	fm	1	sg	1763	gij
+1764	7158	7158	pronoun	7158	-	-	I	-	-	pl	1764	die
+1765	7162	7163	name	7163	PER	-	I	n	0	sg	883	Miss Morstan
+1766	7167	7167	pronoun	7167	-	3	O	m	1	sg	1761	hij
+1767	7170	7170	pronoun	7170	-	1	I	f	1	sg	883	Ik
+1768	7172	7173	name	7173	PER	-	I	-	-	sg	883	Miss Morstan
+1769	7176	7178	noun	7178	-	-	I	m	1	sg	1769	deze twee heeren
+1770	7180	7181	noun	7181	-	-	I	m	1	pl	1769	mijne vrienden
+1771	7180	7180	pronoun	7180	-	1	I	fm	1	sg	883	mijne
+1772	7185	7185	pronoun	7185	-	3	O	f	1	sg	883	zij
+1773	7187	7187	pronoun	7187	-	3	O	m	1	sg	1769	Hij
+1774	7189	7194	noun	7194	-	-	O	n	0	pl	1774	een paar doordringende en vragende oogen
+1775	7196	7196	pronoun	7196	-	1	O	fm	1	pl	873	ons
+1776	7199	7199	pronoun	7199	-	2	I	fm	1	sg	1776	Gij
+1777	7202	7202	pronoun	7202	-	1	I	m	1	sg	1769	mij
+1778	7211	7211	pronoun	7211	-	3	O	m	1	sg	1769	hij
+1779	7220	7220	pronoun	7220	-	1	I	m	1	sg	1769	mij
+1780	7222	7222	pronoun	7222	-	2	I	fm	1	sg	1780	u
+1781	7225	7225	pronoun	7225	-	1	I	fm	1	sg	1769	mij
+1782	7226	7227	noun	7227	-	-	I	n	0	sg	1782	uw woord
+1783	7226	7226	pronoun	7226	-	2	I	fm	1	both	1783	uw
+1784	7233	7234	noun	7234	-	-	I	fm	1	pl	1784	uwer metgezellen
+1785	7235	7238	noun	7236	-	-	I	fm	1	sg	1785	een ambtenaar der politie
+1786	7237	7238	noun	7238	-	-	I	f	1	sg	1069	der politie
+1787	7245	7245	pronoun	7245	-	1	I	f	1	sg	1069	ik
+1788	7246	7246	pronoun	7246	-	2	I	fm	1	sg	1788	u
+1789	7247	7248	noun	7248	-	-	I	n	0	sg	1079	mijn woord
+1790	7247	7247	pronoun	7247	-	1	I	fm	1	sg	1069	mijn
+1791	7253	7253	pronoun	7253	-	3	O	f	1	sg	1069	zij
+1792	7257	7257	pronoun	7257	-	3	O	m	1	sg	1769	hij
+1793	7258	7260	noun	7260	-	-	O	n	0	sg	1793	een schril gefluit
+1794	7261	7261	noun	7261	-	-	O	-	-	sg	1794	hooren
+1795	7265	7266	noun	7266	-	-	O	n	0	sg	1795	een huurkoetsier
+1796	7269	7271	noun	7271	-	-	O	n	0	sg	1692	een vierwielig rijtuig
+1797	7273	7274	noun	7274	-	-	O	n	0	sg	1797	het portier
+1798	7277	7278	noun	7278	-	-	O	m	1	sg	104	De man
+1799	7279	7279	pronoun	7279	-	-	O	m	1	sg	104	die
+1800	7280	7280	pronoun	7280	-	1	O	fm	1	pl	873	ons
+1801	7285	7286	noun	7286	-	-	O	n	0	sg	1801	den bok
+1802	7289	7289	pronoun	7289	-	1	O	fm	1	pl	873	wij
+1803	7290	7290	pronoun	7290	-	1	O	fm	1	pl	873	ons
+1804	7292	7293	noun	7293	-	-	O	n	0	sg	1692	het rijtuig
+1805	7298	7299	noun	7299	-	-	O	-	1	sg	1761	de koetsier
+1806	7300	7301	noun	7301	-	-	O	n	0	pl	1806	zijne paarden
+1807	7300	7300	pronoun	7300	-	3	O	-	1	sg	1761	zijne
+1808	7304	7304	pronoun	7304	-	1	O	fm	1	pl	873	wij
+1809	7307	7307	pronoun	7307	-	3	O	n	0	sg	1692	het
+1810	7310	7312	noun	7312	-	-	O	-	-	pl	1716	de mistige straten
+1811	7317	7319	noun	7319	-	-	O	n	0	sg	1811	een zonderlinge positie
+1812	7321	7321	pronoun	7321	-	1	O	fm	1	pl	873	Wij
+1813	7324	7327	noun	7327	-	-	O	n	0	sg	1813	een ons onbekende plaats
+1814	7325	7325	pronoun	7325	-	1	O	fm	1	pl	873	ons
+1815	7330	7334	noun	7331	-	-	O	n	0	sg	1815	de uitnoodiging van een onbekende
+1816	7333	7334	noun	7334	-	-	O	n	0	sg	1816	een onbekende
+1817	7337	7338	noun	7338	-	-	O	n	0	sg	1815	deze uitnoodiging
+1818	7340	7341	noun	7341	-	-	O	n	0	sg	1815	een grap
+1819	7352	7352	pronoun	7352	-	1	O	fm	1	pl	873	wij
+1820	7360	7361	noun	7361	-	-	O	fn	1	sg	1820	onze tocht
+1821	7360	7360	pronoun	7360	-	1	O	fm	1	pl	873	onze
+1822	7367	7369	noun	7369	-	-	O	n	0	sg	1822	Miss Morstan's gedrag
+1823	7368	7368	name	7368	PER	-	O	-	1	sg	883	Morstan's
+1824	7376	7376	pronoun	7376	-	1	O	fm	1	sg	33	Ik
+1825	7378	7378	pronoun	7378	-	3	O	fn	1	sg	1820	haar
+1826	7385	7389	noun	7385	-	-	O	-	-	sg	1826	eenige mijner avonturen in Afghanistan
+1827	7386	7389	noun	7387	-	-	O	n	0	pl	1827	mijner avonturen in Afghanistan
+1828	7389	7389	name	7389	LOC	-	O	n	0	sg	98	Afghanistan
+1829	7394	7395	noun	7395	-	-	O	-	-	sg	717	de waarheid
+1830	7399	7399	pronoun	7399	-	1	O	fm	1	sg	33	ik
+1831	7408	7409	noun	7409	-	-	O	n	0	pl	1831	mijne verhalen
+1832	7408	7408	pronoun	7408	-	1	O	fm	1	sg	33	mijne
+1833	7413	7413	noun	7413	-	-	O	m	1	sg	1833	stapel
+1834	7420	7420	pronoun	7420	-	1	O	fm	1	sg	33	ik
+1835	7422	7430	noun	7423	-	-	O	n	0	sg	1835	eenig idee omtrent de richting die ons rijtuig volgde
+1836	7425	7426	noun	7426	-	-	O	n	0	sg	1836	de richting
+1837	7427	7427	pronoun	7427	-	-	O	n	0	sg	1836	die
+1838	7428	7429	noun	7429	-	-	O	n	0	sg	1692	ons rijtuig
+1839	7428	7428	pronoun	7428	-	1	O	fm	1	pl	873	ons
+1840	7435	7435	pronoun	7435	-	1	O	fm	1	sg	33	ik
+1841	7438	7438	pronoun	7438	-	1	O	fm	1	sg	33	onzen
+1842	7444	7445	noun	7445	-	-	O	n	0	sg	859	den mist
+1843	7447	7451	noun	7449	-	-	O	-	-	sg	1843	mijne oppervlakkige kennis van Londen
+1844	7447	7447	pronoun	7447	-	1	O	fm	1	sg	33	mijne
+1845	7451	7451	name	7451	LOC	-	O	n	0	sg	1043	Londen
+1846	7452	7453	noun	7453	-	-	O	n	0	sg	1846	de route
+1847	7461	7461	pronoun	7461	-	1	O	fm	1	pl	873	wij
+1848	7468	7470	name	7469	PER	-	O	m	1	sg	3	Sherlock Holmes daarentegen
+1849	7476	7476	pronoun	7476	-	3	O	m	1	sg	3	hij
+1850	7478	7482	noun	7479	-	-	O	n	0	pl	1850	de namen der squares zoowel
+1851	7480	7482	name	7482	PER	-	O	m	1	sg	1851	der squares zoowel
+1852	7484	7484	pronoun	7484	-	3	O	m	1	sg	1851	die
+1853	7485	7486	noun	7486	-	-	O	-	-	pl	1716	der straten
+1854	7488	7488	noun	7488	-	-	O	n	0	pl	1854	stegen
+1855	7491	7492	name	7492	PER	-	I	n	0	sg	1855	Rochester Row
+1856	7496	7496	pronoun	7496	-	3	O	m	1	sg	3	hij
+1857	7500	7501	name	7501	LOC	-	I	n	0	both	1857	Vincent Square
+1858	7505	7505	pronoun	7505	-	1	I	fm	1	pl	1858	wij
+1859	7508	7511	name	7511	ORG	-	I	m	1	sg	1859	de Vauxhall Bridge Road
+1860	7513	7513	pronoun	7513	-	1	I	fm	1	pl	1858	Wij
+1861	7516	7519	noun	7517	-	-	I	n	0	sg	1861	de zijde der Surrey
+1862	7518	7519	name	7519	LOC	-	I	n	0	sg	1862	der Surrey
+1863	7525	7525	pronoun	7525	-	1	I	m	1	sg	3	ik
+1864	7530	7530	pronoun	7530	-	1	I	fm	1	pl	1858	wij
+1865	7532	7533	noun	7533	-	-	I	n	0	sg	1865	de brug
+1866	7535	7535	pronoun	7535	-	2	I	fm	1	sg	1866	gij
+1867	7541	7542	noun	7542	-	-	I	n	0	sg	1867	de rivier
+1868	7546	7546	pronoun	7546	-	1	O	fm	1	pl	873	Wij
+1869	7549	7553	noun	7550	-	-	O	n	0	sg	1869	een strook van de Theems
+1870	7552	7553	name	7553	LOC	-	O	n	0	sg	1870	de Theems
+1871	7555	7555	pronoun	7555	-	-	O	n	0	sg	1869	die
+1872	7557	7558	noun	7558	-	-	O	-	-	pl	1872	de bruglantarens
+1873	7563	7564	noun	7564	-	-	O	n	0	sg	1692	ons rijtuig
+1874	7563	7563	pronoun	7563	-	1	O	fm	1	pl	873	ons
+1875	7571	7574	noun	7572	-	-	O	n	0	sg	1875	een doolhof van straten
+1876	7574	7574	noun	7574	-	-	O	-	-	pl	1876	straten
+1877	7576	7577	noun	7577	-	-	O	n	0	sg	1877	de overzijde
+1878	7580	7581	name	7581	PER	-	I	mn	-	sg	1859	Wordsworth Road
+1879	7585	7586	noun	7586	-	-	O	fm	1	sg	53	mijn metgezel
+1880	7585	7585	pronoun	7585	-	1	O	fm	1	sg	33	mijn
+1881	7589	7590	name	7590	PER	-	I	m	1	sg	1859	Priory Road
+1882	7592	7594	name	7594	PER	-	I	mn	-	sg	1882	Larke Hall Lane
+1883	7596	7597	name	7597	MISC	-	I	n	0	both	1883	Stockwell Place
+1884	7599	7600	name	7600	PER	-	I	mn	-	sg	479	Robert Street
+1885	7602	7604	name	7604	PER	-	I	mn	-	sg	1882	Cold Harbour Lane
+1886	7609	7610	noun	7610	-	-	I	n	0	sg	1886	onze taak
+1887	7609	7609	pronoun	7609	-	1	I	fm	1	pl	1887	onze
+1888	7611	7611	pronoun	7611	-	1	I	fm	1	pl	1887	ons
+1889	7615	7616	noun	7616	-	-	I	n	0	pl	1889	fatsoenlijke wijken
+1890	7620	7620	pronoun	7620	-	1	O	fm	1	pl	873	Wij
+1891	7624	7628	noun	7628	-	-	O	n	0	sg	1891	een onaanzienlijke en dubbelzinnige wijk
+1892	7631	7635	noun	7632	-	-	O	n	0	pl	1892	Lange lijnen van donkere huizen
+1893	7634	7635	noun	7635	-	-	O	n	0	pl	1893	donkere huizen
+1894	7641	7644	noun	7642	-	-	O	n	0	sg	1894	den schijn der kroegen
+1895	7643	7644	noun	7644	-	-	O	n	0	pl	1895	der kroegen
+1896	7646	7646	pronoun	7646	-	-	O	n	0	pl	1895	die
+1897	7649	7649	noun	7649	-	-	O	n	0	sg	1338	menigte
+1898	7656	7661	noun	7656	-	-	O	n	0	pl	1898	lanen met villa's van twee verdiepingen
+1899	7658	7661	noun	7658	-	-	O	n	0	pl	1899	villa's van twee verdiepingen
+1900	7660	7661	noun	7661	-	-	O	n	0	pl	1900	twee verdiepingen
+1901	7666	7670	noun	7668	-	-	O	n	0	sg	1901	een klein tuintje er voor
+1902	7675	7679	noun	7676	-	-	O	n	0	pl	1902	onafzienbare rijen nieuw gebouwde rood-steenen
+1903	7677	7679	noun	7679	-	-	O	-	-	sg	1903	nieuw gebouwde rood-steenen
+1904	7686	7687	noun	7687	-	-	O	n	0	sg	1692	ons rijtuig
+1905	7686	7686	pronoun	7686	-	1	O	fm	1	pl	873	ons
+1906	7693	7695	noun	7695	-	-	O	n	0	sg	1906	een nieuw blok
+1907	7699	7700	noun	7700	-	-	O	-	-	pl	1907	der anderen
+1908	7705	7705	noun	7705	-	-	O	n	0	sg	87	dat
+1909	7707	7707	pronoun	7707	-	1	O	fm	1	pl	873	wij
+1910	7713	7714	noun	7714	-	-	O	fm	1	pl	1907	de anderen
+1911	7717	7722	noun	7719	-	-	O	n	0	sg	1911	een enkel lichtje voor het keukenraam
+1912	7721	7722	noun	7722	-	-	O	n	0	sg	1912	het keukenraam
+1913	7725	7725	pronoun	7725	-	1	O	fm	1	pl	873	wij
+1914	7729	7730	noun	7730	-	-	O	n	0	sg	871	de deur
+1915	7734	7736	noun	7736	-	-	O	fm	1	sg	1915	een Hindoesch bediende
+1916	7735	7735	name	7735	PER	-	O	fm	1	sg	1916	Hindoesch
+1917	7740	7742	noun	7742	-	-	O	n	0	sg	1917	een gele turban
+1918	7744	7746	noun	7746	-	-	O	m	1	sg	1918	witte wijde kleederen
+1919	7748	7750	noun	7750	-	-	O	n	0	sg	1919	een gele sjerp
+1920	7758	7760	noun	7760	-	-	O	n	0	sg	1920	deze Oostersche figuur
+1921	7759	7759	name	7759	LOC	-	O	n	0	pl	1921	Oostersche
+1922	7762	7762	pronoun	7762	-	-	O	n	0	sg	1920	die
+1923	7767	7775	noun	7768	-	-	O	n	0	sg	1923	de gang van een woning van den derden rang
+1924	7770	7775	noun	7771	-	-	O	n	0	sg	1924	een woning van den derden rang
+1925	7773	7775	noun	7775	-	-	O	n	0	sg	1925	den derden rang
+1926	7778	7779	name	7779	MISC	-	I	n	0	sg	1926	De Sahib
+1927	7781	7781	pronoun	7781	-	2	I	fm	1	sg	53	u
+1928	7785	7785	pronoun	7785	-	3	O	m	1	sg	1918	hij
+1929	7790	7790	pronoun	7790	-	3	O	m	1	sg	1918	hij
+1930	7791	7791	pronoun	7791	-	3	O	n	0	sg	1926	dit
+1931	7796	7799	noun	7799	-	-	O	n	0	sg	694	een of andere kamer
+1932	7800	7804	noun	7804	-	-	O	n	0	sg	1250	een schelle , pieperige stem
+1933	7808	7809	noun	7809	-	-	I	n	0	sg	1933	hun den
+1934	7808	7808	pronoun	7808	-	3	I	n	0	pl	1921	hun
+1935	7813	7813	name	7813	ORG	-	I	n	0	both	1935	Khitmutgar
+1936	7821	7821	pronoun	7821	-	3	I	fm	1	pl	1907	hen
+1937	7824	7824	pronoun	7824	-	1	I	fm	1	sg	1937	mij
+1938	7827	7828	noun	7828	-	-	O	n	0	sg	1938	VIERDE HOOFDSTUK
+1939	7830	7835	noun	7831	-	-	O	n	0	sg	705	De geschiedenis van den kaalhoofdigen man
+1940	7833	7835	name	7835	ORG	-	O	m	1	sg	104	den kaalhoofdigen man
+1941	7837	7837	pronoun	7837	-	1	O	fm	1	pl	873	Wij
+1942	7839	7840	noun	7840	-	-	O	n	0	sg	1942	den Indiaan
+1943	7842	7844	noun	7844	-	-	O	n	0	sg	1943	een morsige gang
+1944	7846	7846	pronoun	7846	-	1	O	fm	1	pl	873	wij
+1945	7848	7849	noun	7849	-	-	O	n	0	sg	871	een deur
+1946	7851	7851	noun	7851	-	-	O	n	0	sg	1946	rechterzijde
+1947	7853	7853	pronoun	7853	-	-	O	n	0	sg	871	die
+1948	7854	7854	pronoun	7854	-	3	O	m	1	sg	104	hij
+1949	7857	7860	noun	7858	-	-	O	n	0	sg	1949	Een stroom geelachtig licht
+1950	7859	7860	noun	7860	-	-	O	n	0	sg	1950	geelachtig licht
+1951	7862	7862	pronoun	7862	-	1	O	fm	1	pl	873	ons
+1952	7867	7871	noun	7868	-	-	O	n	0	sg	1952	het midden van dien schijn
+1953	7870	7871	noun	7871	-	-	O	n	0	sg	1894	dien schijn
+1954	7873	7880	noun	7875	-	-	O	m	1	sg	1954	een kleine man met een zeer groot hoofd
+1955	7877	7880	noun	7880	-	-	O	n	0	sg	1955	een zeer groot hoofd
+1956	7882	7882	pronoun	7882	-	3	O	n	0	sg	1955	dat
+1957	7884	7890	noun	7885	-	-	O	n	0	sg	1957	een kring van rood , borstelig haar
+1958	7887	7890	noun	7890	-	-	O	n	0	sg	1958	rood , borstelig haar
+1959	7896	7899	noun	7899	-	-	O	n	0	sg	1959	een glimmend kale puntkruin
+1960	7902	7902	pronoun	7902	-	3	O	m	1	sg	1954	Hij
+1961	7904	7905	noun	7905	-	-	O	n	0	pl	435	zijne handen
+1962	7904	7904	pronoun	7904	-	3	O	m	1	sg	1954	zijne
+1963	7907	7911	noun	7908	-	-	O	-	-	pl	1963	zijne gelaatstrekken in voortdurende beweging
+1964	7907	7907	pronoun	7907	-	3	O	m	1	sg	1954	zijne
+1965	7910	7911	noun	7911	-	-	O	n	0	sg	1965	voortdurende beweging
+1966	7928	7928	noun	7928	-	-	O	n	0	sg	1088	rust
+1967	7930	7931	noun	7931	-	-	O	n	0	sg	1967	De Natuur
+1968	7933	7933	pronoun	7933	-	3	O	m	1	sg	1954	hem
+1969	7935	7936	noun	7936	-	-	O	n	0	sg	1969	een hanglip
+1970	7941	7947	noun	7942	-	-	O	n	0	sg	1970	de rij zijner gele , onregelmatige tanden
+1971	7943	7947	noun	7947	-	-	O	-	-	pl	1971	zijner gele , onregelmatige tanden
+1972	7954	7954	pronoun	7954	-	3	O	m	1	sg	1954	hij
+1973	7962	7963	noun	7963	-	-	O	n	0	sg	433	zijn hand
+1974	7962	7962	pronoun	7962	-	3	O	m	1	sg	1954	zijn
+1975	7965	7966	noun	7966	-	-	O	n	0	sg	1975	zijn onderkaak
+1976	7965	7965	pronoun	7965	-	3	O	m	1	sg	1954	zijn
+1977	7971	7973	noun	7973	-	-	O	m	1	sg	1977	zijne buitengewone kaalhoofdigheid
+1978	7971	7971	pronoun	7971	-	3	O	m	1	sg	1954	zijne
+1979	7976	7976	pronoun	7976	-	3	O	m	1	sg	1977	hij
+1980	7984	7985	noun	7985	-	-	I	fm	1	sg	1980	Uw dienaar
+1981	7984	7984	pronoun	7984	-	2	I	fm	1	both	1981	Uw
+1982	7987	7988	name	7988	PER	-	I	n	0	sg	883	Miss Morstan
+1983	7992	7992	pronoun	7992	-	3	O	m	1	sg	1977	hij
+1984	7996	7996	noun	7996	-	-	O	m	1	sg	1703	toon
+1985	7999	8000	noun	8000	-	-	I	fm	1	sg	1980	uw dienaar
+1986	7999	7999	pronoun	7999	-	2	I	fm	1	both	1986	uw
+1987	8002	8003	name	8003	PER	-	I	m	1	sg	1769	mijne heeren
+1988	8002	8002	pronoun	8002	-	1	I	m	1	sg	1977	mijne
+1989	8005	8005	pronoun	8005	-	1	I	fm	1	sg	1977	Ik
+1990	8007	8007	pronoun	8007	-	2	I	fm	1	sg	1980	u
+1991	8010	8012	noun	8012	-	-	I	n	0	sg	1991	mijn klein heiligdom
+1992	8010	8010	pronoun	8010	-	1	I	fm	1	sg	1977	mijn
+1993	8015	8017	noun	8017	-	-	I	n	0	sg	1993	Een kleine woning
+1994	8023	8025	noun	8025	-	-	I	n	0	sg	1994	mijn eigen smaak
+1995	8023	8023	pronoun	8023	-	1	I	fm	1	sg	1977	mijn
+1996	8028	8036	noun	8030	-	-	I	n	0	sg	1996	Een soort oase in deze beklagenswaardige wildernis van Zuidelijk-Londen
+1997	8032	8036	noun	8034	-	-	I	n	0	sg	1997	deze beklagenswaardige wildernis van Zuidelijk-Londen
+1998	8036	8036	name	8036	LOC	-	I	n	0	both	1998	Zuidelijk-Londen
+1999	8039	8039	pronoun	8039	-	1	O	fm	1	pl	873	Wij
+2000	8044	8052	noun	8045	-	-	O	n	0	sg	2000	het uiterlijk van het vertrek waarbinnen hij ons uitnoodigde
+2001	8047	8048	noun	8048	-	-	O	n	0	sg	898	het vertrek
+2002	8050	8050	pronoun	8050	-	3	O	m	1	sg	1977	hij
+2003	8051	8052	noun	8052	-	-	O	n	0	sg	2003	ons uitnoodigde
+2004	8051	8051	pronoun	8051	-	1	O	fm	1	pl	873	ons
+2005	8057	8058	noun	8058	-	-	O	f	1	sg	2005	dit onaanzienlijke
+2006	8059	8065	noun	8059	-	-	O	n	0	sg	2006	huis als een diamant van het zuiverst
+2007	8061	8065	noun	8062	-	-	O	n	0	sg	2007	een diamant van het zuiverst
+2008	8066	8066	noun	8066	-	-	O	n	0	sg	2008	water
+2009	8068	8068	noun	8068	-	-	O	n	0	sg	2009	koper
+2010	8071	8075	noun	8075	-	-	O	n	0	pl	2010	De rijkste en kostbaarste gordijnen
+2011	8077	8077	noun	8077	-	-	O	n	0	pl	2011	tapijten
+2012	8079	8080	noun	8080	-	-	O	n	0	pl	2012	de wanden
+2013	8089	8089	noun	8089	-	-	O	n	0	sg	1813	plaats
+2014	8093	8097	noun	8097	-	-	O	n	0	sg	2014	een schilderstuk of Oostersche vaas
+2015	8094	8096	name	8096	MISC	-	O	n	0	both	1921	schilderstuk of Oostersche
+2016	8099	8100	noun	8100	-	-	O	n	0	sg	2016	Het vloerkleed
+2017	8110	8112	noun	8111	-	-	O	n	0	sg	2017	de voet erin
+2018	8116	8118	noun	8118	-	-	O	n	0	sg	2018	een donzen bed
+2019	8120	8122	name	8122	PER	-	O	n	0	pl	2019	Twee groote tijgerhuiden
+2020	8125	8130	noun	8130	-	-	O	n	0	sg	2020	een op een standaard staande hookah
+2021	8127	8128	noun	8128	-	-	O	n	0	sg	2021	een standaard
+2022	8132	8133	name	8133	MISC	-	O	n	0	both	2022	Oostersche tabakspijp
+2023	8136	8137	noun	8137	-	-	O	n	0	sg	2023	het geheel
+2024	8138	8142	noun	8139	-	-	O	n	0	sg	52	het voorkomen van Oostersche weelde
+2025	8141	8142	noun	8142	-	-	O	n	0	sg	2025	Oostersche weelde
+2026	8141	8141	name	8141	LOC	-	O	n	0	both	1921	Oostersche
+2027	8144	8145	noun	8145	-	-	O	n	0	sg	2027	Een lamp
+2028	8148	8153	noun	8149	-	-	O	n	0	sg	2028	den vorm van een zilveren duif
+2029	8151	8153	noun	8153	-	-	O	n	0	sg	2029	een zilveren duif
+2030	8157	8166	noun	8161	-	-	O	n	0	sg	2030	een zeer dunne vergulde ketting in het midden der kamer
+2031	8163	8166	noun	8164	-	-	O	n	0	sg	1952	het midden der kamer
+2032	8165	8166	noun	8166	-	-	O	n	0	sg	694	der kamer
+2033	8169	8169	pronoun	8169	-	3	O	f	1	sg	2005	zij
+2034	8172	8172	pronoun	8172	-	3	O	f	1	sg	2005	zij
+2035	8173	8177	noun	8174	-	-	O	n	0	sg	2035	de lucht met een zachten
+2036	8182	8184	name	8184	PER	-	I	m	1	sg	883	Mr. Thaddeus Sholto
+2037	8188	8190	noun	8190	-	-	O	m	1	sg	1954	de kleine man
+2038	8200	8201	noun	8201	-	-	I	n	0	sg	200	mijn naam
+2039	8200	8200	pronoun	8200	-	1	I	m	1	sg	1954	mijn
+2040	8203	8203	pronoun	8203	-	2	I	m	1	sg	883	Gij
+2041	8206	8207	name	8207	PER	-	I	-	-	sg	883	Miss Morstan
+2042	8210	8211	noun	8211	-	-	I	m	1	sg	1769	deze heeren
+2043	8217	8219	name	8219	PER	-	I	m	1	sg	3	Mr. Sherlock Holmes
+2044	8222	8224	name	8224	PER	-	I	m	1	sg	104	deze Dr. Watson
+2045	8228	8229	noun	8229	-	-	I	fm	1	sg	720	Een dokter
+2046	8235	8235	pronoun	8235	-	3	O	m	1	sg	1769	hij
+2047	8240	8240	pronoun	8240	-	2	I	fm	1	sg	720	gij
+2048	8241	8242	noun	8242	-	-	I	n	0	sg	2048	uw stethoscoop
+2049	8241	8241	pronoun	8241	-	2	I	fm	1	both	2049	uw
+2050	8244	8244	pronoun	8244	-	2	I	fm	1	sg	720	u
+2051	8247	8247	pronoun	8247	-	1	I	m	1	sg	1769	ik
+2052	8248	8248	pronoun	8248	-	2	I	fm	1	sg	720	u
+2053	8254	8254	pronoun	8254	-	2	I	fm	1	sg	720	gij
+2054	8260	8260	pronoun	8260	-	1	I	fm	1	sg	1769	Ik
+2055	8265	8266	noun	8266	-	-	I	n	0	sg	2055	mijn hart-klep
+2056	8265	8265	pronoun	8265	-	1	I	fm	1	sg	1769	mijn
+2057	8269	8269	pronoun	8269	-	2	I	fm	1	sg	720	gij
+2058	8270	8271	noun	8271	-	-	I	n	0	sg	2058	de goedheid
+2059	8276	8276	pronoun	8276	-	1	I	fm	1	sg	1769	Ik
+2060	8284	8285	noun	8285	-	-	I	n	0	sg	2060	de hart-ader
+2061	8290	8291	noun	8291	-	-	I	n	0	sg	2061	de klep
+2062	8293	8293	pronoun	8293	-	1	I	fm	1	sg	1769	ik
+2063	8294	8295	noun	8295	-	-	I	n	0	sg	581	uw oordeel
+2064	8294	8294	pronoun	8294	-	2	I	fm	1	both	2064	uw
+2065	8301	8301	pronoun	8301	-	1	O	fm	1	sg	33	Ik
+2066	8304	8305	noun	8305	-	-	O	n	0	sg	2066	zijn hart
+2067	8304	8304	pronoun	8304	-	3	O	n	0	sg	581	zijn
+2068	8315	8315	pronoun	8315	-	3	O	m	1	sg	1769	hij
+2069	8316	8316	pronoun	8316	-	3	O	m	1	sg	1769	zich
+2070	8317	8319	noun	8319	-	-	O	fn	-	pl	2070	in een angstigen
+2071	8324	8324	pronoun	8324	-	3	O	m	1	sg	1769	hij
+2072	8327	8329	noun	8329	-	-	O	n	0	sg	2072	zijn gansche lichaam
+2073	8327	8327	pronoun	8327	-	3	O	m	1	sg	1769	zijn
+2074	8340	8340	pronoun	8340	-	1	O	fm	1	sg	33	ik
+2075	8343	8343	pronoun	8343	-	2	I	m	1	sg	1769	gij
+2076	8347	8347	pronoun	8347	-	2	I	fm	1	sg	1769	u
+2077	8354	8354	pronoun	8354	-	2	I	fm	1	sg	33	Gij
+2078	8356	8357	noun	8357	-	-	I	f	1	sg	2078	mijne angstigheid
+2079	8356	8356	pronoun	8356	-	1	I	m	1	sg	1769	mijne
+2080	8360	8361	name	8361	PER	-	I	n	0	sg	883	Miss Morstan
+2081	8365	8365	pronoun	8365	-	3	O	m	1	sg	1769	hij
+2082	8369	8369	pronoun	8369	-	1	I	m	1	sg	1769	ik
+2083	8377	8378	noun	8378	-	-	I	n	0	sg	2083	een hartader-breuk
+2084	8380	8380	pronoun	8380	-	1	I	fm	1	sg	1769	Ik
+2085	8393	8394	noun	8394	-	-	I	m	1	sg	300	uw vader
+2086	8393	8393	pronoun	8393	-	2	I	fm	1	both	2086	uw
+2087	8397	8398	noun	8398	-	-	I	n	0	sg	2066	zijn hart
+2088	8397	8397	pronoun	8397	-	3	I	m	1	sg	300	zijn
+2089	8402	8403	name	8403	PER	-	I	n	0	sg	883	Miss Morstan
+2090	8407	8407	pronoun	8407	-	3	I	m	1	sg	300	hij
+2091	8415	8415	pronoun	8415	-	1	O	fm	1	sg	33	Ik
+2092	8417	8418	noun	8418	-	-	O	m	1	sg	104	den man
+2093	8421	8422	noun	8422	-	-	O	n	0	sg	87	het gelaat
+2094	8427	8427	noun	8427	-	-	O	n	0	sg	2094	zoozeer
+2095	8429	8429	pronoun	8429	-	1	O	fm	1	sg	33	mij
+2096	8430	8432	noun	8432	-	-	O	n	0	sg	2096	deze onhandige opmerking
+2097	8434	8435	name	8435	PER	-	O	n	0	sg	883	Miss Morstan
+2098	8437	8437	pronoun	8437	-	3	O	n	0	sg	883	zich
+2099	8438	8438	noun	8438	-	-	O	m	1	sg	2099	neder
+2100	8440	8441	noun	8441	-	-	O	n	0	sg	87	haar gelaat
+2101	8440	8440	pronoun	8440	-	3	O	n	0	sg	883	haar
+2102	8446	8447	noun	8447	-	-	O	n	0	pl	2102	hare lippen
+2103	8446	8446	pronoun	8446	-	3	O	fn	-	pl	2070	hare
+2104	8451	8451	pronoun	8451	-	1	I	f	1	sg	2078	Ik
+2105	8454	8455	noun	8455	-	-	I	n	0	sg	625	mijn hart
+2106	8454	8454	pronoun	8454	-	1	I	fm	1	sg	2078	mijn
+2107	8457	8457	pronoun	8457	-	3	I	m	1	sg	2099	hij
+2108	8463	8463	pronoun	8463	-	3	O	f	1	sg	2078	zij
+2109	8466	8466	pronoun	8466	-	1	I	m	1	sg	2099	Ik
+2110	8468	8468	pronoun	8468	-	2	I	fm	1	sg	2110	u
+2111	8476	8476	pronoun	8476	-	3	O	m	1	sg	2099	hij
+2112	8482	8482	pronoun	8482	-	1	I	m	1	sg	2099	ik
+2113	8486	8488	name	8488	PER	-	I	m	1	sg	2113	mijn broeder Bartholomeus
+2114	8486	8486	pronoun	8486	-	1	I	fm	1	sg	2099	mijn
+2115	8493	8493	pronoun	8493	-	1	I	fm	1	sg	2099	Ik
+2116	8498	8498	pronoun	8498	-	2	I	fm	1	sg	2116	gij
+2117	8499	8499	noun	8499	-	-	I	m	1	pl	2117	vrienden
+2118	8501	8501	pronoun	8501	-	2	I	fm	1	sg	2116	u
+2119	8510	8510	pronoun	8510	-	2	I	fm	1	sg	2116	u
+2120	8515	8515	noun	8515	-	-	I	fm	1	pl	2120	getuigen
+2121	8518	8518	pronoun	8518	-	1	I	fm	1	sg	2099	ik
+2122	8527	8527	pronoun	8527	-	1	I	fm	1	pl	2122	Wij
+2123	8530	8530	pronoun	8530	-	1	I	fm	1	pl	2122	ons
+2124	8532	8533	name	8533	PER	-	I	m	1	sg	2113	broeder Bartholomeus
+2125	8541	8541	pronoun	8541	-	1	I	fm	1	pl	2122	ons
+2126	8544	8544	noun	8544	-	-	I	-	-	sg	1069	politie
+2127	8546	8547	noun	8547	-	-	I	fm	1	pl	2127	andere ambtenaren
+2128	8551	8551	pronoun	8551	-	1	I	fm	1	pl	2122	Wij
+2129	8559	8562	noun	8560	-	-	I	-	-	sg	2129	eenige tusschenkomst van anderen
+2130	8566	8567	name	8567	PER	-	I	m	1	sg	2113	broeder Bartholomeus
+2131	8571	8571	noun	8571	-	-	I	n	0	sg	2131	publiciteit
+2132	8574	8574	pronoun	8574	-	3	O	m	1	sg	2113	Hij
+2133	8576	8576	pronoun	8576	-	3	O	m	1	sg	2113	zich
+2134	8584	8584	pronoun	8584	-	1	O	fm	1	pl	873	ons
+2135	8588	8594	noun	8594	-	-	O	n	0	sg	2135	zijn doffe , waterige , blauwe oogen
+2136	8588	8588	pronoun	8588	-	3	O	m	1	sg	2113	zijn
+2137	8598	8598	pronoun	8598	-	1	I	m	1	sg	3	mij
+2138	8603	8603	name	8603	PER	-	O	m	1	sg	3	Holmes
+2139	8606	8606	pronoun	8606	-	1	I	m	1	sg	3	ik
+2140	8610	8610	pronoun	8610	-	2	I	fm	1	sg	2140	gij
+2141	8616	8616	pronoun	8616	-	1	I	fm	1	sg	3	mij
+2142	8620	8620	pronoun	8620	-	1	O	fm	1	sg	33	Ik
+2143	8622	8627	noun	8623	-	-	O	n	0	sg	2143	mijn hoofd ten teeken van instemming
+2144	8622	8622	pronoun	8622	-	1	O	fm	1	sg	33	mijn
+2145	8625	8627	noun	8625	-	-	O	m	1	sg	2145	teeken van instemming
+2146	8627	8627	noun	8627	-	-	O	n	0	sg	2146	instemming
+2147	8640	8640	pronoun	8640	-	3	O	m	1	sg	2145	hij
+2148	8644	8644	pronoun	8644	-	1	I	m	1	sg	2145	ik
+2149	8645	8645	pronoun	8645	-	2	I	fm	1	sg	2149	u
+2150	8646	8648	name	8648	MISC	-	I	n	0	sg	2150	een glas Chianti
+2151	8651	8652	name	8652	PER	-	I	n	0	sg	883	Miss Morstan
+2152	8655	8655	name	8655	PER	-	I	fm	1	sg	2152	Tokayer
+2153	8657	8658	noun	8658	-	-	I	n	0	pl	2153	Andere wijnen
+2154	8660	8660	pronoun	8660	-	1	I	fm	1	sg	2145	ik
+2155	8667	8667	pronoun	8667	-	1	I	fm	1	sg	2145	ik
+2156	8668	8669	noun	8669	-	-	I	n	0	sg	4	een flesch
+2157	8677	8677	pronoun	8677	-	1	I	fm	1	sg	2145	ik
+2158	8680	8680	pronoun	8680	-	2	I	fm	1	sg	2149	gij
+2159	8686	8686	noun	8686	-	-	I	m	1	sg	2159	tabaks-rook
+2160	8691	8696	noun	8693	-	-	I	n	0	sg	2160	den balsamieken geur van Oostersche tobacco
+2161	8691	8692	name	8692	MISC	-	I	n	0	both	2161	den balsamieken
+2162	8695	8696	name	8696	ORG	-	I	n	0	both	2162	Oostersche tobacco
+2163	8698	8698	pronoun	8698	-	1	I	fm	1	sg	2145	Ik
+2164	8706	8707	noun	8707	-	-	I	n	0	sg	2164	mijne hookah
+2165	8706	8706	pronoun	8706	-	1	I	fm	1	sg	2145	mijne
+2166	8708	8710	noun	8710	-	-	I	n	0	sg	2164	een onschatbaar geneesmiddel
+2167	8713	8713	pronoun	8713	-	3	O	m	1	sg	2159	Hij
+2168	8715	8716	noun	8716	-	-	O	n	0	sg	2168	een mondstuk
+2169	8718	8720	noun	8720	-	-	O	-	-	sg	2169	den grooten bol
+2170	8718	8719	name	8719	MISC	-	O	n	0	both	2170	den grooten
+2171	8723	8724	noun	8724	-	-	O	-	-	sg	2171	de rook
+2172	8728	8729	noun	8729	-	-	O	n	0	sg	2172	het rozenwater
+2173	8731	8731	pronoun	8731	-	1	O	fm	1	pl	873	Wij
+2174	8734	8738	noun	8738	-	-	O	n	0	pl	2174	ons drieën in een halven
+2175	8734	8734	pronoun	8734	-	1	O	fm	1	pl	873	ons
+2176	8741	8745	noun	8742	-	-	O	n	0	pl	2176	onze kinnen in de handen
+2177	8741	8741	pronoun	8741	-	1	O	fm	1	pl	873	onze
+2178	8744	8745	noun	8745	-	-	O	n	0	pl	435	de handen
+2179	8749	8762	noun	8753	-	-	O	m	1	sg	2179	de vreemdsoortige , dwergachtige snaak met zijn groot , glimmend hoofd in het midden
+2180	8755	8762	noun	8759	-	-	O	n	0	sg	2180	zijn groot , glimmend hoofd in het midden
+2181	8755	8755	pronoun	8755	-	3	O	m	1	sg	2179	zijn
+2182	8761	8762	noun	8762	-	-	O	n	0	sg	1952	het midden
+2183	8769	8769	pronoun	8769	-	1	I	m	1	sg	2179	ik
+2184	8772	8773	noun	8773	-	-	I	n	0	sg	2184	het besluit
+2185	8776	8776	pronoun	8776	-	2	I	fm	1	sg	2185	u
+2186	8777	8778	noun	8778	-	-	I	-	-	sg	2186	deze mededeeling
+2187	8784	8784	pronoun	8784	-	3	O	m	1	sg	2179	hij
+2188	8788	8788	pronoun	8788	-	1	I	m	1	sg	2179	ik
+2189	8790	8791	noun	8791	-	-	I	n	0	sg	1161	mijn adres
+2190	8790	8790	pronoun	8790	-	1	I	fm	1	sg	2179	mijn
+2191	8795	8795	pronoun	8795	-	1	I	fm	1	sg	2179	ik
+2192	8799	8799	pronoun	8799	-	2	I	-	-	sg	883	gij
+2193	8800	8801	noun	8801	-	-	I	n	0	sg	2193	mijn verzoek
+2194	8800	8800	pronoun	8800	-	1	I	fm	1	sg	2179	mijn
+2195	8806	8807	noun	8807	-	-	I	n	0	sg	2195	vreemd volk
+2196	8809	8809	pronoun	8809	-	2	I	fm	1	sg	883	u
+2197	8813	8813	name	8813	LOC	-	I	n	0	both	2197	Deswege
+2198	8815	8815	pronoun	8815	-	1	I	fm	1	sg	2179	ik
+2199	8816	8817	noun	8817	-	-	I	-	-	sg	2199	de vrijheid
+2200	8818	8819	noun	8819	-	-	I	n	0	sg	191	de zaak
+2201	8825	8827	name	8827	PER	-	I	n	0	sg	947	mijn bediende Williams
+2202	8825	8825	pronoun	8825	-	1	I	fm	1	sg	2179	mijn
+2203	8828	8828	pronoun	8828	-	2	I	fm	1	sg	883	u
+2204	8834	8834	pronoun	8834	-	1	I	fm	1	sg	2179	Ik
+2205	8836	8841	noun	8838	-	-	I	n	0	sg	2205	het volste vertrouwen in zijne discretie
+2206	8840	8841	noun	8841	-	-	I	m	1	sg	2206	zijne discretie
+2207	8840	8840	pronoun	8840	-	3	I	n	0	sg	2205	zijne
+2208	8844	8844	pronoun	8844	-	3	I	m	1	sg	2206	hij
+2209	8847	8847	noun	8847	-	-	I	n	-	pl	2209	last
+2210	8851	8851	pronoun	8851	-	3	I	m	1	sg	2206	hij
+2211	8863	8863	pronoun	8863	-	2	I	fm	1	sg	883	Gij
+2212	8865	8866	noun	8866	-	-	I	n	0	pl	2212	deze voorzorgsmaatregelen
+2213	8872	8872	pronoun	8872	-	1	I	m	1	sg	2179	ik
+2214	8874	8875	noun	8875	-	-	I	n	0	sg	137	een eenigszins
+2215	8876	8877	noun	8877	-	-	I	m	1	sg	2179	achterdochtig man
+2216	8880	8880	pronoun	8880	-	1	I	m	1	sg	2179	ik
+2217	8887	8887	noun	8887	-	-	I	n	0	sg	1994	smaak
+2218	8893	8893	pronoun	8893	-	3	I	n	0	sg	2218	dat
+2219	8899	8900	noun	8900	-	-	I	-	-	sg	2219	de aesthetica
+2220	8902	8903	noun	8903	-	-	I	m	1	sg	2220	een politieman
+2221	8905	8905	pronoun	8905	-	1	I	m	1	sg	2179	Ik
+2222	8909	8916	noun	8909	-	-	I	n	0	sg	2222	afkeer van alle vormen van het ruwe materialisme
+2223	8914	8916	noun	8916	-	-	I	n	0	sg	2223	het ruwe materialisme
+2224	8918	8918	pronoun	8918	-	1	I	m	1	sg	2179	Ik
+2225	8926	8928	noun	8928	-	-	I	n	0	sg	2225	de ruwe menigte
+2226	8930	8930	pronoun	8930	-	1	I	m	1	sg	2179	Ik
+2227	8934	8934	pronoun	8934	-	2	I	fm	1	sg	883	gij
+2228	8938	8939	noun	8939	-	-	I	n	0	sg	137	een eenigszins
+2229	8940	8941	noun	8941	-	-	I	n	0	sg	2229	elegante atmosfeer
+2230	8943	8943	pronoun	8943	-	1	I	m	1	sg	2179	Ik
+2231	8945	8945	pronoun	8945	-	1	I	m	1	sg	2179	mij
+2232	8946	8949	noun	8947	-	-	I	fm	1	sg	2232	een beschermer der kunst
+2233	8948	8949	noun	8949	-	-	I	n	0	sg	311	der kunst
+2234	8956	8957	noun	8957	-	-	I	n	0	sg	2234	mijn zwak
+2235	8956	8956	pronoun	8956	-	1	I	m	1	sg	2179	mijn
+2236	8959	8960	noun	8960	-	-	I	n	0	sg	2236	Dit landschap
+2237	8962	8964	name	8964	PER	-	I	n	0	sg	2236	een zeldzaam Corot
+2238	8968	8969	noun	8969	-	-	I	fm	1	sg	2238	een kenner
+2239	8971	8971	noun	8971	-	-	I	-	-	sg	18	eenigen
+2240	8972	8972	noun	8972	-	-	I	n	0	sg	2240	twijfel
+2241	8976	8978	name	8978	MISC	-	I	f	1	pl	2241	deze Salvator Rosa
+2242	8982	8982	pronoun	8982	-	3	I	n	0	sg	2236	dit
+2243	8984	8985	name	8985	PER	-	I	fm	1	sg	2243	deze Bouguereau
+2244	8987	8988	noun	8988	-	-	I	n	0	sg	213	het geval
+2245	8991	8991	pronoun	8991	-	1	I	m	1	sg	2179	Ik
+2246	8995	8998	noun	8998	-	-	I	n	0	sg	2246	de moderne Fransche school
+2247	8997	8997	name	8997	PER	-	I	fm	1	sg	2247	Fransche
+2248	9002	9002	pronoun	9002	-	2	I	m	1	sg	883	Gij
+2249	9004	9004	pronoun	9004	-	1	I	fm	1	sg	883	mij
+2250	9007	9008	name	9008	PER	-	I	m	1	sg	883	Mr. Sholto
+2251	9013	9014	name	9014	PER	-	O	fm	1	sg	883	Miss Morstan
+2252	9018	9018	pronoun	9018	-	1	I	fm	1	sg	883	ik
+2253	9022	9023	noun	9023	-	-	I	n	0	sg	2253	uw verzoek
+2254	9022	9022	pronoun	9022	-	2	I	fm	1	both	2254	uw
+2255	9029	9029	pronoun	9029	-	2	I	m	1	sg	883	gij
+2256	9030	9030	pronoun	9030	-	1	I	fm	1	sg	883	mij
+2257	9031	9031	noun	9031	-	-	I	m	1	sg	1562	wenscht
+2258	9043	9043	pronoun	9043	-	1	I	fm	1	sg	883	ik
+2259	9045	9046	noun	9046	-	-	I	n	0	sg	2259	ons onderhoud
+2260	9045	9045	pronoun	9045	-	1	I	fm	1	pl	2260	ons
+2261	9059	9060	noun	9059	-	-	I	-	-	sg	18	eenigen tijd
+2262	9067	9067	pronoun	9067	-	3	O	m	1	sg	1562	hij
+2263	9071	9071	pronoun	9071	-	1	I	fm	1	pl	2263	we
+2264	9075	9075	name	9075	LOC	-	I	mn	-	sg	883	Norwood
+2265	9079	9080	name	9080	PER	-	I	m	1	sg	2113	broeder Bartholomeus
+2266	9083	9083	pronoun	9083	-	1	I	fm	1	pl	2263	Wij
+2267	9091	9091	pronoun	9091	-	1	I	fm	1	pl	2263	wij
+2268	9093	9094	name	9094	PER	-	I	m	1	sg	2113	broeder Bartholomeus
+2269	9098	9098	pronoun	9098	-	3	I	m	1	sg	2113	Hij
+2270	9103	9103	pronoun	9103	-	1	I	m	1	sg	1562	mij
+2271	9108	9108	pronoun	9108	-	1	I	fm	1	sg	1562	ik
+2272	9113	9113	pronoun	9113	-	-	I	-	-	sg	2272	die
+2273	9114	9114	pronoun	9114	-	1	I	fm	1	sg	1562	mij
+2274	9118	9118	pronoun	9118	-	1	I	fm	1	sg	1562	Ik
+2275	9123	9126	noun	9124	-	-	I	n	0	pl	2275	hooge woorden met hem
+2276	9126	9126	pronoun	9126	-	3	I	m	1	sg	2113	hem
+2277	9130	9130	pronoun	9130	-	2	I	fm	1	sg	33	gij
+2278	9132	9132	pronoun	9132	-	2	I	fm	1	sg	33	u
+2279	9135	9138	noun	9138	-	-	I	m	1	sg	2279	wat een verschrikkelijke jongen
+2280	9135	9135	pronoun	9135	-	3	I	n	0	pl	2275	wat
+2281	9139	9139	pronoun	9139	-	3	I	m	1	sg	2113	hij
+2282	9143	9143	pronoun	9143	-	3	I	m	1	sg	2113	hij
+2283	9150	9150	pronoun	9150	-	1	I	fm	1	pl	2283	wij
+2284	9153	9153	name	9153	LOC	-	I	m	1	sg	883	Norwood
+2285	9161	9161	pronoun	9161	-	1	I	fm	1	pl	2283	wij
+2286	9162	9162	pronoun	9162	-	1	I	fm	1	pl	2283	ons
+2287	9170	9170	pronoun	9170	-	1	O	fm	1	sg	33	ik
+2288	9175	9175	pronoun	9175	-	3	O	m	1	sg	883	Hij
+2289	9179	9180	noun	9180	-	-	O	n	0	pl	2289	zijn ooren
+2290	9179	9179	pronoun	9179	-	3	O	m	1	sg	883	zijn
+2291	9192	9192	pronoun	9192	-	3	O	m	1	sg	883	hij
+2292	9195	9195	pronoun	9195	-	1	I	m	1	sg	883	ik
+2293	9199	9199	pronoun	9199	-	3	I	m	1	sg	2113	hij
+2294	9203	9203	pronoun	9203	-	1	I	fm	1	sg	883	ik
+2295	9204	9204	pronoun	9204	-	2	I	fm	1	sg	2295	u
+2296	9208	9208	pronoun	9208	-	3	I	m	1	sg	2113	hem
+2297	9213	9213	pronoun	9213	-	1	I	fm	1	sg	883	ik
+2298	9215	9215	pronoun	9215	-	2	I	fm	1	sg	2295	u
+2299	9218	9218	pronoun	9218	-	2	I	fm	1	sg	2295	u
+2300	9224	9224	pronoun	9224	-	1	I	fm	1	pl	2300	wij
+2301	9226	9226	pronoun	9226	-	3	I	f	1	pl	2241	elkander
+2302	9230	9232	noun	9232	-	-	I	n	0	sg	2302	de eerste plaats
+2303	9234	9234	pronoun	9234	-	1	I	fm	1	sg	883	ik
+2304	9235	9235	pronoun	9235	-	2	I	fm	1	sg	2295	u
+2305	9239	9243	noun	9240	-	-	I	-	-	pl	2305	verscheidene punten in de geschiedenis
+2306	9242	9243	noun	9243	-	-	I	n	0	sg	705	de geschiedenis
+2307	9246	9246	pronoun	9246	-	-	I	-	-	pl	2305	die
+2308	9247	9247	pronoun	9247	-	1	I	fm	1	sg	883	mij
+2309	9252	9252	pronoun	9252	-	1	I	fm	1	sg	883	Ik
+2310	9254	9254	pronoun	9254	-	2	I	fm	1	sg	2295	u
+2311	9256	9257	noun	9257	-	-	I	n	0	pl	244	de feiten
+2312	9259	9261	noun	9259	-	-	I	-	-	sg	2312	mededeelen voor zooverre
+2313	9261	9261	noun	9261	-	-	I	m	1	sg	2313	zooverre
+2314	9262	9262	pronoun	9262	-	1	I	fm	1	sg	883	ik
+2315	9268	9269	noun	9269	-	-	I	m	1	sg	300	Mijn vader
+2316	9268	9268	pronoun	9268	-	1	I	fm	1	sg	2316	Mijn
+2317	9273	9273	pronoun	9273	-	2	I	m	1	sg	883	gij
+2318	9279	9281	name	9281	PER	-	I	m	1	sg	883	Majoor John Sholto
+2319	9283	9286	noun	9286	-	-	I	-	-	sg	2319	vroeger in Indischen dienst
+2320	9288	9288	pronoun	9288	-	3	I	m	1	sg	300	Hij
+2321	9294	9295	noun	9295	-	-	I	n	0	sg	2321	zijn ontslag
+2322	9294	9294	pronoun	9294	-	3	I	m	1	sg	300	zijn
+2323	9298	9298	pronoun	9298	-	3	I	m	1	sg	300	zich
+2324	9300	9301	name	9301	PER	-	I	n	0	sg	2324	Pondicherry Lodge
+2325	9303	9304	name	9304	PER	-	I	n	0	sg	883	Upper Norwood
+2326	9306	9306	pronoun	9306	-	3	I	m	1	sg	2313	Hij
+2327	9308	9308	noun	9308	-	-	I	n	0	sg	1484	fortuin
+2328	9311	9311	name	9311	LOC	-	I	n	0	sg	1644	Indië
+2329	9314	9317	noun	9316	-	-	I	n	0	sg	2329	een aanzienlijke som gelds
+2330	9319	9320	name	9320	PER	-	I	n	0	sg	130	eene groote
+2331	9321	9323	noun	9321	-	-	I	-	-	sg	2331	verzameling kostbare zeldzaamheden
+2332	9322	9323	noun	9323	-	-	I	n	0	pl	2332	kostbare zeldzaamheden
+2333	9325	9330	noun	9327	-	-	I	m	1	sg	2333	een gansch gevolg van Inlandsche bedienden
+2334	9329	9330	noun	9330	-	-	I	fm	1	pl	2334	Inlandsche bedienden
+2335	9329	9329	name	9329	LOC	-	I	n	0	both	2335	Inlandsche
+2336	9334	9335	noun	9335	-	-	I	n	0	pl	759	deze omstandigheden
+2337	9337	9337	pronoun	9337	-	3	I	m	1	sg	2333	hij
+2338	9338	9338	pronoun	9338	-	3	I	m	1	sg	2333	zich
+2339	9339	9340	noun	9340	-	-	I	n	0	sg	2006	een huis
+2340	9347	9349	name	9349	PER	-	I	m	1	sg	2113	Mijn tweeling-broeder Bartholomeus
+2341	9347	9347	pronoun	9347	-	1	I	fm	1	sg	2316	Mijn
+2342	9351	9351	pronoun	9351	-	1	I	fm	1	sg	2316	ik
+2343	9353	9355	noun	9355	-	-	I	fm	1	pl	2343	zijn eenige kinderen
+2344	9353	9353	pronoun	9353	-	3	I	m	1	sg	2113	zijn
+2345	9357	9357	pronoun	9357	-	1	I	fm	1	sg	2316	Ik
+2346	9359	9359	pronoun	9359	-	1	I	fm	1	sg	2316	mij
+2347	9363	9364	noun	9364	-	-	I	-	-	sg	2347	de sensatie
+2348	9365	9365	pronoun	9365	-	-	I	-	-	sg	2347	die
+2349	9366	9370	noun	9367	-	-	I	n	0	sg	1554	de verdwijning van kapitein Morstan
+2350	9369	9370	name	9370	PER	-	I	fm	1	sg	883	kapitein Morstan
+2351	9373	9373	pronoun	9373	-	1	I	fm	1	pl	2351	Wij
+2352	9375	9377	noun	9376	-	-	I	m	1	sg	2352	de bizonderheden ervan
+2353	9379	9380	noun	9380	-	-	I	n	0	pl	2353	de bladen
+2354	9385	9385	pronoun	9385	-	3	I	m	1	sg	2352	hij
+2355	9386	9390	noun	9387	-	-	I	m	1	sg	2355	een vriend van onzen vader
+2356	9389	9389	pronoun	9389	-	1	I	fm	1	sg	2316	onzen
+2357	9395	9395	pronoun	9395	-	1	I	fm	1	pl	2351	wij
+2358	9396	9397	noun	9397	-	-	I	n	0	sg	213	het geval
+2359	9400	9401	noun	9401	-	-	I	n	0	sg	2359	zijne tegenwoordigheid
+2360	9400	9400	pronoun	9400	-	3	I	m	1	sg	2352	zijne
+2361	9405	9405	pronoun	9405	-	3	I	m	1	sg	2352	hij
+2362	9408	9408	pronoun	9408	-	1	I	fm	1	pl	2351	ons
+2363	9413	9413	pronoun	9413	-	3	I	m	1	sg	2352	hem
+2364	9423	9423	pronoun	9423	-	1	I	fm	1	pl	2351	wij
+2365	9425	9426	noun	9426	-	-	I	m	1	sg	2365	één oogenblik
+2366	9428	9428	pronoun	9428	-	3	I	m	1	sg	2365	hij
+2367	9429	9435	noun	9431	-	-	I	n	0	sg	2367	het geheele geheim in zijn eigen hart
+2368	9433	9435	noun	9435	-	-	I	n	0	sg	2368	zijn eigen hart
+2369	9433	9433	pronoun	9433	-	3	I	m	1	sg	2365	zijn
+2370	9444	9444	pronoun	9444	-	3	I	m	1	sg	2365	hem
+2371	9446	9450	noun	9447	-	-	I	n	0	sg	2371	het lot van Arthur Morstan
+2372	9449	9450	name	9450	PER	-	I	m	1	sg	883	Arthur Morstan
+2373	9456	9456	pronoun	9456	-	1	I	fm	1	pl	2351	wij
+2374	9459	9464	noun	9464	-	-	I	n	0	sg	2374	eenig geheim , eenig bepaald gevaar
+2375	9465	9465	pronoun	9465	-	1	I	fm	1	sg	2316	onzen
+2376	9469	9469	pronoun	9469	-	3	I	m	1	sg	2365	Hij
+2377	9473	9478	noun	9473	-	-	I	m	1	sg	2365	beangst om alleen uit te gaan
+2378	9481	9481	pronoun	9481	-	3	I	m	1	sg	2365	hij
+2379	9484	9490	noun	9485	-	-	I	n	0	pl	2379	twee prijs-vechters als portiers van Pondicherry Lodge
+2380	9487	9490	noun	9487	-	-	I	fm	1	pl	2380	portiers van Pondicherry Lodge
+2381	9489	9490	name	9490	PER	-	I	n	0	sg	2324	Pondicherry Lodge
+2382	9492	9492	name	9492	PER	-	I	n	0	sg	947	Williams
+2383	9494	9494	pronoun	9494	-	-	I	m	1	sg	947	die
+2384	9495	9495	pronoun	9495	-	2	I	fm	1	sg	883	u
+2385	9501	9502	noun	9501	-	-	I	m	1	sg	947	een hunner
+2386	9502	9502	pronoun	9502	-	3	I	fm	1	pl	2380	hunner
+2387	9504	9504	pronoun	9504	-	3	I	m	1	sg	947	Hij
+2388	9507	9510	noun	9508	-	-	I	m	1	sg	947	de kampioen-athleet van Engeland
+2389	9510	9510	name	9510	LOC	-	I	n	0	sg	798	Engeland
+2390	9512	9513	noun	9513	-	-	I	m	1	sg	2390	Onze vader
+2391	9512	9512	pronoun	9512	-	1	I	fm	1	pl	2351	Onze
+2392	9515	9515	pronoun	9515	-	1	I	fm	1	pl	2351	ons
+2393	9519	9519	pronoun	9519	-	3	I	n	0	sg	798	het
+2394	9521	9521	pronoun	9521	-	3	I	n	0	sg	2394	dat
+2395	9522	9522	pronoun	9522	-	3	I	m	1	sg	2390	hem
+2396	9527	9527	pronoun	9527	-	3	I	m	1	sg	2390	hij
+2397	9530	9532	noun	9532	-	-	I	n	0	sg	2397	een grooten afkeer
+2398	9537	9540	noun	9537	-	-	I	m	1	pl	1417	mannen met houten beenen
+2399	9539	9540	noun	9540	-	-	I	-	-	sg	2399	houten beenen
+2400	9543	9544	noun	9544	-	-	I	n	0	sg	2400	zekere gelegenheid
+2401	9546	9546	pronoun	9546	-	3	I	m	1	sg	2390	hij
+2402	9548	9549	noun	9549	-	-	I	n	0	sg	1590	zijn revolver
+2403	9548	9548	pronoun	9548	-	3	I	m	1	sg	2390	zijn
+2404	9551	9553	noun	9553	-	-	I	-	-	sg	2404	zulk een gebrekkige
+2405	9556	9556	pronoun	9556	-	-	I	-	-	sg	2404	die
+2406	9563	9565	noun	9565	-	-	I	n	0	sg	2406	een rustig besteller
+2407	9566	9566	pronoun	9566	-	-	I	n	0	sg	2406	die
+2408	9567	9568	noun	9568	-	-	I	n	0	sg	2408	een boodschap
+2409	9574	9574	pronoun	9574	-	1	I	fm	1	pl	2351	ons
+2410	9575	9577	noun	9577	-	-	I	n	0	sg	2329	een aanzienlijke som
+2411	9580	9581	noun	9581	-	-	I	n	0	sg	191	de zaak
+2412	9585	9586	noun	9586	-	-	I	m	1	sg	2412	Mijn broeder
+2413	9585	9585	pronoun	9585	-	1	I	fm	1	sg	2316	Mijn
+2414	9588	9588	pronoun	9588	-	1	I	fm	1	sg	2316	ik
+2415	9590	9590	pronoun	9590	-	3	I	n	0	sg	191	dit
+2416	9593	9597	noun	9594	-	-	I	n	0	sg	2416	een gril van mijn vader
+2417	9596	9597	noun	9597	-	-	I	m	1	sg	300	mijn vader
+2418	9596	9596	pronoun	9596	-	1	I	fm	1	sg	2316	mijn
+2419	9600	9601	noun	9601	-	-	I	n	0	pl	2419	latere voorvallen
+2420	9603	9605	noun	9604	-	-	I	n	0	sg	2420	ons oordeel daaromtrent
+2421	9603	9603	pronoun	9603	-	1	I	fm	1	pl	2351	ons
+2422	9616	9617	noun	9617	-	-	O	m	1	sg	300	mijn vader
+2423	9616	9616	pronoun	9616	-	1	O	fm	1	sg	33	mijn
+2424	9618	9621	noun	9619	-	-	O	n	0	sg	324	een brief uit Indië
+2425	9621	9621	name	9621	LOC	-	O	n	0	sg	1644	Indië
+2426	9624	9624	pronoun	9624	-	3	O	m	1	sg	300	hij
+2427	9629	9629	pronoun	9629	-	3	O	m	1	sg	300	Hij
+2428	9633	9634	noun	9634	-	-	O	n	0	sg	2428	de ontbijttafel
+2429	9636	9636	pronoun	9636	-	3	O	m	1	sg	300	hij
+2430	9637	9637	pronoun	9637	-	3	O	m	1	sg	2412	hem
+2431	9644	9644	pronoun	9644	-	3	O	m	1	sg	300	hij
+2432	9648	9649	noun	9649	-	-	O	n	0	sg	1543	zijn dood
+2433	9648	9648	pronoun	9648	-	3	O	m	1	sg	300	zijn
+2434	9652	9653	noun	9653	-	-	O	n	0	sg	324	die brief
+2435	9657	9657	pronoun	9657	-	1	O	fm	1	pl	873	wij
+2436	9663	9663	pronoun	9663	-	3	O	m	1	sg	300	hij
+2437	9664	9664	pronoun	9664	-	3	O	m	1	sg	2412	hem
+2438	9666	9667	noun	9667	-	-	O	n	0	sg	433	de hand
+2439	9670	9670	pronoun	9670	-	1	O	fm	1	sg	33	ik
+2440	9673	9673	pronoun	9673	-	3	O	m	1	sg	300	hij
+2441	9678	9679	noun	9679	-	-	O	n	0	sg	2441	krabbelend schrift
+2442	9683	9683	pronoun	9683	-	3	O	m	1	sg	300	Hij
+2443	9698	9698	pronoun	9698	-	3	O	m	1	sg	300	hij
+2444	9706	9706	name	9706	PER	-	O	n	0	sg	2444	April
+2445	9708	9708	pronoun	9708	-	1	O	fm	1	pl	873	ons
+2446	9711	9711	pronoun	9711	-	3	O	m	1	sg	300	hij
+2447	9715	9715	pronoun	9715	-	3	O	m	1	sg	300	hij
+2448	9716	9721	noun	9718	-	-	O	n	0	sg	2448	een laatste onderhoud met ons wenschte
+2449	9720	9721	noun	9721	-	-	O	n	0	sg	150	ons wenschte
+2450	9720	9720	pronoun	9720	-	1	O	fm	1	pl	873	ons
+2451	9726	9726	pronoun	9726	-	1	O	fm	1	pl	873	wij
+2452	9727	9728	noun	9728	-	-	O	n	0	sg	2452	zijn kamer
+2453	9727	9727	pronoun	9727	-	3	O	m	1	sg	300	zijn
+2454	9732	9732	pronoun	9732	-	3	O	m	1	sg	300	hij
+2455	9734	9734	noun	9734	-	-	O	n	0	pl	2455	kussens
+2456	9740	9740	pronoun	9740	-	3	O	m	1	sg	300	hij
+2457	9743	9743	pronoun	9743	-	3	O	m	1	sg	300	Hij
+2458	9745	9745	pronoun	9745	-	1	O	fm	1	pl	873	ons
+2459	9746	9747	noun	9747	-	-	O	n	0	sg	871	de deur
+2460	9752	9752	pronoun	9752	-	1	O	fm	1	pl	873	ons
+2461	9755	9759	noun	9756	-	-	O	n	0	sg	2461	eene zijde van het bed
+2462	9758	9759	noun	9759	-	-	O	n	0	sg	2018	het bed
+2463	9765	9765	pronoun	9765	-	3	O	m	1	sg	300	hij
+2464	9766	9767	noun	9767	-	-	O	n	0	pl	2464	onze handen
+2465	9766	9766	pronoun	9766	-	1	O	fm	1	pl	873	onze
+2466	9771	9771	pronoun	9771	-	1	O	fm	1	pl	873	ons
+2467	9772	9774	noun	9774	-	-	O	n	0	sg	2467	een merkwaardige bekentenis
+2468	9777	9778	noun	9778	-	-	O	n	0	sg	1250	een stem
+2469	9780	9780	pronoun	9780	-	-	O	n	0	sg	1250	die
+2470	9785	9785	noun	9785	-	-	O	n	0	sg	2470	ontroering
+2471	9789	9790	noun	9790	-	-	O	n	0	sg	2471	zijn lijden
+2472	9789	9789	pronoun	9789	-	3	O	m	1	sg	300	zijn
+2473	9792	9792	pronoun	9792	-	1	O	fm	1	sg	33	Ik
+2474	9795	9795	pronoun	9795	-	2	O	f	1	sg	1221	u
+2475	9796	9796	pronoun	9796	-	3	O	n	0	sg	2467	die
+2476	9798	9800	noun	9800	-	-	O	n	0	pl	2476	zijn eigen woorden
+2477	9798	9798	pronoun	9798	-	3	O	n	0	sg	2467	zijn
+2478	9806	9806	pronoun	9806	-	1	I	fm	1	sg	2478	Ik
+2479	9809	9810	noun	9810	-	-	I	n	0	sg	191	éen zaak
+2480	9814	9814	pronoun	9814	-	3	O	m	1	sg	300	hij
+2481	9817	9817	pronoun	9817	-	-	I	-	-	sg	2481	die
+2482	9818	9818	pronoun	9818	-	1	I	fm	1	sg	2482	mij
+2483	9820	9822	noun	9822	-	-	I	n	0	sg	2483	dit uiterste oogenblik
+2484	9827	9832	noun	9828	-	-	I	n	0	sg	2484	mijne behandeling van Morstan's arme weeze
+2485	9827	9827	pronoun	9827	-	1	I	fm	1	sg	2482	mijne
+2486	9830	9832	noun	9832	-	-	I	fn	1	sg	2486	Morstan's arme weeze
+2487	9830	9830	name	9830	PER	-	I	fm	1	sg	883	Morstan's
+2488	9834	9836	name	9836	MISC	-	I	n	0	pl	2488	De verwenschte gelddorst
+2489	9838	9838	pronoun	9838	-	-	I	n	0	pl	2488	die
+2490	9839	9843	noun	9840	-	-	I	n	0	sg	2490	mijn gemoed gedurende mijn gansche
+2491	9839	9839	pronoun	9839	-	1	I	fm	1	sg	2482	mijn
+2492	9842	9843	noun	9843	-	-	I	n	0	sg	2492	mijn gansche
+2493	9842	9842	pronoun	9842	-	1	I	fm	1	sg	2482	mijn
+2494	9849	9849	pronoun	9849	-	3	I	fn	1	sg	2486	haar
+2495	9850	9851	noun	9851	-	-	I	-	1	sg	2495	den schat
+2496	9857	9857	pronoun	9857	-	3	I	-	1	sg	2495	haar
+2497	9863	9863	pronoun	9863	-	1	I	fm	1	sg	2482	ik
+2498	9866	9866	pronoun	9866	-	1	I	fm	1	sg	2482	mij
+2499	9867	9867	noun	9867	-	-	I	-	-	sg	2499	zelven
+2500	9878	9879	noun	9879	-	-	I	n	0	sg	2500	de gierigheid
+2501	9881	9886	noun	9883	-	-	I	n	0	sg	2501	Het enkel bewustzijn van het bezit
+2502	9885	9886	noun	9886	-	-	I	n	0	sg	577	het bezit
+2503	9888	9888	pronoun	9888	-	1	I	fm	1	sg	2482	mij
+2504	9893	9893	pronoun	9893	-	1	I	fm	1	sg	2482	ik
+2505	9899	9899	pronoun	9899	-	3	I	n	0	sg	2501	dit
+2506	9901	9902	noun	9902	-	-	I	n	0	sg	320	een ander
+2507	9907	9910	noun	9908	-	-	I	n	0	sg	2507	dezen krans met paarlen
+2508	9910	9910	noun	9910	-	-	I	fn	1	sg	1186	paarlen
+2509	9914	9915	noun	9915	-	-	I	m	1	sg	2509	de kinine-flesch
+2510	9920	9920	pronoun	9920	-	1	I	fm	1	sg	2482	ik
+2511	9925	9925	pronoun	9925	-	1	I	fm	1	sg	2482	ik
+2512	9926	9926	pronoun	9926	-	3	I	m	1	sg	2509	hem
+2513	9930	9930	pronoun	9930	-	3	I	m	1	sg	2509	hem
+2514	9932	9932	pronoun	9932	-	3	I	fn	1	sg	1186	haar
+2515	9936	9936	pronoun	9936	-	2	I	m	1	both	2515	Gij
+2516	9938	9939	noun	9939	-	-	I	m	1	both	2515	mijn zoons
+2517	9938	9938	pronoun	9938	-	1	I	fm	1	sg	2482	mijn
+2518	9942	9942	pronoun	9942	-	3	I	fn	1	sg	1186	haar
+2519	9943	9945	noun	9945	-	-	I	n	0	sg	2519	een eerlijk deel
+2520	9948	9949	noun	9949	-	-	I	n	0	sg	2520	den Agra-schat
+2521	9954	9954	pronoun	9954	-	3	I	fn	1	sg	1186	haar
+2522	9959	9961	noun	9961	-	-	I	n	0	sg	2507	niet dezen krans
+2523	9965	9965	pronoun	9965	-	1	I	fm	1	sg	2482	ik
+2524	9973	9973	noun	9973	-	-	I	-	-	pl	2524	menschen
+2525	9978	9978	pronoun	9978	-	1	I	fm	1	sg	2482	ik
+2526	9981	9981	pronoun	9981	-	3	I	-	-	pl	2524	die
+2527	9988	9988	pronoun	9988	-	1	O	fm	1	sg	33	Ik
+2528	9990	9990	pronoun	9990	-	2	O	f	1	sg	1221	u
+2529	9995	9995	name	9995	PER	-	O	m	1	sg	883	Morstan
+2530	10001	10001	pronoun	10001	-	3	I	m	1	sg	883	hij

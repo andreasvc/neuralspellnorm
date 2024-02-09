@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="np" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'ORG')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="2" lcat="np" lemma="Me" naamval="stan" neclass="ORG" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Me" sense="Me" word="Me"/>
+      <node begin="1" cat="pp" end="6" id="3" rel="mod">
+        <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="normal" id="4" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="2" cat="np" end="6" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="boezem" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="boezem" sense="boezem" word="boezem"/>
+          <node begin="4" cat="np" end="6" id="8" rel="mod">
+            <node begin="4" end="5" frame="determiner(der)" his="normal" his_1="normal" id="9" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+            <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap" his_1="not_begin" id="10" lcat="np" lemma="natuur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="natuur" sense="natuur" word="Natuur"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="11" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="215-1">Me in den boezem der Natuur ,</sentence>
+  <comments>
+    <comment>Q#215-1|Me in [ @alt ~de~den den ] boezem der Natuur ,|1|1|4.5251532385</comment>
+  </comments>
+</alpino_ds>

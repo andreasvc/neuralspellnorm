@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="du" end="12" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="12" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="6" id="4" rel="cnj">
+          <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+          <node begin="2" end="3" frame="verb(unacc,sg3,intransitive)" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="komen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="kom" sc="intransitive" sense="kom" stype="declarative" tense="present" v_per="thi" word="komt" wvorm="pv"/>
+          <node begin="3" end="4" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="7" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+          <node begin="4" cat="np" end="6" id="8" index="1" rel="su">
+            <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="vent" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vent" sense="vent" word="vent"/>
+          </node>
+        </node>
+        <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="11" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="4" cat="smain" end="12" id="12" rel="cnj">
+          <node begin="4" end="6" id="13" index="1" rel="su"/>
+          <node begin="7" end="8" frame="verb(hebben,sg3,sbar)" his="normal" his_1="normal" id="14" infl="sg3" lcat="smain" lemma="schrijven" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="schrijf" sc="sbar" sense="schrijf" tense="present" v_per="thi" word="schrijft" wvorm="pv"/>
+          <node begin="8" cat="cp" end="12" id="15" rel="vc">
+            <node begin="8" conjtype="onder" end="9" frame="complementizer(dat)" his="normal" his_1="normal" id="16" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+            <node begin="9" cat="ssub" end="12" id="17" rel="body">
+              <node begin="9" end="10" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="18" lcat="np" lemma="Bavink" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bavink" sense="Bavink" word="Bavink"/>
+              <node begin="10" end="11" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="19" lcat="np" lemma="gebenedijd" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="predc" rnum="sg" root="gebenedijd" sense="gebenedijd" word="gebenedijd"/>
+              <node begin="11" end="12" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="20" infl="sg_is" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="52-17">En dan komt er een vent en schrijft dat Bavink gebenedijd is .</sentence>
+  <comments>
+    <comment>Q#52-17|En dan komt er een vent en schrijft dat Bavink gebenedijd is .|1|1|-4.598651734100001</comment>
+  </comments>
+</alpino_ds>

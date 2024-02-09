@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="2" skips="2" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="2" end="3" frame="reflexive(u_thi,both)" getal="getal" his="robust_skip" id="1" lcat="--" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="--" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+    <node begin="0" cat="du" end="6" id="2" rel="--">
+      <node begin="0" cat="mwu" end="2" his="normal" his_1="names_dictionary" id="3" rel="dp">
+        <node begin="0" end="1" frame="proper_name(sg,'PER')" id="4" lcat="np" lemma="&apos;t" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="&apos;t" sense="&apos;t" spectype="deeleigen" word="&apos;t"/>
+        <node begin="1" end="2" frame="proper_name(sg,'PER')" id="5" lcat="np" lemma="Hart" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Hart" sense="Hart" spectype="deeleigen" word="Hart"/>
+      </node>
+      <node begin="3" cat="du" end="6" id="6" rel="dp">
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="koen" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="koen" sense="koen" vform="adj" word="koen"/>
+        <node begin="4" cat="np" end="6" id="8" rel="dp">
+          <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="uit_weg" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="uit_weg" sense="uit_weg" word="uitweg"/>
+        </node>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="verb(hebben,past(sg),np_np)" his="robust_skip" id="11" infl="sg" lcat="--" lemma="banen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="--" root="baan" sc="np_np" sense="baan" tense="past" word="baande" wvorm="pv"/>
+    <node begin="7" end="8" frame="punct(komma)" his="robust_skip" id="12" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="116-1">&apos;t Hart zich koen een uitweg baande ,</sentence>
+  <comments>
+    <comment>Q#116-1|&apos;t Hart zich koen een uitweg baande ,|1|4|3.848408121</comment>
+  </comments>
+</alpino_ds>

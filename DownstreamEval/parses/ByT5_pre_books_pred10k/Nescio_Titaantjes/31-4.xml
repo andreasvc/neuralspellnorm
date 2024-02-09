@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:49" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" cat="smain" end="15" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="past" v_per="fir" word="was" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="15" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="4" buiging="zonder" end="5" frame="verb(unacc,psp,ld_pp)" his="normal" his_1="normal" id="6" infl="psp" lcat="ppart" lemma="zijn" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="ld_pp" sense="ben" word="geweest" wvorm="vd"/>
+        <node begin="2" cat="pp" end="7" id="7" rel="ld">
+          <node begin="2" end="3" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="8" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+          <node begin="3" cat="np" end="7" id="9" rel="obj1">
+            <node begin="3" buiging="zonder" end="4" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="10" lcat="np" lemma="solliciteren" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="solliciteer" sc="intransitive" sense="solliciteer" special="v_noun" word="solliciteeren" wvorm="inf"/>
+            <node begin="5" cat="pp" end="7" id="11" rel="mod">
+              <node begin="5" end="6" frame="preposition(in,[])" his="normal" his_1="normal" id="12" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+              <node begin="6" end="7" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="13" lcat="np" lemma="Hillegom" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Hillegom" sense="Hillegom" word="Hillegom"/>
+            </node>
+          </node>
+        </node>
+        <node begin="7" cat="pp" end="15" id="14" rel="mod">
+          <node begin="7" end="8" frame="preposition(bij,[vandaan])" his="normal" his_1="normal" id="15" lcat="pp" lemma="bij" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="bij" sense="bij" vztype="init" word="bij"/>
+          <node begin="8" cat="np" end="15" id="16" rel="obj1">
+            <node begin="8" end="9" frame="determiner(een)" his="normal" his_1="normal" id="17" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="18" lcat="np" lemma="bol_handelaar" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bol_handelaar" sense="bol_handelaar" word="bollenhandelaar"/>
+            <node begin="10" cat="pp" end="15" id="19" rel="mod">
+              <node begin="10" end="11" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="20" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="11" cat="np" end="15" id="21" rel="obj1">
+                <node aform="base" begin="11" buiging="met-e" end="12" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="22" infl="e" lcat="ap" lemma="dik" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="dik" sense="dik" vform="adj" word="dikke"/>
+                <node aform="base" begin="12" buiging="met-e" end="13" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="23" infl="e" lcat="ap" lemma="rood" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="rood" sense="rood" vform="adj" word="roode"/>
+                <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="24" infl="both" lcat="ppart" lemma="glad_scheren" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="glad_scheren" sense="glad_scheren" vform="psp" word="gladgeschoren" wvorm="vd"/>
+                <node begin="14" end="15" frame="noun(het,count,pl)" gen="het" getal="mv" graad="dim" his="normal" his_1="normal" id="25" lcat="np" lemma="wang" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,dim)" pt="n" rel="hd" rnum="pl" root="wang_DIM" sense="wang_DIM" word="wangetjes"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="26" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="31-4">Ik was uit solliciteeren geweest in Hillegom bij een bollenhandelaar met dikke roode gladgeschoren wangetjes .</sentence>
+  <comments>
+    <comment>Q#31-4|Ik was uit [ @alt solliciteren solliciteeren ] geweest in Hillegom bij een bollenhandelaar met dikke [ @alt rode roode ] gladgeschoren wangetjes .|1|1|-1.1107496633000031</comment>
+  </comments>
+</alpino_ds>

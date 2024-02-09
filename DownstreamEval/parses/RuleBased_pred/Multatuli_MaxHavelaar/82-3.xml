@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="du" end="8" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="want" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="want" sc="root" sense="want" word="Want"/>
+      <node begin="1" cat="smain" end="8" id="3" rel="nucl">
+        <node begin="1" cat="conj" end="4" id="4" rel="su">
+          <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="-heid" id="5" lcat="np" lemma="deftigheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="deftigheid" sense="deftigheid" word="deftigheid"/>
+          <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="normal" his_1="normal" id="6" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="fatsoen" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="cnj" rnum="sg" root="fatsoen" sense="fatsoen" word="fatsoen"/>
+        </node>
+        <node begin="4" end="5" frame="verb(hebben,pl,aci_no_obj)" his="normal" his_1="normal" id="8" infl="pl" lcat="smain" lemma="laten" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="laat" sc="aci_no_obj" sense="laat" stype="declarative" tense="present" v_per="thi" word="laten" wvorm="pv"/>
+        <node begin="5" cat="inf" end="8" id="9" rel="vc">
+          <node begin="5" end="6" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="10" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+          <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+          <node begin="7" buiging="zonder" end="8" frame="verb(hebben,inf,refl)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="verbergen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="verberg" sc="refl" sense="zich-verberg" word="verbergen" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="82-3">Want deftigheid en fatsoen laten zich niet verbergen .</sentence>
+  <comments>
+    <comment>Q#82-3|Want deftigheid en fatsoen laten zich niet verbergen .|1|1|-0.4255482601</comment>
+  </comments>
+</alpino_ds>

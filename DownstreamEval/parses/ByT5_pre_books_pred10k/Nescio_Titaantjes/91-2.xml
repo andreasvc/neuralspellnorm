@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:04" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="pp" end="11" id="2" rel="--">
+      <node begin="1" end="2" frame="preposition(per,[])" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="per" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="per" sense="per" vztype="init" word="Per"/>
+      <node begin="2" cat="np" end="11" id="4" rel="obj1">
+        <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" his_1_1="normal" id="5" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="me"/>
+        <node begin="3" cat="mwu" end="11" his="name" his_1="not_begin" id="6" rel="hd">
+          <node begin="3" end="4" frame="proper_name(both)" id="7" lcat="np" lemma="si" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="si" sense="si" spectype="deeleigen" word="si"/>
+          <node begin="4" end="5" frame="proper_name(both)" id="8" lcat="np" lemma="va" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="va" sense="va" spectype="deeleigen" word="va"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="9" lcat="np" lemma="tra" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="tra" sense="tra" spectype="deeleigen" word="tra"/>
+          <node begin="6" end="7" frame="proper_name(both)" id="10" lcat="np" lemma="la" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="la" sense="la" spectype="deeleigen" word="la"/>
+          <node begin="7" end="8" frame="proper_name(both)" id="11" lcat="np" lemma="perduta" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="perduta" sense="perduta" spectype="deeleigen" word="perduta"/>
+          <node begin="8" end="9" frame="proper_name(both)" id="12" lcat="np" lemma="gente" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="gente" sense="gente" spectype="deeleigen" word="gente"/>
+          <node begin="9" end="10" frame="proper_name(both)" id="13" lcat="np" lemma="," neclass="MISC" num="both" pos="name" postag="LET()" pt="let" rel="mwp" root="," sense="," word=","/>
+          <node begin="10" end="11" frame="proper_name(both)" id="14" lcat="np" lemma="Koekebakker" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Koekebakker" sense="Koekebakker" spectype="deeleigen" word="Koekebakker"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="12" end="13" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="16" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="91-2">&quot; Per me si va tra la perduta gente , Koekebakker . &quot;</sentence>
+  <comments>
+    <comment>Q#91-2|&quot; Per me si va tra la perduta gente , Koekebakker . &quot;|1|1|3.0299511600000004</comment>
+  </comments>
+</alpino_ds>

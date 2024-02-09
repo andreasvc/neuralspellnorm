@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:49" cats="1" skips="1" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="robust_skip" id="1" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" end="2" frame="--" genus="zijd" getal="ev" graad="basis" his="robust_skip" id="2" lcat="--" lemma="Hm" naamval="stan" ntype="eigen" pos="--" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="--" root="Hm" sense="Hm" word="Hm"/>
+    <node begin="2" end="3" frame="punct(uitroep)" his="robust_skip" id="3" lcat="--" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="3" cat="smain" end="9" id="4" rel="--">
+      <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="4" end="5" frame="verb(hebben,sg1,refl_np)" his="normal" his_1="normal" id="6" infl="sg1" lcat="smain" lemma="herinneren" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="herinner" sc="refl_np" sense="zich-herinner" stype="declarative" tense="present" v_per="fir" word="herinner" wvorm="pv"/>
+      <node begin="5" end="6" frame="reflexive(fir,sg)" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" refl="refl" rel="se" root="mij" sense="mij" status="vol" vwtype="pr" word="mij"/>
+      <node begin="6" cat="np" end="8" id="8" rel="obj1">
+        <node begin="6" buiging="zonder" end="7" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="dien"/>
+        <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="naam" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="naam" sense="naam" word="naam"/>
+      </node>
+      <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="robust_skip" id="12" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="49-2">&quot; Hm ! ik herinner mij dien naam niet .</sentence>
+  <comments>
+    <comment>Q#49-2|&quot; Hm ! ik herinner mij [ @alt die dien ] naam niet .|1|2|2.5814106872999996</comment>
+  </comments>
+</alpino_ds>

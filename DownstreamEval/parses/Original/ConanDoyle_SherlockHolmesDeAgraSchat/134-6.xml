@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:33" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="12" id="2" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="su" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="Wij"/>
+      <node begin="1" end="2" frame="verb('hebben/zijn',pl,aux(inf))" his="normal" his_1="normal" id="4" infl="pl" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" v_per="fir" word="kunnen" wvorm="pv"/>
+      <node begin="0" cat="inf" end="12" id="5" rel="vc">
+        <node begin="0" end="1" id="6" index="1" rel="su"/>
+        <node begin="2" end="3" frame="noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="alles" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="alles" sense="alles" status="vol" vwtype="onbep" word="alles"/>
+        <node begin="3" cat="ap" end="5" id="8" rel="mod">
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(both(adv))" graad="basis" his="normal" his_1="normal" id="9" infl="both" lcat="ap" lemma="voldoende" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="voldoende" sense="voldoende" vform="adj" word="voldoende"/>
+          <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(postn_no_e(adv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="onderling" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="onderling" sense="onderling" vform="adj" word="onderling"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="regelen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="regel" sc="transitive" sense="regel" word="regelen" wvorm="inf"/>
+        <node begin="7" cat="pp" end="12" id="12" rel="mod">
+          <node begin="7" end="8" frame="preposition(zonder,[])" his="normal" his_1="normal" id="13" lcat="pp" lemma="zonder" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="zonder" sense="zonder" vztype="init" word="zonder"/>
+          <node begin="8" cat="np" end="12" id="14" rel="obj1">
+            <node aform="base" begin="8" buiging="met-e" end="9" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="ige" id="15" infl="e" lcat="ap" lemma="eenig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="eenig" sense="eenig" vform="adj" word="eenige"/>
+            <node begin="9" end="10" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="16" lcat="np" lemma="tusschenkomst" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="tusschenkomst" sense="tusschenkomst" word="tusschenkomst"/>
+            <node begin="10" cat="pp" end="12" id="17" rel="mod">
+              <node begin="10" end="11" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="18" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node aform="compar" begin="11" buiging="met-e" end="12" frame="nominalized_compar_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="ander" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="obj1" rnum="pl" root="ander" sense="ander" special="a_noun" word="anderen"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="134-6">Wij kunnen alles voldoende onderling regelen , zonder eenige tusschenkomst van anderen .</sentence>
+  <comments>
+    <comment>Q#134-6|Wij kunnen alles voldoende onderling regelen , zonder eenige tusschenkomst van anderen .|1|1|-5.133226270899999</comment>
+  </comments>
+</alpino_ds>

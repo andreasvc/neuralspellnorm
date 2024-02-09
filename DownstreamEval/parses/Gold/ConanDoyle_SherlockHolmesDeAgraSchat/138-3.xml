@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="obj1">
+        <node aform="compar" begin="0" buiging="met-e" end="1" frame="adjective(ere)" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="e" lcat="ap" lemma="ander" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ander" sense="ander" vform="adj" word="Andere"/>
+        <node begin="1" end="2" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="wijn" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="wijn" sense="wijn" word="wijnen"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,sg1,part_fixed(na,[er_pp(op),acc],norm_passive))" his="normal" his_1="normal" id="5" infl="sg1" lcat="smain" lemma="na_houden" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="houd_na" sc="part_fixed(na,[er_pp(op),acc],norm_passive)" sense="houd_na-op" stype="declarative" tense="present" v_per="fir" word="houd" wvorm="pv"/>
+      <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+      <node begin="4" cat="pp" end="7" id="8" rel="pc">
+        <node begin="4" end="5" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="9" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="6" end="7" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="10" lcat="pp" lemma="op" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="op" sense="op" vztype="fin" word="op"/>
+      </node>
+      <node begin="7" end="8" frame="particle(na)" his="normal" his_1="normal" id="11" lcat="part" lemma="na" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="na" sense="na" vztype="fin" word="na"/>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="138-3">Andere wijnen houd ik er niet op na .</sentence>
+  <comments>
+    <comment>Q#138-3|Andere wijnen houd ik er niet op na .|1|1|-2.4598253710000013</comment>
+  </comments>
+</alpino_ds>

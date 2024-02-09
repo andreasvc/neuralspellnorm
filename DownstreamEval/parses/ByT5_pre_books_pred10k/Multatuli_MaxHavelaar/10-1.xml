@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:38" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="5" id="3" rel="nucl">
+        <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="dp" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="2" cat="np" end="5" id="5" rel="dp">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(ge_e)" his="normal" his_1="normal" id="7" infl="e" lcat="ppart" lemma="belonen" pos="adj" positie="prenom" postag="WW(vd,prenom,met-e)" pt="ww" rel="mod" root="belonen" sense="belonen" vform="psp" word="beloonde" wvorm="vd"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="deugd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="deugd" sense="deugd" word="deugd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(uitroep)" his="normal" his_1="normal" id="9" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="10-1">En dan die beloonde deugd !</sentence>
+  <comments>
+    <comment>Q#10-1|En dan die beloonde deugd !|1|1|0.6940970048000001</comment>
+  </comments>
+</alpino_ds>

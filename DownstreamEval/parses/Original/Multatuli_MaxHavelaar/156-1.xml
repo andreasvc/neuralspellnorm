@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="sv1" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="verb(unacc,past(sg),passive)" his="normal" his_1="decap" his_1_1="normal" id="2" infl="sg" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="passive" sense="ben" stype="ynquestion" tense="past" v_per="thi" word="Was" wvorm="pv"/>
+      <node begin="1" cat="conj" end="5" id="3" index="1" rel="su">
+        <node begin="1" cat="np" end="3" id="4" rel="cnj">
+          <node begin="1" buiging="zonder" end="2" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" his_1_1="normal" id="5" index="2" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="me"/>
+          <node begin="2" end="3" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="gif" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gif" sense="gif" word="gif"/>
+        </node>
+        <node begin="3" conjtype="neven" end="4" frame="conj(en)" his="normal" his_1="normal" id="7" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="np" end="5" id="8" rel="cnj">
+          <node begin="1" end="2" id="9" index="2" rel="det"/>
+          <node begin="4" end="5" frame="noun(both,count,sg)" gen="both" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="wee" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wee" sense="wee" word="wee"/>
+        </node>
+      </node>
+      <node begin="1" cat="ppart" end="6" id="11" rel="vc">
+        <node begin="1" end="5" id="12" index="1" rel="obj1"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="13" infl="psp" lcat="ppart" lemma="bewaren" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="bewaar" sc="transitive" sense="bewaar" word="bewaard" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(hellip)" his="normal" his_1="normal" id="14" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="156-1">Was me gif en wee bewaard ...</sentence>
+  <comments>
+    <comment>Q#156-1|Was me gif en wee bewaard ...|1|1|2.8791591954999998</comment>
+  </comments>
+</alpino_ds>

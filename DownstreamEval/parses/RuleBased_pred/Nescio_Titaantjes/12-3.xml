@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:13" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="smain" end="11" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="Zijn"/>
+        <node begin="1" end="2" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="hok" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hok" sense="hok" word="hok"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,past(sg),te_passive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="te_passive" sense="ben" stype="declarative" tense="past" v_per="thi" word="was" wvorm="pv"/>
+      <node begin="0" cat="ti" end="11" id="6" rel="vc">
+        <node begin="9" end="10" frame="complementizer(te)" his="normal" his_1="normal" id="7" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="0" cat="inf" end="11" id="8" rel="body">
+          <node begin="0" end="2" id="9" index="1" rel="obj1"/>
+          <node begin="3" cat="conj" end="9" id="10" rel="mod">
+            <node begin="3" cat="mwu" end="5" his="normal" his_1="het Asuper" his_1_1="normal" id="11" rel="cnj">
+              <node aform="super" begin="3" end="4" frame="adjective(het_st(adv))" id="12" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="&apos;t"/>
+              <node aform="super" begin="4" buiging="met-e" end="5" frame="adjective(het_st(adv))" getal-n="zonder-n" graad="sup" id="13" infl="pred" lcat="ap" lemma="groot" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,sup,met-e,zonder-n,stan)" pt="adj" rel="mwp" root="groot" sense="groot" vform="adj" word="grootste"/>
+            </node>
+            <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="6" cat="ap" end="9" id="15" rel="cnj">
+              <node begin="6" cat="pp" end="8" id="16" rel="mod">
+                <node begin="6" end="7" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="17" lcat="pp" lemma="voor" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="voor" sense="voor" vztype="init" word="voor"/>
+                <node begin="7" buiging="met-e" case="both" def="indef" end="8" frame="pronoun(nwh,thi,pl,de,both,indef)" gen="de" getal-n="mv-n" his="normal" his_1="normal" id="18" lcat="np" lemma="al" naamval="stan" num="pl" pdtype="det" per="thi" pos="pron" positie="nom" postag="VNW(onbep,det,stan,nom,met-e,mv-n)" pt="vnw" rel="obj1" rnum="pl" root="al" sense="al" vwtype="onbep" wh="nwh" word="allen"/>
+              </node>
+              <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="19" infl="no_e" lcat="ap" lemma="makkelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="makkelijk" sense="makkelijk" vform="adj" word="makkelijk"/>
+            </node>
+          </node>
+          <node begin="10" buiging="zonder" end="11" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="20" infl="inf" lcat="inf" lemma="bereiken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="bereik" sc="transitive" sense="bereik" word="bereiken" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="12-3">Zijn hok was &apos;t grootste en voor allen makkelijk te bereiken .</sentence>
+  <comments>
+    <comment>Q#12-3|Zijn hok was &apos;t grootste en voor allen makkelijk te bereiken .|1|1|-0.6451514482000003</comment>
+  </comments>
+</alpino_ds>

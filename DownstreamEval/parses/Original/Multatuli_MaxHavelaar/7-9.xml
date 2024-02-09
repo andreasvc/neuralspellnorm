@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="du" end="13" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="sv1" end="13" id="3" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg1,transitive)" his="normal" his_1="normal" id="4" infl="sg1" lcat="sv1" lemma="tellen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="tel" sc="transitive" sense="tel" stype="imparative" tense="present" v_per="invje" word="tel" wvorm="pv"/>
+        <node begin="2" end="3" frame="tmp_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+        <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+        <node begin="4" cat="np" end="13" id="7" rel="obj1">
+          <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="8" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="5" end="6" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="steek" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="steek" sense="steek" word="steken"/>
+          <node begin="6" cat="rel" end="13" id="10" rel="mod">
+            <node begin="6" case="no_obl" end="7" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="11" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="pl" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="6" cat="ssub" end="13" id="12" rel="body">
+              <node begin="6" end="7" id="13" index="1" rel="obj1"/>
+              <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="14" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+              <node begin="8" end="9" frame="verb(hebben,sg3,transitive_ndev)" his="normal" his_1="normal" id="15" infl="sg3" lcat="ssub" lemma="doen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="doe" sc="transitive_ndev" sense="doe" tense="present" v_per="thi" word="doet" wvorm="pv"/>
+              <node begin="9" cat="pp" end="13" id="16" rel="mod">
+                <node begin="9" end="10" frame="preposition(gedurende,[])" his="normal" his_1="normal" id="17" lcat="pp" lemma="gedurende" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="gedurende" sense="gedurende" vztype="init" word="gedurende"/>
+                <node begin="10" cat="np" end="13" id="18" rel="obj1">
+                  <node begin="10" end="11" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="19" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+                  <node aform="base" begin="11" buiging="met-e" end="12" frame="adjective(e)" graad="basis" his="form_of_suffix" his_1="le" id="20" infl="e" lcat="ap" lemma="heel" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="heel" sense="heel" vform="adj" word="heele"/>
+                  <node begin="12" end="13" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="bedrijf" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="bedrijf" sense="bedrijf" word="bedrijf"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="7-9">Maar tel nu eens de steken die ze doet gedurende het heele bedrijf .</sentence>
+  <comments>
+    <comment>Q#7-9|Maar tel nu eens de steken die ze doet gedurende het heele bedrijf .|1|1|-2.3892059999</comment>
+  </comments>
+</alpino_ds>

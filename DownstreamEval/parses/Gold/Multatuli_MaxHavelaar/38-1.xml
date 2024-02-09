@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:15" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="13" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="1" end="2" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="4" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        <node begin="0" cat="inf" end="7" id="6" rel="vc">
+          <node begin="0" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="7" infl="de" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(aanw,pron,stan,vol,3,getal)" pt="vnw" rel="obj1" rnum="sg" root="die" sense="die" status="vol" vwtype="aanw" wh="nwh" word="Die"/>
+          <node begin="2" end="3" id="8" index="1" rel="su"/>
+          <node begin="3" cat="pp" end="6" id="9" rel="ld">
+            <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="10" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="4" cat="np" end="6" id="11" rel="obj1">
+              <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="12" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+              <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="zak" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zak" sense="zak" word="zak"/>
+            </node>
+          </node>
+          <node begin="6" buiging="zonder" end="7" frame="verb(hebben,inf,np_ld_pp)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="steken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="steek" sc="np_ld_pp" sense="steek" word="steken" wvorm="inf"/>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(want)" his="normal" his_1="normal" id="15" lcat="vg" lemma="want" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="want" sense="want" word="want"/>
+      <node begin="9" cat="smain" end="13" id="16" rel="cnj">
+        <node begin="9" cat="np" end="11" id="17" rel="su">
+          <node begin="9" end="10" frame="determiner(de)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="10" end="11" frame="proper_name(both)" getal="mv" graad="basis" his="name" his_1="not_begin" id="19" lcat="np" lemma="Sterns" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,mv,basis)" pt="n" rel="hd" rnum="pl" root="Sterns" sense="Sterns" word="Sterns"/>
+        </node>
+        <node begin="11" end="12" frame="verb(unacc,pl,copula)" his="normal" his_1="normal" id="20" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="zijn" wvorm="pv"/>
+        <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(no_e(nonadv))" graad="basis" his="name_adj" his_1="not_begin" id="21" infl="no_e" lcat="ap" lemma="Luthers" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="Luthers" sense="Luthers" vform="adj" word="Luthersch"/>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="38-1">Die kan hij in zijn zak steken , want de Sterns zijn Luthersch .</sentence>
+  <comments>
+    <comment>Q#38-1|Die kan hij in zijn zak steken , want de Sterns zijn [ @alt Luthers Luthersch ] .|1|1|-5.4585573409000006</comment>
+  </comments>
+</alpino_ds>

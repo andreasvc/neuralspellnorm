@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:25" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="13" id="2" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(end(both))" his="form_of_suffix" his_1="end" id="3" infl="no_e" lcat="ppres" lemma="hedenochten" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="mod" root="hedenochten" sense="hedenochten" vform="gerund" word="Hedenochtend" wvorm="od"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="ontvangen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ontvang" sc="transitive" sense="ontvang" stype="declarative" tense="past" v_per="fir" word="ontving" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+      <node begin="3" cat="np" end="13" id="6" rel="obj1">
+        <node begin="3" buiging="met-e" end="4" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="dezen"/>
+        <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="brief" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="brief" sense="brief" word="brief"/>
+        <node begin="6" cat="rel" end="13" id="9" rel="mod">
+          <node begin="6" case="no_obl" end="7" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="10" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="dien"/>
+          <node begin="6" cat="ssub" end="13" id="11" rel="body">
+            <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="12" index="2" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+            <node begin="10" end="11" frame="verb(hebben,sg_hebt,aux(inf))" his="normal" his_1="normal" id="13" infl="sg_hebt" lcat="ssub" lemma="zullen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="present" v_per="u" word="zult" wvorm="pv"/>
+            <node begin="6" cat="inf" end="13" id="14" rel="vc">
+              <node begin="7" end="8" id="15" index="2" rel="su"/>
+              <node begin="11" buiging="zonder" end="12" frame="verb(hebben,inf,modifier(aux(inf)))" his="normal" his_1="normal" id="16" infl="inf" lcat="inf" lemma="willen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="wil" sc="modifier(aux(inf))" sense="wil" word="willen" wvorm="inf"/>
+              <node begin="6" cat="inf" end="13" id="17" rel="vc">
+                <node begin="6" end="7" id="18" index="1" rel="obj1"/>
+                <node begin="7" end="8" id="19" index="2" rel="su"/>
+                <node begin="8" end="9" frame="sentence_adverb" his="normal" his_1="normal" id="20" lcat="advp" lemma="wellicht" pos="adv" postag="BW()" pt="bw" rel="mod" root="wellicht" sense="wellicht" special="sentence" word="wellicht"/>
+                <node aform="base" begin="9" end="10" frame="adjective(pred(adv))" his="normal" his_1="normal" id="21" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+                <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="22" infl="inf" lcat="inf" lemma="lezen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="lees" sc="transitive" sense="lees" word="lezen" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="skip" id="24" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="74-3">Hedenochtend ontving ik dezen brief , dien gij wellicht wel zult willen lezen . &quot;</sentence>
+  <comments>
+    <comment>Q#74-3|Hedenochtend ontving ik [ @alt ~dezen~deze dezen ] brief , [ @alt ~die~dien dien ] gij wellicht wel zult willen lezen . &quot;|1|1|-10.8177379915</comment>
+  </comments>
+</alpino_ds>

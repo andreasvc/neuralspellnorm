@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:53" cats="1" skips="0" />
+  <node begin="0" cat="top" end="21" id="0" rel="top">
+    <node begin="0" cat="du" end="20" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="conj" end="20" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="11" id="4" rel="cnj">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="5" index="1" lcat="np" lemma="Bavink" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bavink" sense="Bavink" word="Bavink"/>
+          <node begin="2" end="3" frame="verb(hebben,sg_heeft,transitive_ndev)" his="normal" his_1="normal" id="6" infl="sg_heeft" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="transitive_ndev" sense="heb" tense="present" v_per="thi" word="heeft" wvorm="pv"/>
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node begin="4" cat="conj" end="11" id="8" rel="obj1">
+            <node begin="4" cat="np" end="7" id="9" rel="cnj">
+              <node begin="4" end="5" frame="number(hoofd(sg_num))" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="één" his_1_1_2="éen" his_1_2="normal" id="10" infl="sg_num" lcat="detp" lemma="één" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="één" sense="één" word="éen"/>
+              <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="dom" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="dom" sense="dom" vform="adj" word="dom"/>
+              <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="hoofd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hoofd" sense="hoofd" word="hoofd"/>
+            </node>
+            <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="8" cat="np" end="11" id="14" rel="cnj">
+              <node begin="8" end="9" frame="number(hoofd(sg_num))" his="normal" his_1="normal" id="15" infl="sg_num" lcat="detp" lemma="één" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="één" sense="één" word="één"/>
+              <node aform="base" begin="9" buiging="met-e" end="10" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="16" infl="e" lcat="ap" lemma="dom" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="dom" sense="dom" vform="adj" word="domme"/>
+              <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="rechter_hand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="rechter_hand" sense="rechter_hand" word="rechterhand"/>
+            </node>
+          </node>
+        </node>
+        <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="smain" end="20" id="19" rel="cnj">
+          <node begin="1" end="2" id="20" index="1" rel="su"/>
+          <node begin="12" end="13" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="21" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+          <node begin="1" cat="inf" end="20" id="22" rel="vc">
+            <node begin="1" end="2" id="23" index="1" rel="su"/>
+            <node begin="13" end="14" frame="adverb" his="normal" his_1="normal" id="24" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+            <node begin="14" cat="pp" end="19" id="25" rel="pc">
+              <node begin="14" end="15" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="26" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+              <node begin="15" cat="np" end="19" id="27" rel="obj1">
+                <node begin="15" end="16" frame="number(hoofd(sg_num))" his="normal" his_1="normal" id="28" infl="sg_num" lcat="detp" lemma="één" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="één" sense="één" word="één"/>
+                <node begin="16" end="17" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="29" lcat="np" lemma="schilderij" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="schilderij_DIM" sense="schilderij_DIM" word="schilderijtje"/>
+                <node begin="17" cat="ap" end="19" id="30" rel="mod">
+                  <node begin="17" end="18" frame="intensifier" his="normal" his_1="normal" id="31" lcat="advp" lemma="te" pos="adv" postag="BW()" pt="bw" rel="mod" root="te" sense="te" special="intensifier" word="te"/>
+                  <node aform="base" begin="18" buiging="zonder" end="19" frame="adjective(postn_no_e(adv))" graad="basis" his="normal" his_1="normal" id="32" infl="no_e" lcat="ap" lemma="gelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="gelijk" sense="gelijk" vform="adj" word="gelijk"/>
+                </node>
+              </node>
+            </node>
+            <node begin="19" buiging="zonder" end="20" frame="verb(hebben,inf,pc_pp(aan))" his="normal" his_1="normal" id="33" infl="inf" lcat="inf" lemma="werken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="werk" sc="pc_pp(aan)" sense="werk-aan" word="werken" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="34" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="52-14">Maar Bavink heeft maar éen dom hoofd en één domme rechterhand en kan maar aan één schilderijtje te gelijk werken .</sentence>
+  <comments>
+    <comment>Q#52-14|Maar Bavink heeft maar éen dom hoofd en één domme rechterhand en kan maar aan één schilderijtje te gelijk werken .|1|1|-1.7627312080000006</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:22" cats="3" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="smain" end="3" id="4" rel="dp">
+        <node begin="0" end="1" frame="adverb" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="advp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="adv" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mod" root="wat" sense="wat" status="vol" vwtype="onbep" word="Wat"/>
+        <node begin="1" end="2" frame="verb(hebben,sg,intransitive)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="baten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="baat" sc="intransitive" sense="baat" stype="declarative" tense="present" v_per="thi" word="baat" wvorm="pv"/>
+        <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="7" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+      </node>
+      <node begin="3" cat="ti" end="14" id="8" rel="dp">
+        <node begin="4" end="5" frame="complementizer(te)" his="normal" his_1="normal" id="9" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="3" cat="inf" end="14" id="10" rel="body">
+          <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="bezitten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="bezit" sc="transitive" sense="bezit" word="bezitten" wvorm="inf"/>
+          <node begin="3" cat="conj" end="14" id="12" rel="obj1">
+            <node begin="3" end="4" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="vermogen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="vermogen" sense="vermogen" word="vermogens"/>
+            <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="dokter" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="dokter" sense="dokter" word="dokter"/>
+            <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="10" cat="np" end="14" id="16" rel="cnj">
+              <node begin="10" buiging="zonder" end="11" frame="determiner(geen,nwh,mod,pro,yparg,nwkpro,geen)" his="normal" his_1="normal" id="17" infl="geen" lcat="detp" lemma="geen" naamval="stan" npagr="agr" pdtype="det" pos="det" positie="prenom" postag="VNW(onbep,det,stan,prenom,zonder,agr)" pt="vnw" rel="det" root="geen" sense="geen" vwtype="onbep" wh="nwh" word="geen"/>
+              <node begin="11" end="12" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="compound" his_1="2" id="18" lcat="np" lemma="arbeid_veld" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="arbeid_veld" sense="arbeid_veld" word="arbeidsveld"/>
+              <node begin="12" cat="pp" end="14" id="19" rel="mod">
+                <node begin="12" end="13" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="20" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                <node begin="13" end="14" frame="preposition(voor,[aan,door,uit,[in,de,plaats]])" his="normal" his_1="normal" id="21" lcat="pp" lemma="voor" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="voor" sense="voor" vztype="fin" word="voor"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="14" cat="ti" end="16" id="22" rel="dp">
+        <node begin="14" end="15" frame="complementizer(te)" his="normal" his_1="normal" id="23" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="15" buiging="zonder" end="16" frame="verb(hebben,inf,transitive_ndev_ndev)" his="normal" his_1="normal" id="24" infl="inf" lcat="inf" lemma="vinden" pos="verb" positie="prenom" postag="WW(inf,prenom,zonder)" pt="ww" rel="body" root="vind" sc="transitive_ndev_ndev" sense="vind" word="vinden" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(vraag)" his="robust_skip" id="25" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="47-8">Wat baat het vermogens te bezitten , dokter , en geen arbeidsveld er voor te vinden ?</sentence>
+  <comments>
+    <comment>Q#47-8|Wat baat het vermogens te bezitten , dokter , en geen arbeidsveld er voor te vinden ?|1|3|5.629488471600001</comment>
+  </comments>
+</alpino_ds>

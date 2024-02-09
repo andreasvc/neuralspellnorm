@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:37" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="conj" end="12" id="1" rel="--">
+      <node begin="0" cat="smain" end="7" id="2" rel="cnj">
+        <node begin="0" cat="mwu" end="2" his="normal" his_1="decap" his_1_1="normal" id="3" index="1" rel="mod">
+          <node begin="0" end="1" frame="tmp_adverb" id="4" lcat="advp" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="adv" postag="LID(bep,gen,evmo)" pt="lid" rel="mwp" root="&apos;s" sense="&apos;s" special="tmp" word="&apos;s"/>
+          <node begin="1" end="2" frame="tmp_adverb" getal="ev" graad="basis" id="5" lcat="advp" lemma="avond" naamval="gen" ntype="soort" pos="adv" postag="N(soort,ev,basis,gen)" pt="n" rel="mwp" root="avonds" sense="avonds" special="tmp" word="Avonds"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,sg,ld_pp)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zit" sc="ld_pp" sense="zit" tense="present" v_per="thi" word="zit" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="7" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        <node begin="4" cat="pp" end="7" id="8" rel="ld">
+          <node begin="4" end="5" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="9" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="5" cat="np" end="7" id="10" rel="obj1">
+            <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="11" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+            <node begin="6" end="7" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="12" lcat="np" lemma="Leesmuseum" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Leesmuseum" sense="Leesmuseum" word="Leesmuseum"/>
+          </node>
+        </node>
+      </node>
+      <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="12" id="14" rel="cnj">
+        <node begin="0" end="2" id="15" index="1" rel="mod"/>
+        <node begin="8" end="9" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="16" infl="sg3" lcat="smain" lemma="lezen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="lees" sc="intransitive" sense="lees" tense="present" v_per="thi" word="leest" wvorm="pv"/>
+        <node begin="9" cat="np" end="12" id="17" rel="su">
+          <node begin="9" end="10" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="18" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="10" cat="mwu" end="12" his="name" his_1="not_begin" id="19" rel="hd">
+            <node begin="10" end="11" frame="proper_name(sg,'PER')" id="20" lcat="np" lemma="Berliner" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Berliner" sense="Berliner" spectype="deeleigen" word="Berliner"/>
+            <node begin="11" end="12" frame="proper_name(sg,'PER')" id="21" lcat="np" lemma="Tageblatt" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Tageblatt" sense="Tageblatt" spectype="deeleigen" word="Tageblatt"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="95-4">&apos;s Avonds zit -ie op &apos;t Leesmuseum en leest &apos;t Berliner Tageblatt .</sentence>
+  <comments>
+    <comment>Q#95-4|&apos;s Avonds zit -ie op &apos;t Leesmuseum en leest &apos;t Berliner Tageblatt .|1|1|-0.4407918497000002</comment>
+  </comments>
+</alpino_ds>

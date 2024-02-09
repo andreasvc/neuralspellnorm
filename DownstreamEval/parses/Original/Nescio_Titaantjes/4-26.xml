@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:10" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="14" id="3" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(sentadv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="no_e" lcat="ap" lemma="eigenlijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="eigenlijk" sense="eigenlijk" vform="adj" word="Eigenlijk"/>
+      <node begin="1" end="2" frame="verb(hebben,past(pl),transitive_ndev)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="doen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="doe" sc="transitive_ndev" sense="doe" stype="declarative" tense="past" v_per="fir" word="deden" wvorm="pv"/>
+      <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,pl,de,nom,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="we" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,mv)" pt="vnw" rel="su" rnum="pl" root="we" sense="we" special="wkpro" status="red" vwtype="pers" wh="nwh" word="we"/>
+      <node begin="3" cat="np" end="14" id="7" rel="obj1">
+        <node begin="3" end="4" frame="iets_noun" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="niets" naamval="stan" pdtype="pron" persoon="3o" pos="pron" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="niets" sc="iets" sense="niets" status="vol" vwtype="onbep" word="niets"/>
+        <node begin="4" cat="ap" end="14" id="9" rel="mod">
+          <node aform="compar" begin="4" buiging="met-s" end="5" frame="post_adjective(er)" graad="basis" his="normal" his_1="Adj-s" id="10" iets="true" infl="no_e" lcat="ap" lemma="ander" pos="adj" positie="postnom" postag="ADJ(postnom,basis,met-s)" pt="adj" rel="hd" root="ander" sense="ander" special="iets" vform="adj" word="anders"/>
+          <node begin="5" cat="cp" end="14" id="11" rel="obcomp">
+            <node begin="5" conjtype="onder" end="6" frame="comparative(dan)" his="normal" his_1="normal" id="12" lcat="comparative" lemma="dan" pos="comparative" postag="VG(onder)" pt="vg" rel="cmp" root="dan" sense="dan" word="dan"/>
+            <node begin="6" cat="inf" end="14" id="13" rel="body">
+              <node begin="6" cat="conj" end="13" id="14" rel="obj1">
+                <node begin="6" buiging="zonder" end="7" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="15" lcat="np" lemma="praten" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="cnj" rnum="sg" root="praat" sc="intransitive" sense="praat" special="v_noun" word="praten" wvorm="inf"/>
+                <node begin="8" end="9" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="16" lcat="np" lemma="rooken" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="rooken" sense="rooken" word="rooken"/>
+                <node begin="10" buiging="zonder" end="11" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="17" lcat="np" lemma="drinken" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="cnj" rnum="sg" root="drink" sc="intransitive" sense="drink" special="v_noun" word="drinken" wvorm="inf"/>
+                <node begin="11" conjtype="neven" end="12" frame="conj(en)" his="normal" his_1="normal" id="18" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+                <node begin="12" end="13" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="boek" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="boek" sense="boek" word="boeken"/>
+              </node>
+              <node begin="13" buiging="zonder" end="14" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="20" infl="inf" lcat="inf" lemma="lezen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="lees" sc="transitive" sense="lees" word="lezen" wvorm="inf"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-26">Eigenlijk deden we niets anders dan praten , rooken , drinken en boeken lezen .</sentence>
+  <comments>
+    <comment>Q#4-26|Eigenlijk deden we niets anders dan praten , rooken , drinken en boeken lezen .|1|1|-5.0397741208</comment>
+  </comments>
+</alpino_ds>

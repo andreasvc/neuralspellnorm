@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="2" infl="no_e" lcat="ap" lemma="stapelgek" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="stapelgek" sense="stapelgek" vform="adj" word="Stapelgek"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),pred_pc_pp(van))" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="pred_pc_pp(van)" sense="word-van" stype="declarative" tense="past" v_per="invje" word="werd" wvorm="pv"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+      <node begin="3" end="4" frame="er_adverb(van)" his="normal" his_1="normal" id="5" lcat="pp" lemma="ervan" pos="pp" postag="BW()" pt="bw" rel="pc" root="ervan" sense="ervan" special="er" word="ervan"/>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="105-14">Stapelgek werd je ervan .</sentence>
+  <comments>
+    <comment>Q#105-14|Stapelgek werd je ervan .|1|1|-0.6258518317000004</comment>
+  </comments>
+</alpino_ds>

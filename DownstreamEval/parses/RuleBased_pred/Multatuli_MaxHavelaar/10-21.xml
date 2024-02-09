@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(hellip)" his="normal" his_1="normal" id="1" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="0" cat="du" end="10" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="10" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="7" id="5" rel="dp">
+          <node begin="1" cat="pp" end="4" id="6" rel="mod">
+            <node begin="1" end="2" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="7" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+            <node begin="2" cat="np" end="4" id="8" rel="obj1">
+              <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="toneel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="toneel" sense="toneel" word="tooneel"/>
+            </node>
+          </node>
+          <node begin="4" end="5" frame="verb(hebben,pl,transitive)" his="normal" his_1="normal" id="11" infl="pl" lcat="smain" lemma="verdraaien" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="verdraai" sc="transitive" sense="verdraai" stype="declarative" tense="present" v_per="thi" word="verdraaien" wvorm="pv"/>
+          <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="12" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+          <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="13" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+        </node>
+        <node begin="8" cat="du" end="10" id="14" rel="dp">
+          <node begin="8" end="9" frame="noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="alles" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="dp" rnum="sg" root="alles" sense="alles" status="vol" vwtype="onbep" word="alles"/>
+          <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="leugen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="dp" rnum="pl" root="leugen" sense="leugen" word="leugens"/>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(uitroep)" his="normal" his_1="normal" id="17" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="10-21">Maar op een tooneel verdraaien ze dat ... alles leugens !</sentence>
+  <comments>
+    <comment>Q#10-21|Maar op een [ @alt toneel tooneel ] verdraaien ze dat ... alles leugens !|1|1|2.6934633480999994</comment>
+  </comments>
+</alpino_ds>

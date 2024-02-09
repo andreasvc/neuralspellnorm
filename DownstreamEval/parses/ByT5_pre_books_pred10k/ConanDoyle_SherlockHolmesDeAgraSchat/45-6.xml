@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:49" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="16" id="4" rel="nucl">
+        <node begin="1" cat="mwu" end="3" his="normal" his_1="normal" id="5" rel="mod">
+          <node begin="1" end="2" frame="sentence_adverb" id="6" lcat="advp" lemma="te" pos="adv" postag="VZ(versm)" pt="vz" rel="mwp" root="ten" sense="ten" special="sentence" vztype="versm" word="ten"/>
+          <node begin="2" end="3" frame="sentence_adverb" getal="ev" graad="basis" id="7" lcat="advp" lemma="slot" naamval="dat" ntype="soort" pos="adv" postag="N(soort,ev,basis,dat)" pt="n" rel="mwp" root="slotte" sense="slotte" special="sentence" word="slotte"/>
+        </node>
+        <node begin="3" end="4" frame="verb(hebben,sg1,np_vp_obj)" his="normal" his_1="normal" id="8" infl="sg1" lcat="smain" lemma="verzoeken" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="verzoek" sc="np_vp_obj" sense="verzoek" stype="declarative" tense="present" v_per="fir" word="verzoek" wvorm="pv"/>
+        <node begin="4" case="nom" def="def" end="5" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="10" index="1" lcat="np" lemma="u" naamval="obl" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pr,pron,obl,vol,2,getal)" pt="vnw" rel="obj2" rnum="sg" root="u" sense="u" status="vol" vwtype="pr" wh="nwh" word="u"/>
+        <node begin="5" cat="ti" end="16" id="11" rel="vc">
+          <node begin="8" end="9" frame="complementizer(te)" his="normal" his_1="normal" id="12" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="5" cat="inf" end="16" id="13" rel="body">
+            <node begin="5" end="6" id="14" index="1" rel="su"/>
+            <node begin="9" buiging="zonder" end="10" frame="verb(hebben,inf,transitive)" his="normal" his_1="normal" id="15" infl="inf" lcat="inf" lemma="bezichtigen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="bezichtig" sc="transitive" sense="bezichtig" word="bezichtigen" wvorm="inf"/>
+            <node begin="6" cat="np" end="16" id="16" rel="obj1">
+              <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="17" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="18" lcat="np" lemma="binnen_plaat" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="binnen_plaat" sense="binnen_plaat" word="binnenplaat"/>
+              <node begin="11" cat="rel" end="16" id="19" rel="mod">
+                <node begin="11" end="12" frame="waar_adverb(in)" his="normal" his_1="normal" id="20" index="2" lcat="pp" lemma="waarin" pos="pp" postag="BW()" pt="bw" rel="rhd" root="waarin" sense="waarin" special="waar" word="waarin"/>
+                <node begin="11" cat="ssub" end="16" id="21" rel="body">
+                  <node begin="11" end="12" id="22" index="2" rel="ld"/>
+                  <node begin="12" end="13" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="23" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+                  <node begin="13" cat="np" end="15" id="24" rel="su">
+                    <node begin="13" end="14" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="25" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+                    <node begin="14" end="15" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="26" lcat="np" lemma="sleutelgat" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="sleutelgat" sense="sleutelgat" word="sleutelgat"/>
+                  </node>
+                  <node begin="15" end="16" frame="verb(hebben,sg3,refl_ld_pp)" his="normal" his_1="normal" id="27" infl="sg3" lcat="ssub" lemma="bevinden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="bevind" sc="refl_ld_pp" sense="zich-bevind" tense="present" v_per="thi" word="bevindt" wvorm="pv"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="28" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="45-6">En ten slotte verzoek ik u de binnenplaat te bezichtigen , waarin zich het sleutelgat bevindt .</sentence>
+  <comments>
+    <comment>Q#45-6|En ten slotte verzoek ik u de binnenplaat te bezichtigen , waarin zich het sleutelgat bevindt .|1|1|-7.485671318</comment>
+  </comments>
+</alpino_ds>

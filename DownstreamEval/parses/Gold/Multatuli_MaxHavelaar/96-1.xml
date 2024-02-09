@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="2" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" cat="du" end="3" id="2" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="du" end="3" id="4" rel="nucl">
+          <node begin="1" case="dat_acc" def="def" end="2" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="dp" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="liefderijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="liefderijk" sense="liefderijk" vform="adj" word="liefdrijk"/>
+        </node>
+      </node>
+      <node begin="3" cat="sv1" end="5" id="7" rel="dp">
+        <node begin="3" dropped_agr="sg" end="4" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="8" infl="sg" lcat="sv1" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="intransitive" sense="sta" stype="topic_drop" tense="past" v_per="thi;fir" word="stond" wvorm="pv"/>
+        <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="terzijde" pos="adv" postag="BW()" pt="bw" rel="mod" root="terzijde" sense="terzijde" word="ter-zijde"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="10" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="96-1">En hem liefdrijk stond ter-zijde ,</sentence>
+  <comments>
+    <comment>Q#96-1|En hem [ @alt liefderijk liefdrijk ] stond [ @alt terzijde ter-zijde ] ,|1|2|1.7133271074999996</comment>
+  </comments>
+</alpino_ds>

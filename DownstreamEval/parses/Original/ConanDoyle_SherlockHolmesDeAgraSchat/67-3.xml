@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:23" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="0" cat="smain" end="16" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="past" v_per="thi" word="was" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="16" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" case="both" def="indef" end="3" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="nom" postag="TW(hoofd,nom,zonder-n,basis)" pt="tw" rel="obj2" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+        <node begin="5" buiging="zonder" end="6" frame="verb(unacc,psp,so_copula)" his="normal" his_1="normal" id="7" infl="psp" lcat="ppart" lemma="zijn" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="so_copula" sense="ben" word="geweest" wvorm="vd"/>
+        <node begin="3" cat="np" end="16" id="8" rel="predc">
+          <node begin="3" end="4" frame="determiner(der)" his="normal" his_1="normal" id="9" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node begin="4" end="5" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="officier" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="officier" sense="officier" word="officieren"/>
+          <node begin="6" cat="rel" end="16" id="11" rel="mod">
+            <node begin="6" case="no_obl" end="7" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="12" index="2" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="pl" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="6" cat="ssub" end="16" id="13" rel="body">
+              <node begin="6" end="7" id="14" index="2" rel="su"/>
+              <node begin="6" cat="ppart" end="15" id="15" rel="vc">
+                <node begin="6" end="7" id="16" index="2" rel="obj1"/>
+                <node begin="7" cat="pp" end="14" id="17" rel="pc">
+                  <node begin="7" end="8" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="18" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+                  <node begin="8" cat="np" end="14" id="19" rel="obj1">
+                    <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="20" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                    <node begin="9" end="10" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="bewaking" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bewaking" sense="bewaking" word="bewaking"/>
+                    <node begin="10" cat="np" end="14" id="22" rel="mod">
+                      <node begin="10" end="11" frame="determiner(der)" his="normal" his_1="normal" id="23" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+                      <node begin="11" cat="ppart" end="13" id="24" rel="mod">
+                        <node begin="11" end="12" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="25" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+                        <node aform="base" begin="12" buiging="zonder" end="13" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="26" infl="both" lcat="ppart" lemma="verbannen" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="hd" root="verbannen" sense="verbannen" vform="psp" word="verbannen" wvorm="vd"/>
+                      </node>
+                      <node begin="13" end="14" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="misdadiger" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="misdadiger" sense="misdadiger" word="misdadigers"/>
+                    </node>
+                  </node>
+                </node>
+                <node begin="14" buiging="zonder" end="15" frame="verb(hebben,psp,np_pc_pp(met))" his="normal" his_1="normal" id="28" infl="psp" lcat="ppart" lemma="belasten" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="belast" sc="np_pc_pp(met)" sense="belast-met" word="belast" wvorm="vd"/>
+              </node>
+              <node begin="15" end="16" frame="verb(unacc,pl,passive)" his="normal" his_1="normal" id="29" infl="pl" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="passive" sense="ben" tense="present" v_per="thi" word="zijn" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="skip" id="31" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="67-3">Hij was een der officieren geweest die met de bewaking der daar verbannen misdadigers belast zijn . &quot;</sentence>
+  <comments>
+    <comment>Q#67-3|Hij was een der officieren geweest die met de bewaking der daar verbannen misdadigers belast zijn . &quot;|1|1|-3.8112870503000003</comment>
+  </comments>
+</alpino_ds>

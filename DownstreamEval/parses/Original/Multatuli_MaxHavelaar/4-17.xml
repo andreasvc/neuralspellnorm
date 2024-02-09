@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="1" cat="du" end="11" id="2" rel="--">
+      <node begin="1" conjtype="neven" end="2" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="2" cat="sv1" end="11" id="4" rel="nucl">
+        <node begin="2" end="3" frame="verb(hebben,sg1,pc_pp(naar))" his="normal" his_1="normal" id="5" infl="sg1" lcat="sv1" lemma="vragen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="vraag" sc="pc_pp(naar)" sense="vraag-naar" stype="imparative" tense="present" v_per="invje" word="vraag" wvorm="pv"/>
+        <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="eens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eens" sense="eens" special="tmp" word="eens"/>
+        <node begin="4" cat="pp" end="11" id="7" rel="pc">
+          <node begin="4" end="5" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="8" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+          <node begin="5" cat="np" end="11" id="9" rel="obj1">
+            <node begin="5" end="6" frame="determiner(den)" his="normal" his_1="variant" id="10" infl="den" lcat="detp" lemma="de" lwtype="bep" naamval="dat" npagr="evmo" pos="det" postag="LID(bep,dat,evmo)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="prijs" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="prijs" sense="prijs" word="prijs"/>
+            <node begin="7" cat="pp" end="11" id="12" rel="mod">
+              <node begin="7" end="8" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="8" cat="np" end="11" id="14" rel="obj1">
+                <node begin="8" end="9" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+                <node begin="9" end="10" frame="noun(het,count,sg,measure)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="stel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="stel" sc="measure" sense="stel" word="stel"/>
+                <node begin="10" end="11" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="17" lcat="np" lemma="billardballen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mod" rnum="sg" root="billardballen" sense="billardballen" word="billardballen"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(uitroep)" his="normal" his_1="normal" id="18" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="4-17">- En vraag eens naar den prijs van een stel billardballen !</sentence>
+  <comments>
+    <comment>Q#4-17|- En vraag eens naar den prijs van een stel billardballen !|1|1|-2.691345534600001</comment>
+  </comments>
+</alpino_ds>

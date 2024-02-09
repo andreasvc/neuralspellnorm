@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="2" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="dp">
+        <node begin="0" end="1" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="decap_and_compound" his_1="2" id="3" lcat="np" lemma="on_spoed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="on_spoed" sense="on_spoed" word="Onspoed"/>
+        <node begin="1" end="2" frame="verb(hebben,sg3,np_ld_adv)" his="normal" his_1="normal" id="4" infl="sg3" lcat="smain" lemma="drukken" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="druk" sc="np_ld_adv" sense="druk" stype="declarative" tense="present" v_per="thi" word="drukt" wvorm="pv"/>
+        <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="diep" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="ld" root="diep" sense="diep" vform="adj" word="diep"/>
+      </node>
+      <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="7" lcat="np" lemma="ter-neer" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="ter-neer" sense="ter-neer" word="ter-neer"/>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="skip" id="8" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="210-1">Onspoed drukt me diep ter-neer ,</sentence>
+  <comments>
+    <comment>Q#210-1|Onspoed drukt me diep ter-neer ,|1|2|1.2712380422000003</comment>
+  </comments>
+</alpino_ds>

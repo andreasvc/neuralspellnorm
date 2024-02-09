@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:54" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="14" id="2" rel="--">
+      <node begin="0" cat="np" end="2" id="3" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="Die"/>
+        <node begin="1" end="2" frame="proper_name(both)" genus="zijd" getal="ev" graad="basis" his="normal" his_1="hash_tag" id="5" lcat="np" lemma="#d#" naamval="stan" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="#d#" sense="#d#" word="#d#"/>
+      </node>
+      <node begin="2" end="3" frame="verb('hebben/zijn',past(sg),aux(inf))" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="past" v_per="thi" word="kon" wvorm="pv"/>
+      <node begin="0" cat="inf" end="14" id="7" rel="vc">
+        <node begin="0" end="2" id="8" index="1" rel="su"/>
+        <node aform="base" begin="3" end="4" frame="adjective(pred(adv))" his="normal" his_1="normal" id="9" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="4" cat="conj" end="10" id="10" rel="obj2">
+          <node begin="4" cat="np" end="6" id="11" rel="cnj">
+            <node begin="4" end="5" frame="determiner(een)" his="normal" his_1="normal" id="12" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="5" end="6" frame="proper_name(both)" genus="genus" getal="ev" graad="basis" his="normal" his_1="hash_tag" id="13" lcat="np" lemma="#a#" naamval="stan" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="hd" rnum="sg" root="#a#" sense="#a#" word="#a#"/>
+          </node>
+          <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="8" cat="np" end="10" id="15" rel="cnj">
+            <node begin="8" buiging="zonder" end="9" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+            <node begin="9" end="10" frame="proper_name(both)" genus="zijd" getal="ev" graad="basis" his="normal" his_1="hash_tag" id="17" lcat="np" lemma="#l#" naamval="stan" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" root="#l#" sense="#l#" word="#l#"/>
+          </node>
+        </node>
+        <node aform="base" begin="10" end="11" frame="adjective(pred(adv))" his="normal" his_1="normal" id="18" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="11" cat="np" end="13" id="19" rel="predc">
+          <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="20" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="12" end="13" frame="proper_name(both)" genus="genus" getal="ev" graad="basis" his="normal" his_1="hash_tag" id="21" lcat="np" lemma="#e#" naamval="stan" neclass="MISC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,genus,stan)" pt="n" rel="hd" rnum="sg" root="#e#" sense="#e#" word="#e#"/>
+        </node>
+        <node begin="13" buiging="zonder" end="14" frame="verb(unacc,inf,so_copula)" his="normal" his_1="normal" id="22" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="so_copula" sense="ben" word="zijn" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="95-2">Die #d# kon wel een #a# , en die #l# wel een #e# zijn .</sentence>
+  <comments>
+    <comment>Q#95-2|Die #d# kon wel een #a# , en die #l# wel een #e# zijn .|1|1|-0.1801836094000019</comment>
+  </comments>
+</alpino_ds>

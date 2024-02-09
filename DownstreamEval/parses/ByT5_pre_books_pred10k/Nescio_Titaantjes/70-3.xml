@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:59" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" cat="du" end="9" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="9" id="3" rel="nucl">
+        <node begin="1" cat="conj" end="4" id="4" rel="predc">
+          <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="5" infl="no_e" lcat="ap" lemma="vriendelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="cnj" root="vriendelijk" sense="vriendelijk" vform="adj" word="vriendelijk"/>
+          <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="normal" his_1="normal" id="6" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="7" infl="no_e" lcat="ppart" lemma="beleven" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="cnj" root="beleven" sense="beleven" vform="psp" word="beleefd" wvorm="vd"/>
+        </node>
+        <node begin="4" end="5" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="8" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" v_per="thi" word="waren" wvorm="pv"/>
+        <node begin="5" case="both" def="def" end="6" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="9" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+        <node begin="7" cat="pp" end="9" id="11" rel="mod">
+          <node begin="7" end="8" frame="preposition(tegen,[aan,in,op])" his="normal" his_1="normal" id="12" lcat="pp" lemma="tegen" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tegen" sense="tegen" vztype="init" word="tegen"/>
+          <node begin="8" case="dat_acc" def="def" end="9" frame="pronoun(nwh,thi,pl,de,dat_acc,def)" gen="de" getal="mv" his="normal" his_1="normal" id="13" lcat="np" lemma="elkaar" naamval="obl" num="pl" pdtype="pron" per="thi" persoon="persoon" pos="pron" postag="VNW(recip,pron,obl,vol,persoon,mv)" pt="vnw" rel="obj1" rnum="pl" root="elkaar" sense="elkaar" status="vol" vwtype="recip" wh="nwh" word="elkaar"/>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="70-3">En vriendelijk en beleefd waren ze weer tegen elkaar .</sentence>
+  <comments>
+    <comment>Q#70-3|En vriendelijk en beleefd waren ze weer tegen elkaar .|1|1|-4.843022852600001</comment>
+  </comments>
+</alpino_ds>

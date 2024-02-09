@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="sv1" end="7" id="3" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg1,transitive)" his="normal" his_1="normal" id="4" infl="sg1" lcat="sv1" lemma="zeggen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zeg" sc="transitive" sense="zeg" stype="imparative" tense="present" v_per="invje" word="zeg" wvorm="pv"/>
+        <node begin="2" cat="np" end="7" id="5" rel="obj1">
+          <node begin="2" end="3" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="niets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="niets" sense="niets" special="meas_mod" status="vol" vwtype="onbep" word="niets"/>
+          <node begin="3" cat="rel" end="7" id="7" rel="mod">
+            <node begin="3" case="both" end="4" frame="rel_pronoun(het,both)" gen="het" getal="ev" his="normal" his_1="normal" id="8" index="1" lcat="np" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="rhd" rnum="sg" root="wat" sense="wat" status="vol" vwtype="vb" wh="rel" word="wat"/>
+            <node begin="3" cat="ssub" end="7" id="9" rel="body">
+              <node begin="3" end="4" id="10" index="1" rel="su"/>
+              <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+              <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="12" infl="no_e" lcat="ap" lemma="waar" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="waar" sense="waar" vform="adj" word="waar"/>
+              <node begin="6" end="7" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="13" infl="sg_is" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="5-3">Maar zeg niets wat niet waar is .</sentence>
+  <comments>
+    <comment>Q#5-3|Maar zeg niets wat niet waar is .|1|1|-4.0199574194</comment>
+  </comments>
+</alpino_ds>

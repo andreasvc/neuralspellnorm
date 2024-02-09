@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:36" cats="2" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" cat="du" end="14" id="1" rel="--">
+      <node begin="0" cat="smain" end="13" id="2" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" stype="declarative" tense="past" v_per="fir" word="werd" wvorm="pv"/>
+        <node begin="2" cat="pp" end="6" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(in,[])" his="normal" his_1="normal" id="6" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="3" cat="np" end="6" id="7" rel="obj1">
+            <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="8" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="9" infl="no_e" lcat="ap" lemma="klein" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="klein" sense="klein" vform="adj" word="klein"/>
+            <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="compound" his_1="2" id="10" lcat="np" lemma="achter_kantoor" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="achter_kantoor_DIM" sense="achter_kantoor_DIM" word="achterkantoortje"/>
+          </node>
+        </node>
+        <node begin="6" cat="np" end="13" id="11" rel="predc">
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_both(padv))" his="normal" his_1="normal" id="12" infl="both" lcat="ppart" lemma="laten" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="mod" root="laten" sense="laten" vform="psp" word="gelaten" wvorm="vd"/>
+          <node begin="7" cat="pp" end="12" id="13" rel="mod">
+            <node begin="7" end="8" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="14" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+            <node begin="8" cat="np" end="12" id="15" rel="obj1">
+              <node begin="8" end="9" frame="determiner(een)" his="normal" his_1="normal" id="16" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="9" end="10" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="uitzicht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="uitzicht" sense="uitzicht" word="uitzicht"/>
+              <node begin="10" cat="pp" end="12" id="18" rel="mod">
+                <node begin="10" end="11" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="19" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+                <node begin="11" case="both" def="indef" end="12" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="nom" postag="TW(hoofd,nom,zonder-n,basis)" pt="tw" rel="obj1" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+              </node>
+            </node>
+          </node>
+          <node aform="base" begin="12" buiging="met-e" end="13" frame="nominalized_adjective" getal-n="mv-n" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="blind" num="pl" personalized="true" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,mv-n)" pt="adj" rel="hd" rnum="pl" root="blind" sense="blind" special="a_noun" word="blinden"/>
+        </node>
+      </node>
+      <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="muur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="muur" sense="muur" word="muur"/>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="robust_skip" id="23" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="86-2">Ik werd in een klein achterkantoortje gelaten met een uitzicht op een blinden muur .</sentence>
+  <comments>
+    <comment>Q#86-2|Ik werd in een klein achterkantoortje gelaten met een uitzicht op een blinden muur .|1|2|8.996349626099999</comment>
+  </comments>
+</alpino_ds>

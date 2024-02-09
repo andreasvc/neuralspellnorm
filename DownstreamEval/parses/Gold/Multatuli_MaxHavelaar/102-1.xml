@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="8" id="3" rel="--">
+      <node begin="0" cat="mwu" end="2" his="normal" his_1="decap" his_1_1="normal" id="4" rel="tag">
+        <node begin="0" conjtype="neven" end="1" frame="tag" id="5" lcat="advp" lemma="maar" pos="tag" postag="VG(neven)" pt="vg" rel="mwp" root="maar" sense="maar" word="Maar"/>
+        <node begin="1" end="2" frame="tag" id="6" lcat="advp" lemma="toch" pos="tag" postag="BW()" pt="bw" rel="mwp" root="toch" sense="toch" word="toch"/>
+      </node>
+      <node begin="3" cat="conj" end="8" id="7" rel="nucl">
+        <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="moeder" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="moeder" sense="moeder" word="moeder"/>
+        <node begin="5" cat="whrel" end="8" id="9" rel="cnj">
+          <node begin="5" case="both" def="indef" end="6" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="10" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="rhd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="wat"/>
+          <node begin="5" cat="ssub" end="8" id="11" rel="body">
+            <node begin="5" end="6" id="12" index="1" rel="su"/>
+            <node begin="6" case="dat_acc" def="def" end="7" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+            <node begin="7" end="8" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="14" infl="sg" lcat="ssub" lemma="grieven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="grief" sc="transitive" sense="grief" tense="past" v_per="thi" word="griefde" wvorm="pv"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="15" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="102-1">Maar toch , moeder , wat me griefde ,</sentence>
+  <comments>
+    <comment>Q#102-1|Maar toch , moeder , wat me griefde ,|1|1|-4.162890954600002</comment>
+  </comments>
+</alpino_ds>

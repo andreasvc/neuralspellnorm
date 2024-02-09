@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="2" cat="du" end="7" id="4" rel="nucl">
+        <node begin="2" cat="np" end="4" id="5" rel="dp">
+          <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="kind" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="kind" sense="kind" word="kind"/>
+        </node>
+        <node begin="4" cat="advp" end="7" id="8" rel="dp">
+          <node begin="4" end="5" frame="modal_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sc="modal" sense="nog" word="nog"/>
+          <node begin="5" buiging="zonder" end="6" frame="modal_adverb(adv_comp_prep)" graad="basis" his="normal" his_1="normal" id="10" lcat="advp" lemma="kort" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="kort" sc="adv_comp_prep" sense="kort" word="kort"/>
+          <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="tevoren" pos="adv" postag="BW()" pt="bw" rel="hd" root="tevoren" sense="tevoren" word="tevoren"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="12" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="130-1">En , een kind nog kort tevoren ,</sentence>
+  <comments>
+    <comment>Q#130-1|En , een kind nog kort tevoren ,|1|1|-2.7529843252000017</comment>
+  </comments>
+</alpino_ds>

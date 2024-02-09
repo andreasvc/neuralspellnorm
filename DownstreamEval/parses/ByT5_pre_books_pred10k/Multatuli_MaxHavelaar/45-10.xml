@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:44" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="du" end="6" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="6" id="3" rel="nucl">
+        <node begin="1" end="2" frame="er_adverb(in)" his="normal" his_1="normal" id="4" lcat="pp" lemma="hierin" pos="pp" postag="BW()" pt="bw" rel="mod" root="hierin" sense="hierin" special="er" word="hierin"/>
+        <node begin="2" end="3" frame="verb(hebben,pl,part_intransitive(gelijk))" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="gelijk_hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb_gelijk" sc="part_intransitive(gelijk)" sense="heb_gelijk" stype="declarative" tense="present" v_per="thi" word="hebben" wvorm="pv"/>
+        <node begin="3" case="both" def="def" end="4" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="groot" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="groot" sense="groot" vform="adj" word="groot"/>
+        <node begin="5" buiging="zonder" end="6" frame="particle(gelijk)" graad="basis" his="normal" his_1="normal" id="8" lcat="part" lemma="gelijk" pos="part" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="svp" root="gelijk" sense="gelijk" word="gelijk"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="45-10">En hierin hebben ze groot gelijk .</sentence>
+  <comments>
+    <comment>Q#45-10|En hierin hebben ze groot gelijk .|1|1|-5.2385471610000005</comment>
+  </comments>
+</alpino_ds>

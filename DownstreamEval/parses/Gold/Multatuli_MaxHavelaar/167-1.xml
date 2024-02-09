@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="cp" end="4" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer(als)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="Als"/>
+      <node begin="1" cat="np" end="4" id="3" rel="body">
+        <node begin="1" end="2" frame="determiner(een)" his="normal" his_1="normal" id="4" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="compound" his_1="3" id="5" infl="no_e" lcat="ap" lemma="on_waard_eerbaar" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="on_waard_eerbaar" sense="on_waard_eerbaar" vform="adj" word="onwaardeerbaar"/>
+        <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="goed" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="goed" sense="goed" word="goed"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="7" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="167-1">Als een onwaardeerbaar goed ,</sentence>
+  <comments>
+    <comment>Q#167-1|Als een onwaardeerbaar goed ,|1|1|-1.0397948115000006</comment>
+  </comments>
+</alpino_ds>

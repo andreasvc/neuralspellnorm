@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:57" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whq" end="7" id="3" rel="nucl">
+        <node begin="1" case="both" def="indef" end="2" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="normal" id="4" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="wat"/>
+        <node begin="1" cat="sv1" end="7" id="5" rel="body">
+          <node begin="1" end="2" id="6" index="1" rel="su"/>
+          <node begin="2" end="3" frame="verb(unacc,past(sg),aux_psp_zijn)" his="normal" his_1="normal" id="7" infl="sg" lcat="sv1" lemma="zijn" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="whquestion" tense="past" v_per="thi" word="was" wvorm="pv"/>
+          <node begin="1" cat="ppart" end="7" id="8" rel="vc">
+            <node begin="1" end="2" id="9" index="1" rel="su"/>
+            <node begin="3" end="4" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="10" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+            <node begin="4" end="5" frame="tmp_adverb" his="normal" his_1="normal" id="11" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="mod" root="nu" sense="nu" special="tmp" word="nu"/>
+            <node begin="5" end="6" frame="adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+            <node begin="6" buiging="zonder" end="7" frame="verb(unacc,psp,intransitive)" his="normal" his_1="normal" id="13" infl="psp" lcat="ppart" lemma="gebeuren" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="gebeur" sc="intransitive" sense="gebeur" word="gebeurd" wvorm="vd"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(vraag)" his="normal" his_1="normal" id="14" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="61-5">En wat was er nu nog gebeurd ?</sentence>
+  <comments>
+    <comment>Q#61-5|En wat was er nu nog gebeurd ?|1|1|-9.038914655000001</comment>
+  </comments>
+</alpino_ds>

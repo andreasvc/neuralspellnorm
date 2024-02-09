@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" end="2" frame="waar_adverb(uit)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="pp" lemma="waaruit" pos="pp" postag="BW()" pt="bw" rel="--" root="waaruit" sense="waaruit" special="waar" stype="whquestion" word="Waaruit"/>
+    <node begin="2" end="3" frame="punct(vraag)" his="normal" his_1="normal" id="3" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="3" end="4" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="4" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="50-1">&quot; Waaruit ? &quot;</sentence>
+  <comments>
+    <comment>Q#50-1|&quot; Waaruit ? &quot;|1|1|-0.72770428</comment>
+  </comments>
+</alpino_ds>

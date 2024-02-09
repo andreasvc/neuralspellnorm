@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:35" cats="2" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="3" end="4" frame="punct(dubb_punt)" his="normal" his_1="normal" id="2" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="4" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="5" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="12" id="6" rel="--">
+      <node begin="1" cat="du" end="6" id="7" rel="dp">
+        <node begin="1" cat="smain" end="3" id="8" rel="tag">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="9" lcat="np" lemma="Frits" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Frits" sense="Frits" word="Frits"/>
+          <node begin="2" end="3" frame="verb(hebben,sg3,tr_sbar)" his="normal" his_1="normal" id="10" infl="sg3" lcat="smain" lemma="zeggen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" tense="present" v_per="thi" word="zegt" wvorm="pv"/>
+        </node>
+        <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(nonadv))" graad="basis" his="name_adj" his_1="begin" id="11" infl="no_e" lcat="ap" lemma="Uhlefeldjes" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="nucl" root="Uhlefeldjes" sense="Uhlefeldjes" vform="adj" word="Uhlefeldjes"/>
+      </node>
+      <node begin="7" cat="smain" end="12" id="12" rel="dp">
+        <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="8" end="9" frame="verb(hebben,sg,tr_sbar)" his="normal" his_1="normal" id="14" infl="sg" lcat="smain" lemma="weten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="weet" sc="tr_sbar" sense="weet" stype="declarative" tense="present" v_per="fir" word="weet" wvorm="pv"/>
+        <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        <node begin="11" end="12" frame="waar_adverb(om)" his="normal" his_1="normal" id="16" lcat="pp" lemma="waarom" pos="pp" postag="BW()" pt="bw" rel="vc" root="waarom" sense="waarom" special="waar" stype="whquestion" word="waarom"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(vraag)" his="robust_skip" id="17" lcat="--" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="4-16">- Frits zegt : &quot; Uhlefeldjes &quot; ik weet niet , waarom ?</sentence>
+  <comments>
+    <comment>Q#4-16|- Frits zegt : &quot; Uhlefeldjes &quot; ik weet niet , waarom ?|1|2|-6.3634109489999995</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,116 @@
+/mnt/local/tmp/andreas/clin2023spelling/coref/ByT5_pre_books_pred10k
+Nescio_Titaantjes
+             recall  precision         F1
+mentions      90.37      86.58      88.43
+muc           78.76      78.03      78.39
+bcub          65.60      57.41      61.23
+ceafe         68.06      60.93      64.30
+ceafm         60.89      58.34      59.59
+lea           57.79      49.58      53.37
+CoNLL score:  67.98
+Multatuli_MaxHavelaar
+             recall  precision         F1
+mentions      89.91      82.21      85.89
+muc           78.76      71.92      75.18
+bcub          64.68      54.65      59.24
+ceafe         66.41      60.86      63.51
+ceafm         62.39      57.05      59.60
+lea           55.41      47.01      50.87
+CoNLL score:  65.98
+ConanDoyle_SherlockHolmesDeAgraSchat
+             recall  precision         F1
+mentions      88.36      84.88      86.58
+muc           67.63      70.90      69.22
+bcub          47.87      60.56      53.47
+ceafe         61.06      51.44      55.84
+ceafm         49.12      47.18      48.13
+lea           36.78      47.75      41.55
+CoNLL score:  59.51
+================================================
+/mnt/local/tmp/andreas/clin2023spelling/coref/Gold
+Nescio_Titaantjes
+             recall  precision         F1
+mentions      90.53      86.76      88.61
+muc           79.05      78.19      78.61
+bcub          65.94      57.52      61.44
+ceafe         68.10      61.17      64.45
+ceafm         60.97      58.41      59.66
+lea           58.21      49.66      53.60
+CoNLL score:  68.17
+Multatuli_MaxHavelaar
+             recall  precision         F1
+mentions      90.14      82.83      86.33
+muc           79.04      72.04      75.37
+bcub          65.00      55.25      59.73
+ceafe         66.89      62.37      64.55
+ceafm         62.84      57.74      60.18
+lea           55.67      47.61      51.32
+CoNLL score:  66.55
+ConanDoyle_SherlockHolmesDeAgraSchat
+             recall  precision         F1
+mentions      89.32      85.77      87.51
+muc           67.96      71.60      69.73
+bcub          47.50      62.90      54.13
+ceafe         62.03      51.87      56.50
+ceafm         50.17      48.17      49.15
+lea           36.23      49.94      41.99
+CoNLL score:  60.12
+================================================
+/mnt/local/tmp/andreas/clin2023spelling/coref/Original
+Nescio_Titaantjes
+             recall  precision         F1
+mentions      89.27      83.72      86.40
+muc           77.19      75.83      76.50
+bcub          63.14      58.92      60.96
+ceafe         66.95      57.21      61.70
+ceafm         63.38      59.42      61.33
+lea           55.42      50.90      53.06
+CoNLL score:  66.39
+Multatuli_MaxHavelaar
+             recall  precision         F1
+mentions      89.24      80.19      84.47
+muc           78.41      70.61      74.30
+bcub          63.95      53.51      58.27
+ceafe         65.75      58.83      62.10
+ceafm         62.12      55.82      58.80
+lea           54.80      46.03      50.03
+CoNLL score:  64.89
+ConanDoyle_SherlockHolmesDeAgraSchat
+             recall  precision         F1
+mentions      86.77      81.86      84.24
+muc           66.02      67.84      66.92
+bcub          45.04      59.64      51.32
+ceafe         59.22      49.15      53.71
+ceafm         47.95      45.24      46.55
+lea           33.88      46.96      39.36
+CoNLL score:  57.32
+================================================
+/mnt/local/tmp/andreas/clin2023spelling/coref/RuleBased_pred
+Nescio_Titaantjes
+             recall  precision         F1
+mentions      90.41      86.52      88.42
+muc           78.35      77.54      77.94
+bcub          64.88      56.51      60.41
+ceafe         67.64      60.41      63.82
+ceafm         60.18      57.57      58.85
+lea           57.07      48.57      52.48
+CoNLL score:  67.39
+Multatuli_MaxHavelaar
+             recall  precision         F1
+mentions      90.00      82.30      85.98
+muc           78.90      71.77      75.17
+bcub          64.71      54.59      59.22
+ceafe         66.35      61.22      63.69
+ceafm         62.48      57.13      59.69
+lea           55.40      47.01      50.86
+CoNLL score:  66.02
+ConanDoyle_SherlockHolmesDeAgraSchat
+             recall  precision         F1
+mentions      88.11      84.84      86.44
+muc           67.56      71.08      69.27
+bcub          47.79      60.53      53.41
+ceafe         60.79      51.26      55.62
+ceafm         48.99      47.18      48.07
+lea           36.68      47.53      41.40
+CoNLL score:  59.44
+================================================

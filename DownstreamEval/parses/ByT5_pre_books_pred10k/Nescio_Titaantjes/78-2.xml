@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:01" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="smain" end="13" id="1" rel="--">
+      <node begin="0" case="both" def="def" end="1" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="Ze"/>
+      <node begin="1" end="2" frame="verb(hebben,past(pl),subj_control(pass_te))" his="normal" his_1="normal" id="3" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="subj_control(pass_te)" sense="heb" stype="declarative" tense="past" v_per="thi" word="hadden" wvorm="pv"/>
+      <node begin="0" cat="ti" end="13" id="4" rel="vc">
+        <node begin="11" end="12" frame="complementizer(te)" his="normal" his_1="normal" id="5" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="0" cat="inf" end="13" id="6" rel="body">
+          <node begin="0" end="1" id="7" index="1" rel="su"/>
+          <node begin="2" cat="np" end="6" id="8" rel="obj2">
+            <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="oude" his_1_1_2="ouwe" his_1_2="normal" id="10" infl="e" lcat="ap" lemma="oud" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="oud" sense="oud" vform="adj" word="ouwe"/>
+            <node aform="base" begin="4" buiging="met-e" end="5" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="11" infl="e" lcat="ap" lemma="stom" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="stom" sense="stom" vform="adj" word="stomme"/>
+            <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="streek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="streek" sense="streek" word="streek"/>
+          </node>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="13" infl="no_e" lcat="ppart" lemma="uit_halen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="uit_halen" sense="uit_halen" vform="psp" word="uitgehaald" wvorm="vd"/>
+          <node begin="7" cat="np" end="11" id="14" rel="obj1">
+            <node begin="7" end="8" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="8" end="9" frame="noun(both,count,sg)" gen="both" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="16" lcat="np" lemma="naakt_figuur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="naakt_figuur" sense="naakt_figuur" word="naaktfiguur"/>
+            <node begin="9" cat="pp" end="11" id="17" rel="mod">
+              <node begin="9" end="10" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="18" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="10" case="dat_acc" def="def" end="11" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="19" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+            </node>
+          </node>
+          <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,np_np)" his="normal" his_1="normal" id="20" infl="inf" lcat="inf" lemma="weigeren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="weiger" sc="np_np" sense="weiger" word="weigeren" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="21" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="78-2">Ze hadden de ouwe stomme streek uitgehaald een naaktfiguur van hem te weigeren .</sentence>
+  <comments>
+    <comment>Q#78-2|Ze hadden de ouwe stomme streek uitgehaald een naaktfiguur van hem te weigeren .|1|1|2.044510218499998</comment>
+  </comments>
+</alpino_ds>

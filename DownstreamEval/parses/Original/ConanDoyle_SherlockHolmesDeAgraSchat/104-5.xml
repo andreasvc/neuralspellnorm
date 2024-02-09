@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="whq" end="5" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="whd">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(welk,rwh,nmod,pro,yparg)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="welk" lcat="detp" lemma="welk" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(vb,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="welk" sense="welk" vwtype="vb" wh="rwh" word="Welk"/>
+        <node begin="1" end="2" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="recht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="recht" sense="recht" word="recht"/>
+      </node>
+      <node begin="0" cat="sv1" end="5" id="5" rel="body">
+        <node begin="0" end="2" id="6" index="1" rel="su"/>
+        <node begin="2" end="3" frame="verb(unacc,sg3,passive)" his="normal" his_1="normal" id="7" infl="sg3" lcat="sv1" lemma="worden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="word" sc="passive" sense="word" stype="whquestion" tense="present" v_per="thi" word="wordt" wvorm="pv"/>
+        <node begin="0" cat="ppart" end="5" id="8" rel="vc">
+          <node begin="0" end="2" id="9" index="1" rel="obj1"/>
+          <node begin="3" end="4" frame="er_adverb(met)" his="normal" his_1="normal" id="10" lcat="pp" lemma="daarmede" pos="pp" postag="BW()" pt="bw" rel="pc" root="daarmede" sense="daarmede" special="er" word="daarmede"/>
+          <node begin="4" buiging="zonder" end="5" frame="verb(hebben,psp,np_pc_pp(met))" his="normal" his_1="normal" id="11" infl="psp" lcat="ppart" lemma="bedoelen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="bedoel" sc="np_pc_pp(met)" sense="bedoel-met" word="bedoeld" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(vraag)" his="normal" his_1="normal" id="12" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="104-5">Welk recht wordt daarmede bedoeld ?</sentence>
+  <comments>
+    <comment>Q#104-5|Welk recht wordt daarmede bedoeld ?|1|1|-5.1568140387999994</comment>
+  </comments>
+</alpino_ds>

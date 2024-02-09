@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" index="1" rel="su">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="eindelijk" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="eindelijk" sense="eindelijk" vform="adj" word="Eind&apos;lijk"/>
+        <node begin="1" end="2" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="haar" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="haar" sense="haar" word="haar"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="5" infl="modal_not_u" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" v_per="thi" word="zal" wvorm="pv"/>
+      <node begin="0" cat="inf" end="4" id="6" rel="vc">
+        <node begin="0" end="2" id="7" index="1" rel="su"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb(hebben,inf,ninv(intransitive,part_intransitive(weer)))" his="compound" his_1="2" id="8" infl="inf" lcat="inf" lemma="weer_geven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geef_weer" sc="part_intransitive(weer)" sense="geef_weer" word="wedergeven" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(hellip)" his="normal" his_1="normal" id="9" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="173-1">Eind&apos;lijk haar zal wedergeven ...</sentence>
+  <comments>
+    <comment>Q#173-1|[ @alt Eindelijk Eind&apos;lijk ] haar zal wedergeven ...|1|1|0.20973074300000016</comment>
+  </comments>
+</alpino_ds>

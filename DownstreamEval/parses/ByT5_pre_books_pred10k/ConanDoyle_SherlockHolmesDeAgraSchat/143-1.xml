@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:01" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="lachen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="lach" sc="intransitive" sense="lach" stype="declarative" tense="past" v_per="thi" word="lachte" wvorm="pv"/>
+      <node begin="2" cat="cp" end="8" id="4" rel="mod">
+        <node begin="2" conjtype="onder" end="3" frame="complementizer" his="normal" his_1="normal" id="5" lcat="cp" lemma="totdat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="totdat" sense="totdat" word="totdat"/>
+        <node begin="3" cat="ssub" end="8" id="6" rel="body">
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="zelfs" pos="adv" postag="BW()" pt="bw" rel="mod" root="zelfs" sense="zelfs" word="zelfs"/>
+          <node begin="4" cat="np" end="6" id="8" rel="su">
+            <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="9" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="vol" vwtype="bez" word="zijn"/>
+            <node begin="5" end="6" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="oor" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="oor" sense="oor" word="ooren"/>
+          </node>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="vuur_rood" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="vuur_rood" sense="vuur_rood" vform="adj" word="vuurrood"/>
+          <node begin="7" end="8" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="12" infl="pl" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" tense="past" v_per="thi" word="waren" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="143-1">Hij lachte totdat zelfs zijn ooren vuurrood waren .</sentence>
+  <comments>
+    <comment>Q#143-1|Hij lachte totdat zelfs zijn [ @alt oren ooren ] vuurrood waren .|1|1|-4.1729416763</comment>
+  </comments>
+</alpino_ds>

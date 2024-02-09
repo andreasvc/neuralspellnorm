@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:30" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="conj" end="20" id="4" rel="--">
+      <node begin="1" cat="du" end="8" id="5" rel="cnj">
+        <node begin="1" cat="smain" end="6" id="6" rel="nucl">
+          <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="7" index="1" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="Het"/>
+          <node begin="2" end="3" frame="verb(hebben,subjunctive,modifier(aux(inf)))" his="normal" his_1="normal" id="8" infl="subjunctive" lcat="smain" lemma="mogen" pos="verb" postag="WW(pv,conj,ev)" pt="ww" pvagr="ev" pvtijd="conj" rel="hd" root="mag" sc="modifier(aux(inf))" sense="mag" tense="subjunctive" v_per="thi" word="moge" wvorm="pv"/>
+          <node begin="1" cat="inf" end="6" id="9" rel="vc">
+            <node begin="1" end="2" id="10" index="1" rel="su"/>
+            <node begin="3" cat="ap" end="5" id="11" rel="predc">
+              <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="zeer" pos="adv" postag="BW()" pt="bw" rel="mod" root="zeer" sense="zeer" word="zeer"/>
+              <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="13" infl="no_e" lcat="ap" lemma="onbegrijpelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="onbegrijpelijk" sense="onbegrijpelijk" vform="adj" word="onbegrijpelijk"/>
+            </node>
+            <node begin="5" buiging="zonder" end="6" frame="verb(unacc,inf,copula)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="zijn" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ben" sc="copula" sense="ben" word="zijn" wvorm="inf"/>
+          </node>
+        </node>
+        <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="15" lcat="np" lemma="Holmes" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="tag" rnum="sg" root="Holmes" sense="Holmes" word="Holmes"/>
+      </node>
+      <node begin="9" conjtype="neven" end="10" frame="conj(maar)" his="normal" his_1="normal" id="16" lcat="vg" lemma="maar" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="maar" sense="maar" word="maar"/>
+      <node begin="10" cat="smain" end="20" id="17" rel="cnj">
+        <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="18" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="11" end="12" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="19" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" v_per="fir" word="kan" wvorm="pv"/>
+        <node begin="10" cat="inf" end="20" id="20" rel="vc">
+          <node begin="10" end="11" id="21" index="2" rel="su"/>
+          <node begin="12" end="13" frame="adverb" his="normal" his_1="normal" id="22" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+          <node begin="13" buiging="zonder" end="14" frame="verb(hebben,inf(no_e),ninv(sbar,part_sbar(in)))" his="normal" his_1="part-V" id="23" infl="inf(no_e)" lcat="inf" lemma="in_zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zie_in" sc="part_sbar(in)" sense="zie_in" word="inzien" wvorm="inf"/>
+          <node begin="14" cat="whsub" end="20" id="24" rel="vc">
+            <node begin="14" cat="pp" end="17" id="25" index="3" rel="whd">
+              <node begin="14" end="15" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="26" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+              <node begin="15" cat="np" end="17" id="27" rel="obj1">
+                <node begin="15" buiging="met-e" end="16" frame="determiner(welke,rwh,nmod,pro,yparg)" his="normal" his_1="normal" id="28" infl="welke" lcat="detp" lemma="welk" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(vb,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="welk" sense="welk" vwtype="vb" wh="rwh" word="welke"/>
+                <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="29" lcat="np" lemma="onderstelling" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="onderstelling" sense="onderstelling" word="onderstelling"/>
+              </node>
+            </node>
+            <node begin="14" cat="ssub" end="20" id="30" rel="body">
+              <node begin="17" end="18" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="31" index="4" infl="het" lcat="np" lemma="dit" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dit" sense="dit" status="vol" vwtype="aanw" wh="nwh" word="dit"/>
+              <node begin="14" cat="inf" end="19" id="32" rel="vc">
+                <node begin="14" end="17" id="33" index="3" rel="pc"/>
+                <node begin="17" end="18" id="34" index="4" rel="su"/>
+                <node begin="18" buiging="zonder" end="19" frame="verb(hebben,inf,pc_pp(tot))" his="normal" his_1="normal" id="35" infl="inf" lcat="inf" lemma="leiden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="leid" sc="pc_pp(tot)" sense="leid-tot" word="leiden" wvorm="inf"/>
+              </node>
+              <node begin="19" end="20" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="36" infl="modal_not_u" lcat="ssub" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="37" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="21" end="22" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="38" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="102-1">&quot; Het moge zeer onbegrijpelijk zijn , Holmes , maar ik kan niet inzien tot welke onderstelling dit leiden kan . &quot;</sentence>
+  <comments>
+    <comment>Q#102-1|&quot; Het moge zeer onbegrijpelijk zijn , Holmes , maar ik kan niet inzien tot welke onderstelling dit leiden kan . &quot;|1|1|-15.624504781799997</comment>
+  </comments>
+</alpino_ds>

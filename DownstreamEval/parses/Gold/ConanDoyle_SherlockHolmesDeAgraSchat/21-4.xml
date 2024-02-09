@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:12" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="Hij"/>
+      <node begin="1" end="2" frame="verb(hebben,sg,transitive)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="bezitten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="bezit" sc="transitive" sense="bezit" stype="declarative" tense="present" v_per="thi" word="bezit" wvorm="pv"/>
+      <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="namelijk" pos="adv" postag="BW()" pt="bw" rel="mod" root="namelijk" sense="namelijk" special="sentence" word="namelijk"/>
+      <node begin="3" cat="np" end="5" id="5" rel="obj1">
+        <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="opmerking" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="opmerking" sense="opmerking" word="opmerkingsen"/>
+        <node begin="4" buiging="zonder" end="5" frame="v_noun(transitive)" getal-n="zonder-n" his="compound" his_1="1" id="7" lcat="np" lemma="onthulling_vermogen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="hd" rnum="sg" root="onthulling_vermag" sc="transitive" sense="onthulling_vermag" special="v_noun" word="onthullings-vermogen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="8" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="21-4">Hij bezit namelijk opmerkingsen onthullings-vermogen .</sentence>
+  <comments>
+    <comment>Q#21-4|Hij bezit namelijk [ @alt opmerkingen opmerkingsen ] onthullings-vermogen .|1|1|-0.4811580784999999</comment>
+  </comments>
+</alpino_ds>

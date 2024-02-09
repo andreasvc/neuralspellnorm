@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:59" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="np" end="9" id="1" rel="--">
+      <node begin="0" cat="np" end="2" his="normal" his_1="decap" his_1_1="normal" id="2" rel="det">
+        <node begin="0" end="1" frame="determiner(een)" id="3" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="Een"/>
+        <node begin="1" end="2" frame="noun(both,both,sg)" gen="both" genus="genus" getal="ev" graad="basis" id="4" lcat="np" lemma="soort" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,genus,stan)" pt="n" rel="hd" root="soort" sense="soort" word="soort"/>
+      </node>
+      <node begin="2" end="3" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="oase" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oase" sense="oase" word="oase"/>
+      <node begin="3" cat="pp" end="9" id="6" rel="mod">
+        <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="7" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="4" cat="np" end="9" id="8" rel="obj1">
+          <node begin="4" buiging="met-e" end="5" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="deze" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="deze" sense="deze" vwtype="aanw" wh="nwh" word="deze"/>
+          <node aform="base" begin="5" buiging="met-e" end="6" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="beklagenswaardig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="beklagenswaardig" sense="beklagenswaardig" vform="adj" word="beklagenswaardige"/>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="wildernis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="wildernis" sense="wildernis" word="wildernis"/>
+          <node begin="7" cat="pp" end="9" id="12" rel="mod">
+            <node begin="7" end="8" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="13" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="8" end="9" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="14" lcat="np" lemma="Zuidelijk-Londen" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" root="Zuidelijk-Londen" sense="Zuidelijk-Londen" word="Zuidelijk-Londen"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="skip" id="16" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="126-4">Een soort oase in deze beklagenswaardige wildernis van Zuidelijk-Londen . &quot;</sentence>
+  <comments>
+    <comment>Q#126-4|Een soort oase in deze beklagenswaardige wildernis van Zuidelijk-Londen . &quot;|1|1|0.037892543299999484</comment>
+  </comments>
+</alpino_ds>

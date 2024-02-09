@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:33" cats="2" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" cat="du" end="15" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="dp">
+        <node begin="0" cat="mwu" end="2" his="name" his_1="begin" id="3" rel="su">
+          <node begin="0" end="1" frame="proper_name(sg,'PER')" id="4" lcat="np" lemma="Miss" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Miss" sense="Miss" spectype="deeleigen" word="Miss"/>
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" id="5" lcat="np" lemma="Morstan" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Morstan" sense="Morstan" spectype="deeleigen" word="Morstan"/>
+        </node>
+        <node begin="2" end="3" frame="verb(hebben,past(sg),refl)" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="zetten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zet" sc="refl" sense="zich-zet" stype="declarative" tense="past" v_per="thi" word="zette" wvorm="pv"/>
+        <node begin="3" end="4" frame="reflexive(u_thi,both)" getal="getal" his="normal" his_1="normal" id="7" lcat="np" lemma="zich" naamval="obl" num="both" pdtype="pron" per="u_thi" persoon="3" pos="pron" postag="VNW(refl,pron,obl,red,3,getal)" pt="vnw" refl="refl" rel="se" root="zich" sense="zich" status="red" vwtype="refl" word="zich"/>
+      </node>
+      <node begin="4" cat="smain" end="15" id="8" rel="dp">
+        <node begin="4" cat="conj" end="8" id="9" rel="su">
+          <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="10" lcat="np" lemma="neder" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="neder" sense="neder" word="neder"/>
+          <node begin="5" conjtype="neven" end="6" frame="conj(en)" his="normal" his_1="normal" id="11" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="6" cat="np" end="8" id="12" rel="cnj">
+            <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="13" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+            <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="gelaat" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gelaat" sense="gelaat" word="gelaat"/>
+          </node>
+        </node>
+        <node begin="8" end="9" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="15" infl="sg" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" stype="declarative" tense="past" v_per="thi" word="werd" wvorm="pv"/>
+        <node begin="9" cat="ap" end="15" id="16" rel="predc">
+          <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="17" infl="no_e" lcat="ap" lemma="wit" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="wit" sense="wit" vform="adj" word="wit"/>
+          <node begin="10" cat="pp" end="15" id="18" rel="mod">
+            <node begin="10" end="11" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="19" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+            <node begin="11" cat="np" end="14" id="20" rel="obj1">
+              <node begin="11" end="12" frame="modal_adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="zelfs" pos="adv" postag="BW()" pt="bw" rel="mod" root="zelfs" sc="modal" sense="zelfs" word="zelfs"/>
+              <node begin="12" buiging="zonder" end="13" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="22" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="hare"/>
+              <node begin="13" end="14" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="lip" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="lip" sense="lip" word="lippen"/>
+            </node>
+            <node begin="14" end="15" frame="particle(toe)" his="normal" his_1="normal" id="24" lcat="part" lemma="toe" pos="part" postag="VZ(fin)" pt="vz" rel="hdf" root="toe" sense="toe" vztype="fin" word="toe"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="robust_skip" id="25" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="133-1">Miss Morstan zette zich neder en haar gelaat werd wit tot zelfs hare lippen toe .</sentence>
+  <comments>
+    <comment>Q#133-1|Miss Morstan zette zich neder en haar gelaat werd wit tot zelfs [ @alt haar hare ] lippen toe .|1|2|11.761109421000004</comment>
+  </comments>
+</alpino_ds>

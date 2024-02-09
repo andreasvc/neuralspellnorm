@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:51" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="11" id="2" rel="--">
+      <node begin="0" cat="smain" end="6" id="3" rel="dp">
+        <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="4" lcat="np" lemma="Bavink" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Bavink" sense="Bavink" word="Bavink"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),fixed([[te,pakken],acc],norm_passive))" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="fixed([[te,pakken],acc],norm_passive)" sense="te-pakken-heb" stype="declarative" tense="past" v_per="thi" word="had" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="6" rel="obj1">
+          <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="7" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node begin="3" end="4" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="papier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="papier" sense="papier" word="papier"/>
+        </node>
+        <node begin="4" cat="mwu" end="6" his="normal" his_1="normal" id="9" rel="svp">
+          <node begin="4" end="5" frame="fixed_part([te,pakken])" id="10" lcat="fixed" lemma="te" pos="fixed" postag="VZ(init)" pt="vz" rel="mwp" root="te" sense="te" vztype="init" word="te"/>
+          <node begin="5" buiging="zonder" end="6" frame="fixed_part([te,pakken])" id="11" lcat="fixed" lemma="pakken" pos="fixed" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="mwp" root="pakken" sense="pakken" word="pakken" wvorm="inf"/>
+        </node>
+      </node>
+      <node begin="7" cat="whq" end="11" id="12" rel="dp">
+        <node begin="7" case="both" def="indef" end="8" frame="pronoun(ywh,thi,sg,het,both,indef,nparg)" gen="het" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="13" index="1" lcat="np" lemma="wat" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(vb,pron,stan,vol,3o,ev)" pt="vnw" rel="whd" rnum="sg" root="wat" sense="wat" special="nparg" status="vol" vwtype="vb" wh="ywh" word="Wat"/>
+        <node begin="7" cat="sv1" end="11" id="14" rel="body">
+          <node begin="7" end="8" id="15" index="1" rel="su"/>
+          <node begin="8" end="9" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="16" infl="sg" lcat="sv1" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="ld_pp" sense="sta" stype="whquestion" tense="past" v_per="thi" word="stond" wvorm="pv"/>
+          <node begin="9" cat="pp" end="11" id="17" rel="ld">
+            <node begin="9" end="10" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="18" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+            <node begin="10" end="11" frame="preposition(boven,[uit])" his="normal" his_1="normal" id="19" lcat="pp" lemma="boven" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="boven" sense="boven" vztype="fin" word="boven"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(vraag)" his="normal" his_1="normal" id="20" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="33-8">Bavink had &apos;t papier te pakken , Wat stond er boven ?</sentence>
+  <comments>
+    <comment>Q#33-8|Bavink had &apos;t papier te pakken , Wat stond er boven ?|1|1|-4.1305046794</comment>
+  </comments>
+</alpino_ds>

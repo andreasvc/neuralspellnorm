@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="ap" end="5" id="1" rel="--">
+      <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="2" infl="no_e" lcat="ap" lemma="zalig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="zalig" sense="zalig" vform="adj" word="Zalig"/>
+      <node begin="1" cat="pp" end="5" id="3" rel="mod">
+        <node begin="1" end="2" frame="preposition(door,[heen])" his="normal" his_1="normal" id="4" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+        <node begin="2" cat="np" end="5" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="7" infl="e" lcat="ap" lemma="rein" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="rein" sense="rein" vform="adj" word="reinen"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="schat" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="schat" sense="schat" word="schat"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="141-1">Zalig door den reinen schat</sentence>
+  <comments>
+    <comment>Q#141-1|Zalig door [ @alt de den ] [ @alt reine reinen ] schat|1|1|2.3111324139999994</comment>
+  </comments>
+</alpino_ds>

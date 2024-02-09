@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:14" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="np" end="13" id="2" rel="--">
+      <node begin="0" cat="mwu" end="2" his="normal" his_1="decap" his_1_1="normal" id="3" rel="hd">
+        <node begin="0" case="both" def="indef" end="1" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" id="4" lcat="np" lemma="van" num="sg" per="thi" pos="pron" postag="VZ(init)" pt="vz" rel="mwp" rnum="sg" root="van" sense="van" special="strpro" vztype="init" wh="nwh" word="Van"/>
+        <node begin="1" case="both" def="indef" end="2" frame="pronoun(nwh,thi,sg,het,both,indef,strpro)" gen="het" getal="ev" id="5" lcat="np" lemma="alles" naamval="stan" num="sg" pdtype="pron" per="thi" persoon="3o" pos="pron" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="mwp" rnum="sg" root="alles" sense="alles" special="strpro" status="vol" vwtype="onbep" wh="nwh" word="alles"/>
+      </node>
+      <node begin="3" cat="rel" end="13" id="6" rel="mod">
+        <node begin="3" end="4" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="normal" id="7" index="1" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="rhd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="waar"/>
+        <node begin="3" cat="ssub" end="13" id="8" rel="body">
+          <node begin="4" case="both" def="def" end="5" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="9" index="2" lcat="np" lemma="je" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,red,2v,ev)" pt="vnw" rel="su" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pers" wh="nwh" word="je"/>
+          <node begin="5" end="6" frame="predm_adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="zelf" pos="adv" postag="BW()" pt="bw" rel="predm" root="zelf" sense="zelf" special="predm" word="zelf"/>
+          <node begin="3" cat="ppart" end="12" id="11" rel="vc">
+            <node begin="4" end="5" id="12" index="2" rel="su"/>
+            <node begin="6" end="7" frame="tmp_adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="nooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="nooit" sense="nooit" special="tmp" word="nooit"/>
+            <node begin="7" cat="np" end="10" id="14" rel="obj1">
+              <node begin="7" end="8" frame="determiner(een)" his="normal" his_1="normal" id="15" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node aform="base" begin="8" buiging="zonder" end="9" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="flauw" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="flauw" sense="flauw" vform="adj" word="flauw"/>
+              <node begin="9" end="10" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="benul" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="benul" sense="benul" word="benul"/>
+            </node>
+            <node begin="3" cat="pp" end="11" id="18" rel="pc">
+              <node begin="3" end="4" id="19" index="1" rel="obj1"/>
+              <node begin="10" end="11" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="20" lcat="pp" lemma="van" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="van" sense="van" vztype="fin" word="van"/>
+            </node>
+            <node begin="11" buiging="zonder" end="12" frame="verb(hebben,psp,np_pc_pp(van))" his="normal" his_1="normal" id="21" infl="psp" lcat="ppart" lemma="hebben" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="heb" sc="np_pc_pp(van)" sense="heb-van" word="gehad" wvorm="vd"/>
+          </node>
+          <node begin="12" end="13" frame="verb(hebben,sg_hebt,aux_psp_hebben)" his="normal" his_1="normal" id="22" infl="sg_hebt" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="present" v_per="ninvje" word="hebt" wvorm="pv"/>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="skip" id="24" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="14-18">Van alles , waar je zelf nooit een flauw benul van gehad hebt . &quot;</sentence>
+  <comments>
+    <comment>Q#14-18|Van alles , waar je zelf nooit een flauw benul van gehad hebt . &quot;|1|1|-11.9138927703</comment>
+  </comments>
+</alpino_ds>

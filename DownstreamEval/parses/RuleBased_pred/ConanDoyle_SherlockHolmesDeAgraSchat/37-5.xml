@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:21" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="14" id="3" rel="--">
+      <node begin="0" cat="np" end="2" id="4" index="1" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(pron)" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="5" infl="pron" lcat="detp" lemma="u" naamval="stan" npagr="agr" pdtype="det" persoon="2" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="u" sense="u" status="vol" vwtype="bez" word="Uw"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="vader" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="vader" sense="vader" word="vader"/>
+      </node>
+      <node begin="2" end="3" frame="verb(unacc,sg_is,aux_psp_zijn)" his="normal" his_1="normal" id="7" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="aux_psp_zijn" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="14" id="8" rel="vc">
+        <node begin="0" end="2" id="9" index="1" rel="su"/>
+        <node begin="4" cat="cp" end="12" id="10" rel="mod">
+          <node begin="4" conjtype="onder" end="5" frame="complementizer" his="normal" his_1="normal" id="11" lcat="cp" lemma="indien" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="indien" sense="indien" word="indien"/>
+          <node begin="5" cat="du" end="12" id="12" rel="body">
+            <node begin="5" cat="ssub" end="9" id="13" rel="tag">
+              <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="14" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+              <node begin="6" end="7" frame="reflexive(fir,sg)" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" refl="refl" rel="se" root="mij" sense="mij" status="vol" vwtype="pr" word="mij"/>
+              <node aform="base" begin="7" buiging="zonder" end="8" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="16" infl="no_e" lcat="ap" lemma="goed" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="goed" sense="goed" vform="adj" word="goed"/>
+              <node begin="8" end="9" frame="verb(hebben,sg1,refl_sbar)" his="normal" his_1="normal" id="17" infl="sg1" lcat="ssub" lemma="herinneren" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="herinner" sc="refl_sbar" sense="zich-herinner" tense="present" v_per="fir" word="herinner" wvorm="pv"/>
+            </node>
+            <node begin="10" cat="ap" end="12" id="18" rel="nucl">
+              <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="reeds" pos="adv" postag="BW()" pt="bw" rel="mod" root="reeds" sense="reeds" word="reeds"/>
+              <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="20" infl="no_e" lcat="ap" lemma="verscheiden" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="verscheiden" sense="verscheiden" vform="adj" word="verscheiden"/>
+            </node>
+          </node>
+        </node>
+        <node begin="12" end="13" frame="tmp_noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="jaar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="mod" rnum="pl" root="jaar" sense="jaar" special="tmp" word="jaren"/>
+        <node begin="13" buiging="zonder" end="14" frame="verb(unacc,psp,intransitive)" his="normal" his_1="normal" id="22" infl="psp" lcat="ppart" lemma="overlijden" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="overlijd" sc="intransitive" sense="overlijd" word="overleden" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="23" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="37-5">Uw vader is , indien ik mij goed herinner , reeds verscheiden jaren overleden .</sentence>
+  <comments>
+    <comment>Q#37-5|Uw vader is , indien ik mij goed herinner , reeds verscheiden jaren overleden .|1|1|-6.1116137791</comment>
+  </comments>
+</alpino_ds>

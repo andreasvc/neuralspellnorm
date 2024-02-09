@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:38" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="9" id="3" rel="--">
+      <node begin="1" cat="smain" end="7" id="4" rel="nucl">
+        <node begin="1" end="2" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="Dat"/>
+        <node begin="2" end="3" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="sta" sc="intransitive" sense="sta" stype="declarative" tense="present" v_per="thi" word="staat" wvorm="pv"/>
+        <node begin="3" end="4" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="7" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="nog" pos="adv" postag="BW()" pt="bw" rel="mod" root="nog" sense="nog" word="nog"/>
+        <node begin="5" cat="pp" end="7" id="9" rel="mod">
+          <node begin="5" end="6" frame="preposition(van,[af],tmp_adv)" his="normal" his_1="normal" id="10" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sc="tmp_adv" sense="van" vztype="init" word="van"/>
+          <node aform="compar" begin="6" buiging="zonder" end="7" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="vroeg" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="obj1" root="vroeg" sense="vroeg" vform="adj" word="vroeger"/>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="mijnheer" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="tag" rnum="sg" root="mijnheer" sense="mijnheer" word="mijnheer"/>
+    </node>
+    <node begin="9" end="10" frame="punct(punt)" his="normal" his_1="normal" id="13" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="10" end="11" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="14" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="84-20">&quot; Dat staat er nog van vroeger , mijnheer . &quot;</sentence>
+  <comments>
+    <comment>Q#84-20|&quot; Dat staat er nog van vroeger , mijnheer . &quot;|1|1|1.568924405</comment>
+  </comments>
+</alpino_ds>

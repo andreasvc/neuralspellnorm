@@ -1,0 +1,36 @@
+id	start	end	sentno	parno	sentbounds	mentions	speakermention	addresseemention	speakercluster	addresseecluster	text
+0	399	403	14	3	0		-	-	-	-	" lieve wichtjes . "
+1	444	455	16	3	0	108,109,110	107	-	96	-	" dat hij die versjes zong , door liefde gedrongen . "
+2	462	683	17	3	1	113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175	107	251	96	114	" man , ik wilde u graag eens ontmoeten , en als ge mij de marmerknikkers weigerde , die ik u vragen zou , of mijn naam voluit in banket - ik heet Batavus - dan houd ik u voor een leugenaar . Maar ik heb Van Alphen nooit gezien . Hij was al dood , geloof ik , toen hij ons vertelde dat mijn vader mijn beste vrind was - ik hield meer van Pauweltje Winser , die naast ons woonde in de Batavierstraat - en dat mijn kleine hond zoo dankbaar was . We hielden geen honden , omdat ze zoo onzindelijk zijn . Alles leugens ! Zoo gaat dan de opvoeding voort . Het nieuwe zusjen is van de groenvrouw gekomen in een groote kool . Alle Hollanders zijn dapper en edelmoedig . De Romeinen waren blij dat de Batavieren hen lieten leven . De Beij van Tunis kreeg een kolijk als hij het wapperen hoorde van de nederlandsche vlag . De hertog van Alva was een ondier . De eb , in 1672 geloof ik , duurde wat langer dan gewoonlijk , expres om Nederland te beschermen . Leugens ! Nederland is Nederland gebleven , omdat onze oude luî goed op hun zaken pasten , en omdat ze het ware geloof hadden . Dàt is de zaak !
+3	961	963	47	4	0		251	107	114	96	" Uhlefeldjes "
+4	1008	1020	52	5	1	260	107	251	96	114	" De lucht is guur , en 't is vier uur . "
+5	1057	1070	54	5	0	268	-	-	-	-	" de lucht is guur , en 't is kwartier voor drieën . "
+6	1555	1565	86	7	0	369,370,371	368	370	177	370	" o mijne moeder , o , mijne moeder ! "
+7	1602	1608	88	7	0	379,380	-	-	-	-	" werken voor den kost ? "
+8	1826	1838	98	9	0	431	-	-	-	-	" mevrouw , het is te laat , de poorten zijn gesloten "
+9	1851	1863	98	9	0	434,435	-	-	-	-	" welaan dan , onversaagd , men doe het zwaard ontblooten ? "
+10	3683	3685	202	39	0	874	873	-	114	-	" shawl "
+11	3736	3771	204	39	0	888,889,890,891,892,893,894,895,896,897	902	909	888	888	" ik dank u , maar ik heb me vergist . Ik dacht het genoegen te hebben een ouden schoolkameraad voor me te zien , maar ... Last ? Dit is de naam niet . "
+12	3772	3804	208	40	1	898,899,900,901,902,903,904,905,906,907,908	909	902	888	888	- Pardon , zei ik - want ik ben altijd beleefd - ik ben m'nheer Droogstoppel , Batavus Droogstoppel . Last en Co is de firma , makelaars in koffie , Lauriergr ...
+13	3805	3902	210	41	1	909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932	902	909	888	888	- Wel , Droogstoppel , kent ge mij niet meer ? Zie mij eens goed aan . Hoe meer ik hem aanzag , hoe meer ik mij herinnerde hem meer gezien te hebben . Maar , zonderling , zijn gelaat deed mij de uitwerking alsof ik vreemde parfumerien rook . Lach hier niet om , lezer , straks zult ge zien hoe dit kwam . Ik ben verzekerd dat hij geen drup reukwerk bij zich droeg , en toch rook ik iets aangenaams , iets sterks , iets wat me herinnerde aan ... daar had ik het !
+14	3903	3935	216	42	1	933,934,935,936,937,938,939,940,941	909	902	888	888	- Zijt gij het , riep ik , die mij van den Griek hebt verlost ? - Wel zeker , zeide hij , dat was ik . En hoe gaat het U ?
+15	4015	4028	221	43	0	960,961,962,963	959	909	1	888	" we zijn met ons dertienen , en ... goeien avend verder ! "
+16	4313	4318	234	45	0	1037	-	-	-	-	" God is goed ? "
+17	4837	5066	259	48	1	1164,1165,1166,1167,1168,1169,1170,1171,1172,1173,1174,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209,1210,1211,1212,1213,1214,1215,1216,1217,1218,1219,1220,1221,1222,1223,1224,1225,1226,1227,1228	-	-	-	-	- Meenin aeide thea , en ... dat Egijpte een geschenk van den Nijl was . Ik ben overtuigd dat ik in de kennismaking zou geslaagd zijn , indien niet op dat oogenblik een mijner makkers uit kinderachtige baldadigheid mij een zoo harden stoot in den rug had gegeven , dat ik heel onzacht tegen de uitstalkast aanvloog , die op halvemanshoogte de voorzij van de kraam afsloot . Ik voelde een greep in mijn nek ... een tweeden greep veel lager ... ik zweefde een oogenblik ... en vóór ik recht begreep hoe de zaken stonden , was ik in de kraam van den Griek , die in verstaanbaar fransch zei dat ik een gamin was , en dat hij de policie roepen zou . Nu was ik wel dicht bij het meisje , maar genoegen deed het me niet . Ik schreide , en bad om genade , want ik zat vreeselijk in angst . Maar het baatte niet . De Griek hield me bij den arm , en schopte mij . Ik zocht naar mijn makkers - we hadden juist dien morgen veel over Scaevola te doen gehad , die zijn hand in 't vuur stak , en in hun latijnsche opstellen hadden ze dit zoo heel mooi gevonden - jawel ! Niemand was daar gebleven om voor mij een hand in 't vuur te steken ...
+18	5616	5646	293	54	1	1360,1361,1362,1363,1364	-	-	-	-	- Het was me bijzonder aangenaam u weer te zien , m'nheer ... r ... r ! En ... èn ... èn ... ik rekommandeer me ! Ik moet hierin .
+19	5667	5680	299	56	1	1370,1371,1372,1373	-	-	-	-	- Beste Droogstoppel , zeide hij , ik heb u iets te vragen .
+20	6857	6882	371	84	1	1665,1666,1667,1668,1669	1664	1665	114	1665	" Ja , ja , Louise , riep Betsij Rosemeijer , geschreid heb je ! Papa , Frits heeft Louise aan 't schreien gemaakt . "
+21	6931	6949	375	86	1	1681,1682,1683	-	-	-	-	- Neen , neen , Frits is heel lief geweest ! Ik wou dat hij 't nogeens deed !
+22	7103	7105	383	87	0		1729	-	114	-	" brillekiek "
+23	7134	7148	386	88	1	1729,1730,1731	-	1729	-	114	" Toe , Frits ! Och ja , Frits ! Kom , Frits ! "
+24	8518	8526	540	219	1	2096,2097	-	-	-	-	" Vader ! schenk me bij de dooden ,
+25	8527	8534	541	220	1	2098	-	-	-	-	" Wat het leven mij niet schonk !
+26	8535	8543	542	221	1	2099,2100	-	-	-	-	" Vader ! geef me aan gene zijde ,
+27	8544	8552	543	222	1	2101,2102,2103	-	-	-	-	" Als de mond des doods mij kust ,
+28	8553	8560	544	223	1	2104,2105	-	-	-	-	" Vader ! geef me aan gene zijde
+29	8561	8570	545	224	1	2106	-	-	-	-	" Wat ik hier niet smaakte ... Rust ! "
+30	8606	8612	551	229	1	2118	-	2118	-	96	" nog niet , o Heer !
+31	8613	8621	552	230	1	2119,2120,2121	2118	-	96	-	" Geef mij eerst mijn moeder weer ! "
+32	8919	8928	570	233	0	2205	2207	-	1	-	" dat ter-nauwer-nood aan den moederlijken schoot onttogen is "
+33	9005	9008	573	233	0		2227	-	1765	-	" uitwendig wist "
+34	9110	9120	576	233	0	2250,2251,2252	-	-	-	-	" Verslag over de Koffikultuur in de Residentie Menado . "

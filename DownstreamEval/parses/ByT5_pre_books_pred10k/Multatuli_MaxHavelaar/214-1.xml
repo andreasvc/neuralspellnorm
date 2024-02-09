@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" cat="cp" end="2" id="2" rel="dp">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer(als)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="Als"/>
+        <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="4" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="body" root="zo" sense="zo" word="zoo"/>
+      </node>
+      <node begin="2" cat="np" end="5" id="5" rel="dp">
+        <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="menig" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="menig" sense="menig" word="menig"/>
+        <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="loos" id="7" infl="no_e" lcat="ap" lemma="moed&apos;loos" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="moed&apos;loos" sense="moed&apos;loos" vform="adj" word="moed&apos;loos"/>
+        <node begin="4" end="5" frame="tmp_noun(het,count,meas)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="uur" naamval="stan" ntype="soort" num="meas" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="uur" sense="uur" special="tmp" word="uur"/>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="214-1">Als zoo menig moed&apos;loos uur</sentence>
+  <comments>
+    <comment>Q#214-1|Als [ @alt zo zoo ] menig moed&apos;loos uur|1|1|2.8077203079999995</comment>
+  </comments>
+</alpino_ds>

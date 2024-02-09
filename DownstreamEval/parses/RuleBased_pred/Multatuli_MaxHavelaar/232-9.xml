@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" cat="smain" end="8" id="1" rel="--">
+      <node begin="0" cat="mwu" end="3" his="slash" his_1="name" his_1_1="begin" his_2="normal" his_2_1="names_dictionary" id="2" index="1" rel="su">
+        <node begin="0" end="1" frame="proper_name(both,'PER')" id="3" lcat="np" lemma="Busselinck" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="pl" root="Busselinck" sense="Busselinck" spectype="deeleigen" word="Busselinck"/>
+        <node begin="1" end="2" frame="proper_name(both,'PER')" id="4" lcat="np" lemma="&amp;" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="pl" root="&amp;" sense="&amp;" spectype="deeleigen" word="&amp;"/>
+        <node begin="2" end="3" frame="proper_name(both,'PER')" id="5" lcat="np" lemma="Waterman" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="pl" root="Waterman" sense="Waterman" spectype="deeleigen" word="Waterman"/>
+      </node>
+      <node begin="3" end="4" frame="verb(hebben,pl,aux_psp_hebben)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" v_per="thi" word="hebben" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="8" id="7" rel="vc">
+        <node begin="0" end="3" id="8" index="1" rel="su"/>
+        <node begin="4" cat="pp" end="7" id="9" rel="ld">
+          <node begin="4" end="5" frame="preposition(achter,[aan,door,langs,om,uit,vandaan])" his="normal" his_1="normal" id="10" lcat="pp" lemma="achter" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="achter" sense="achter" vztype="init" word="achter"/>
+          <node begin="5" cat="np" end="7" id="11" rel="obj1">
+            <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="12" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+            <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="net" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="net" sense="net" word="net"/>
+          </node>
+        </node>
+        <node begin="7" buiging="zonder" end="8" frame="verb(hebben,psp,ld_pp)" his="normal" his_1="normal" id="14" infl="psp" lcat="ppart" lemma="vissen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="vis" sc="ld_pp" sense="vis" word="gevischt" wvorm="vd"/>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="232-9">Busselinck &amp; Waterman hebben achter &apos;t net gevischt .</sentence>
+  <comments>
+    <comment>Q#232-9|Busselinck &amp; Waterman hebben achter &apos;t net [ @alt gevist gevischt ] .|1|1|-3.1513908542</comment>
+  </comments>
+</alpino_ds>

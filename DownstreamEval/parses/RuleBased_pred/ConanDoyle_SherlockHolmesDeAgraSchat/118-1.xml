@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:32" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="3" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="skip" id="5" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="du" end="12" id="6" rel="--">
+      <node begin="1" cat="du" end="7" id="7" rel="dp">
+        <node begin="1" cat="mwu" end="3" his="name" his_1="begin" id="8" rel="nucl">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" id="9" lcat="np" lemma="Rochester" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Rochester" sense="Rochester" spectype="deeleigen" word="Rochester"/>
+          <node begin="2" end="3" frame="proper_name(sg,'PER')" id="10" lcat="np" lemma="Row" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Row" sense="Row" spectype="deeleigen" word="Row"/>
+        </node>
+        <node begin="5" cat="sv1" end="7" id="11" rel="tag">
+          <node begin="5" end="6" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="12" infl="sg" lcat="sv1" lemma="zeggen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zeg" sc="tr_sbar" sense="zeg" tense="past" v_per="thi" word="zeide" wvorm="pv"/>
+          <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+        </node>
+      </node>
+      <node begin="9" cat="du" end="12" id="14" rel="dp">
+        <node begin="9" end="10" frame="tmp_adverb" his="normal" his_1="normal" id="15" lcat="advp" lemma="nu" pos="adv" postag="BW()" pt="bw" rel="dp" root="nu" sense="nu" special="tmp" word="nu"/>
+        <node begin="10" cat="mwu" end="12" his="name" his_1="not_begin" id="16" rel="dp">
+          <node begin="10" end="11" frame="proper_name(both,'LOC')" id="17" lcat="np" lemma="Vincent" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Vincent" sense="Vincent" spectype="deeleigen" word="Vincent"/>
+          <node begin="11" end="12" frame="proper_name(both,'LOC')" id="18" lcat="np" lemma="Square" neclass="LOC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Square" sense="Square" spectype="deeleigen" word="Square"/>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="118-1">&quot; Rochester Row , &quot; zeide hij , &quot; nu Vincent Square .</sentence>
+  <comments>
+    <comment>Q#118-1|&quot; Rochester Row , &quot; [ @alt zei zeide ] hij , &quot; nu Vincent Square .|1|1|0.9163330319999988</comment>
+  </comments>
+</alpino_ds>

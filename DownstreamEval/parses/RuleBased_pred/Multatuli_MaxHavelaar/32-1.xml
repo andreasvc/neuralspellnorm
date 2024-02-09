@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:14" cats="1" skips="0" />
+  <node begin="0" cat="top" end="19" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="18" id="2" rel="--">
+      <node begin="0" cat="smain" end="7" id="3" rel="cnj">
+        <node begin="0" end="1" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="hier" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="hier" sense="hier" special="er_loc" status="vol" vwtype="aanw" word="Hier"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="herhalen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="herhaal" sc="transitive" sense="herhaal" stype="declarative" tense="past" v_per="fir" word="herhaalde" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="weer" pos="adv" postag="BW()" pt="bw" rel="mod" root="weer" sense="weer" word="weer"/>
+        <node begin="4" cat="np" end="7" id="8" rel="obj1">
+          <node begin="4" cat="detp" end="6" id="9" rel="det">
+            <node begin="4" buiging="zonder" end="5" frame="pre_det_quant(al)" his="normal" his_1="normal" id="10" infl="al" lcat="detp" lemma="al" naamval="stan" pdtype="det" pos="det" positie="vrij" postag="VNW(onbep,det,stan,vrij,zonder)" pt="vnw" rel="mod" root="al" sense="al" special="pre_det_quant" vwtype="onbep" word="al"/>
+            <node begin="5" buiging="zonder" end="6" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="11" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="hd" root="die" sense="die" vwtype="aanw" wh="nwh" word="die"/>
+          </node>
+          <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="-heid" id="12" lcat="np" lemma="on_zedelijkheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="on_zedelijkheid" sense="on_zedelijkheid" word="onzedelijkheid"/>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="2" cat="smain" end="18" id="14" rel="cnj">
+        <node begin="2" end="3" id="15" index="1" rel="su"/>
+        <node begin="9" end="10" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="16" infl="sg" lcat="smain" lemma="vertellen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vertel" sc="transitive" sense="vertel" tense="past" v_per="fir" word="vertelde" wvorm="pv"/>
+        <node begin="10" cat="np" end="18" id="17" rel="obj1">
+          <node begin="10" end="11" frame="determiner(de)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="geschiedenis" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="geschiedenis" sense="geschiedenis" word="geschiedenis"/>
+          <node begin="12" cat="np" end="18" id="20" rel="mod">
+            <node begin="12" end="13" frame="determiner(der)" his="normal" his_1="normal" id="21" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+            <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="22" lcat="np" lemma="dochter" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dochter" sense="dochter" word="dochter"/>
+            <node begin="14" cat="pp" end="18" id="23" rel="mod">
+              <node begin="14" end="15" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="24" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+              <node begin="15" cat="mwu" end="18" his="name" his_1="not_begin" id="25" rel="obj1">
+                <node begin="15" end="16" frame="proper_name(both,'ORG')" id="26" lcat="np" lemma="Busselinck" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Busselinck" sense="Busselinck" spectype="deeleigen" word="Busselinck"/>
+                <node begin="16" end="17" frame="proper_name(both,'ORG')" id="27" lcat="np" lemma="&amp;" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="&amp;" sense="&amp;" spectype="deeleigen" word="&amp;"/>
+                <node begin="17" end="18" frame="proper_name(both,'ORG')" id="28" lcat="np" lemma="Waterman" neclass="ORG" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Waterman" sense="Waterman" spectype="deeleigen" word="Waterman"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="18" end="19" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="32-1">Hier herhaalde ik weer al die onzedelijkheid , en vertelde de geschiedenis der dochter van Busselinck &amp; Waterman .</sentence>
+  <comments>
+    <comment>Q#32-1|Hier herhaalde ik weer al die onzedelijkheid , en vertelde de geschiedenis der dochter van Busselinck &amp; Waterman .|1|1|-4.263357108700001</comment>
+  </comments>
+</alpino_ds>

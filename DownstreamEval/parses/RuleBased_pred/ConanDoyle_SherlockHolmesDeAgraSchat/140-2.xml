@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:34" cats="2" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="2" rel="--">
+      <node begin="0" cat="conj" end="14" id="3" rel="dp">
+        <node begin="0" cat="smain" end="5" id="4" rel="cnj">
+          <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="5" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="Het"/>
+          <node begin="1" end="2" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="6" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+          <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="reeds" pos="adv" postag="BW()" pt="bw" rel="mod" root="reeds" sense="reeds" word="reeds"/>
+          <node begin="3" cat="ap" end="5" id="8" rel="predc">
+            <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="zeer" pos="adv" postag="BW()" pt="bw" rel="mod" root="zeer" sense="zeer" word="zeer"/>
+            <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="laat" sense="laat" vform="adj" word="laat"/>
+          </node>
+        </node>
+        <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="11" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="7" cat="smain" end="14" id="12" rel="cnj">
+          <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="13" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="8" end="9" frame="verb(hebben,past(sg),np_np)" his="normal" his_1="normal" id="14" infl="sg" lcat="smain" lemma="wensen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="wens" sc="np_np" sense="wens" stype="declarative" tense="past" v_per="fir" word="wenschte" wvorm="pv"/>
+          <node begin="9" cat="np" end="11" id="15" rel="obj2">
+            <node begin="9" buiging="zonder" end="10" frame="determiner(het)" getal="mv" his="normal" his_1="normal" id="16" infl="het" lcat="detp" lemma="ons" naamval="stan" npagr="evon" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)" pt="vnw" rel="det" root="ons" sense="ons" status="vol" vwtype="bez" word="ons"/>
+            <node begin="10" end="11" frame="noun(both,mass,sg)" gen="both" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="onderhoud" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="onderhoud" sense="onderhoud" word="onderhoud"/>
+          </node>
+          <node begin="11" cat="detp" end="14" his="normal" his_1="normal" id="18" rel="obj1">
+            <node aform="base" begin="12" end="13" frame="adjective(no_e(odet_adv))" id="19" infl="no_e" lcat="detp" lemma="min" pos="adj" postag="BW()" pt="bw" rel="hd" rnum="sg" root="min" sense="min" vform="adj" word="min"/>
+            <node begin="11" cat="advp" end="14" id="20" rel="mod">
+              <node begin="11" end="12" frame="adverb" id="21" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="hd" root="zo" sense="zo" word="zoo"/>
+              <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(no_e(adv))" graad="basis" id="22" infl="no_e" lcat="ap" lemma="mogelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="obcomp" root="mogelijk" sense="mogelijk" vform="adj" word="mogelijk"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="14" cat="ti" end="16" id="23" rel="dp">
+        <node begin="14" end="15" frame="complementizer(te)" his="normal" his_1="normal" id="24" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+        <node begin="15" buiging="zonder" end="16" frame="verb('hebben/zijn',inf,intransitive)" his="normal" his_1="normal" id="25" infl="inf" lcat="inf" lemma="rekken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="body" root="rek" sc="intransitive" sense="rek" word="rekken" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="26" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="17" end="18" frame="punct(aanhaal_both)" his="robust_skip" id="27" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="140-2">Het is reeds zeer laat , en ik wenschte ons onderhoud zoo min mogelijk te rekken . &quot;</sentence>
+  <comments>
+    <comment>Q#140-2|Het is reeds zeer laat , en ik [ @alt wenste wenschte ] ons onderhoud [ @alt zo zoo ] min mogelijk te rekken . &quot;|1|2|1.9507462512999956</comment>
+  </comments>
+</alpino_ds>

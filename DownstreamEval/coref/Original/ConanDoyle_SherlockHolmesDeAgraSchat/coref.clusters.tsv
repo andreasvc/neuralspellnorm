@@ -1,0 +1,1077 @@
+id	gender	human	number	size	firstmention	mentions	label
+0	n	0	sg	1	0	0	EERSTE HOOFDSTUK
+1	f	1	sg	8	1	1,1091,308,1093,1094,361,362,1070	De kennis der gevolgtrekking
+2	n	0	sg	6	2	480,2,498,780,524,463	der gevolgtrekking
+3	m	1	sg	86	3	1281,3,5,1287,8,10,12,13,1295,17,1302,1531,1563,286,1312,289,290,1315,292,1317,294,1574,1577,1589,1591,1848,1849,1594,1595,315,1856,327,328,1097,1863,1099,1612,340,341,344,2137,2138,2139,348,349,2141,1636,1639,1640,1642,1645,366,1136,1139,1406,1409,930,932,1192,939,940,1197,942,1201,1203,695,696,700,701,703,710,714,974,1743,976,978,1496,1497,1498,1499,1507,1269,1527,1528,1530,2043	Sherlock Holmes
+4	n	0	sg	2	4	2156,4	zijn flesch van den schoorsteenmantel en zijn werktuig voor onderhuidsche inspuitingen
+6	n	0	sg	1	6	6	den schoorsteenmantel
+7	n	0	sg	1	7	7	zijn werktuig voor onderhuidsche inspuitingen
+9	n	0	both	1	9	9	zijn marokijnen foudraal
+11	-	-	pl	1	11	11	zijne lange , witte , zenuwachtige vingers
+14	n	0	sg	1	14	14	de fijne naald
+15	-	-	sg	1	15	15	de linkermouw van zijn overhemd
+16	n	0	sg	1	16	16	zijn overhemd
+18	mn	-	sg	7	18	18,20,2261,281,683,1646,2239	eenigen tijd
+19	-	-	pl	19	19	192,193,198,201,206,208,977,19,979,85,981,212,985,986,989,180,182,183,184	zijne oogen
+21	n	0	sg	13	21	356,70,72,585,298,1706,1071,659,596,21,1526,444,29	den
+22	-	-	both	2	22	24,22	voorarm
+23	-	-	sg	1	23	23	pols gericht
+25	m	1	sg	2	25	25,27	ontelbare teekenen van inprikkingen
+26	-	-	pl	1	26	26	inprikkingen
+28	n	0	sg	2	28	28,390	de scherpe punt
+30	-	-	sg	1	30	30	zucht van voldoening in den fluweelen armstoel
+31	-	-	sg	1	31	31	voldoening in den fluweelen armstoel
+32	n	0	sg	1	32	32	den fluweelen armstoel
+33	fm	1	sg	172	33	525,528,2065,536,2074,540,2077,33,547,37,39,551,41,42,2091,44,46,47,48,49,1585,1587,2095,54,63,67,68,73,75,587,77,78,79,80,81,591,592,594,93,94,2142,2144,609,96,611,99,100,103,616,623,624,114,626,627,629,1693,673,1185,1700,1189,179,691,693,697,1738,1739,215,216,217,218,1252,1253,2277,2278,1256,233,1257,236,2287,751,242,243,758,763,253,256,261,262,267,270,271,276,277,279,280,792,794,283,1824,1830,1832,1834,1840,1329,1841,1331,1844,820,1341,1342,830,1344,831,841,842,332,1357,334,845,336,847,850,1880,345,867,869,882,1394,2423,1402,2439,994,919,922,924,928,417,1442,1446,1448,2473,1452,1471,1473,1474,1476,453,1477,1479,456,1481,454,1485,1489,477,990,2527,992,1506,995,484,485,486,997,999,482,1002,489,490,494,1009,1010	ik
+34	fm	1	sg	1	34	34	getuige
+35	n	0	sg	1	35	35	deze verrichting
+36	n	0	sg	3	36	36,773,774	de gewoonte
+38	n	0	sg	1	38	38	dit opzicht
+40	n	0	sg	1	40	40	het gezicht ervan
+43	n	0	sg	1	43	43	mijn gebrek aan moed
+45	m	1	sg	1	45	45	moed
+50	n	0	sg	1	50	50	de noodige opheldering
+51	n	0	sg	4	51	56,59,51,55	zooveel koele onverschilligheid
+52	n	0	sg	3	52	2024,1740,52	het voorkomen van mijn metgezel
+53	m	1	sg	37	53	1345,642,1347,69,1350,1927,1352,1353,650,1354,1355,1359,1361,275,1366,1879,666,667,1373,672,1378,1383,1390,887,881,628,53,630,884,632,57,634,891,886,637,638,1343	mijn metgezel
+58	n	0	sg	1	58	58	Zijn kracht
+60	n	0	sg	1	60	60	gebiedend uiterlijk
+61	n	0	sg	5	61	65,210,62,61,1470	de ondervinding
+64	n	0	pl	2	64	64,354	zijne vele buitengewone eigenschappen
+66	n	0	sg	3	66	840,66,715	dit alles
+71	n	0	sg	1	71	71	tengevolge van den meer dan gewonen en krachtigen wijn
+74	n	0	sg	1	74	74	mijn lunch
+76	m	1	sg	11	76	101,106,107,76,110,111,84,86,89,90,91	mijne zelfbeheersching
+82	n	0	sg	1	82	82	morphine
+83	n	0	sg	2	83	83,854	cocaïne
+87	mn	-	sg	56	87	643,1419,1547,1548,783,656,1553,658,914,405,1560,410,1306,668,925,158,926,411,1449,2093,560,561,1459,2100,1460,575,576,832,1600,1733,1735,202,843,716,589,844,207,1231,87,88,219,605,739,612,1513,1514,618,619,496,1908,245,119,120,635,254,255	het notitie-boek
+92	n	0	sg	1	92	92	zeven percent
+95	n	0	sg	1	95	95	mijn gestel
+97	n	0	sg	1	97	97	de campagne in Afghanistan
+98	n	0	sg	2	98	98,1828	Afghanistan
+102	fn	-	sg	2	102	109,102	mijne voorgewende zwakte
+104	m	1	sg	33	104	1217,1410,1798,1799,398,399,785,786,1491,1940,1430,1431,1432,1241,1242,1948,1439,675,676,1381,678,104,1384,105,1385,680,2092,682,687,689,567,1403,2044	gij
+108	n	0	sg	2	108	108,430	haar invloed
+112	m	1	sg	2	112	112,239	den geest
+113	n	0	sg	1	113	113	de latere werking slechts van zeer korten
+115	fm	1	pl	1	115	115	de gevolgen
+116	n	0	sg	1	116	116	Uw brein
+117	fm	1	both	1	117	117	Uw
+118	fm	1	sg	7	118	131,132,118,134,123,124,127	gij
+121	n	0	pl	1	121	121	de longen
+122	n	0	sg	1	122	122	een permanente zwakte
+125	n	0	sg	1	125	125	het sop
+126	n	0	sg	2	126	412,126	de kool
+128	n	0	sg	4	128	128,259,203,264	een kort voorbijgaand genoegen
+129	n	0	sg	1	129	129	het verlies
+130	n	-	pl	11	130	130,1712,1168,1745,1747,789,1749,1753,2330,1179,351	de groote
+133	fm	1	sg	1	133	133	ik
+135	m	1	sg	20	135	135,141,143,145,148,152,153,154,155,157,159,161,162,163,165,168,171,173,174,175	kameraad
+136	m	1	sg	2	136	136,140	geneeskundige
+137	n	0	sg	4	137	137,2228,2214,991	die eenigszins
+138	n	0	sg	1	138	138	uw gestel
+139	fm	1	both	1	139	139	uw
+142	n	0	pl	1	142	142	zijn vingertoppen
+144	-	-	pl	1	144	144	zijne ellebogen op de leuningen van zijn stoel
+146	n	0	pl	1	146	146	de leuningen van zijn stoel
+147	n	0	sg	5	147	147,980,931,692,996	zijn stoel
+149	-	-	both	1	149	149	die
+150	n	0	sg	2	150	2449,150	wenschte
+151	m	1	sg	1	151	151	Mijn geest
+156	-	-	pl	1	156	156	problema's
+160	n	0	sg	1	160	160	de meest raadselachtige analyse
+164	n	0	pl	1	164	164	wonderbaarlijke middelen
+166	n	0	sg	2	166	170,166	de onbeduidende " sleur
+167	n	0	sg	1	167	167	het menschelijk bestaan
+169	fm	1	sg	1	169	169	geestelijke verheffing
+172	n	0	sg	1	172	172	mijn eigen bizonder beroep
+176	n	0	sg	1	176	176	dat gebied in de wereld
+177	n	0	sg	2	177	177,858	de wereld
+178	fm	1	sg	1	178	178	De eenige particuliere detective
+181	fm	1	sg	2	181	209,181	De eenige particuliere , consulteerende detective
+185	n	0	sg	1	185	185	appèl voor onthullingen
+186	-	-	pl	1	186	186	onthullingen
+187	m	1	sg	1	187	187	Gregson
+188	m	1	sg	1	188	188	Lestrade
+189	fm	1	both	1	189	189	Athelney Jones
+190	n	0	pl	1	190	190	de meeste gevallen
+191	n	0	sg	11	191	548,1318,1674,2411,2479,2415,1685,726,2200,442,191	de zaak
+194	n	0	sg	1	194	194	den data
+195	fm	1	sg	1	195	195	een gezworene
+196	n	0	sg	1	196	196	een oordeel
+197	n	0	sg	1	197	197	een specialiteit
+199	n	0	pl	1	199	199	dusdanige gevallen
+200	n	0	sg	5	200	888,2038,200,1149,654	Mijn naam
+204	n	0	sg	1	204	204	een veld
+205	n	0	pl	1	205	205	mijne eigen zeldzame gaven
+211	n	0	sg	1	211	211	mijne methode van werken in 't geval van Jefferson Hope
+213	n	0	sg	9	213	546,2244,1130,1389,213,246,2358,313,895	't geval van Jefferson Hope
+214	m	1	sg	1	214	214	Jefferson Hope
+220	n	0	sg	1	220	220	den titel van
+221	n	0	sg	1	221	221	Een Godsgericht
+222	n	0	both	1	222	222	_A Study in Scarlet_
+223	n	0	sg	1	223	223	Amsterdam bij N. J. Boon
+224	m	1	sg	5	224	224,225,227,228,229	N. J. Boon
+226	n	0	sg	2	226	226,1407	het hoofd
+230	fm	1	sg	1	230	230	u
+231	n	0	sg	2	231	709,231	een bepaalde wetenschap
+232	n	0	sg	1	232	232	dezelfde ongevoelige wijze
+234	n	0	sg	1	234	234	een romantische tint
+235	n	0	sg	1	235	235	dezelfde uitwerking
+237	n	0	sg	1	237	237	een liefdeshistorie
+238	n	0	sg	1	238	238	een schaking
+240	fm	1	sg	1	240	240	Euclides
+241	-	-	sg	1	241	241	de roman
+244	n	0	pl	6	244	307,244,1012,1508,2311,743	de feiten
+247	m	1	sg	11	247	258,419,260,1254,265,557,269,464,272,247,415	eene
+248	-	-	sg	1	248	248	de zeldzame analytische redeneering van oorzaken
+249	n	0	pl	1	249	249	oorzaken
+250	fm	1	pl	1	250	250	gevolgen
+251	fm	1	sg	1	251	251	mij
+252	n	0	sg	1	252	252	het kluwen
+257	n	0	sg	2	257	257,1731	het doel
+263	n	0	sg	1	263	263	zijn egoïsme
+266	n	0	sg	1	266	266	mijn vlugschrift
+268	n	0	pl	1	268	268	zijne bizondere werkzaamheden
+273	n	0	both	1	273	273	Baker-Street
+274	n	0	sg	1	274	274	het kalm en meesterachtig uiterlijk van mijn metgezel
+278	n	0	sg	1	278	278	mijn gewond been
+282	n	0	sg	1	282	282	een kogel
+284	n	0	sg	1	284	284	pijnlijke wijze
+285	n	0	sg	2	285	285,287	mijn practijk
+288	n	0	sg	1	288	288	het Vasteland
+291	n	0	sg	3	291	472,1346,291	zijn oude pijp van rozeboomenhout
+293	-	-	sg	1	293	293	rozeboomenhout
+295	m	1	sg	1	295	295	François le Villard
+296	m	1	sg	6	296	305,312,322,296,316,302	die
+297	fm	1	sg	1	297	297	je
+299	n	0	sg	1	299	299	den voorgrond
+300	f	1	sg	63	300	1280,2433,2436,1284,648,1033,2440,2315,1035,2442,1038,2443,2320,1041,2322,2323,1044,661,2446,663,664,2447,2453,2454,2456,1309,2457,2463,2085,2088,2472,2090,300,2426,2480,1082,1083,959,963,2431,1100,1103,1109,1114,1125,1260,1262,1263,1008,2417,1265,1266,1267,1268,1014,2422,1017,1018,2427,1276,2429,1278,1279	dienst van de Fransche detectiven
+301	n	0	both	1	301	301	de Fransche detectiven
+303	n	0	sg	1	303	303	de Celtische kracht van snelle waarneming
+304	-	-	sg	1	304	304	snelle waarneming
+306	-	-	sg	2	306	306,309	de juiste beoordeeling der feiten en de algemeene kennis
+310	n	0	sg	1	310	310	de hoogere ontwikkeling van zijn kunst
+311	n	0	sg	2	311	2233,311	zijn kunst
+314	n	0	sg	1	314	314	een testament
+317	n	0	pl	1	317	317	twee gelijksoortige gevallen
+318	n	0	sg	2	318	1290,318	het een te Riga in 1857
+319	n	0	sg	1	319	319	Riga in 1857
+320	n	0	sg	2	320	320,2506	het ander te St. Louis
+321	m	1	sg	1	321	321	St. Louis
+323	-	-	sg	1	323	323	de juiste oplossing
+324	n	0	sg	10	324	2434,324,330,1549,1550,1294,1199,2424,1566,1567	de brief van dankbetuiging voor mijne hulp
+325	n	0	sg	1	325	325	dankbetuiging voor mijne hulp
+326	m	1	sg	3	326	329,331,326	mijne hulp
+333	n	0	sg	1	333	333	een verfrommeld vel buitenlandsch papier
+335	n	0	sg	1	335	335	blik
+337	n	0	pl	1	337	337	betuigingen van bewondering van den Franschman voor
+338	n	0	sg	1	338	338	bewondering van den Franschman voor
+339	fm	1	sg	1	339	339	van den Franschman
+342	fm	1	sg	1	342	342	een leerling
+343	m	1	sg	11	343	352,357,360,363,364,371,372,373,343,346,350	zijn meester
+347	n	0	sg	1	347	347	mijn hulp
+353	n	0	-	1	353	353	twee van de drie eigenschappen
+355	fm	1	pl	2	355	355,375	die
+358	-	-	sg	1	358	358	opmerkingsen
+359	n	0	sg	1	359	359	onthullings-vermogen
+365	n	0	pl	1	365	365	mijne kleine werken in het Fransch
+367	n	0	sg	1	367	367	het Fransch
+368	n	0	pl	1	368	368	Uwe werken
+369	fm	1	both	1	369	369	Uwe
+370	fm	1	sg	1	370	370	gij
+374	n	0	pl	1	374	374	verscheiden handschriften
+376	n	0	pl	1	376	376	technische onderwerpen
+377	n	0	sg	1	377	377	het onderscheid tusschen de asch van verschillende soorten tabak
+378	mn	-	sg	3	378	378,388,389	tusschen de asch
+379	n	0	pl	1	379	379	verschillende soorten tabak
+380	fm	1	sg	1	380	380	ik
+381	n	0	pl	1	381	381	een honderd veertig soorten van sigaren , cigaretten- en pijp-tabak , met gekleurde platen
+382	n	0	pl	1	382	382	sigaren
+383	-	-	-	1	383	383	cigaretten-
+384	n	0	sg	1	384	384	pijp-tabak
+385	n	0	pl	1	385	385	gekleurde platen
+386	-	-	both	1	386	386	die
+387	n	0	sg	1	387	387	het verschil van asch ervan
+391	n	0	sg	1	391	391	dat
+392	n	0	pl	1	392	392	straf-processen
+393	n	0	sg	1	393	393	dat
+394	n	0	sg	2	394	394,827	sleutel
+395	n	0	sg	3	395	1360,395,455	het grootste belang
+396	fm	1	sg	1	396	396	gij
+397	n	0	sg	1	397	397	de een of andere moord
+400	n	0	sg	1	400	400	een Indiaansche lunkah
+401	n	0	sg	1	401	401	het terrein van uw onderzoek
+402	n	0	sg	5	402	704,402,1495,636,431	uw onderzoek
+403	fm	1	both	1	403	403	uw
+404	n	0	sg	1	404	404	het geoefend oog
+406	-	-	sg	1	406	406	de zwarte asch van een Trichinopoly
+407	n	0	sg	1	407	407	een Trichinopoly
+408	n	0	sg	1	408	408	de witte van een Havana
+409	n	0	sg	1	409	409	een Havana
+413	n	0	sg	1	413	413	een aardappel
+414	fm	1	sg	1	414	414	Gij
+416	n	0	sg	2	416	416,465	zeldzame gave van opmerken
+418	fm	1	sg	4	418	449,418,452,421	Ik
+420	n	0	sg	4	420	1272,1396,420,1271	mijn handschrift
+422	n	0	pl	1	422	422	voetstappen
+423	n	0	pl	1	423	423	eenige opmerkingen omtrent het toepassen van de Parijsche pleisters
+424	n	0	pl	1	424	424	de Parijsche pleisters
+425	n	0	both	1	425	425	Parijsche
+426	-	-	sg	1	426	426	bewaarster der indrukken
+427	n	0	pl	1	427	427	der indrukken
+428	fm	1	both	3	428	450,428,437	gij
+429	n	0	sg	2	429	1434,429	een klein curieus boek
+432	n	0	sg	1	432	432	een vorm van de hand
+433	n	0	sg	10	433	740,837,2438,1092,1001,1293,433,1973,602,1307	de hand
+434	n	0	pl	1	434	434	afbeeldingen van handen
+435	n	0	pl	5	435	2178,435,1961,669,975	handen
+436	-	-	sg	1	436	436	leidekkers
+438	-	-	sg	1	438	438	kurksnijders
+439	-	-	pl	1	439	439	loodwerkers
+440	fm	1	pl	1	440	440	wevers
+441	-	-	sg	1	441	441	diamantslijpers
+443	n	0	sg	1	443	443	groot practisch belang voor den
+445	n	0	pl	1	445	445	gevallen van onopgevraagde
+446	m	1	sg	15	446	481,487,491,460,492,523,527,530,468,500,470,533,473,476,446	onopgevraagde
+447	n	0	pl	1	447	447	der vroegere antecedenten van misdadigers
+448	fm	1	pl	1	448	448	misdadigers
+451	n	0	sg	1	451	451	mijn gebabbel
+457	n	0	sg	2	457	457,1395	de gelegenheid
+458	n	0	sg	1	458	458	uwe toepassing ervan
+459	fm	1	both	1	459	459	uwe
+461	fm	1	both	1	461	461	spraakt zooeven van opmerking en gevolgtrekking
+462	n	0	sg	4	462	497,475,462,499	opmerking
+466	-	-	sg	2	466	466,1291	de andere
+467	n	0	sg	1	467	467	geringe mate
+469	n	0	sg	1	469	469	zijn armstoel
+471	n	0	pl	1	471	471	dikke , blauwe rookwolken uit zijn pijp
+474	n	0	sg	2	474	474,762	voorbeeld
+478	n	0	sg	3	478	507,541,478	het Postkantoor in de Wigmore Street
+479	n	0	both	3	479	508,1884,479	de Wigmore Street
+483	n	0	sg	2	483	483,526	een telegram
+488	n	0	sg	1	488	488	een plotseling opkomende gedachte van mij
+493	n	0	sg	1	493	493	mijne verbazing
+495	fm	1	sg	2	495	501,495	u
+502	n	0	sg	1	502	502	de zool van uw schoen
+503	-	-	sg	1	503	503	uw schoen
+504	fm	1	both	1	504	504	uw
+505	n	0	sg	1	505	505	roode modder
+506	m	1	sg	3	506	506,517,1658	roode
+509	fm	1	sg	5	509	512,513,514,860,509	de straat
+510	n	0	sg	6	510	866,516,518,519,510,511	aarde
+515	n	0	sg	1	515	515	het kantoor
+520	n	0	sg	1	520	520	den omtrek
+521	-	-	sg	1	521	521	het overige
+522	-	-	sg	4	522	522,770,772,741	kwaamt
+529	n	0	sg	2	529	529,1065	den ganschen
+531	n	0	sg	1	531	531	uw gezelschap
+532	fm	1	both	1	532	532	uw
+534	fm	1	both	1	534	534	uwen
+535	-	-	sg	1	535	535	lessenaar
+537	fm	1	pl	2	537	537,543	postzegels
+538	n	0	sg	1	538	538	een pakket briefkaarten
+539	-	-	sg	1	539	539	kondet
+542	n	0	sg	1	542	542	een dépêche
+544	n	0	sg	1	544	544	de eenige gevolgtrekking
+545	m	1	sg	7	545	545,579,564,566,555,556,559	de juiste
+549	fm	1	sg	2	549	549,550	gij
+552	n	0	pl	1	552	552	uwe theorieën
+553	fm	1	both	1	553	553	uwe
+554	n	0	sg	2	554	593,554	een meer ernstige proef
+558	n	0	sg	1	558	558	tweede dosis cocaïne
+562	fm	1	sg	1	562	562	gij
+563	n	0	sg	1	563	563	mijn oordeel
+565	fm	1	sg	4	565	578,580,565,574	Ik
+568	n	0	sg	2	568	568,571	eenig voorwerp
+569	n	0	sg	1	569	569	den indruk van zijn persoonlijkheid er in
+570	n	0	sg	1	570	570	zijn persoonlijkheid er in
+572	n	0	sg	1	572	572	een geoefend opmerker
+573	-	-	both	1	573	573	die
+577	n	0	sg	2	577	577,2502	mijn bezit
+581	n	0	sg	5	581	1362,2067,581,1398,2063	uw oordeel omtrent het karakter of de gewoonten
+582	fm	1	both	1	582	582	uw
+583	n	0	sg	4	583	927,1418,1405,583	het karakter
+584	n	0	pl	1	584	584	de gewoonten
+586	m	1	sg	10	586	614,617,586,588,620,622,598,599,603,607	eigenaar
+590	n	0	sg	1	590	590	eenig leedvermaak
+595	n	0	sg	3	595	600,595,597	een les
+601	n	0	sg	1	601	601	uurwerk
+604	n	0	sg	1	604	604	de wijzerplaat
+606	n	0	sg	1	606	606	zijn bloote oog
+608	n	0	sg	1	608	608	een sterke lens
+610	n	0	sg	2	610	610,613	mijn lach
+615	n	0	sg	4	615	803,811,652,615	de kast
+621	-	-	pl	1	621	621	de meeste denkbare daadzaken
+625	n	0	sg	2	625	625,2105	mijn hart
+631	n	0	sg	1	631	631	zijn onvermogen achter een niet beduidende uitvlucht
+633	n	0	sg	1	633	633	een niet beduidende uitvlucht
+639	-	-	sg	1	639	639	droomerige half gesloten oogen naar de zoldering starende
+640	n	0	sg	1	640	640	de zoldering
+641	n	0	sg	1	641	641	verbetering
+644	-	-	pl	4	644	744,747,644,670	uw oudsten
+645	fm	1	both	1	645	645	uw
+646	m	1	sg	3	646	736,646,647	broeder
+649	fm	1	both	1	649	649	uwen
+651	f	1	sg	2	651	651,653	de H. W. op de kast
+655	fm	1	both	1	655	655	uw
+657	-	-	pl	1	657	657	de initialen
+660	m	1	sg	1	660	660	zoon
+662	n	0	sg	2	662	1393,662	den regel
+665	fm	1	both	1	665	665	Uw
+671	fm	1	both	1	671	671	uw
+674	fm	1	sg	1	674	674	gij
+677	-	-	sg	1	677	677	ongestadige
+679	n	0	pl	1	679	679	goede vooruitzichten
+681	n	0	sg	1	681	681	zijn geluk
+684	n	0	sg	1	684	684	armoede
+685	-	-	sg	1	685	685	korte tusschenpoozen van voorspoed
+686	n	0	sg	1	686	686	voorspoed
+688	n	0	sg	1	688	688	den drank
+690	fm	1	sg	1	690	690	ik
+694	n	0	sg	3	694	2032,1931,694	de kamer
+698	fm	1	sg	4	698	712,698,707,711	ik
+699	-	-	sg	2	699	713,699	gelooven
+702	n	0	sg	1	702	702	zoo
+705	n	0	sg	3	705	705,2306,1939	de geschiedenis van mijn ongelukkigen
+706	n	0	pl	2	706	1080,706	mijn ongelukkigen
+708	n	0	pl	1	708	708	gevolgtrekkingen
+717	m	1	sg	13	717	738,1829,742,745,746,717,749,721,722,725,728,731,734	de volle waarheid
+718	n	0	sg	1	718	718	het iets van charlatanisme
+719	-	-	sg	1	719	719	charlatanisme
+720	fm	1	sg	13	720	737,2050,2052,2053,2057,720,735,723,729,2047,732,2045,863	Waarde dokter
+724	n	0	sg	1	724	724	mijne verontschuldiging
+727	n	0	sg	2	727	1369,727	een gewoon vraagstuk
+730	-	-	sg	1	730	730	de oplossing ervan
+733	n	0	sg	2	733	733,1375	de heilige verzekering
+748	n	0	pl	1	748	748	waarschijnlijkheden
+750	n	0	pl	1	750	750	gissingen
+752	n	0	sg	1	752	752	een dwaze gewoonte
+753	n	0	sg	2	753	753,755	het logisch verband
+754	fm	1	sg	4	754	769,754,756,766	u
+757	n	0	sg	1	757	757	mijn gedachtengang
+759	n	0	pl	3	759	760,2336,759	geringe omstandigheden
+761	n	0	pl	1	761	761	de grootste ophelderingen
+764	m	1	sg	6	764	816,817,812,775,764,781	uw broeder
+765	fm	1	both	1	765	765	uw
+767	n	0	pl	1	767	767	benedengedeelten van deze horlogekast
+768	n	0	sg	1	768	768	deze horlogekast
+771	n	0	pl	1	771	771	twee plaatsen
+776	n	0	both	1	776	776	denzelfden vestzak
+777	n	0	pl	1	777	777	andere harde voorwerpen
+778	n	0	pl	1	778	778	sleutels
+779	n	0	sg	1	779	779	vernuft
+782	-	-	sg	1	782	782	die
+784	-	-	pl	1	784	784	vijftig guinjes
+787	-	-	both	1	787	787	die
+788	n	0	sg	1	788	788	een voorwerp van zulke groote
+790	n	0	sg	1	790	790	waarde
+791	n	0	pl	1	791	791	middelen ontbloot
+793	mn	-	sg	2	793	793,796	bewijze
+795	-	-	sg	1	795	795	zijne redeneering
+797	-	-	sg	1	797	797	pand-beleeners
+798	n	0	sg	6	798	1040,1027,2389,2393,1134,798	Engeland
+799	n	0	sg	3	799	804,805,799	het nommer van het bewijs met een graveernaald op de binnenzijde der kast
+800	n	0	sg	2	800	800,806	het bewijs met een graveernaald op de binnenzijde der kast
+801	n	0	sg	1	801	801	een graveernaald op de binnenzijde der kast
+802	n	0	sg	2	802	802,810	de binnenzijde der kast
+807	-	-	pl	1	807	807	zulke nommers door mijn lens op de binnenzijde der kast
+808	n	0	sg	1	808	808	mijn lens op de binnenzijde der kast
+809	fm	1	sg	3	809	809,819,829	mijn
+813	fm	1	both	1	813	813	uw
+814	n	0	sg	1	814	814	zwart zaad
+815	n	0	sg	1	815	815	Tweede gevolgtrekking
+818	n	0	sg	1	818	818	het pand
+821	n	0	sg	3	821	821,822,823	de binnenplaat
+824	-	-	pl	1	824	824	de duizenden krassen rondom de opening
+825	-	-	sg	1	825	825	de opening
+826	-	-	sg	1	826	826	teekenen van het uitglijden van den sleutel
+828	n	0	sg	1	828	828	die plaat
+833	m	1	sg	3	833	833,835,838	een dronkaard
+834	n	0	pl	1	834	834	krassen
+836	n	0	pl	1	836	836	deze sporen van zijn onvaste hand
+839	n	0	sg	1	839	839	de mysterie van dit alles
+846	fm	1	sg	2	846	851,846	u
+848	n	0	sg	1	848	848	uw wonderbaarlijk vermogen
+849	fm	1	both	1	849	849	uw
+852	n	0	sg	1	852	852	een of ander onderzoek
+853	f	1	sg	5	853	853,855,889,877,878	ik
+856	-	-	sg	1	856	856	hersen-inspanning
+857	n	0	sg	1	857	857	het raam
+859	n	0	sg	4	859	1842,859,1715,1711	de gele mist
+861	n	0	pl	1	861	861	de zwart-geblakerde huizen
+862	n	0	pl	1	862	862	vermogens
+864	n	0	sg	2	864	864,865	Misdaad
+868	n	0	sg	1	868	868	mijn mond
+870	n	0	sg	1	870	870	deze ontboezeming
+871	n	0	sg	5	871	1947,871,1945,1914,2459	de deur
+872	f	1	sg	4	872	872,874,880,879	onze hospita
+873	fm	1	pl	50	873	2177,2435,1800,1802,1803,2445,1808,2450,2451,1812,1941,1814,1944,2458,1819,2460,1821,1951,2465,2466,1701,1702,1705,1322,1324,1709,1454,1839,1847,1597,1732,1606,1607,1734,1868,1999,1874,2004,2134,1758,1760,1762,1890,873,1775,1905,1909,1913,2173,2175	onze
+875	n	0	sg	1	875	875	een visitekaart
+876	n	0	sg	1	876	876	het koperen blad
+883	fm	1	sg	93	883	1538,1539,1540,2308,1542,2309,1544,1546,2314,2317,2318,1557,2325,1559,1305,2041,1823,2080,2297,1062,1063,2089,1066,1582,2350,2097,2098,2101,1598,1601,2372,1614,1616,2384,1621,1623,1624,1120,1124,2151,1127,1129,1131,1133,883,1144,892,896,899,900,903,2192,1681,2196,2203,1699,2211,2227,2487,1724,1982,2248,2249,2250,2251,2252,1741,1742,2255,2256,1233,2258,2264,2529,2530,1765,1767,1768,1771,1772,2284,2288,1522,1523,2036,2290,2291,2292,2040,1529,2294,1533,2303	Miss Mary Morstan
+885	n	0	sg	1	885	885	Hm
+890	n	0	sg	1	890	890	Mrs. Hudson
+893	n	0	sg	1	893	893	TWEEDE HOOFDSTUK
+894	-	-	sg	1	894	894	De beschrijving van het geval
+897	n	0	sg	1	897	897	stap
+898	n	0	sg	3	898	1328,2001,898	vrijmoedig voorkomen het vertrek
+901	n	0	sg	1	901	901	gestalte
+902	n	0	sg	1	902	902	haar gewaad
+904	n	0	sg	1	904	904	weelde
+905	n	0	pl	3	905	905,916,917	beperkte middelen
+906	n	0	sg	1	906	906	een kleed van donker-grijze
+907	-	-	sg	1	907	907	donker-grijze
+908	n	0	sg	1	908	908	beige
+909	n	0	sg	1	909	909	de minste versiering
+910	n	0	sg	1	910	910	een klein hoedje van dezelfde kleur
+911	n	0	sg	2	911	912,911	dezelfde kleur
+913	n	0	sg	3	913	1336,913,915	een witte veder
+918	-	-	sg	1	918	918	blauwe oogen
+920	f	1	pl	1	920	920	de vrouwen
+921	f	1	sg	8	921	944,929,933,934,936,921,938,941	die
+923	n	0	pl	1	923	923	drie verschillende werelddeelen
+935	n	0	pl	1	935	935	lippen
+937	-	-	sg	1	937	937	innerlijke opgewondenheid
+943	f	1	sg	3	943	958,950,943	mijne meesteres
+945	n	0	both	3	945	945,954,1154	Mrs. Cecil Forrester
+946	n	0	sg	4	946	1504,1505,946,1503	kleine aangelegenheid
+947	n	0	sg	10	947	1122,2382,2383,2385,947,2387,2388,2201,1435,1119	een harer dienstboden in het reine
+948	f	1	pl	1	948	948	harer dienstboden in het reine
+949	n	0	sg	1	949	949	het reine
+951	m	1	sg	7	951	960,961,965,951,955,956,957	uwe dienstvaardigheid
+952	fm	1	both	1	952	952	uwe
+953	n	0	sg	1	953	953	bekwaamheid
+962	n	0	sg	2	962	962,966	een hoogst eenvoudig geval
+964	fm	1	sg	5	964	964,967,968,972,973	mijne
+969	n	0	pl	1	969	969	een meer vreemdsoortigen
+970	-	-	pl	1	970	970	onverklaarbaren
+971	n	0	sg	1	971	971	toestand
+982	n	0	sg	1	982	982	eene uitdrukking van buitengewone aandacht
+983	n	0	sg	1	983	983	buitengewone aandacht
+984	-	-	pl	1	984	984	zijne scherpe , havik-achtige trekken
+987	n	0	sg	1	987	987	uw geval
+988	fm	1	both	1	988	988	uw
+993	fm	1	sg	1	993	993	Gij
+998	n	0	sg	1	998	998	mijne verwondering
+1000	f	1	sg	4	1000	1000,1013,1005,1007	de jonge dame hare
+1003	m	1	sg	2	1003	1003,1006	uw vriend
+1004	fm	1	both	1	1004	1004	uw
+1011	-	-	-	1	1011	1011	het kort
+1015	fm	1	sg	21	1015	1024,1025,1028,1031,1032,1034,1042,1046,1048,1052,1053,1058,1060,1064,1067,1078,1015,1081,1019,1020,1021	Mijn
+1016	fm	1	sg	1	1016	1016	officier in Indischen
+1022	n	0	sg	2	1022	1084,1022	het vaderland
+1023	f	1	sg	1	1023	1023	Mijne moeder
+1026	n	0	pl	1	1026	1026	geene betrekkingen in Engeland
+1029	n	0	sg	1	1029	1029	een net opvoedingsgesticht te Edinburgh
+1030	n	0	sg	1	1030	1030	Edinburgh
+1036	fm	1	sg	1	1036	1036	de oudste kapitein bij zijn regiment
+1037	n	0	sg	1	1037	1037	zijn regiment
+1039	n	0	sg	1	1039	1039	verlof
+1043	n	0	sg	8	1043	1536,1059,1043,1541,1206,1845,1388,1535	Londen
+1045	m	1	sg	4	1045	1051,1055,1045,1047	noodigde
+1049	n	0	sg	1	1049	1049	het Langham Hôtel
+1050	n	0	sg	3	1050	1050,1150,1143	zijn adres
+1054	n	0	sg	1	1054	1054	zijn bericht
+1056	n	0	sg	1	1056	1056	verlangen
+1057	n	0	sg	2	1057	1057,1087	liefde
+1061	m	1	sg	1	1061	1061	Langham
+1068	n	0	both	1	1068	1068	den hôtelhouder
+1069	-	-	sg	6	1069	1790,1786,1787,1069,2126,1791	de politie
+1072	fm	1	pl	2	1072	1072,1075	wij
+1073	n	0	sg	1	1073	1073	oproeping
+1074	n	0	pl	1	1074	1074	Onze onderzoekingen
+1076	n	0	sg	1	1076	1076	het minste resultaat
+1077	n	0	sg	1	1077	1077	heden
+1079	n	0	sg	2	1079	1789,1079	een woord van mijn ongelukkigen
+1085	n	0	sg	1	1085	1085	een hart vol hoop en liefde
+1086	m	1	sg	1	1086	1086	hoop
+1088	n	0	sg	2	1088	1088,1966	eenige rust
+1089	n	0	sg	1	1089	1089	vaderlijk genoegen
+1090	n	0	sg	1	1090	1090	stede
+1095	n	0	sg	1	1095	1095	een korte snik
+1096	n	0	sg	1	1096	1096	den volzin
+1098	n	0	sg	1	1098	1098	zijn notitie-boek
+1101	n	0	sg	1	1101	1101	den 3en
+1102	n	0	sg	1	1102	1102	Zijn bagage
+1104	n	0	sg	1	1104	1104	het hôtel
+1105	n	0	sg	1	1105	1105	dat
+1106	n	0	sg	1	1106	1106	eenige opheldering
+1107	n	0	pl	1	1107	1107	eenige boeken
+1108	n	0	pl	2	1108	1108,1628	de Andaman-eilanden
+1110	fm	1	pl	2	1110	1110,1111	der officieren
+1112	-	-	sg	1	1112	1112	de bewaking der daar verbannen misdadigers
+1113	fm	1	pl	1	1113	1113	der daar verbannen misdadigers
+1115	m	1	sg	1	1115	1115	een of ander vriend in de stad
+1116	n	0	sg	2	1116	1713,1116	de stad
+1117	fm	1	sg	1	1117	1117	Zoover
+1118	fm	1	pl	2	1118	1128,1118	wij
+1121	n	0	sg	1	1121	1121	zijn eigen regiment
+1123	n	0	sg	1	1123	1123	het 34e Bombay-Infanterie
+1126	n	0	sg	1	1126	1126	vaarwel
+1132	n	0	sg	1	1132	1132	zijn mede-officier in Engeland
+1135	n	0	sg	1	1135	1135	Een vreemdsoortig geval
+1137	-	-	sg	1	1137	1137	Het vreemdsoortige ervan
+1138	fm	1	sg	1	1138	1138	ik
+1140	f	1	pl	4	1140	1177,1140,1182,1175	den 4en Mei
+1141	n	0	sg	4	1141	1160,1147,1148,1141	een advertentie in de
+1142	m	1	sg	2	1142	1520,1142	de
+1145	n	0	sg	2	1145	1145,1510	de verklaring
+1146	n	0	sg	1	1146	1146	haar belang
+1151	fm	1	sg	4	1151	1159,1162,1166,1151	Ik
+1152	n	0	sg	1	1152	1152	dat tijdstip
+1153	n	0	sg	1	1153	1153	het gezin van Mrs. Cecil Forrester
+1155	f	1	sg	1	1155	1155	gouvernante
+1156	n	0	sg	2	1156	1156,1158	betrekking
+1157	n	0	sg	1	1157	1157	haar raad
+1161	n	0	sg	2	1161	1161,2189	mijn adres
+1163	-	-	sg	1	1163	1163	dienzelfden dag
+1164	n	-	pl	1	1164	1164	de post
+1165	n	0	sg	3	1165	1169,1165,1167	een aan mij geadresseerd kartonnen doosje
+1170	n	0	sg	2	1170	1170,1171	een gelijksoortige doos
+1172	n	0	sg	1	1172	1172	een zelfde parel
+1173	n	0	sg	1	1173	1173	eenige aanwijzing omtrent den afzender
+1174	fm	1	sg	1	1174	1174	den afzender
+1176	n	0	sg	1	1176	1176	een deskundige
+1178	n	0	sg	1	1178	1178	van buitengewoon groote waarde
+1180	fm	1	sg	1	1180	1180	Gij
+1181	f	1	sg	3	1181	1187,1181,1183	oordeelen
+1184	n	0	sg	1	1184	1184	een platte doos
+1186	-	-	sg	10	1186	1186,1188,2508,1327,2514,1332,2518,1335,2521,1275	der prachtigste paarlen
+1190	n	0	sg	1	1190	1190	Uw verhaal
+1191	fm	1	both	1	1191	1191	Uw
+1193	fm	1	sg	1	1193	1193	u
+1194	n	0	sg	1	1194	1194	dat wel juist heden
+1195	n	0	sg	2	1195	1200,1195	de reden
+1196	fm	1	sg	2	1196	1196,1198	ik
+1202	fm	1	sg	1	1202	1202	u
+1204	-	-	sg	1	1204	1204	de enveloppe
+1205	fm	1	sg	1	1205	1205	u
+1207	m	1	sg	1	1207	1207	S. W. Datum
+1208	n	0	sg	1	1208	1208	Hum
+1209	n	0	sg	1	1209	1209	De afdruk van een mansduim in den hoek
+1210	n	0	sg	1	1210	1210	een mansduim in den hoek
+1211	n	0	sg	2	1211	1211,1654	den hoek
+1212	n	0	sg	1	1212	1212	den besteller
+1213	-	-	sg	1	1213	1213	Beste kwaliteit
+1214	n	0	sg	1	1214	1214	Enveloppe van six-pence
+1215	-	-	pl	1	1215	1215	six-pence
+1216	n	0	sg	1	1216	1216	het pak
+1218	n	0	sg	2	1218	1218,1759	den derden pilaar van de linkerbuitenzijde van het Lyceum-Theatre
+1219	-	-	sg	1	1219	1219	de linkerbuitenzijde van het Lyceum-Theatre
+1220	n	0	sg	2	1220	1755,1220	het Lyceum-Theatre
+1221	f	1	sg	13	1221	2528,1249,1251,1221,1223,1224,1225,2474,1227,1552,1232,1236,1239	gij
+1222	m	1	pl	2	1222	1245,1222	vrienden
+1226	n	0	sg	2	1226	1226,1228	gerechtigheid
+1229	m	1	sg	1	1229	1229	Uw onbekende vriend
+1230	fm	1	both	1	1230	1230	Uw
+1234	n	0	sg	3	1234	1234,1235,1270	de vraag
+1237	fm	1	sg	1	1237	1237	u
+1238	fm	1	pl	1	1238	1238	wij
+1240	fm	1	sg	2	1240	1240,1247	ik
+1243	m	1	sg	3	1243	1248,1243,1246	Uw briefschrijver
+1244	fm	1	both	1	1244	1244	Uw
+1250	n	0	sg	4	1250	1932,1250,2468,2469	haar stem
+1255	n	0	sg	1	1255	1255	eer
+1258	fm	1	sg	1	1258	1258	u
+1259	n	0	sg	1	1259	1259	eenig opzicht
+1261	fm	1	sg	1	1261	1261	Gij
+1264	m	1	pl	2	1264	1264,1292	geene vrienden
+1273	n	0	pl	1	1273	1273	de adressen op de doosjes met de paarlen
+1274	n	0	pl	2	1274	1274,1277	de doosjes met de paarlen
+1282	n	0	sg	1	1282	1282	een half dozijn stukjes papier
+1283	n	0	pl	1	1283	1283	stukjes papier
+1285	n	0	sg	1	1285	1285	een model-cliënt
+1286	fm	1	pl	1	1286	1286	ons
+1288	n	0	pl	1	1288	1288	de papiertjes op de tafel
+1289	n	0	sg	1	1289	1289	de tafel
+1296	fm	1	sg	1	1296	1296	de schrijver
+1297	n	0	sg	2	1297	1416,1297	de #e#
+1298	n	0	sg	1	1298	1298	de krul van de #s#
+1299	n	0	pl	2	1299	1299,1300	de #s#
+1301	-	-	sg	1	1301	1301	denzelfden
+1303	-	-	sg	2	1303	1308,1303	ijdele hoop bij u
+1304	fm	1	sg	1	1304	1304	u
+1310	fm	1	both	1	1310	1310	uwen
+1311	n	0	sg	1	1311	1311	Dit antwoord
+1313	fm	1	pl	1	1313	1313	Wij
+1314	fm	1	sg	1	1314	1314	u
+1316	n	0	pl	1	1316	1316	de papieren
+1319	-	-	sg	2	1319	1320,1319	=Au revoir=
+1321	-	-	sg	1	1321	1321	onze bezoekster
+1323	fn	-	sg	2	1323	1323,1326	met een vriendelijken blik op ons beiden
+1325	n	0	sg	1	1325	1325	haar doos met paarlen
+1330	n	0	sg	1	1330	1330	het venster plaatsende
+1333	-	-	sg	1	1333	1333	de straat afloopen
+1334	n	0	sg	2	1334	1340,1334	haar grijs hoedje met de witte veder
+1337	n	0	sg	1	1337	1337	een vogel
+1338	n	0	sg	4	1338	1897,1338,1756,1729	de dichte menigte
+1339	f	1	sg	5	1339	1376,1377,1603,1380,1339	Wat een aantrekkelijke vrouw
+1348	f	1	sg	2	1348	1348,1351	halfgesloten oogen
+1349	n	0	sg	1	1349	1349	zijn fauteuil
+1356	n	0	sg	1	1356	1356	een rekenmachine
+1358	fm	1	sg	1	1358	1358	u
+1363	fm	1	both	1	1363	1363	uw
+1364	n	0	pl	1	1364	1364	persoonlijke eigenschappen
+1365	-	-	sg	2	1365	1365,1367	Een cliënt
+1368	n	0	sg	2	1368	1368,1488	een factor in een vraagstuk
+1370	n	0	pl	1	1370	1370	De op het gemoed werkende eigenschappen
+1371	n	0	sg	1	1371	1371	het gemoed
+1372	n	0	sg	1	1372	1372	een zuivere redeneering
+1374	fm	1	sg	1	1374	1374	u
+1379	fm	1	pl	1	1379	1379	drie kleine kinderen
+1382	fm	1	pl	2	1382	1411,1382	mijne bekenden
+1386	n	0	sg	1	1386	1386	een kwart millioen aan de armen van Londen
+1387	n	0	pl	3	1387	1387,1662,1663	de armen van Londen
+1391	n	0	pl	1	1391	1391	uitzonderingen
+1392	n	0	sg	1	1392	1392	Een uitzondering
+1397	n	0	sg	1	1397	1397	een karakter-studie
+1399	fm	1	both	1	1399	1399	uw
+1400	n	0	sg	1	1400	1400	het geschrijf van dezen knaap
+1401	m	1	sg	1	1401	1401	dezen knaap
+1404	n	0	pl	1	1404	1404	zaken
+1408	n	0	pl	1	1408	1408	zijn lange letters
+1412	fm	1	sg	2	1412	1420,1412	de gewone
+1413	n	0	sg	1	1413	1413	Die #d#
+1414	n	0	sg	1	1414	1414	een #a#
+1415	n	0	both	1	1415	1415	die #l#
+1417	m	1	pl	3	1417	1417,1422,2398	Mannen van karakter
+1421	n	0	pl	1	1421	1421	gewone en lange letters
+1423	n	0	sg	3	1423	1425,1429,1423	besluiteloosheid in zijne #k# 's en gevoel van eigenwaarde in zijne hoofdletters
+1424	n	0	both	1	1424	1424	zijne #k# 's
+1426	n	0	sg	1	1426	1426	gevoel van eigenwaarde in zijne hoofdletters
+1427	n	0	sg	1	1427	1427	eigenwaarde in zijne hoofdletters
+1428	n	0	pl	1	1428	1428	zijne hoofdletters
+1433	fm	1	sg	1	1433	1433	u
+1436	-	-	pl	2	1436	1436,1437	der merkwaardigste
+1438	n	0	sg	1	1438	1438	Het martelaarschap
+1440	m	1	sg	1	1440	1440	Winwood Reade
+1441	fm	1	sg	1	1441	1441	Ik
+1443	-	-	sg	1	1443	1443	de vensternis met het aangeduide boek in mijn hand
+1444	n	0	sg	1	1444	1444	het aangeduide boek in mijn hand
+1445	n	0	sg	1	1445	1445	mijn hand
+1447	-	-	pl	3	1447	1689,1450,1447	mijne gedachten
+1451	n	0	pl	1	1451	1451	Mijn gedachten
+1453	fn	1	sg	8	1453	1490,1487,1461,1462,1465,1466,1453,1469	onze laatste bezoekster
+1455	n	0	pl	1	1455	1455	haren
+1456	n	0	sg	2	1456	1456,1458	glimlach
+1457	-	-	pl	1	1457	1457	die diepe gevoelvolle tonen van hare stem
+1463	n	0	sg	1	1463	1463	het tijdstip van haar vaders verdwijning
+1464	n	0	sg	1	1464	1464	haar vaders verdwijning
+1467	n	0	sg	1	1467	1467	een schoone leeftijd
+1468	n	0	sg	1	1468	1468	haar zelfvertrouwen
+1472	n	0	pl	1	1472	1472	zulke gevaarlijke gedachten
+1475	n	0	sg	1	1475	1475	mijn lessenaar
+1478	n	0	sg	1	1478	1478	mijn verhandeling over pathologie
+1480	n	0	sg	1	1480	1480	pathologie
+1482	m	1	sg	1	1482	1482	Een arm geneesheer
+1483	n	0	sg	1	1483	1483	een zwak been
+1484	n	0	sg	2	1484	1484,2327	een zwakker fortuin
+1486	n	0	pl	1	1486	1486	zulke dingen
+1492	n	0	sg	1	1492	1492	haar door onbereikbare luchtkasteelen
+1493	-	-	sg	1	1493	1493	onbereikbare luchtkasteelen
+1494	n	0	sg	1	1494	1494	DERDE HOOFDSTUK
+1500	n	0	sg	2	1500	1500,1501	een gemoedsgesteldheid
+1502	-	-	sg	1	1502	1502	ontzenuwing
+1509	-	-	sg	1	1509	1509	ééne
+1511	fm	1	sg	1	1511	1511	gij
+1512	fm	1	sg	2	1512	1512,1518	Ik
+1515	n	0	sg	4	1515	1570,1515,1516,1572	een veronderstelling
+1517	-	-	pl	1	1517	1517	De nadere bizonderheden
+1519	n	0	pl	1	1519	1519	oude nummers van de
+1521	n	0	sg	1	1521	1521	Times
+1524	-	-	sg	1	1524	1524	oud-gediende van het 34e regiment Bombay-Infanterie
+1525	n	0	both	1	1525	1525	het 34e regiment Bombay-Infanterie
+1532	n	0	sg	1	1532	1532	deze zijde
+1534	m	1	sg	2	1534	1537,1534	De eenige persoon in Londen
+1543	n	0	sg	2	1543	2432,1543	zijn dood
+1545	f	1	sg	2	1545	1545,1551	de dochter van kapitein Morstan
+1554	n	0	sg	2	1554	1554,2349	de verdwijning van haren vader
+1555	n	0	pl	1	1555	1555	de geschenken
+1556	n	0	sg	1	1556	1556	Sholto's dood
+1558	m	1	sg	2	1558	1565,1558	Sholto's erfgenaam
+1561	n	0	sg	1	1561	1561	een schikking
+1562	fn	1	sg	8	1562	1568,2273,2274,2257,2262,1562,2270,2271	wenscht
+1564	n	0	sg	1	1564	1564	eenige tegenovergestelde theorie
+1569	n	0	sg	1	1569	1569	recht
+1571	m	1	sg	1	1571	1571	haar vader
+1573	n	0	sg	1	1573	1573	een ander onrecht
+1575	-	-	pl	1	1575	1575	moeielijkheden
+1576	f	1	sg	12	1576	1632,1633,1602,1635,1604,1576,1609,1608,1580,1613,1618,1619	zeker groote moeielijkheden
+1578	-	-	sg	2	1578	1704,1578	onze expeditie van hedenavond
+1579	fm	1	pl	2	1579	1584,1579	onze
+1581	n	0	sg	1	1581	1581	een vierwieler
+1583	fm	1	sg	1	1583	1583	gij
+1586	n	0	sg	1	1586	1586	mijn hoed
+1588	-	-	pl	1	1588	1588	stevigsten
+1590	n	0	sg	2	1590	2402,1590	zijn revolver uit het wapenrek
+1592	n	0	sg	1	1592	1592	het wapenrek
+1593	n	0	sg	1	1593	1593	zijn zak
+1596	n	0	sg	1	1596	1596	ons avondwerk van ernstigen
+1599	n	0	sg	1	1599	1599	een donkerkleurigen mantel
+1605	n	0	sg	1	1605	1605	de vreemdsoortige onderneming
+1610	n	0	pl	2	1610	1610,1611	de weinige vragen
+1615	n	0	sg	1	1615	1615	een bizonder
+1617	m	1	sg	2	1617	1625,1617	mijn papa
+1620	-	-	pl	1	1620	1620	zijne brieven
+1622	n	0	pl	1	1622	1622	toespelingen op den Majoor
+1626	n	0	sg	1	1626	1626	het bevel over de troepen op de Andaman-eilanden
+1627	fm	1	pl	2	1627	1627,1629	de troepen op de Andaman-eilanden
+1630	-	-	sg	1	1630	1630	papa's lessenaar
+1631	n	0	sg	3	1631	1643,1637,1631	een vreemdsoortig papier
+1634	fm	1	sg	1	1634	1634	gij
+1638	n	0	sg	2	1638	1748,1638	zijn knie
+1641	n	0	sg	1	1641	1641	zijn dubbele lens
+1644	n	0	sg	3	1644	2328,2425,1644	Indië
+1647	n	0	sg	1	1647	1647	een bord
+1648	-	-	sg	1	1648	1648	De teekening erop
+1649	n	0	sg	1	1649	1649	het ontwerp
+1650	n	0	sg	1	1650	1650	een gedeelte van een groot gebouw
+1651	n	0	sg	1	1651	1651	een groot gebouw
+1652	n	0	pl	1	1652	1652	talrijke zalen
+1653	n	0	pl	1	1653	1653	gangen
+1655	m	1	sg	1	1655	1655	den eenen
+1656	n	0	sg	1	1656	1656	een met roode inkt geteekend kruis
+1657	n	0	sg	1	1657	1657	roode inkt
+1659	n	0	sg	1	1659	1659	den linkerhoek
+1660	n	0	pl	1	1660	1660	vier kruisjes
+1661	n	0	sg	1	1661	1661	een lijn
+1664	n	0	pl	1	1664	1664	ruwe karakters
+1665	n	0	sg	1	1665	1665	Het teeken der vier
+1666	n	0	-	1	1666	1666	der vier
+1667	n	0	sg	2	1667	1673,1667	Jonathan Small
+1668	m	1	sg	3	1668	1672,1668,1671	Mahomed Singh
+1669	m	1	sg	1	1669	1669	Abdullah Khan
+1670	fm	1	sg	1	1670	1670	Dost Akbar
+1675	-	1	sg	6	1675	1696,1698,1687,1675,1691,1695	Desniettemin
+1676	n	0	sg	1	1676	1676	een belangrijk document
+1677	n	0	sg	2	1677	1680,1677	een zakboek
+1678	fm	1	pl	1	1678	1678	Wij
+1679	n	0	sg	1	1679	1679	zijn zakboek
+1682	fm	1	pl	1	1682	1682	ons
+1683	n	0	sg	1	1683	1683	nut
+1684	fm	1	sg	4	1684	1688,1690,1684,1686	Ik
+1692	n	0	sg	7	1692	1904,1873,1809,1796,1804,1692,1838	het rijtuig
+1694	n	0	sg	1	1694	1694	zijn geheele houding
+1697	n	0	pl	1	1697	1697	zijn gedachten
+1703	m	1	sg	2	1703	1984,1703	toon over onze expeditie en den
+1707	n	0	sg	1	1707	1707	uitslag ervan
+1708	fm	1	sg	1	1708	1708	onze metgezel
+1710	n	0	sg	1	1710	1710	September
+1714	n	0	pl	1	1714	1714	zwarte wolken
+1716	-	-	pl	3	1716	1810,1716,1853	de modderige straten
+1717	n	0	sg	1	1717	1717	het strand
+1718	n	0	sg	4	1718	1736,1728,1718,1751	het licht der lantaarns slechts met moeite
+1719	n	0	pl	1	1719	1719	der lantaarns slechts met moeite
+1720	n	0	sg	1	1720	1720	moeite
+1721	n	0	sg	1	1721	1721	den nevel
+1722	n	0	sg	1	1722	1722	een schaarsch
+1723	n	0	sg	1	1723	1723	schijnsel over de glibberige bestrating
+1725	n	0	pl	1	1725	1725	De gele lichtstralen uit de winkelramen
+1726	-	-	pl	1	1726	1726	de winkelramen
+1727	n	0	sg	1	1727	1727	de dampachtige lucht
+1730	n	0	sg	1	1730	1730	Deze omstandigheid
+1737	n	0	sg	1	1737	1737	donker
+1744	-	-	pl	1	1744	1744	dusdanige invloeden
+1746	n	0	sg	1	1746	1746	zijn geopend notitie-boek
+1750	-	-	pl	1	1750	1750	eenige aanteekeningen
+1752	n	0	sg	1	1752	1752	zijn zak-lantaarn
+1754	n	0	pl	1	1754	1754	de zijdeuren van het Lyceum-Theatre
+1757	n	0	pl	1	1757	1757	de dichte drommen
+1761	m	1	sg	4	1761	1761,1805,1766,1807	koetsier
+1763	fm	1	sg	1	1763	1763	gij
+1764	-	-	pl	1	1764	1764	die
+1769	m	1	sg	26	1769	1792,1987,2051,2054,2056,2059,2062,2068,2069,2071,2073,2075,2076,2079,2081,2082,2084,1769,1770,1773,1777,1778,1779,1781,2042,2046	deze twee heeren
+1774	n	0	pl	1	1774	1774	een paar doordringende en vragende oogen
+1776	fm	1	sg	1	1776	1776	Gij
+1780	fm	1	sg	1	1780	1780	u
+1782	n	0	sg	1	1782	1782	uw woord
+1783	fm	1	both	1	1783	1783	uw
+1784	fm	1	pl	1	1784	1784	uwer metgezellen
+1785	fm	1	sg	1	1785	1785	een ambtenaar der politie
+1788	fm	1	sg	1	1788	1788	u
+1793	n	0	sg	1	1793	1793	een schril gefluit
+1794	-	-	sg	1	1794	1794	hooren
+1795	n	0	sg	1	1795	1795	een huurkoetsier
+1797	n	0	sg	1	1797	1797	het portier
+1801	n	0	sg	1	1801	1801	den bok
+1806	n	0	pl	1	1806	1806	zijne paarden
+1811	n	0	sg	1	1811	1811	een zonderlinge positie
+1813	n	0	sg	2	1813	2013,1813	een ons onbekende plaats
+1815	n	0	sg	3	1815	1817,1818,1815	de uitnoodiging van een onbekende
+1816	n	0	sg	1	1816	1816	een onbekende
+1820	fn	1	sg	2	1820	1825,1820	onze tocht
+1822	n	0	sg	1	1822	1822	Miss Morstan's gedrag
+1826	-	-	sg	1	1826	1826	eenige mijner avonturen in Afghanistan
+1827	n	0	pl	1	1827	1827	mijner avonturen in Afghanistan
+1831	n	0	pl	1	1831	1831	mijne verhalen
+1833	m	1	sg	1	1833	1833	stapel
+1835	n	0	sg	1	1835	1835	eenig idee omtrent de richting die ons rijtuig volgde
+1836	n	0	sg	2	1836	1836,1837	de richting
+1843	-	-	sg	1	1843	1843	mijne oppervlakkige kennis van Londen
+1846	n	0	sg	1	1846	1846	de route
+1850	n	0	pl	1	1850	1850	de namen der squares zoowel
+1851	m	1	sg	2	1851	1851,1852	der squares zoowel
+1854	n	0	pl	1	1854	1854	stegen
+1855	n	0	sg	1	1855	1855	Rochester Row
+1857	n	0	both	1	1857	1857	Vincent Square
+1858	fm	1	pl	3	1858	1864,1858,1860	wij
+1859	m	1	sg	3	1859	1881,1859,1878	de Vauxhall Bridge Road
+1861	n	0	sg	1	1861	1861	de zijde der Surrey
+1862	n	0	sg	1	1862	1862	der Surrey
+1865	n	0	sg	1	1865	1865	de brug
+1866	fm	1	sg	1	1866	1866	gij
+1867	n	0	sg	1	1867	1867	de rivier
+1869	n	0	sg	2	1869	1869,1871	een strook van de Theems
+1870	n	0	sg	1	1870	1870	de Theems
+1872	-	-	pl	1	1872	1872	de bruglantarens
+1875	n	0	sg	1	1875	1875	een doolhof van straten
+1876	-	-	pl	1	1876	1876	straten
+1877	n	0	sg	1	1877	1877	de overzijde
+1882	mn	-	sg	2	1882	1882,1885	Larke Hall Lane
+1883	n	0	both	1	1883	1883	Stockwell Place
+1886	n	0	sg	1	1886	1886	onze taak
+1887	fm	1	pl	2	1887	1888,1887	onze
+1889	n	0	pl	1	1889	1889	fatsoenlijke wijken
+1891	n	0	sg	1	1891	1891	een onaanzienlijke en dubbelzinnige wijk
+1892	n	0	pl	1	1892	1892	Lange lijnen van donkere huizen
+1893	n	0	pl	1	1893	1893	donkere huizen
+1894	n	0	sg	2	1894	1953,1894	den schijn der kroegen
+1895	n	0	pl	2	1895	1896,1895	der kroegen
+1898	n	0	pl	1	1898	1898	lanen met villa's van twee verdiepingen
+1899	n	0	pl	1	1899	1899	villa's van twee verdiepingen
+1900	n	0	pl	1	1900	1900	twee verdiepingen
+1901	n	0	sg	1	1901	1901	een klein tuintje er voor
+1902	n	0	pl	1	1902	1902	onafzienbare rijen nieuw gebouwde rood-steenen
+1903	-	-	sg	1	1903	1903	nieuw gebouwde rood-steenen
+1906	n	0	sg	1	1906	1906	een nieuw blok
+1907	-	-	pl	3	1907	1936,1907,1910	der anderen
+1911	n	0	sg	1	1911	1911	een enkel lichtje voor het keukenraam
+1912	n	0	sg	1	1912	1912	het keukenraam
+1915	fm	1	sg	1	1915	1915	een Hindoesch bediende
+1916	fm	1	sg	1	1916	1916	Hindoesch
+1917	n	0	sg	1	1917	1917	een gele turban
+1918	m	1	sg	3	1918	1928,1929,1918	witte wijde kleederen
+1919	n	0	sg	1	1919	1919	een gele sjerp
+1920	n	0	sg	2	1920	1920,1922	deze Oostersche figuur
+1921	n	0	pl	4	1921	1921,2026,1934,2015	Oostersche
+1923	n	0	sg	1	1923	1923	de gang van een woning van den derden rang
+1924	n	0	sg	1	1924	1924	een woning van den derden rang
+1925	n	0	sg	1	1925	1925	den derden rang
+1926	n	0	sg	2	1926	1930,1926	De Sahib
+1933	n	0	sg	1	1933	1933	hun den
+1935	n	0	both	1	1935	1935	Khitmutgar
+1937	fm	1	sg	1	1937	1937	mij
+1938	n	0	sg	1	1938	1938	VIERDE HOOFDSTUK
+1942	n	0	sg	1	1942	1942	den Indiaan
+1943	n	0	sg	1	1943	1943	een morsige gang
+1946	n	0	sg	1	1946	1946	rechterzijde
+1949	n	0	sg	1	1949	1949	Een stroom geelachtig licht
+1950	n	0	sg	1	1950	1950	geelachtig licht
+1952	n	0	sg	3	1952	1952,2182,2031	het midden van dien schijn
+1954	m	1	sg	11	1954	1954,1960,1962,1964,1968,1972,2037,1974,2039,1976,1978	een kleine man met een zeer groot hoofd
+1955	n	0	sg	2	1955	1955,1956	een zeer groot hoofd
+1957	n	0	sg	1	1957	1957	een kring van rood , borstelig haar
+1958	n	0	sg	1	1958	1958	rood , borstelig haar
+1959	n	0	sg	1	1959	1959	een glimmend kale puntkruin
+1963	-	-	pl	1	1963	1963	zijne gelaatstrekken in voortdurende beweging
+1965	n	0	sg	1	1965	1965	voortdurende beweging
+1967	n	0	sg	1	1967	1967	De Natuur
+1969	n	0	sg	1	1969	1969	een hanglip
+1970	n	0	sg	1	1970	1970	de rij zijner gele , onregelmatige tanden
+1971	-	-	pl	1	1971	1971	zijner gele , onregelmatige tanden
+1975	n	0	sg	1	1975	1975	zijn onderkaak
+1977	m	1	sg	8	1977	1988,1989,1992,1995,2002,1977,1979,1983	zijne buitengewone kaalhoofdigheid
+1980	fm	1	sg	3	1980	1985,1980,1990	Uw dienaar
+1981	fm	1	both	1	1981	1981	Uw
+1986	fm	1	both	1	1986	1986	uw
+1991	n	0	sg	1	1991	1991	mijn klein heiligdom
+1993	n	0	sg	1	1993	1993	Een kleine woning
+1994	n	0	sg	2	1994	2217,1994	mijn eigen smaak
+1996	n	0	sg	1	1996	1996	Een soort oase in deze beklagenswaardige wildernis van Zuidelijk-Londen
+1997	n	0	sg	1	1997	1997	deze beklagenswaardige wildernis van Zuidelijk-Londen
+1998	n	0	both	1	1998	1998	Zuidelijk-Londen
+2000	n	0	sg	1	2000	2000	het uiterlijk van het vertrek waarbinnen hij ons uitnoodigde
+2003	n	0	sg	1	2003	2003	ons uitnoodigde
+2005	f	1	sg	3	2005	2033,2034,2005	dit onaanzienlijke
+2006	n	0	sg	2	2006	2339,2006	huis als een diamant van het zuiverst
+2007	n	0	sg	1	2007	2007	een diamant van het zuiverst
+2008	n	0	sg	1	2008	2008	water
+2009	n	0	sg	1	2009	2009	koper
+2010	n	0	pl	1	2010	2010	De rijkste en kostbaarste gordijnen
+2011	n	0	pl	1	2011	2011	tapijten
+2012	n	0	pl	1	2012	2012	de wanden
+2014	n	0	sg	1	2014	2014	een schilderstuk of Oostersche vaas
+2016	n	0	sg	1	2016	2016	Het vloerkleed
+2017	n	0	sg	1	2017	2017	de voet erin
+2018	n	0	sg	2	2018	2018,2462	een donzen bed
+2019	n	0	pl	1	2019	2019	Twee groote tijgerhuiden
+2020	n	0	sg	1	2020	2020	een op een standaard staande hookah
+2021	n	0	sg	1	2021	2021	een standaard
+2022	n	0	both	1	2022	2022	Oostersche tabakspijp
+2023	n	0	sg	1	2023	2023	het geheel
+2025	n	0	sg	1	2025	2025	Oostersche weelde
+2027	n	0	sg	1	2027	2027	Een lamp
+2028	n	0	sg	1	2028	2028	den vorm van een zilveren duif
+2029	n	0	sg	1	2029	2029	een zilveren duif
+2030	n	0	sg	1	2030	2030	een zeer dunne vergulde ketting in het midden der kamer
+2035	n	0	sg	1	2035	2035	de lucht met een zachten
+2048	n	0	sg	1	2048	2048	uw stethoscoop
+2049	fm	1	both	1	2049	2049	uw
+2055	n	0	sg	1	2055	2055	mijn hart-klep
+2058	n	0	sg	1	2058	2058	de goedheid
+2060	n	0	sg	1	2060	2060	de hart-ader
+2061	n	0	sg	1	2061	2061	de klep
+2064	fm	1	both	1	2064	2064	uw
+2066	n	0	sg	2	2066	2066,2087	zijn hart
+2070	fn	-	pl	2	2070	2070,2103	in een angstigen
+2072	n	0	sg	1	2072	2072	zijn gansche lichaam
+2078	f	1	sg	4	2078	2104,2106,2108,2078	mijne angstigheid
+2083	n	0	sg	1	2083	2083	een hartader-breuk
+2086	fm	1	both	1	2086	2086	uw
+2094	n	0	sg	1	2094	2094	zoozeer
+2096	n	0	sg	1	2096	2096	deze onhandige opmerking
+2099	m	1	sg	8	2099	2112,2114,2115,2121,2099,2107,2109,2111	neder
+2102	n	0	pl	1	2102	2102	hare lippen
+2110	fm	1	sg	1	2110	2110	u
+2113	m	1	sg	16	2113	2296,2113,2340,2276,2344,2281,2282,2124,2130,2132,2133,2293,2136,2265,2268,2269	mijn broeder Bartholomeus
+2116	fm	1	sg	3	2116	2116,2118,2119	gij
+2117	m	1	pl	1	2117	2117	vrienden
+2120	fm	1	pl	1	2120	2120	getuigen
+2122	fm	1	pl	4	2122	2128,2122,2123,2125	Wij
+2127	fm	1	pl	1	2127	2127	andere ambtenaren
+2129	-	-	sg	1	2129	2129	eenige tusschenkomst van anderen
+2131	n	0	sg	1	2131	2131	publiciteit
+2135	n	0	sg	1	2135	2135	zijn doffe , waterige , blauwe oogen
+2140	fm	1	sg	1	2140	2140	gij
+2143	n	0	sg	1	2143	2143	mijn hoofd ten teeken van instemming
+2145	m	1	sg	8	2145	2145,2147,2148,2154,2155,2157,2163,2165	teeken van instemming
+2146	n	0	sg	1	2146	2146	instemming
+2149	fm	1	sg	2	2149	2149,2158	u
+2150	n	0	sg	1	2150	2150	een glas Chianti
+2152	fm	1	sg	1	2152	2152	Tokayer
+2153	n	0	pl	1	2153	2153	Andere wijnen
+2159	m	1	sg	2	2159	2167,2159	tabaks-rook
+2160	n	0	sg	1	2160	2160	den balsamieken geur van Oostersche tobacco
+2161	n	0	both	1	2161	2161	den balsamieken
+2162	n	0	both	1	2162	2162	Oostersche tobacco
+2164	n	0	sg	2	2164	2164,2166	mijne hookah
+2168	n	0	sg	1	2168	2168	een mondstuk
+2169	-	-	sg	1	2169	2169	den grooten bol
+2170	n	0	both	1	2170	2170	den grooten
+2171	-	-	sg	1	2171	2171	de rook
+2172	n	0	sg	1	2172	2172	het rozenwater
+2174	n	0	pl	1	2174	2174	ons drieën in een halven
+2176	n	0	pl	1	2176	2176	onze kinnen in de handen
+2179	m	1	sg	21	2179	2179,2181,2245,2183,2187,2188,2190,2191,2194,2198,2202,2204,2213,2215,2216,2221,2224,2226,2230,2231,2235	de vreemdsoortige , dwergachtige snaak met zijn groot , glimmend hoofd in het midden
+2180	n	0	sg	1	2180	2180	zijn groot , glimmend hoofd in het midden
+2184	n	0	sg	1	2184	2184	het besluit
+2185	fm	1	sg	1	2185	2185	u
+2186	-	-	sg	1	2186	2186	deze mededeeling
+2193	n	0	sg	1	2193	2193	mijn verzoek
+2195	n	0	sg	1	2195	2195	vreemd volk
+2197	n	0	both	1	2197	2197	Deswege
+2199	-	-	sg	1	2199	2199	de vrijheid
+2205	n	0	sg	2	2205	2205,2207	het volste vertrouwen in zijne discretie
+2206	m	1	sg	3	2206	2208,2210,2206	zijne discretie
+2209	n	-	pl	1	2209	2209	last
+2212	n	0	pl	1	2212	2212	deze voorzorgsmaatregelen
+2218	n	0	sg	1	2218	2218	dat
+2219	-	-	sg	1	2219	2219	de aesthetica
+2220	m	1	sg	1	2220	2220	een politieman
+2222	n	0	sg	1	2222	2222	afkeer van alle vormen van het ruwe materialisme
+2223	n	0	sg	1	2223	2223	het ruwe materialisme
+2225	n	0	sg	1	2225	2225	de ruwe menigte
+2229	n	0	sg	1	2229	2229	elegante atmosfeer
+2232	fm	1	sg	1	2232	2232	een beschermer der kunst
+2234	n	0	sg	1	2234	2234	mijn zwak
+2236	n	0	sg	3	2236	2242,2236,2237	Dit landschap
+2238	fm	1	sg	1	2238	2238	een kenner
+2240	n	0	sg	1	2240	2240	twijfel
+2241	f	1	pl	2	2241	2241,2301	deze Salvator Rosa
+2243	fm	1	sg	1	2243	2243	deze Bouguereau
+2246	n	0	sg	1	2246	2246	de moderne Fransche school
+2247	fm	1	sg	1	2247	2247	Fransche
+2253	n	0	sg	1	2253	2253	uw verzoek
+2254	fm	1	both	1	2254	2254	uw
+2259	n	0	sg	1	2259	2259	ons onderhoud
+2260	fm	1	pl	1	2260	2260	ons
+2263	fm	1	pl	3	2263	2266,2267,2263	we
+2272	-	-	sg	1	2272	2272	die
+2275	n	0	pl	2	2275	2280,2275	hooge woorden met hem
+2279	m	1	sg	1	2279	2279	wat een verschrikkelijke jongen
+2283	fm	1	pl	3	2283	2283,2285,2286	wij
+2289	n	0	pl	1	2289	2289	zijn ooren
+2295	fm	1	sg	5	2295	2304,2310,2295,2298,2299	u
+2300	fm	1	pl	1	2300	2300	wij
+2302	n	0	sg	1	2302	2302	de eerste plaats
+2305	-	-	pl	2	2305	2305,2307	verscheidene punten in de geschiedenis
+2312	-	-	sg	1	2312	2312	mededeelen voor zooverre
+2313	m	1	sg	2	2313	2313,2326	zooverre
+2316	fm	1	sg	10	2316	2341,2342,2375,2345,2346,2316,2413,2414,2418,2356	Mijn
+2319	-	-	sg	1	2319	2319	vroeger in Indischen dienst
+2321	n	0	sg	1	2321	2321	zijn ontslag
+2324	n	0	sg	2	2324	2324,2381	Pondicherry Lodge
+2329	n	0	sg	2	2329	2329,2410	een aanzienlijke som gelds
+2331	-	-	sg	1	2331	2331	verzameling kostbare zeldzaamheden
+2332	n	0	pl	1	2332	2332	kostbare zeldzaamheden
+2333	m	1	sg	3	2333	2337,2338,2333	een gansch gevolg van Inlandsche bedienden
+2334	fm	1	pl	1	2334	2334	Inlandsche bedienden
+2335	n	0	both	1	2335	2335	Inlandsche
+2343	fm	1	pl	1	2343	2343	zijn eenige kinderen
+2347	-	-	sg	2	2347	2347,2348	de sensatie
+2351	fm	1	pl	9	2351	2373,2409,2351,2357,2421,2391,2392,2362,2364	Wij
+2352	m	1	sg	5	2352	2352,2354,2360,2361,2363	de bizonderheden ervan
+2353	n	0	pl	1	2353	2353	de bladen
+2355	m	1	sg	1	2355	2355	een vriend van onzen vader
+2359	n	0	sg	1	2359	2359	zijne tegenwoordigheid
+2365	m	1	sg	7	2365	2369,2370,2376,2377,2378,2365,2366	één oogenblik
+2367	n	0	sg	1	2367	2367	het geheele geheim in zijn eigen hart
+2368	n	0	sg	1	2368	2368	zijn eigen hart
+2371	n	0	sg	1	2371	2371	het lot van Arthur Morstan
+2374	n	0	sg	1	2374	2374	eenig geheim , eenig bepaald gevaar
+2379	n	0	pl	1	2379	2379	twee prijs-vechters als portiers van Pondicherry Lodge
+2380	fm	1	pl	2	2380	2386,2380	portiers van Pondicherry Lodge
+2390	m	1	sg	5	2390	2401,2403,2390,2395,2396	Onze vader
+2394	n	0	sg	1	2394	2394	dat
+2397	n	0	sg	1	2397	2397	een grooten afkeer
+2399	-	-	sg	1	2399	2399	houten beenen
+2400	n	0	sg	1	2400	2400	zekere gelegenheid
+2404	-	-	sg	2	2404	2404,2405	zulk een gebrekkige
+2406	n	0	sg	2	2406	2406,2407	een rustig besteller
+2408	n	0	sg	1	2408	2408	een boodschap
+2412	m	1	sg	3	2412	2412,2437,2430	Mijn broeder
+2416	n	0	sg	1	2416	2416	een gril van mijn vader
+2419	n	0	pl	1	2419	2419	latere voorvallen
+2420	n	0	sg	1	2420	2420	ons oordeel daaromtrent
+2428	n	0	sg	1	2428	2428	de ontbijttafel
+2441	n	0	sg	1	2441	2441	krabbelend schrift
+2444	n	0	sg	1	2444	2444	April
+2448	n	0	sg	1	2448	2448	een laatste onderhoud met ons wenschte
+2452	n	0	sg	1	2452	2452	zijn kamer
+2455	n	0	pl	1	2455	2455	kussens
+2461	n	0	sg	1	2461	2461	eene zijde van het bed
+2464	n	0	pl	1	2464	2464	onze handen
+2467	n	0	sg	3	2467	2467,2475,2477	een merkwaardige bekentenis
+2470	n	0	sg	1	2470	2470	ontroering
+2471	n	0	sg	1	2471	2471	zijn lijden
+2476	n	0	pl	1	2476	2476	zijn eigen woorden
+2478	fm	1	sg	1	2478	2478	Ik
+2481	-	-	sg	1	2481	2481	die
+2482	fm	1	sg	13	2482	2525,2497,2498,2503,2504,2510,2511,2482,2485,2517,2523,2491,2493	mij
+2483	n	0	sg	1	2483	2483	dit uiterste oogenblik
+2484	n	0	sg	1	2484	2484	mijne behandeling van Morstan's arme weeze
+2486	fn	1	sg	2	2486	2494,2486	Morstan's arme weeze
+2488	n	0	pl	2	2488	2488,2489	De verwenschte gelddorst
+2490	n	0	sg	1	2490	2490	mijn gemoed gedurende mijn gansche
+2492	n	0	sg	1	2492	2492	mijn gansche
+2495	-	1	sg	2	2495	2496,2495	den schat
+2499	-	-	sg	1	2499	2499	zelven
+2500	n	0	sg	1	2500	2500	de gierigheid
+2501	n	0	sg	2	2501	2505,2501	Het enkel bewustzijn van het bezit
+2507	n	0	sg	2	2507	2522,2507	dezen krans met paarlen
+2509	m	1	sg	3	2509	2512,2513,2509	de kinine-flesch
+2515	m	1	both	2	2515	2515,2516	Gij
+2519	n	0	sg	1	2519	2519	een eerlijk deel
+2520	n	0	sg	1	2520	2520	den Agra-schat
+2524	-	-	pl	2	2524	2524,2526	menschen

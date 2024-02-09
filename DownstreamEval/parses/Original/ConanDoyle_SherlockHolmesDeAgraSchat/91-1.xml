@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="6" id="3" rel="--">
+      <node begin="1" cat="pp" end="4" id="4" rel="dp">
+        <node begin="1" end="2" frame="preposition(in,[])" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="In"/>
+        <node begin="2" cat="np" end="4" id="6" rel="obj1">
+          <node begin="2" buiging="zonder" end="3" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="7" infl="het" lcat="detp" lemma="dit" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dit" sense="dit" vwtype="aanw" wh="nwh" word="dit"/>
+          <node begin="3" end="4" frame="noun(both,count,sg)" gen="both" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="geval" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="geval" sense="geval" word="geval"/>
+        </node>
+      </node>
+      <node begin="5" end="6" frame="sentence_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="echter" pos="adv" postag="BW()" pt="bw" rel="dp" root="echter" sense="echter" special="sentence" word="echter"/>
+    </node>
+    <node begin="6" end="7" frame="punct(ligg_streep)" his="skip" id="10" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="7" end="8" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="11" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="91-1">&quot; In dit geval , echter - &quot;</sentence>
+  <comments>
+    <comment>Q#91-1|&quot; In dit geval , echter - &quot;|1|1|-0.9080972882999999</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="whq" end="5" id="1" rel="--">
+      <node begin="0" end="1" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="whd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="Waar"/>
+      <node begin="1" cat="np" end="5" id="3" rel="body">
+        <node begin="1" buiging="zonder" end="2" frame="determiner(pron)" getal="getal" his="normal" his_1="normal" id="4" infl="pron" lcat="detp" lemma="u" naamval="stan" npagr="agr" pdtype="det" persoon="2" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="u" sense="u" status="vol" vwtype="bez" word="uw"/>
+        <node begin="2" end="3" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="5" lcat="np" lemma="moeder_trouw" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="moeder_trouw" sense="moeder_trouw" word="moedertrouw"/>
+        <node begin="3" cat="np" end="5" id="6" rel="mod">
+          <node begin="3" end="4" frame="determiner(der)" his="normal" his_1="normal" id="7" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="ziel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="ziel" sense="ziel" word="ziel"/>
+        </node>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="94-1">Waar uw moedertrouw der ziel</sentence>
+  <comments>
+    <comment>Q#94-1|Waar uw moedertrouw der ziel|1|1|1.7858374364000003</comment>
+  </comments>
+</alpino_ds>

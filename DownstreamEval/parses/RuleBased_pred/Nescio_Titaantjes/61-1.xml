@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="13" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="doch" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="doch" sc="root" sense="doch" word="Doch"/>
+      <node begin="1" cat="smain" end="13" id="4" rel="nucl">
+        <node begin="1" end="2" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="5" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+        <node begin="2" end="3" frame="verb(unacc,past(sg),part_intransitive(bij))" his="normal" his_1="normal" id="6" infl="sg" lcat="smain" lemma="bij_komen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="kom_bij" sc="part_intransitive(bij)" sense="kom_bij" stype="declarative" tense="past" v_per="thi" word="kwam" wvorm="pv"/>
+        <node begin="5" end="6" frame="particle(bij)" his="normal" his_1="normal" id="7" lcat="part" lemma="bij" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="bij" sense="bij" vztype="fin" word="bij"/>
+        <node begin="3" cat="np" end="13" id="8" rel="su">
+          <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="9" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="gevoel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="gevoel" sense="gevoel" word="gevoel"/>
+          <node begin="7" cat="rel" end="13" id="11" rel="mod">
+            <node begin="7" case="no_obl" end="8" frame="rel_pronoun(het,no_obl)" gen="het" getal="ev" his="normal" his_1="normal" id="12" index="1" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3" pos="pron" postag="VNW(betr,pron,stan,vol,3,ev)" pt="vnw" rel="rhd" rnum="sg" root="dat" sense="dat" status="vol" vwtype="betr" wh="rel" word="dat"/>
+            <node begin="7" cat="ssub" end="13" id="13" rel="body">
+              <node begin="8" case="nom" def="def" end="9" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="14" index="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+              <node begin="7" cat="ppart" end="12" id="15" rel="vc">
+                <node begin="7" end="8" id="16" index="1" rel="obj1"/>
+                <node begin="8" end="9" id="17" index="2" rel="su"/>
+                <node aform="compar" begin="9" buiging="zonder" end="10" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="18" infl="no_e" lcat="ap" lemma="vroeg" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="mod" root="vroeg" sense="vroeg" vform="adj" word="vroeger"/>
+                <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="19" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+                <node begin="11" buiging="zonder" end="12" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="20" infl="psp" lcat="ppart" lemma="kennen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="ken" sc="transitive" sense="ken" word="gekend" wvorm="vd"/>
+              </node>
+              <node begin="12" end="13" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="21" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" v_per="fir" word="had" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="61-1">Doch er kwam een gevoel bij , dat ik vroeger niet gekend had .</sentence>
+  <comments>
+    <comment>Q#61-1|Doch er kwam een gevoel bij , dat ik vroeger niet gekend had .|1|1|-9.903746327699999</comment>
+  </comments>
+</alpino_ds>

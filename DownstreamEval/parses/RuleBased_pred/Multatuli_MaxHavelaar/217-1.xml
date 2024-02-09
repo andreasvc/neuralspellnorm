@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="2" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" cat="du" end="4" id="3" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" infl="no_e" lcat="ap" lemma="vaak" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="dp" root="vaak" sense="vaak" vform="adj" word="Vaak"/>
+        <node begin="2" cat="cp" end="4" id="5" rel="dp">
+          <node begin="2" conjtype="onder" end="3" frame="complementizer(als)" his="normal" his_1="normal" id="6" lcat="cp" lemma="als" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="als" sc="als" sense="als" word="als"/>
+          <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="7" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="body" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        </node>
+      </node>
+      <node begin="4" cat="np" end="7" id="8" rel="dp">
+        <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="5" cat="mwu" end="7" his="normal" his_1="english_compound" id="10" rel="hd">
+          <node begin="5" end="6" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" id="11" lcat="np" lemma="moed" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="moed" sense="moed" word="moed"/>
+          <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" id="12" lcat="np" lemma="ontzonk" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="mwp" rnum="sg" root="ontzonk" sense="ontzonk" word="ontzonk"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(komma)" his="skip" id="13" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="217-1">Vaak , als mij de moed ontzonk ,</sentence>
+  <comments>
+    <comment>Q#217-1|Vaak , als mij de moed ontzonk ,|1|2|5.90355696</comment>
+  </comments>
+</alpino_ds>

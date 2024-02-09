@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:33" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(ligg_streep)" his="normal" his_1="normal" id="1" lcat="punct" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" cat="smain" end="3" id="3" rel="dp">
+        <node begin="0" end="1" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="np" lemma="jongen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="predc" rnum="pl" root="jongen" sense="jongen" word="Jongens"/>
+        <node begin="1" end="2" frame="verb(unacc,past(pl),copula)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="past" v_per="fir" word="waren" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,pl,de,nom,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="6" lcat="np" lemma="we" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,mv)" pt="vnw" rel="su" rnum="pl" root="we" sense="we" special="wkpro" status="red" vwtype="pers" wh="nwh" word="we"/>
+      </node>
+      <node begin="4" cat="np" end="7" id="7" rel="dp">
+        <node begin="4" cat="ap" end="6" id="8" rel="mod">
+          <node begin="4" end="5" frame="adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="maar" pos="adv" postag="BW()" pt="bw" rel="mod" root="maar" sense="maar" word="maar"/>
+          <node aform="base" begin="5" buiging="met-e" end="6" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="10" infl="e" lcat="ap" lemma="aardig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="aardig" sense="aardig" vform="adj" word="aardige"/>
+        </node>
+        <node begin="6" end="7" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="jongen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="jongen" sense="jongen" word="jongens"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-1">Jongens waren we - maar aardige jongens .</sentence>
+  <comments>
+    <comment>Q#4-1|Jongens waren we - maar aardige jongens .|1|1|3.179071442000002</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:35" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="12" id="3" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="4" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),ap_pred_np)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="schilderen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="schilder" sc="ap_pred_np" sense="schilder" stype="declarative" tense="past" v_per="thi" word="schilderde" wvorm="pv"/>
+      <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="tegenwoordig" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="tegenwoordig" sense="tegenwoordig" vform="adj" word="tegenwoordig"/>
+      <node begin="3" cat="conj" end="8" id="7" rel="obj1">
+        <node begin="3" end="4" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="portret" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="portret" sense="portret" word="portretten"/>
+        <node begin="5" end="6" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="dame" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="cnj" rnum="pl" root="dame" sense="dame" word="dames"/>
+        <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="10" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="11" lcat="np" lemma="heeren" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="heeren" sense="heeren" word="heeren"/>
+      </node>
+      <node begin="9" end="10" frame="predm_adverb" his="normal" his_1="normal" id="12" lcat="advp" lemma="allemaal" pos="adv" postag="BW()" pt="bw" rel="predm" root="allemaal" sense="allemaal" special="predm" word="allemaal"/>
+      <node aform="base" begin="10" buiging="zonder" end="11" frame="adjective(pred(adv))" graad="dim" his="normal" his_1="normal" id="13" infl="pred" lcat="ap" lemma="net" pos="adj" positie="vrij" postag="ADJ(vrij,dim,zonder)" pt="adj" rel="mod" root="netjes" sense="netjes" vform="adj" word="netjes"/>
+      <node aform="base" begin="11" buiging="zonder" end="12" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="14" infl="no_e" lcat="ppart" lemma="aan_kleden" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="predc" root="aan_kleden" sense="aan_kleden" vform="psp" word="aangekleed" wvorm="vd"/>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="15" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="79-14">Hoyer schilderde tegenwoordig portretten , dames en heeren , allemaal netjes aangekleed .</sentence>
+  <comments>
+    <comment>Q#79-14|Hoyer schilderde tegenwoordig portretten , dames en heeren , allemaal netjes aangekleed .|1|1|-2.213103825400002</comment>
+  </comments>
+</alpino_ds>

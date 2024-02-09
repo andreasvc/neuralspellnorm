@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:57" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="0" cat="smain" end="10" id="1" rel="--">
+      <node begin="0" cat="cp" end="3" id="2" rel="mod">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer(zoals)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="cp" lemma="gelijk" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="gelijk" sc="zoals" sense="gelijk" word="Gelijk"/>
+        <node begin="1" cat="np" end="3" id="4" rel="body">
+          <node aform="base" begin="1" buiging="met-e" end="2" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="5" infl="e" lcat="ap" lemma="zwart" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="zwart" sense="zwart" vform="adj" word="zwarte"/>
+          <node begin="2" end="3" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="wolk" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="wolk" sense="wolk" word="wolken"/>
+        </node>
+      </node>
+      <node begin="3" end="4" frame="verb('hebben/zijn',past(sg),ld_pp)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="zweven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zweef" sc="ld_pp" sense="zweef" stype="declarative" tense="past" v_per="thi" word="zweefde" wvorm="pv"/>
+      <node begin="4" cat="np" end="6" id="8" rel="su">
+        <node begin="4" end="5" frame="determiner(de)" his="normal" his_1="normal" id="9" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="5" end="6" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="mist" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="mist" sense="mist" word="mist"/>
+      </node>
+      <node begin="6" cat="pp" end="10" id="11" rel="ld">
+        <node begin="6" end="7" frame="preposition(over,[heen])" his="normal" his_1="normal" id="12" lcat="pp" lemma="over" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="over" sense="over" vztype="init" word="over"/>
+        <node begin="7" cat="np" end="10" id="13" rel="obj1">
+          <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="14" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node aform="base" begin="8" buiging="met-e" end="9" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="15" infl="e" lcat="ap" lemma="modderig" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="modderig" sense="modderig" vform="adj" word="modderige"/>
+          <node begin="9" end="10" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="straat" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="straat" sense="straat" word="straten"/>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="113-2">Gelijk zwarte wolken zweefde de mist over de modderige straten .</sentence>
+  <comments>
+    <comment>Q#113-2|Gelijk zwarte wolken zweefde de mist over de modderige straten .|1|1|-2.495737060400001</comment>
+  </comments>
+</alpino_ds>

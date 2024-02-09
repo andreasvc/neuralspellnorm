@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:04" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="whsub" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="wh_adjective" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="Hoe"/>
+      <node begin="0" cat="ssub" end="4" id="3" rel="body">
+        <node begin="0" end="1" id="4" index="1" rel="predc"/>
+        <node begin="1" end="2" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="het"/>
+        <node begin="2" case="dat_acc" def="def" end="3" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="6" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj2" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        <node begin="3" end="4" frame="verb(zijn,past(sg),fixed([het_subj,ap_pred,dat],no_passive))" his="normal" his_1="normal" id="7" infl="sg" lcat="ssub" lemma="gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga" sc="fixed([het_subj,ap_pred,dat],no_passive)" sense="ga" tense="past" v_per="thi" word="ging" wvorm="pv"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(punt)" his="normal" his_1="normal" id="8" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="88-3">Hoe het mij ging .</sentence>
+  <comments>
+    <comment>Q#88-3|Hoe het mij ging .|1|1|0.045881516999997984</comment>
+  </comments>
+</alpino_ds>

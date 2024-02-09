@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:16" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whq" end="5" id="3" rel="nucl">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="4" index="1" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="whd" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="1" cat="sv1" end="5" id="5" rel="body">
+          <node begin="1" end="2" id="6" index="1" rel="predc"/>
+          <node begin="2" end="3" frame="verb(zijn,sg3,fixed([het_subj,ap_pred,dat],no_passive))" his="normal" his_1="normal" id="7" infl="sg3" lcat="sv1" lemma="gaan" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ga" sc="fixed([het_subj,ap_pred,dat],no_passive)" sense="ga" stype="whquestion" tense="present" v_per="thi" word="gaat" wvorm="pv"/>
+          <node begin="3" end="4" frame="het_noun" genus="onz" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="noun" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" special="het" status="red" vwtype="pers" word="het"/>
+          <node begin="4" case="both" def="def" end="5" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="9" lcat="np" lemma="u" naamval="obl" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pr,pron,obl,vol,2,getal)" pt="vnw" rel="obj2" rnum="sg" root="u" sense="u" status="vol" vwtype="pr" wh="nwh" word="U"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(vraag)" his="normal" his_1="normal" id="10" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+  </node>
+  <sentence sentid="42-3">En hoe gaat het U ?</sentence>
+  <comments>
+    <comment>Q#42-3|En hoe gaat het U ?|1|1|-1.1560220416000002</comment>
+  </comments>
+</alpino_ds>

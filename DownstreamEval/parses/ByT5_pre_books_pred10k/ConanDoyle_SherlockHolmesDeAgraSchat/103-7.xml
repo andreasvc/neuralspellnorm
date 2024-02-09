@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="smain" end="5" id="1" rel="--">
+      <node begin="0" cat="ap" end="3" id="2" rel="mod">
+        <node begin="0" cat="np" end="2" id="3" rel="me">
+          <node begin="0" end="1" frame="number(hoofd(pl_num))" his="normal" his_1="decap" his_1_1="number_expression" id="4" infl="pl_num" lcat="detp" lemma="vier" naamval="stan" numtype="hoofd" pos="num" positie="prenom" postag="TW(hoofd,prenom,stan)" pt="tw" rel="det" root="vier" sense="vier" word="Vier"/>
+          <node begin="1" end="2" frame="tmp_noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="jaar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="jaar" sense="jaar" special="tmp" word="jaren"/>
+        </node>
+        <node aform="compar" begin="2" buiging="zonder" end="3" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="hd" root="laat" sense="laat" vform="adj" word="later"/>
+      </node>
+      <node begin="3" end="4" frame="verb(unacc,sg3,intransitive)" his="normal" his_1="normal" id="7" infl="sg3" lcat="smain" lemma="sterven" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="sterf" sc="intransitive" sense="sterf" stype="declarative" tense="present" v_per="thi" word="sterft" wvorm="pv"/>
+      <node begin="4" end="5" frame="proper_name(both,'ORG')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="8" lcat="np" lemma="Sholto" naamval="stan" neclass="ORG" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Sholto" sense="Sholto" word="Sholto"/>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="103-7">Vier jaren later sterft Sholto .</sentence>
+  <comments>
+    <comment>Q#103-7|Vier jaren later sterft Sholto .|1|1|-1.4966802130999994</comment>
+  </comments>
+</alpino_ds>

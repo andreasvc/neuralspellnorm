@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:31" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(ligg_streep)" his="skip" id="1" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="1" cat="smain" end="16" id="2" rel="--">
+      <node begin="1" cat="pp" end="7" id="3" rel="mod">
+        <node begin="1" end="2" frame="preposition(bij,[vandaan])" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="pp" lemma="bij" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="bij" sense="bij" vztype="init" word="Bij"/>
+        <node begin="2" cat="np" end="7" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="zij_deur" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="zij_deur" sense="zij_deur" word="zijdeuren"/>
+          <node begin="4" cat="pp" end="7" id="8" rel="mod">
+            <node begin="4" end="5" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="9" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="5" cat="np" end="7" id="10" rel="obj1">
+              <node begin="5" end="6" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="11" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+              <node begin="6" end="7" frame="proper_name(both,'LOC')" genus="onz" getal="ev" graad="basis" his="name" his_1="not_begin" id="12" lcat="np" lemma="Lyceum-Theatre" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Lyceum-Theatre" sense="Lyceum-Theatre" word="Lyceum-Theatre"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="7" end="8" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="ld_pp" sense="sta" stype="declarative" tense="past" v_per="thi" word="stond" wvorm="pv"/>
+      <node begin="8" cat="np" end="10" id="14" rel="su">
+        <node begin="8" end="9" frame="determiner(de)" his="normal" his_1="normal" id="15" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="16" lcat="np" lemma="menigte" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="menigte" sense="menigte" word="menigte"/>
+      </node>
+      <node begin="10" end="11" frame="adverb" his="normal" his_1="normal" id="17" lcat="advp" lemma="reeds" pos="adv" postag="BW()" pt="bw" rel="mod" root="reeds" sense="reeds" word="reeds"/>
+      <node begin="11" cat="pp" end="15" id="18" rel="ld">
+        <node begin="11" end="12" frame="preposition(in,[])" his="normal" his_1="normal" id="19" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="12" cat="np" end="15" id="20" rel="obj1">
+          <node begin="12" end="13" frame="determiner(de)" his="normal" his_1="normal" id="21" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node aform="base" begin="13" buiging="met-e" end="14" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="22" infl="e" lcat="ap" lemma="dicht" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="dicht" sense="dicht" vform="adj" word="dichte"/>
+          <node begin="14" end="15" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="drom" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="drom" sense="drom" word="drommen"/>
+        </node>
+      </node>
+      <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(ge_no_e(padv))" his="compound" his_1="2" id="24" infl="no_e" lcat="ppart" lemma="opeen_pakken" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="predm" root="opeen_pakken" sense="opeen_pakken" vform="psp" word="opeengepakt" wvorm="vd"/>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="25" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="114-5">- Bij de zijdeuren van het Lyceum-Theatre stond de menigte reeds in de dichte drommen opeengepakt .</sentence>
+  <comments>
+    <comment>Q#114-5|- Bij de zijdeuren van het Lyceum-Theatre stond de menigte reeds in de dichte drommen opeengepakt .|1|1|-1.6809402889000022</comment>
+  </comments>
+</alpino_ds>

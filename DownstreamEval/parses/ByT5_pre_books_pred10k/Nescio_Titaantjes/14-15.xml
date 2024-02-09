@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:42" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="12" end="13" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="14" id="5" rel="nucl">
+        <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="2" end="3" frame="verb(hebben,both(pl),transitive)" his="normal" his_1="normal" id="7" infl="pl" lcat="smain" lemma="zetten" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="zet" sc="transitive" sense="zet" stype="declarative" v_per="fir" word="zetten" wvorm="pv"/>
+        <node begin="3" case="nom" def="def" end="4" frame="pronoun(nwh,fir,pl,de,nom,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="8" lcat="np" lemma="we" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,mv)" pt="vnw" rel="su" rnum="pl" root="we" sense="we" special="wkpro" status="red" vwtype="pers" wh="nwh" word="we"/>
+        <node begin="4" cat="pp" end="12" id="9" rel="mod">
+          <node begin="4" end="5" frame="preposition(in,[])" his="normal" his_1="normal" id="10" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+          <node begin="5" cat="np" end="12" id="11" rel="obj1">
+            <node begin="5" end="6" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="6" end="7" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="catalogus" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="catalogus" sense="catalogus" word="catalogus"/>
+            <node begin="8" cat="mwu" end="12" his="name" his_1="begin" id="14" rel="app">
+              <node begin="8" end="9" frame="proper_name(both)" id="15" lcat="np" lemma="No." neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="No." sense="No." spectype="deeleigen" word="No."/>
+              <node begin="9" end="10" frame="proper_name(both)" id="16" lcat="np" lemma="666" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="666" sense="666" spectype="deeleigen" word="666"/>
+              <node begin="10" end="11" frame="proper_name(both)" id="17" lcat="np" lemma="De" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="De" sense="De" spectype="deeleigen" word="De"/>
+              <node begin="11" end="12" frame="proper_name(both)" id="18" lcat="np" lemma="Gedachte" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Gedachte" sense="Gedachte" spectype="deeleigen" word="Gedachte"/>
+            </node>
+          </node>
+        </node>
+        <node begin="13" end="14" frame="noun(both,count,sg)" gen="both" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="19" lcat="np" lemma="schilderij" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="schilderij" sense="schilderij" word="schilderij"/>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="20" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="14-15">En dan zetten we in den catalogus : No. 666 De Gedachte , schilderij .</sentence>
+  <comments>
+    <comment>Q#14-15|En dan zetten we in [ @alt de den ] catalogus : No. 666 De Gedachte , schilderij .|1|1|1.1669387024000004</comment>
+  </comments>
+</alpino_ds>

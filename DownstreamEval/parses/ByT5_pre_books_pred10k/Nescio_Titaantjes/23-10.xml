@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:45" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="0" cat="conj" end="12" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="cnj">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="langzaam" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="langzaam" sense="langzaam" vform="adj" word="Langzaam"/>
+        <node begin="1" end="2" frame="verb('hebben/zijn',past(sg),ld_adv)" his="normal" his_1="normal" id="4" infl="sg" lcat="smain" lemma="slenteren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="slenter" sc="ld_adv" sense="slenter" stype="declarative" tense="past" v_per="thi" word="slenterde" wvorm="pv"/>
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="5" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="-ie"/>
+        <node aform="base" begin="3" end="4" frame="adjective(pred(locadv))" his="normal" his_1="normal" id="6" infl="pred" lcat="ap" lemma="weg" pos="adj" postag="BW()" pt="bw" rel="ld" root="weg" sense="weg" vform="adj" word="weg"/>
+      </node>
+      <node begin="4" conjtype="neven" end="5" frame="conj(en)" his="normal" his_1="normal" id="7" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="5" cat="smain" end="12" id="8" rel="cnj">
+        <node begin="5" cat="pp" end="8" id="9" rel="mod">
+          <node begin="5" end="6" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="10" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="6" cat="np" end="8" id="11" rel="obj1">
+            <node begin="6" end="7" frame="determiner(de)" his="normal" his_1="normal" id="12" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="7" end="8" frame="proper_name(sg,'LOC')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="13" lcat="np" lemma="Weteringschans" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Weteringschans" sense="Weteringschans" word="Weteringschans"/>
+          </node>
+        </node>
+        <node begin="8" end="9" frame="verb(hebben,past(sg),part_transitive(in))" his="normal" his_1="normal" id="14" infl="sg" lcat="smain" lemma="in_halen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="haal_in" sc="part_transitive(in)" sense="haal_in" stype="declarative" tense="past" v_per="thi" word="haalde" wvorm="pv"/>
+        <node begin="9" case="both" def="def" end="10" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="15" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="10" case="dat_acc" def="def" end="11" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="16" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj1" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+        <node begin="11" end="12" frame="particle(in)" his="normal" his_1="normal" id="17" lcat="part" lemma="in" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="in" sense="in" vztype="fin" word="in"/>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="18" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="23-10">Langzaam slenterde -ie weg en op de Weteringschans haalde ze hem in .</sentence>
+  <comments>
+    <comment>Q#23-10|Langzaam slenterde -ie weg en op de Weteringschans haalde ze hem in .|1|1|2.184304250699998</comment>
+  </comments>
+</alpino_ds>

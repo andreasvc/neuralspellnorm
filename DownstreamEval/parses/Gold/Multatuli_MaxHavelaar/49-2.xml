@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:21" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="14" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="14" id="4" rel="nucl">
+        <node begin="1" end="2" frame="verb(hebben,sg1,sbar)" his="normal" his_1="normal" id="5" infl="sg1" lcat="sv1" lemma="zien" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="tag" root="zie" sc="sbar" sense="zie" tense="present" v_per="fir" word="zie" wvorm="pv"/>
+        <node begin="3" cat="smain" end="14" id="6" rel="nucl">
+          <node begin="3" end="4" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="7" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+          <node begin="4" end="5" frame="verb(hebben,past(sg),part_transitive(in))" his="normal" his_1="normal" id="8" infl="sg" lcat="smain" lemma="in_vliegen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="vlieg_in" sc="part_transitive(in)" sense="vlieg_in" stype="declarative" tense="past" v_per="thi" word="vloog" wvorm="pv"/>
+          <node begin="5" end="6" frame="sentence_adverb" his="normal" his_1="normal" id="9" lcat="advp" lemma="opeens" pos="adv" postag="BW()" pt="bw" rel="mod" root="opeens" sense="opeens" special="sentence" word="op-eens"/>
+          <node begin="6" cat="np" end="8" id="10" rel="su">
+            <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="11" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+            <node begin="7" end="8" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="12" lcat="np" lemma="Sjaalman" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Sjaalman" sense="Sjaalman" word="Sjaalman"/>
+          </node>
+          <node begin="8" cat="pp" end="11" id="13" rel="mod">
+            <node begin="8" end="9" frame="preposition(door,[heen])" his="normal" his_1="normal" id="14" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+            <node begin="9" cat="np" end="11" id="15" rel="obj1">
+              <node begin="9" end="10" frame="determiner(de)" his="normal" his_1="normal" id="16" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+              <node begin="10" end="11" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="achter_deur" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="achter_deur" sense="achter_deur" word="achterdeur"/>
+            </node>
+          </node>
+          <node begin="11" cat="np" end="13" id="18" rel="obj1">
+            <node begin="11" end="12" frame="determiner(de)" his="normal" his_1="normal" id="19" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+            <node begin="12" end="13" frame="noun(both,count,sg)" gen="both" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="kraam" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="kraam" sense="kraam" word="kraam"/>
+          </node>
+          <node begin="13" end="14" frame="particle(in)" his="normal" his_1="normal" id="21" lcat="part" lemma="in" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="in" sense="in" vztype="fin" word="in"/>
+        </node>
+      </node>
+    </node>
+    <node begin="14" end="15" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="49-2">Maar zie , daar vloog op-eens mijn Sjaalman door de achterdeur de kraam in .</sentence>
+  <comments>
+    <comment>Q#49-2|Maar zie , daar vloog [ @alt opeens op-eens ] mijn Sjaalman door de achterdeur de kraam in .|1|1|2.204254661000002</comment>
+  </comments>
+</alpino_ds>

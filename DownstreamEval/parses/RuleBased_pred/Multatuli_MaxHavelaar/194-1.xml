@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="2" skips="0" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" cat="du" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="2" infl="de" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(aanw,pron,stan,vol,3,getal)" pt="vnw" rel="dp" rnum="sg" root="die" sense="die" status="vol" vwtype="aanw" wh="nwh" word="Die"/>
+      <node begin="1" cat="np" end="4" id="3" rel="dp">
+        <node begin="1" buiging="zonder" end="2" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="4" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+        <node begin="2" end="3" frame="number(rang)" his="normal" his_1="normal" id="5" lcat="ap" lemma="één" naamval="stan" numtype="rang" pos="num" positie="prenom" postag="TW(rang,prenom,stan)" pt="tw" rel="mod" root="één" sense="één" word="eerste"/>
+        <node begin="3" end="4" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="compound" his_1="2" id="6" lcat="np" lemma="kind_kreet" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="kind_kreet" sense="kind_kreet" word="kinderkreten"/>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="194-1">Die mijn eerste kinderkreten</sentence>
+  <comments>
+    <comment>Q#194-1|Die mijn eerste kinderkreten|1|2|-0.19883207149999985</comment>
+  </comments>
+</alpino_ds>

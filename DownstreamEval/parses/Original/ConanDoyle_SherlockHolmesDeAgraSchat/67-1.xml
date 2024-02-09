@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:23" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="sv1" end="5" id="2" rel="--">
+      <node begin="1" dropped_agr="sg" end="2" frame="verb(unacc,past(sg),ld_pp)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg" lcat="sv1" lemma="blijven" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="blijf" sc="ld_pp" sense="blijf" stype="topic_drop" tense="past" v_per="thi;fir" word="Bleef" wvorm="pv"/>
+      <node begin="2" cat="pp" end="5" id="4" rel="ld">
+        <node begin="2" end="3" frame="preposition(in,[])" his="normal" his_1="normal" id="5" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+        <node begin="3" cat="np" end="5" id="6" rel="obj1">
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="7" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="w_dia" id="8" lcat="np" lemma="hotel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hotel" sense="hotel" word="hôtel"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(punt)" his="normal" his_1="normal" id="9" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="67-1">&quot; Bleef in het hôtel .</sentence>
+  <comments>
+    <comment>Q#67-1|&quot; Bleef in het hôtel .|1|1|1.9628811610999997</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:27" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="whrel" end="6" id="1" rel="--">
+      <node begin="0" end="1" frame="er_wh_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="advp" lemma="waar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(vb,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="rhd" root="waar" sense="waar" special="er_loc" status="vol" vwtype="vb" wh="ywh" word="Waar"/>
+      <node begin="0" cat="ssub" end="6" id="3" rel="body">
+        <node begin="0" end="1" id="4" index="1" rel="mod"/>
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="2" cat="mwu" end="4" his="normal" his_1="het Asuper" his_1_1="normal" id="6" rel="mod">
+          <node aform="super" begin="2" end="3" frame="adjective(het_st(adv))" id="7" infl="pred" lcat="ap" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="adj" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" vform="adj" word="&apos;t"/>
+          <node aform="super" begin="3" buiging="zonder" end="4" frame="adjective(het_st(adv))" graad="sup" id="8" infl="pred" lcat="ap" lemma="hoog" pos="adj" positie="vrij" postag="ADJ(vrij,sup,zonder)" pt="adj" rel="mwp" root="hoog" sense="hoog" vform="adj" word="hoogst"/>
+        </node>
+        <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="genot" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="genot" sense="genot" word="genot"/>
+        <node begin="5" end="6" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="10" infl="sg" lcat="ssub" lemma="verwachten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="verwacht" sc="transitive" sense="verwacht" tense="past" v_per="fir" word="verwachtte" wvorm="pv"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="11" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="154-1">Waar ik &apos;t hoogst genot verwachtte ,</sentence>
+  <comments>
+    <comment>Q#154-1|Waar ik &apos;t hoogst genot verwachtte ,|1|1|0.6985523044999978</comment>
+  </comments>
+</alpino_ds>

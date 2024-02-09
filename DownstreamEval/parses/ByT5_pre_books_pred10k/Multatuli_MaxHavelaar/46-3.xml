@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:48" cats="2" skips="1" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="5" end="6" frame="complementizer(van)" his="robust_skip" id="1" lcat="--" lemma="van" pos="comp" postag="VZ(init)" pt="vz" rel="--" root="van" sc="van" sense="van" vztype="init" word="van"/>
+    <node begin="0" cat="du" end="11" id="2" rel="--">
+      <node begin="0" cat="smain" end="5" id="3" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="normal" id="5" infl="sg" lcat="smain" lemma="stamelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="stamel" sc="transitive" sense="stamel" stype="declarative" tense="past" v_per="fir" word="stamelde" wvorm="pv"/>
+        <node begin="2" cat="np" end="5" id="6" rel="obj1">
+          <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="7" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="3" cat="mwu" end="5" his="name" his_1="not_begin" id="8" rel="hd">
+            <node begin="3" end="4" frame="proper_name(both)" id="9" lcat="np" lemma="aoristus" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="aoristus" sense="aoristus" spectype="deeleigen" word="aoristus"/>
+            <node begin="4" end="5" frame="proper_name(both)" id="10" lcat="np" lemma="primus" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="primus" sense="primus" spectype="deeleigen" word="primus"/>
+          </node>
+        </node>
+      </node>
+      <node begin="6" cat="smain" end="11" id="11" rel="dp">
+        <node begin="6" case="nom" def="def" end="7" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="12" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="7" end="8" frame="verb(hebben,sg,tr_sbar)" his="normal" his_1="normal" id="13" infl="sg" lcat="smain" lemma="weten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="weet" sc="tr_sbar" sense="weet" stype="declarative" tense="present" v_per="fir" word="weet" wvorm="pv"/>
+        <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        <node begin="9" cat="np" end="11" id="15" rel="vc">
+          <node begin="9" buiging="zonder" end="10" frame="determiner(welk,rwh,nmod,pro,yparg)" his="normal" his_1="normal" id="16" infl="welk" lcat="detp" lemma="welk" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(vb,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="welk" sense="welk" vwtype="vb" wh="rwh" word="welk"/>
+          <node begin="10" end="11" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="werk_woord" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="werk_woord" sense="werk_woord" stype="whquestion" word="werkwoord"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(hellip)" his="robust_skip" id="18" lcat="--" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="46-3">Ik stamelde een aoristus primus van ik weet niet welk werkwoord ...</sentence>
+  <comments>
+    <comment>Q#46-3|Ik stamelde een aoristus primus van ik weet niet welk werkwoord ...|1|3|-2.435080893800001</comment>
+  </comments>
+</alpino_ds>

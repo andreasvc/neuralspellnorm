@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:51" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="7" id="4" rel="nucl">
+        <node begin="1" cat="smain" end="5" id="5" rel="nucl">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+          <node begin="2" end="3" frame="verb(zijn,past(sg),ld_pp)" his="normal" his_1="normal" id="7" infl="sg" lcat="smain" lemma="gaan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="ga" sc="ld_pp" sense="ga" stype="declarative" tense="past" v_per="thi" word="ging" wvorm="pv"/>
+          <node begin="3" cat="pp" end="5" id="8" rel="ld">
+            <node begin="3" end="4" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="9" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+            <node begin="4" end="5" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="10" lcat="np" lemma="Parijs" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="obj1" rnum="sg" root="Parijs" sense="Parijs" word="Parijs"/>
+          </node>
+        </node>
+        <node begin="6" buiging="zonder" end="7" frame="v_noun(intransitive)" getal-n="zonder-n" his="normal" his_1="normal" id="11" lcat="np" lemma="schilderen" pos="verb" positie="nom" postag="WW(inf,nom,zonder,zonder-n)" pt="ww" rel="sat" rnum="sg" root="schilder" sc="intransitive" sense="schilder" special="v_noun" word="schilderen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="41-3">En Hoyer ging naar Parijs , schilderen .</sentence>
+  <comments>
+    <comment>Q#41-3|En Hoyer ging naar Parijs , schilderen .|1|1|-2.4950789804</comment>
+  </comments>
+</alpino_ds>

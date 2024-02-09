@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="6" id="2" rel="--">
+      <node begin="0" cat="np" end="2" id="3" rel="su">
+        <node begin="0" buiging="zonder" end="1" frame="determiner(de,nwh,nmod,pro,nparg)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="de" lcat="detp" lemma="die" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,rest)" pt="vnw" rel="det" root="die" sense="die" vwtype="aanw" wh="nwh" word="Die"/>
+        <node begin="1" end="2" frame="meas_mod_noun(both,count,meas)" gen="both" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="5" lcat="np" lemma="ons" naamval="stan" ntype="soort" num="meas" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="pl" root="ons" sense="ons" special="meas_mod" word="ons"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,past(pl),transitive)" his="normal" his_1="normal" id="6" infl="pl" lcat="smain" lemma="binden" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="bind" sc="transitive" sense="bind" stype="declarative" tense="past" v_per="thi" word="bonden" wvorm="pv"/>
+      <node begin="4" cat="np" end="6" id="7" rel="obj1">
+        <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="wreed" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="wreed" sense="wreed" vform="adj" word="wreed"/>
+        <node begin="5" end="6" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="9" lcat="np" lemma="van-een" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="van-een" sense="van-een" word="van-een"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="punct(hellip)" his="normal" his_1="normal" id="10" lcat="punct" lemma=".." pos="punct" postag="LET()" pt="let" rel="--" root=".." sense=".." special="hellip" word=".."/>
+  </node>
+  <sentence sentid="99-1">Die ons bonden , wreed van-een ..</sentence>
+  <comments>
+    <comment>Q#99-1|Die ons bonden , wreed van-een ..|1|1|2.897583839999999</comment>
+  </comments>
+</alpino_ds>

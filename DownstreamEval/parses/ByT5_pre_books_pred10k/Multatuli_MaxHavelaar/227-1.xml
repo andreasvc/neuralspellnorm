@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="2" skips="1" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="6" id="1" rel="--">
+      <node begin="0" cat="smain" end="4" id="2" rel="dp">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="abbreviation" his_1_1="normal" id="3" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="red" vwtype="pers" wh="nwh" word="&apos;k"/>
+        <node begin="1" end="2" frame="verb(hebben,past(sg),transitive)" his="normal" his_1="decap" his_1_1="normal" id="4" infl="sg" lcat="smain" lemma="buigen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="buig" sc="transitive" sense="buig" stype="declarative" tense="past" v_per="fir" word="Boog" wvorm="pv"/>
+        <node aform="base" begin="2" end="3" frame="adjective(pred(adv))" his="normal" his_1="normal" id="5" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+        <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="6" lcat="np" lemma="beî" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="beî" sense="beî" word="beî"/>
+      </node>
+      <node begin="4" cat="np" end="6" id="7" rel="dp">
+        <node begin="4" buiging="zonder" end="5" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="8" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="mijn"/>
+        <node begin="5" end="6" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="knie" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="knie" sense="knie" word="knieën"/>
+      </node>
+    </node>
+    <node begin="6" end="7" frame="particle(neer)" his="robust_skip" id="10" lcat="--" lemma="neer" pos="part" postag="VZ(fin)" pt="vz" rel="--" root="neer" sense="neer" vztype="fin" word="neer"/>
+    <node begin="7" end="8" frame="punct(komma)" his="robust_skip" id="11" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="227-1">&apos;k Boog wel beî mijn knieën neer ,</sentence>
+  <comments>
+    <comment>Q#227-1|&apos;k Boog wel beî mijn knieën neer ,|1|3|2.7662191453000005</comment>
+  </comments>
+</alpino_ds>

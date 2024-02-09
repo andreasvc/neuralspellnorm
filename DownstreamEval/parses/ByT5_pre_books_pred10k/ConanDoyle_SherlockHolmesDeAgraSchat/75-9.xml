@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:51" cats="1" skips="0" />
+  <node begin="0" cat="top" end="11" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="10" id="2" rel="--">
+      <node begin="0" cat="cp" end="4" id="3" rel="mod">
+        <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="cp" lemma="indien" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="indien" sense="indien" word="Indien"/>
+        <node begin="1" cat="ssub" end="4" id="5" rel="body">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="normal" id="6" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="gij"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="7" infl="no_e" lcat="ap" lemma="bevreesd" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="bevreesd" sense="bevreesd" vform="adj" word="bevreesd"/>
+          <node begin="3" end="4" frame="verb(unacc,sg_bent,copula)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="bent" his_1_1_2="zijt" his_1_2="normal" id="8" infl="sg_bent" lcat="ssub" lemma="zijn" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" tense="present" v_per="u" word="zijt" wvorm="pv"/>
+        </node>
+      </node>
+      <node begin="5" end="6" frame="verb(hebben,sg3,transitive)" his="normal" his_1="normal" id="9" infl="sg3" lcat="smain" lemma="brengen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="breng" sc="transitive" sense="breng" stype="declarative" tense="present" v_per="thi" word="brengt" wvorm="pv"/>
+      <node begin="6" end="7" frame="tmp_adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+      <node begin="7" end="8" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="11" infl="pl_num" lcat="np" lemma="twee" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="su" rnum="sg" root="twee" sense="twee" word="twee"/>
+      <node begin="8" end="9" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="vriend" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="obj1" rnum="pl" root="vriend" sense="vriend" word="vrienden"/>
+      <node begin="9" end="10" frame="adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="mede" pos="adv" postag="BW()" pt="bw" rel="mod" root="mede" sense="mede" word="mede"/>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="14" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="75-9">Indien gij bevreesd zijt , brengt dan twee vrienden mede .</sentence>
+  <comments>
+    <comment>Q#75-9|Indien gij bevreesd zijt , brengt dan twee vrienden mede .|1|1|0.24063342910000096</comment>
+  </comments>
+</alpino_ds>

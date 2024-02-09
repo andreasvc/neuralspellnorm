@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="7" id="0" rel="top">
+    <node begin="0" cat="cp" end="7" id="1" rel="--">
+      <node begin="0" conjtype="onder" end="1" frame="complementizer" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="cp" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="toen" sense="toen" word="Toen"/>
+      <node begin="1" cat="ssub" end="7" id="3" rel="body">
+        <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="4" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+        <node begin="2" cat="np" end="4" id="5" rel="obj1">
+          <node begin="2" end="3" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="6" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+          <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="7" infl="e" lcat="np" lemma="schoon" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,basis,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="sg" root="schoon" sense="schoon" vform="adj" word="schoone"/>
+        </node>
+        <node begin="4" cat="pp" end="6" id="8" rel="ld">
+          <node begin="4" end="5" frame="preposition(tot,[toe,[aan,toe]])" his="normal" his_1="normal" id="9" lcat="pp" lemma="tot" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tot" sense="tot" vztype="init" word="tot"/>
+          <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="obj1" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+        </node>
+        <node begin="6" end="7" frame="verb(hebben,past(sg),np_ld_pp)" his="normal" his_1="normal" id="11" infl="sg" lcat="ssub" lemma="roepen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="roep" sc="np_ld_pp" sense="roep" tense="past" v_per="fir" word="riep" wvorm="pv"/>
+      </node>
+    </node>
+  </node>
+  <sentence sentid="110-1">Toen ik &apos;t schoone tot mij riep</sentence>
+  <comments>
+    <comment>Q#110-1|Toen ik &apos;t [ @alt schone schoone ] tot mij riep|1|1|1.451948737899999</comment>
+  </comments>
+</alpino_ds>

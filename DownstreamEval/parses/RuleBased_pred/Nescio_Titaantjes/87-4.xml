@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:38" cats="1" skips="0" />
+  <node begin="0" cat="top" end="10" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="1" cat="pp" end="8" id="2" rel="--">
+      <node begin="1" end="2" frame="preposition(per,[])" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="pp" lemma="per" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="per" sense="per" vztype="init" word="Per"/>
+      <node begin="2" cat="np" end="8" id="4" rel="obj1">
+        <node begin="2" buiging="zonder" end="3" frame="determiner(pron)" getal="ev" his="normal" his_1="variant" his_1_1="normal" id="5" infl="pron" lcat="detp" lemma="mijn" naamval="stan" npagr="agr" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="mijn" sense="mijn" status="vol" vwtype="bez" word="me"/>
+        <node begin="3" cat="mwu" end="8" his="name" his_1="not_begin" id="6" rel="hd">
+          <node begin="3" end="4" frame="proper_name(both)" id="7" lcat="np" lemma="si" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="si" sense="si" spectype="deeleigen" word="si"/>
+          <node begin="4" end="5" frame="proper_name(both)" id="8" lcat="np" lemma="va" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="va" sense="va" spectype="deeleigen" word="va"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="9" lcat="np" lemma="nella" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="nella" sense="nella" spectype="deeleigen" word="nella"/>
+          <node begin="6" end="7" frame="proper_name(both)" id="10" lcat="np" lemma="città" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="città" sense="città" spectype="deeleigen" word="città"/>
+          <node begin="7" end="8" frame="proper_name(both)" id="11" lcat="np" lemma="dolente" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="dolente" sense="dolente" spectype="deeleigen" word="dolente"/>
+        </node>
+      </node>
+    </node>
+    <node begin="8" end="9" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="9" end="10" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="13" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="87-4">&quot; Per me si va nella città dolente . &quot;</sentence>
+  <comments>
+    <comment>Q#87-4|&quot; Per me si va nella città dolente . &quot;|1|1|2.5154961600000005</comment>
+  </comments>
+</alpino_ds>

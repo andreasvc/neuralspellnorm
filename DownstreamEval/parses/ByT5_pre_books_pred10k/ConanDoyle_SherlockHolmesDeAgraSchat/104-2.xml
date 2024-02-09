@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="4" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="ppart" end="4" id="3" rel="nucl">
+        <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="4" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+        <node begin="2" cat="mwu" end="4" his="mwu_alt" his_1="normal" id="5" rel="hd">
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(ge_no_e(nonadv))" graad="basis" id="6" infl="no_e" lcat="ppart" lemma="ver" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mwp" root="ver" sense="ver" vform="psp" word="ver"/>
+          <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(ge_no_e(nonadv))" id="7" infl="no_e" lcat="ppart" lemma="gezocht" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mwp" root="gezocht" sense="gezocht" vform="psp" word="gezocht" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(uitroep)" his="normal" his_1="normal" id="8" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="104-2">En hoe ver gezocht !</sentence>
+  <comments>
+    <comment>Q#104-2|En hoe [ @mwu_alt vergezocht ver gezocht ] !|1|1|-1.1428934676000002</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:51" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="10" end="11" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="smain" end="16" id="5" rel="nucl">
+        <node begin="1" cat="conj" end="4" id="6" rel="su">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="7" lcat="np" lemma="Bavink" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Bavink" sense="Bavink" word="Bavink"/>
+          <node begin="2" conjtype="neven" end="3" frame="conj(en)" his="normal" his_1="normal" id="8" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="3" end="4" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="9" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+        </node>
+        <node begin="4" end="5" frame="verb(hebben,past(pl),sbar)" his="normal" his_1="normal" id="10" infl="pl" lcat="smain" lemma="schreeuwen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="schreeuw" sc="sbar" sense="schreeuw" stype="declarative" tense="past" v_per="thi" word="schreeuwden" wvorm="pv"/>
+        <node begin="6" cat="cp" end="16" id="11" rel="vc">
+          <node begin="6" conjtype="onder" end="7" frame="complementizer(dat)" his="normal" his_1="normal" id="12" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+          <node begin="7" cat="ssub" end="16" id="13" rel="body">
+            <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="14" index="1" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+            <node begin="9" end="10" frame="verb(hebben,past(pl),aux_psp_hebben)" his="normal" his_1="normal" id="15" infl="pl" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" v_per="thi" word="hadden" wvorm="pv"/>
+            <node begin="7" cat="ppart" end="16" id="16" rel="vc">
+              <node begin="7" end="8" id="17" index="1" rel="su"/>
+              <node begin="8" buiging="zonder" end="9" frame="verb(hebben,psp,sbar)" his="normal" his_1="normal" id="18" infl="psp" lcat="ppart" lemma="zien" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="sbar" sense="zie" word="gezien" wvorm="vd"/>
+              <node begin="11" cat="cp" end="16" id="19" rel="vc">
+                <node begin="11" conjtype="onder" end="12" frame="complementizer(dat)" his="normal" his_1="normal" id="20" lcat="cp" lemma="dat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="dat" sc="dat" sense="dat" word="dat"/>
+                <node begin="12" cat="ssub" end="16" id="21" rel="body">
+                  <node begin="13" end="14" frame="meas_mod_noun(het,mass,sg)" gen="het" getal="ev" his="normal" his_1="normal" id="22" lcat="np" lemma="iets" naamval="stan" num="sg" pdtype="pron" persoon="3o" pos="noun" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="su" rnum="sg" root="iets" sense="iets" special="meas_mod" status="vol" vwtype="onbep" word="iets"/>
+                  <node begin="12" cat="pp" end="15" id="23" rel="ld">
+                    <node begin="12" end="13" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="24" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                    <node begin="14" end="15" frame="preposition(boven,[uit])" his="normal" his_1="normal" id="25" lcat="pp" lemma="boven" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="boven" sense="boven" vztype="fin" word="boven"/>
+                  </node>
+                  <node begin="15" end="16" frame="verb(hebben,past(sg),ld_pp)" his="normal" his_1="normal" id="26" infl="sg" lcat="ssub" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="sta" sc="ld_pp" sense="sta" tense="past" v_per="thi" word="stond" wvorm="pv"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="27" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="33-6">Maar Bavink en Hoyer schreeuwden , dat ze gezien hadden , dat er iets boven stond .</sentence>
+  <comments>
+    <comment>Q#33-6|Maar Bavink en Hoyer schreeuwden , dat ze gezien hadden , dat er iets boven stond .|1|1|-11.296124062100002</comment>
+  </comments>
+</alpino_ds>

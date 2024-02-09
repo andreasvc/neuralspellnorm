@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="whq" end="5" id="1" rel="--">
+      <node begin="0" cat="ppart" end="2" id="2" rel="whd">
+        <node begin="0" end="1" frame="wh_adjective" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="Hoe"/>
+        <node aform="base" begin="1" buiging="zonder" end="2" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="4" infl="no_e" lcat="ppart" lemma="gezwind" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="gezwind" sense="gezwind" vform="psp" word="gezwind" wvorm="vd"/>
+      </node>
+      <node begin="2" cat="du" end="5" id="5" rel="body">
+        <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="ook" pos="adv" postag="BW()" pt="bw" rel="dp" root="ook" sense="ook" special="sentence" word="ook"/>
+        <node begin="3" cat="np" end="5" id="7" rel="dp">
+          <node begin="3" buiging="zonder" end="4" frame="determiner(het)" getal="mv" his="normal" his_1="normal" id="8" infl="het" lcat="detp" lemma="ons" naamval="stan" npagr="evon" pdtype="det" persoon="1" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)" pt="vnw" rel="det" root="ons" sense="ons" status="vol" vwtype="bez" word="ons"/>
+          <node begin="4" end="5" frame="noun(both,both,both)" gen="both" genus="onz" getal="ev" graad="basis" his="noun" id="9" lcat="np" lemma="onttogen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="onttogen" sense="onttogen" word="onttogen"/>
+        </node>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="normal" his_1="normal" id="10" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="119-1">Hoe gezwind ook ons onttogen ,</sentence>
+  <comments>
+    <comment>Q#119-1|Hoe gezwind ook ons onttogen ,|1|1|3.121728039999999</comment>
+  </comments>
+</alpino_ds>

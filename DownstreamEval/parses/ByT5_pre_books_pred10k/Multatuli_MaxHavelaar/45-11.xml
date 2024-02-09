@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:44" cats="1" skips="0" />
+  <node begin="0" cat="top" end="20" id="0" rel="top">
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="smain" end="19" id="3" rel="--">
+      <node begin="0" end="1" frame="adverb" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="toch" pos="adv" postag="BW()" pt="bw" rel="mod" root="toch" sense="toch" word="Toch"/>
+      <node begin="1" end="2" frame="verb(unacc,past(pl),ld_pp)" his="normal" his_1="normal" id="5" infl="pl" lcat="smain" lemma="komen" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="kom" sc="ld_pp" sense="kom" stype="declarative" tense="past" v_per="fir" word="kwamen" wvorm="pv"/>
+      <node begin="2" cat="np" end="7" id="6" rel="su">
+        <node begin="2" case="nom" def="def" end="3" frame="pronoun(nwh,fir,pl,de,nom,def)" gen="de" getal="mv" his="normal" his_1="normal" id="7" lcat="np" lemma="wij" naamval="nomin" num="pl" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,mv)" pt="vnw" rel="hd" rnum="pl" root="wij" sense="wij" status="vol" vwtype="pers" wh="nwh" word="wij"/>
+        <node begin="4" cat="np" end="7" id="8" rel="app">
+          <node begin="4" end="5" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="jongen" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="jongen" sense="jongen" word="jongens"/>
+          <node begin="5" cat="pp" end="7" id="10" rel="mod">
+            <node begin="5" end="6" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="11" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+            <node begin="6" end="7" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="12" lcat="np" lemma="quarta" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="quarta" sense="quarta" word="quarta"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" end="9" frame="sentence_adverb" his="normal" his_1="normal" id="13" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+      <node begin="9" cat="mwu" end="11" his="normal" his_1="normal" id="14" rel="mod">
+        <node begin="9" end="10" frame="tmp_adverb" id="15" lcat="advp" lemma="de" lwtype="bep" naamval="gen" npagr="evmo" pos="adv" postag="LID(bep,gen,evmo)" pt="lid" rel="mwp" root="&apos;s" sense="&apos;s" special="tmp" word="&apos;s"/>
+        <node begin="10" end="11" frame="tmp_adverb" getal="ev" graad="basis" id="16" lcat="advp" lemma="avond" naamval="gen" ntype="soort" pos="adv" postag="N(soort,ev,basis,gen)" pt="n" rel="mwp" root="avonds" sense="avonds" special="tmp" word="avends"/>
+      </node>
+      <node begin="11" cat="pp" end="14" id="17" rel="ld">
+        <node begin="11" end="12" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="18" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+        <node begin="12" cat="np" end="14" id="19" rel="obj1">
+          <node begin="12" end="13" frame="determiner(de)" his="normal" his_1="normal" id="20" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+          <node begin="13" end="14" frame="proper_name(both,'LOC')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="21" lcat="np" lemma="Westermarkt" naamval="stan" neclass="LOC" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" root="Westermarkt" sense="Westermarkt" word="Westermarkt"/>
+        </node>
+      </node>
+      <node begin="14" cat="oti" end="19" id="22" rel="mod">
+        <node begin="14" end="15" frame="complementizer(om)" his="normal" his_1="normal" id="23" lcat="oti" lemma="om" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="om" sc="om" sense="om" vztype="init" word="om"/>
+        <node begin="15" cat="ti" end="19" id="24" rel="body">
+          <node begin="17" end="18" frame="complementizer(te)" his="normal" his_1="normal" id="25" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="15" cat="inf" end="19" id="26" rel="body">
+            <node begin="15" cat="np" end="17" id="27" rel="obj1">
+              <node begin="15" buiging="zonder" end="16" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="28" infl="het" lcat="detp" lemma="dat" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dat" sense="dat" vwtype="aanw" wh="nwh" word="dat"/>
+              <node begin="16" end="17" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="29" lcat="np" lemma="meisje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="meisje" sense="meisje" word="meisje"/>
+            </node>
+            <node begin="18" buiging="zonder" end="19" frame="verb(hebben,inf(no_e),transitive_ndev_ndev)" his="normal" his_1="normal" id="30" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="zien" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="19" end="20" frame="punct(punt)" his="normal" his_1="normal" id="31" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="45-11">Toch kwamen wij , jongens van quarta , altijd &apos;s avends op de Westermarkt om dat meisje te zien .</sentence>
+  <comments>
+    <comment>Q#45-11|Toch kwamen wij , jongens van quarta , altijd &apos;s [ @alt avonds avends ] op de Westermarkt om dat meisje te zien .|1|1|-4.852167894600001</comment>
+  </comments>
+</alpino_ds>

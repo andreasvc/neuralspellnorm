@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="18" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="17" id="2" rel="--">
+      <node begin="0" cat="smain" end="8" id="3" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+        <node begin="1" end="2" frame="verb(hebben,sg1,transitive)" his="normal" his_1="normal" id="5" infl="sg1" lcat="smain" lemma="onderzoeken" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="onderzoek" sc="transitive" sense="onderzoek" tense="present" v_per="fir" word="onderzoek" wvorm="pv"/>
+        <node begin="2" cat="np" end="8" id="6" rel="obj1">
+          <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+          <node begin="3" end="4" frame="tmp_noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="datum" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="datum" sense="datum" special="tmp" word="data"/>
+          <node begin="5" cat="cp" end="8" id="9" rel="mod">
+            <node begin="5" conjtype="onder" end="6" frame="complementizer(zoals)" his="normal" his_1="normal" id="10" lcat="cp" lemma="gelijk" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="gelijk" sc="zoals" sense="gelijk" word="gelijk"/>
+            <node begin="6" cat="np" end="8" id="11" rel="body">
+              <node begin="6" end="7" frame="determiner(een)" his="normal" his_1="normal" id="12" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+              <node begin="7" end="8" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="13" lcat="np" lemma="gezworene" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="gezworene" sense="gezworene" word="gezworene"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="8" conjtype="neven" end="9" frame="conj(en)" his="normal" his_1="normal" id="14" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="0" cat="smain" end="17" id="15" rel="cnj">
+        <node begin="0" end="1" id="16" index="1" rel="su"/>
+        <node begin="9" end="10" frame="verb(hebben,sg1,part_transitive(uit))" his="normal" his_1="normal" id="17" infl="sg1" lcat="smain" lemma="uit_spreken" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="spreek_uit" sc="part_transitive(uit)" sense="spreek_uit" tense="present" v_per="fir" word="spreek" wvorm="pv"/>
+        <node begin="10" end="11" frame="tmp_adverb" his="normal" his_1="normal" id="18" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="11" cat="np" end="13" id="19" rel="obj1">
+          <node begin="11" end="12" frame="determiner(een)" his="normal" his_1="normal" id="20" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="12" end="13" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="oordeel" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="oordeel" sense="oordeel" word="oordeel"/>
+        </node>
+        <node begin="13" end="14" frame="particle(uit)" his="normal" his_1="normal" id="22" lcat="part" lemma="uit" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="uit" sense="uit" vztype="fin" word="uit"/>
+        <node begin="14" cat="cp" end="17" id="23" rel="mod">
+          <node begin="14" conjtype="onder" end="15" frame="complementizer(zoals)" his="normal" his_1="normal" id="24" lcat="cp" lemma="gelijk" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="gelijk" sc="zoals" sense="gelijk" word="gelijk"/>
+          <node begin="15" cat="np" end="17" id="25" rel="body">
+            <node begin="15" end="16" frame="determiner(een)" his="normal" his_1="normal" id="26" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="specialiteit" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="specialiteit" sense="specialiteit" word="specialiteit"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="17" end="18" frame="punct(punt)" his="normal" his_1="normal" id="28" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="11-4">Ik onderzoek den data , gelijk een gezworene en spreek dan een oordeel uit gelijk een specialiteit .</sentence>
+  <comments>
+    <comment>Q#11-4|Ik onderzoek [ @alt de den ] data , gelijk een gezworene en spreek dan een oordeel uit gelijk een specialiteit .|1|1|-4.0549195669</comment>
+  </comments>
+</alpino_ds>

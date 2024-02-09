@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:26" cats="1" skips="0" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" cat="sv1" end="4" id="1" rel="--">
+      <node begin="0" end="1" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="decap" his_1_1="normal" id="2" infl="modal_not_u" lcat="sv1" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="ynquestion" tense="present" v_per="invje" word="Kan" wvorm="pv"/>
+      <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,je,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="3" index="1" lcat="np" lemma="jij" naamval="nomin" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pers,pron,nomin,vol,2v,ev)" pt="vnw" rel="su" rnum="sg" root="jij" sense="jij" status="vol" vwtype="pers" wh="nwh" word="jij"/>
+      <node begin="1" cat="inf" end="4" id="4" rel="vc">
+        <node begin="1" end="2" id="5" index="1" rel="su"/>
+        <node begin="2" end="3" frame="er_adverb(uit)" his="normal" his_1="normal" id="6" lcat="pp" lemma="eruit" pos="pp" postag="BW()" pt="bw" rel="ld" root="eruit" sense="eruit" special="er" word="eruit"/>
+        <node begin="3" buiging="zonder" end="4" frame="verb(unacc,inf,ld_pp)" his="normal" his_1="normal" id="7" infl="inf" lcat="inf" lemma="blijven" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="blijf" sc="ld_pp" sense="blijf" word="blijven" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(vraag)" his="normal" his_1="normal" id="8" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="5" end="6" frame="punct(aanhaal_both)" his="skip" id="9" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="49-11">Kan jij eruit blijven ? &quot;</sentence>
+  <comments>
+    <comment>Q#49-11|Kan jij eruit blijven ? &quot;|1|1|-2.1911473732999998</comment>
+  </comments>
+</alpino_ds>

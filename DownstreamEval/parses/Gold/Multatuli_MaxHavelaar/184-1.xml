@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="smain" end="4" id="1" rel="--">
+      <node begin="0" cat="np" end="2" id="2" rel="su">
+        <node aform="compar" begin="0" buiging="zonder" end="1" frame="adjective(er(adv))" graad="comp" his="normal" his_1="decap" his_1_1="normal" id="3" infl="no_e" lcat="ap" lemma="vast" pos="adj" positie="prenom" postag="ADJ(prenom,comp,zonder)" pt="adj" rel="mod" root="vast" sense="vast" vform="adj" word="Vaster"/>
+        <node begin="1" end="2" frame="noun(de,count,both)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="harten" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="harten" sense="harten" word="harten"/>
+      </node>
+      <node begin="2" end="3" frame="verb(hebben,sg3,intransitive)" his="normal" his_1="normal" id="5" infl="sg3" lcat="smain" lemma="houden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="houd" sc="intransitive" sense="houd" stype="declarative" tense="present" v_per="thi" word="houdt" wvorm="pv"/>
+      <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(ge_both(adv))" his="normal" his_1="normal" id="6" infl="both" lcat="ppart" lemma="omsluiten" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="omsluiten" sense="omsluiten" vform="psp" word="omsloten" wvorm="vd"/>
+    </node>
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="7" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="184-1">Vaster harten houdt omsloten ,</sentence>
+  <comments>
+    <comment>Q#184-1|Vaster harten houdt omsloten ,|1|1|4.081249839999999</comment>
+  </comments>
+</alpino_ds>

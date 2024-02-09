@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="3" skips="0" />
+  <node begin="0" cat="top" end="21" id="0" rel="top">
+    <node begin="5" end="6" frame="punct(hellip)" his="normal" his_1="normal" id="1" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="10" end="11" frame="punct(hellip)" his="robust_skip" id="2" lcat="--" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+    <node begin="13" end="14" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="17" end="18" frame="punct(dubb_punt)" his="normal" his_1="normal" id="4" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="0" cat="du" end="20" id="5" rel="--">
+      <node begin="0" cat="du" end="10" id="6" rel="dp">
+        <node begin="0" cat="smain" end="5" id="7" rel="dp">
+          <node begin="0" end="1" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="8" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="&apos;t"/>
+          <node begin="1" end="2" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="9" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+          <node begin="2" cat="np" end="5" id="10" rel="predc">
+            <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="11" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node aform="base" begin="3" buiging="met-e" end="4" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="12" infl="e" lcat="ap" lemma="klein" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="klein" sense="klein" vform="adj" word="kleine"/>
+            <node begin="4" end="5" frame="noun(de,both,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="moeite" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="moeite" sense="moeite" word="moeite"/>
+          </node>
+        </node>
+        <node begin="6" cat="smain" end="10" id="14" rel="dp">
+          <node begin="6" end="7" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="15" index="1" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+          <node begin="7" end="8" frame="verb('hebben/zijn',modal_not_u,aux(inf))" his="normal" his_1="normal" id="16" infl="modal_not_u" lcat="smain" lemma="kunnen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="kan" sc="aux(inf)" sense="kan" stype="declarative" tense="present" v_per="thi" word="kan" wvorm="pv"/>
+          <node begin="6" cat="inf" end="10" id="17" rel="vc">
+            <node begin="6" end="7" id="18" index="1" rel="su"/>
+            <node begin="8" end="9" frame="sentence_adverb" his="dashed_mwu" id="19" lcat="advp" lemma="te pas" pos="adv" postag="BW()" pt="bw" rel="mod" root="te pas" sense="te pas" special="sentence" word="te-pas"/>
+            <node begin="9" buiging="zonder" end="10" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="20" infl="inf" lcat="inf" lemma="komen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="kom" sc="intransitive" sense="kom" word="komen" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="11" end="12" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="ei" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="dp" rnum="sg" root="ei" sense="ei" word="ei"/>
+      <node begin="12" cat="du" end="20" id="22" rel="dp">
+        <node begin="12" end="13" frame="verb(hebben,sg1,sbar)" his="normal" his_1="normal" id="23" infl="sg1" lcat="sv1" lemma="zien" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="tag" root="zie" sc="sbar" sense="zie" stype="imparative" tense="present" v_per="invje" word="zie" wvorm="pv"/>
+        <node begin="14" cat="du" end="20" id="24" rel="nucl">
+          <node begin="14" cat="smain" end="17" id="25" rel="nucl">
+            <node begin="14" end="15" frame="er_loc_adverb" getal="getal" his="normal" his_1="normal" id="26" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="daar"/>
+            <node begin="15" end="16" frame="verb(unacc,sg_is,intransitive)" his="normal" his_1="normal" id="27" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="intransitive" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+            <node begin="16" end="17" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" genus="onz" getal="ev" his="normal" his_1="normal" id="28" infl="het" lcat="np" lemma="het" naamval="stan" pdtype="pron" persoon="3" pos="det" postag="VNW(pers,pron,stan,red,3,ev,onz)" pt="vnw" rel="su" rnum="sg" root="het" sense="het" status="red" vwtype="pers" wh="nwh" word="het"/>
+          </node>
+          <node begin="18" cat="np" end="20" id="29" rel="sat">
+            <node begin="18" end="19" frame="determiner(een)" his="normal" his_1="normal" id="30" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+            <node begin="19" end="20" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="compound" his_1="2" id="31" lcat="np" lemma="adres_kaart" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="adres_kaart_DIM" sense="adres_kaart_DIM" word="adreskaartje"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(uitroep)" his="robust_skip" id="32" lcat="--" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="13-2">&apos;t is een kleine moeite ... het kan te-pas komen ... ei zie , daar is het : een adreskaartje !</sentence>
+  <comments>
+    <comment>Q#13-2|&apos;t is een kleine moeite ... het kan te-pas komen ... ei zie , daar is het : een adreskaartje !|1|3|2.9944880846999986</comment>
+  </comments>
+</alpino_ds>

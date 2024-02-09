@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="Ik"/>
+      <node begin="1" end="2" frame="verb(hebben,sg1,aux_psp_hebben)" his="normal" his_1="normal" id="3" infl="sg1" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" stype="declarative" tense="present" v_per="fir" word="heb" wvorm="pv"/>
+      <node begin="0" cat="inf" end="7" id="4" rel="vc">
+        <node begin="0" end="1" id="5" index="1" rel="su"/>
+        <node begin="2" end="3" frame="adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="al" pos="adv" postag="BW()" pt="bw" rel="mod" root="al" sense="al" word="al"/>
+        <node begin="3" cat="np" end="5" id="7" index="2" rel="obj1">
+          <node begin="3" end="4" frame="determiner(wat,nwh,mod,pro,nparg,ntopicpro)" getal="ev" his="normal" his_1="normal" id="8" infl="wat" lcat="detp" lemma="wat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="det" root="wat" sense="wat" status="vol" vwtype="onbep" wh="nwh" word="wat"/>
+          <node begin="4" end="5" frame="noun(het,count,pl)" gen="het" getal="mv" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="huis" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="huis" sense="huis" word="huizen"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf(no_e),aci)" his="normal" his_1="normal" id="10" infl="inf(no_e)" lcat="inf" lemma="zien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="aci" sense="zie" word="zien" wvorm="inf"/>
+        <node begin="3" cat="inf" end="7" id="11" rel="vc">
+          <node begin="3" end="5" id="12" index="2" rel="su"/>
+          <node begin="6" buiging="zonder" end="7" frame="verb(unacc,inf,intransitive)" his="normal" his_1="normal" id="13" infl="inf" lcat="inf" lemma="vallen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="val" sc="intransitive" sense="val" word="vallen" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(uitroep)" his="normal" his_1="normal" id="14" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="2-10">Ik heb al wat huizen zien vallen !</sentence>
+  <comments>
+    <comment>Q#2-10|Ik heb al wat huizen zien vallen !|1|1|-7.906938998899999</comment>
+  </comments>
+</alpino_ds>

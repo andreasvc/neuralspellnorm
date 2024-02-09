@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="21" id="0" rel="top">
+    <node begin="0" cat="smain" end="20" id="1" rel="--">
+      <node begin="0" cat="np" end="5" id="2" index="1" rel="su">
+        <node begin="0" end="1" frame="determiner(de)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="De"/>
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="4" lcat="np" lemma="held" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="held" sense="held" word="held"/>
+        <node begin="2" cat="pp" end="5" id="5" rel="mod">
+          <node begin="2" end="3" frame="preposition(van,[af,uit,vandaan,[af,aan]])" his="normal" his_1="normal" id="6" lcat="pp" lemma="van" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="van" sense="van" vztype="init" word="van"/>
+          <node begin="3" cat="np" end="5" id="7" rel="obj1">
+            <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="8" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+            <node begin="4" end="5" frame="meas_mod_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="stuk" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="stuk" sense="stuk" special="meas_mod" word="stuk"/>
+          </node>
+        </node>
+      </node>
+      <node begin="5" end="6" frame="verb(unacc,sg3,passive)" his="normal" his_1="normal" id="10" infl="sg3" lcat="smain" lemma="worden" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="word" sc="passive" sense="word" stype="declarative" tense="present" v_per="thi" word="wordt" wvorm="pv"/>
+      <node begin="0" cat="ppart" end="20" id="11" rel="vc">
+        <node begin="0" end="5" id="12" index="1" rel="obj1"/>
+        <node begin="6" cat="pp" end="9" id="13" rel="ld">
+          <node begin="6" end="7" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="14" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+          <node begin="7" cat="np" end="9" id="15" rel="obj1">
+            <node begin="7" end="8" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="16" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="8" end="9" frame="noun(het,both,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="17" lcat="np" lemma="water" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="water" sense="water" word="water"/>
+          </node>
+        </node>
+        <node begin="9" buiging="zonder" end="10" frame="verb(hebben,psp,np_ld_pp)" his="normal" his_1="normal" id="18" infl="psp" lcat="ppart" lemma="halen" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="haal" sc="np_ld_pp" sense="haal" word="gehaald" wvorm="vd"/>
+        <node begin="10" cat="pp" end="20" id="19" rel="mod">
+          <node begin="10" end="11" frame="preposition(door,[heen])" his="normal" his_1="normal" id="20" lcat="pp" lemma="door" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="door" sense="door" vztype="init" word="door"/>
+          <node begin="11" cat="np" end="20" id="21" rel="obj1">
+            <node begin="11" end="12" frame="noun(de,count,sg)" gen="de" getal="ev" his="normal" his_1="normal" id="22" lcat="np" lemma="iemand" naamval="stan" num="sg" pdtype="pron" persoon="3p" pos="noun" postag="VNW(onbep,pron,stan,vol,3p,ev)" pt="vnw" rel="hd" rnum="sg" root="iemand" sense="iemand" status="vol" vwtype="onbep" word="iemand"/>
+            <node begin="12" cat="rel" end="20" id="23" rel="mod">
+              <node begin="12" case="no_obl" end="13" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="24" index="2" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="sg" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+              <node begin="12" cat="ssub" end="20" id="25" rel="body">
+                <node begin="12" end="13" id="26" index="2" rel="su"/>
+                <node begin="13" cat="mwu" end="16" his="normal" his_1="normal" id="27" rel="svp">
+                  <node begin="13" end="14" frame="fixed_part([op,het,punt])" id="28" lcat="fixed" lemma="op" pos="fixed" postag="VZ(init)" pt="vz" rel="mwp" root="op" sense="op" vztype="init" word="op"/>
+                  <node begin="14" end="15" frame="fixed_part([op,het,punt])" id="29" lcat="fixed" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="fixed" postag="LID(bep,stan,evon)" pt="lid" rel="mwp" root="het" sense="het" word="&apos;t"/>
+                  <node begin="15" end="16" frame="fixed_part([op,het,punt])" genus="onz" getal="ev" graad="basis" id="30" lcat="fixed" lemma="punt" naamval="stan" ntype="soort" pos="fixed" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="mwp" root="punt" sense="punt" word="punt"/>
+                </node>
+                <node begin="16" end="17" frame="verb(hebben,sg3,fixed([[op,het,punt],vp],no_passive))" his="normal" his_1="normal" id="31" infl="sg3" lcat="ssub" lemma="staan" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="sta" sc="fixed([[op,het,punt],vp],no_passive)" sense="op-het-punt-sta" tense="present" v_per="thi" word="staat" wvorm="pv"/>
+                <node begin="12" cat="ti" end="20" id="32" rel="vc">
+                  <node begin="18" end="19" frame="complementizer(te)" his="normal" his_1="normal" id="33" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+                  <node begin="12" cat="inf" end="20" id="34" rel="body">
+                    <node begin="12" end="13" id="35" index="2" rel="su"/>
+                    <node aform="base" begin="17" buiging="zonder" end="18" frame="adjective(no_e(nonadv))" graad="basis" his="normal" his_1="normal" id="36" infl="no_e" lcat="ap" lemma="bankroet" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="bankroet" sense="bankroet" vform="adj" word="bankroet"/>
+                    <node begin="19" buiging="zonder" end="20" frame="verb(hebben,inf,ap_copula)" his="normal" his_1="normal" id="37" infl="inf" lcat="inf" lemma="maken" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="maak" sc="ap_copula" sense="maak" word="maken" wvorm="inf"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="38" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="6-3">De held van &apos;t stuk wordt uit het water gehaald door iemand die op &apos;t punt staat bankroet te maken .</sentence>
+  <comments>
+    <comment>Q#6-3|De held van &apos;t stuk wordt uit het water gehaald door iemand die op &apos;t punt staat bankroet te maken .|1|1|-13.241444787500003</comment>
+  </comments>
+</alpino_ds>

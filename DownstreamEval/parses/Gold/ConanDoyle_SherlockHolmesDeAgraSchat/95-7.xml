@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="4" skips="1" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" end="1" frame="verb(hebben,sg,aci)" his="robust_skip" id="1" infl="sg" lcat="--" lemma="laten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="--" root="laat" sc="aci" sense="laat" tense="present" word="Laat" wvorm="pv"/>
+    <node begin="6" end="7" frame="punct(komma)" his="robust_skip" id="2" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="7" end="8" frame="punct(ligg_streep)" his="robust_skip" id="3" lcat="--" lemma="-" pos="punct" postag="LET()" pt="let" rel="--" root="-" sense="-" special="ligg_streep" word="-"/>
+    <node begin="1" cat="du" end="15" id="4" rel="--">
+      <node begin="1" case="dat_acc" def="def" end="2" frame="pronoun(nwh,fir,sg,de,dat_acc,def)" gen="de" getal="ev" his="normal" his_1="normal" id="5" lcat="np" lemma="mij" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,vol,1,ev)" pt="vnw" rel="dp" rnum="sg" root="mij" sense="mij" status="vol" vwtype="pr" wh="nwh" word="mij"/>
+      <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="6" lcat="np" lemma="u" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2b" pos="pron" postag="VNW(pers,pron,nomin,vol,2b,getal)" pt="vnw" rel="dp" rnum="sg" root="u" sense="u" status="vol" vwtype="pers" wh="nwh" word="u"/>
+      <node begin="3" cat="inf" end="6" id="7" rel="dp">
+        <node begin="3" cat="np" end="5" id="8" rel="obj1">
+          <node begin="3" buiging="zonder" end="4" frame="determiner(het,nwh,nmod,pro,nparg)" his="normal" his_1="normal" id="9" infl="het" lcat="detp" lemma="dit" naamval="stan" npagr="evon" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,zonder,evon)" pt="vnw" rel="det" root="dit" sense="dit" vwtype="aanw" wh="nwh" word="dit"/>
+          <node begin="4" end="5" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="10" lcat="np" lemma="boek" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="boek" sense="boek" word="boek"/>
+        </node>
+        <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,transitive)" his="form_of_suffix" his_1="eren" id="11" infl="inf" lcat="inf" lemma="recommanderen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="recommandeer" sc="transitive" sense="recommandeer" word="recommandeeren" wvorm="inf"/>
+      </node>
+      <node begin="8" cat="np" end="15" id="12" rel="dp">
+        <node begin="8" case="both" def="indef" end="9" frame="pronoun(nwh,thi,sg,de,both,indef,strpro)" gen="de" getal-n="zonder-n" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="één" num="sg" numtype="hoofd" per="thi" pos="pron" positie="nom" postag="TW(hoofd,nom,zonder-n,basis)" pt="tw" rel="hd" rnum="sg" root="één" sense="één" special="strpro" wh="nwh" word="een"/>
+        <node begin="9" cat="np" end="15" id="14" rel="mod">
+          <node begin="9" end="10" frame="determiner(der)" his="normal" his_1="normal" id="15" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+          <node aform="super" begin="10" buiging="met-e" end="11" frame="adjective(ste)" getal-n="zonder-n" graad="sup" his="normal" his_1="normal" id="16" infl="e" lcat="np" lemma="merkwaardig" naamval="stan" pos="adj" positie="nom" postag="ADJ(nom,sup,met-e,zonder-n,stan)" pt="adj" rel="hd" rnum="pl" root="merkwaardig" sense="merkwaardig" vform="adj" word="merkwaardigste"/>
+          <node begin="11" cat="rel" end="15" id="17" rel="mod">
+            <node begin="11" case="no_obl" end="12" frame="rel_pronoun(de,no_obl)" gen="de" getal="getal" his="normal" his_1="normal" id="18" index="1" lcat="np" lemma="die" naamval="stan" pdtype="pron" persoon="persoon" pos="pron" postag="VNW(betr,pron,stan,vol,persoon,getal)" pt="vnw" rel="rhd" rnum="pl" root="die" sense="die" status="vol" vwtype="betr" wh="rel" word="die"/>
+            <node begin="11" cat="ssub" end="15" id="19" rel="body">
+              <node begin="11" end="12" id="20" index="1" rel="su"/>
+              <node begin="11" cat="ppart" end="14" id="21" rel="vc">
+                <node begin="11" end="12" id="22" index="1" rel="obj1"/>
+                <node begin="12" end="13" frame="tmp_adverb" his="normal" his_1="normal" id="23" lcat="advp" lemma="ooit" pos="adv" postag="BW()" pt="bw" rel="mod" root="ooit" sense="ooit" special="tmp" word="ooit"/>
+                <node begin="13" buiging="zonder" end="14" frame="verb(hebben,psp,transitive)" his="normal" his_1="normal" id="24" infl="psp" lcat="ppart" lemma="schrijven" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="schrijf" sc="transitive" sense="schrijf" word="geschreven" wvorm="vd"/>
+              </node>
+              <node begin="14" end="15" frame="verb(unacc,past(pl),passive)" his="normal" his_1="normal" id="25" infl="pl" lcat="ssub" lemma="worden" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="word" sc="passive" sense="word" tense="past" v_per="thi" word="werden" wvorm="pv"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="robust_skip" id="26" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="95-7">Laat mij u dit boek recommandeeren , - een der merkwaardigste die ooit geschreven werden .</sentence>
+  <comments>
+    <comment>Q#95-7|Laat mij u dit boek [ @alt recommanderen recommandeeren ] , - een der merkwaardigste die ooit geschreven werden .|1|5|7.307713694800003</comment>
+  </comments>
+</alpino_ds>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:24" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" cat="conj" end="11" id="1" rel="--">
+      <node begin="0" cat="smain" end="6" id="2" rel="cnj">
+        <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,u,sg,de,nom,def)" gen="de" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="gij" naamval="nomin" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pers,pron,nomin,vol,2,getal)" pt="vnw" rel="su" rnum="sg" root="gij" sense="gij" status="vol" vwtype="pers" wh="nwh" word="Gij"/>
+        <node begin="1" end="2" frame="verb(unacc,sg_bent,copula)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="bent" his_1_1_2="zijt" his_1_2="normal" id="4" infl="sg_bent" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="u" word="zijt" wvorm="pv"/>
+        <node begin="2" cat="np" end="6" id="5" rel="predc">
+          <node begin="2" end="3" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+          <node begin="3" cat="ppart" end="5" id="7" rel="mod">
+            <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="8" infl="no_e" lcat="ap" lemma="slecht" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="slecht" sense="slecht" vform="adj" word="slecht"/>
+            <node aform="base" begin="4" buiging="zonder" end="5" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="9" infl="no_e" lcat="ppart" lemma="behandelen" pos="adj" positie="prenom" postag="WW(vd,prenom,zonder)" pt="ww" rel="hd" root="behandelen" sense="behandelen" vform="psp" word="behandeld" wvorm="vd"/>
+          </node>
+          <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="dim" his="normal" his_1="normal" id="10" lcat="np" lemma="meisje" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,dim,onz,stan)" pt="n" rel="hd" rnum="sg" root="meisje" sense="meisje" word="meisje"/>
+        </node>
+      </node>
+      <node begin="6" conjtype="neven" end="7" frame="conj(en)" his="normal" his_1="normal" id="11" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="7" cat="smain" end="11" id="12" rel="cnj">
+        <node begin="8" end="9" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="13" infl="modal_not_u" lcat="smain" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" stype="declarative" tense="present" v_per="thi" word="zal" wvorm="pv"/>
+        <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" index="1" lcat="np" lemma="gerechtigheid" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="gerechtigheid" sense="gerechtigheid" word="gerechtigheid"/>
+        <node begin="7" cat="inf" end="11" id="15" rel="vc">
+          <node begin="7" case="both" def="def" end="8" frame="pronoun(nwh,u,sg,de,both,def)" gen="de" getal="getal" his="normal" his_1="normal" id="16" lcat="np" lemma="u" naamval="obl" num="sg" pdtype="pron" per="u" persoon="2" pos="pron" postag="VNW(pr,pron,obl,vol,2,getal)" pt="vnw" rel="obj2" rnum="sg" root="u" sense="u" status="vol" vwtype="pr" wh="nwh" word="u"/>
+          <node begin="9" end="10" id="17" index="1" rel="su"/>
+          <node begin="10" buiging="zonder" end="11" frame="verb(unacc,inf,so_np)" his="normal" his_1="normal" id="18" infl="inf" lcat="inf" lemma="geschieden" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="geschied" sc="so_np" sense="geschied" word="geschieden" wvorm="inf"/>
+        </node>
+      </node>
+    </node>
+    <node begin="11" end="12" frame="punct(punt)" his="normal" his_1="normal" id="19" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="75-10">Gij zijt een slecht behandeld meisje en u zal gerechtigheid geschieden .</sentence>
+  <comments>
+    <comment>Q#75-10|Gij zijt een slecht behandeld meisje en u zal gerechtigheid geschieden .|1|1|-3.5091732142000014</comment>
+  </comments>
+</alpino_ds>

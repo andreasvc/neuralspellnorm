@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="13" id="0" rel="top">
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="12" id="2" rel="--">
+      <node begin="0" cat="smain" end="6" id="3" rel="cnj">
+        <node begin="0" end="1" frame="er_loc_adverb" getal="getal" his="normal" his_1="decap" his_1_1="normal" id="4" index="1" lcat="advp" lemma="daar" naamval="obl" pdtype="adv-pron" persoon="3o" pos="adv" postag="VNW(aanw,adv-pron,obl,vol,3o,getal)" pt="vnw" rel="mod" root="daar" sense="daar" special="er_loc" status="vol" vwtype="aanw" word="Daar"/>
+        <node begin="1" end="2" frame="verb(hebben,sg,subj_control(wk_te))" his="normal" his_1="normal" id="5" index="2" infl="sg" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zit" sc="subj_control(wk_te)" sense="zit" tense="present" v_per="thi" word="zit" wvorm="pv"/>
+        <node begin="2" case="both" def="def" end="3" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="6" index="3" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+        <node begin="3" end="4" frame="tmp_adverb" his="normal" his_1="normal" id="7" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+        <node begin="2" cat="ti" end="6" id="8" rel="vc">
+          <node begin="4" end="5" frame="complementizer(te)" his="normal" his_1="normal" id="9" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="2" cat="inf" end="6" id="10" rel="body">
+            <node begin="2" end="3" id="11" index="3" rel="su"/>
+            <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="naaien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="naai" sc="intransitive" sense="naai" word="naaien" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="0" cat="smain" end="9" id="13" rel="cnj">
+        <node begin="0" end="1" id="14" index="1" rel="mod"/>
+        <node begin="1" end="2" id="15" index="2" rel="hd"/>
+        <node begin="2" end="3" id="16" index="3" rel="su"/>
+        <node begin="2" cat="ti" end="9" id="17" rel="vc">
+          <node begin="7" end="8" frame="complementizer(te)" his="normal" his_1="normal" id="18" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="2" cat="inf" end="9" id="19" rel="body">
+            <node begin="2" end="3" id="20" index="3" rel="su"/>
+            <node begin="8" buiging="zonder" end="9" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="breien" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="brei" sc="intransitive" sense="brei" word="breien" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+      <node begin="9" conjtype="neven" end="10" frame="conj(of)" his="normal" his_1="normal" id="22" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+      <node begin="0" cat="smain" end="12" id="23" rel="cnj">
+        <node begin="0" end="1" id="24" index="1" rel="mod"/>
+        <node begin="1" end="2" id="25" index="2" rel="hd"/>
+        <node begin="2" end="3" id="26" index="3" rel="su"/>
+        <node begin="2" cat="ti" end="12" id="27" rel="vc">
+          <node begin="10" end="11" frame="complementizer(te)" his="normal" his_1="normal" id="28" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+          <node begin="2" cat="inf" end="12" id="29" rel="body">
+            <node begin="2" end="3" id="30" index="3" rel="su"/>
+            <node begin="11" buiging="zonder" end="12" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="31" infl="inf" lcat="inf" lemma="borduren" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="borduur" sc="intransitive" sense="borduur" word="borduren" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="12" end="13" frame="punct(punt)" his="normal" his_1="normal" id="32" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="7-8">Daar zit ze dan te naaien , te breien of te borduren .</sentence>
+  <comments>
+    <comment>Q#7-8|Daar zit ze dan te naaien , te breien of te borduren .|1|1|-5.062456022999995</comment>
+  </comments>
+</alpino_ds>

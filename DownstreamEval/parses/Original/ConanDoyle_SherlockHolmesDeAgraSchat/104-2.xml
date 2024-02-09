@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="4" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="whq" end="4" id="3" rel="nucl">
+        <node begin="1" cat="ap" end="3" id="4" index="1" rel="whd">
+          <node begin="1" end="2" frame="wh_adjective" his="normal" his_1="normal" id="5" lcat="ap" lemma="hoe" pos="adj" postag="BW()" pt="bw" rel="mod" root="hoe" sense="hoe" wh="ywh" word="hoe"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(locadv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="ver" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="ver" sense="ver" vform="adj" word="ver"/>
+        </node>
+        <node begin="1" cat="ppart" end="4" id="7" rel="body">
+          <node begin="1" end="3" id="8" index="1" rel="mod"/>
+          <node begin="3" buiging="zonder" end="4" frame="verb(hebben,psp,intransitive)" his="normal" his_1="normal" id="9" infl="psp" lcat="ppart" lemma="zoeken" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zoek" sc="intransitive" sense="zoek" stype="whquestion" word="gezocht" wvorm="vd"/>
+        </node>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(uitroep)" his="normal" his_1="normal" id="10" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+  </node>
+  <sentence sentid="104-2">En hoe ver gezocht !</sentence>
+  <comments>
+    <comment>Q#104-2|En hoe ver gezocht !|1|1|-2.5498488651000004</comment>
+  </comments>
+</alpino_ds>

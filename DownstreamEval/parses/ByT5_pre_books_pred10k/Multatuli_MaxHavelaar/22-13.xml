@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="2" end="3" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="7" id="2" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="maar" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="maar" sc="root" sense="maar" word="Maar"/>
+      <node begin="1" cat="du" end="7" id="4" rel="nucl">
+        <node begin="1" end="2" frame="tag" his="normal" his_1="normal" id="5" lcat="advp" lemma="neen" pos="tag" postag="TSW()" pt="tsw" rel="tag" root="neen" sense="neen" word="neen"/>
+        <node begin="3" cat="smain" end="7" id="6" rel="nucl">
+          <node begin="3" end="4" frame="noun(both,both,both)" gen="both" genus="zijd" getal="ev" graad="basis" his="noun" id="7" lcat="np" lemma="onderkruipen" naamval="stan" ntype="soort" num="both" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="onderkruipen" sense="onderkruipen" word="onderkruipen"/>
+          <node begin="4" end="5" frame="verb(hebben,sg1,transitive_ndev)" his="normal" his_1="normal" id="8" infl="sg1" lcat="smain" lemma="doen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="doe" sc="transitive_ndev" sense="doe" stype="declarative" tense="present" v_per="fir" word="doe" wvorm="pv"/>
+          <node begin="5" case="nom" def="def" end="6" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="9" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="6" end="7" frame="adverb" his="normal" his_1="normal" id="10" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="mod" root="niet" sense="niet" word="niet"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="22-13">Maar neen , onderkruipen doe ik niet .</sentence>
+  <comments>
+    <comment>Q#22-13|Maar neen , onderkruipen doe ik niet .|1|1|-0.9452315066999999</comment>
+  </comments>
+</alpino_ds>

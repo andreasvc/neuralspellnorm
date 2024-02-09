@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:55" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="1" end="2" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="3" id="2" rel="--">
+      <node begin="0" end="1" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="advp" lemma="komen" pos="tag" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="tag" root="kom" sense="kom" word="Kom" wvorm="pv"/>
+      <node begin="2" end="3" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="4" lcat="np" lemma="Frits" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="nucl" rnum="sg" root="Frits" sense="Frits" word="Frits"/>
+    </node>
+    <node begin="3" end="4" frame="punct(uitroep)" his="normal" his_1="normal" id="5" lcat="punct" lemma="!" pos="punct" postag="LET()" pt="let" rel="--" root="!" sense="!" special="uitroep" word="!"/>
+    <node begin="4" end="5" frame="punct(aanhaal_both)" his="skip" id="6" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="88-3">Kom , Frits ! &quot;</sentence>
+  <comments>
+    <comment>Q#88-3|Kom , Frits ! &quot;|1|1|-1.3905861600000002</comment>
+  </comments>
+</alpino_ds>

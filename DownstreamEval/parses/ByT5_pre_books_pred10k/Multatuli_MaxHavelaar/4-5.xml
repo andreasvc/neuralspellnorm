@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:34" cats="1" skips="0" />
+  <node begin="0" cat="top" end="14" id="0" rel="top">
+    <node begin="0" cat="smain" end="13" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="np" lemma="men" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3p" pos="pron" postag="VNW(pers,pron,nomin,red,3p,ev,masc)" pt="vnw" rel="su" rnum="sg" root="men" sense="men" status="red" vwtype="pers" wh="nwh" word="Men"/>
+      <node begin="1" end="2" frame="verb(zijn,sg,ld_pp)" his="normal" his_1="normal" id="3" infl="sg" lcat="smain" lemma="vluchten" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="vlucht" sc="ld_pp" sense="vlucht" stype="declarative" tense="present" v_per="thi" word="vlucht" wvorm="pv"/>
+      <node begin="2" cat="pp" end="8" id="4" rel="mod">
+        <node begin="2" end="3" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="5" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+        <node begin="3" cat="conj" end="8" id="6" rel="obj1">
+          <node begin="3" cat="np" end="5" his="normal" his_1="normal" id="7" rel="cnj">
+            <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" id="8" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+            <node begin="4" case="both" def="indef" end="5" frame="pronoun(nwh,thi,sg,both,both,indef)" gen="both" id="9" lcat="np" lemma="een" num="sg" numtype="hoofd" per="thi" pos="pron" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" rnum="sg" root="een" sense="een" wh="nwh" word="een"/>
+          </node>
+          <node begin="5" conjtype="neven" end="6" frame="conj(of)" his="normal" his_1="normal" id="10" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+          <node begin="6" cat="np" end="8" id="11" rel="cnj">
+            <node aform="compar" begin="6" buiging="zonder" end="7" frame="adjective(er(nonadv))" graad="basis" his="normal" his_1="normal" id="12" infl="no_e" lcat="ap" lemma="ander" pos="adj" positie="prenom" postag="ADJ(prenom,basis,zonder)" pt="adj" rel="mod" root="ander" sense="ander" vform="adj" word="ander"/>
+            <node begin="7" end="8" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="13" lcat="np" lemma="voorwerp" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="voorwerp" sense="voorwerp" word="voorwerp"/>
+          </node>
+        </node>
+      </node>
+      <node begin="8" cat="pp" end="13" id="14" rel="ld">
+        <node begin="8" end="9" frame="preposition(naar,[toe])" his="normal" his_1="normal" id="15" lcat="pp" lemma="naar" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="naar" sense="naar" vztype="init" word="naar"/>
+        <node begin="9" cat="np" end="13" id="16" rel="obj1">
+          <node begin="9" end="10" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="normal" id="17" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="het"/>
+          <node begin="10" end="11" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="18" lcat="np" lemma="einde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="einde" sense="einde" special="tmp" word="einde"/>
+          <node begin="11" cat="np" end="13" id="19" rel="mod">
+            <node begin="11" end="12" frame="determiner(der)" his="normal" his_1="normal" id="20" infl="der" lcat="detp" lemma="de" lwtype="bep" naamval="gen" npagr="rest3" pos="det" postag="LID(bep,gen,rest3)" pt="lid" rel="det" root="de" sense="de" word="der"/>
+            <node begin="12" end="13" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="21" lcat="np" lemma="aarde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="aarde" sense="aarde" word="aarde"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(punt)" his="normal" his_1="normal" id="22" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="4-5">Men vlucht met het een of ander voorwerp naar het einde der aarde .</sentence>
+  <comments>
+    <comment>Q#4-5|Men vlucht met het een of ander voorwerp naar het einde der aarde .|1|1|-0.8432446352999992</comment>
+  </comments>
+</alpino_ds>

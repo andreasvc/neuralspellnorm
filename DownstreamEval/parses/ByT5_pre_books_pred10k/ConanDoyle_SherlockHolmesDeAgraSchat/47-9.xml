@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:49" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="4" end="5" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="9" end="10" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="conj" end="20" id="3" rel="--">
+      <node begin="0" cat="smain" end="4" id="4" rel="cnj">
+        <node begin="0" end="1" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="misdaad" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="misdaad" sense="misdaad" word="Misdaad"/>
+        <node begin="1" end="2" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="6" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+        <node begin="2" cat="np" end="4" id="7" rel="predc">
+          <node begin="2" end="3" frame="iets_noun" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="iets" naamval="stan" pdtype="pron" persoon="3o" pos="pron" postag="VNW(onbep,pron,stan,vol,3o,ev)" pt="vnw" rel="hd" rnum="sg" root="iets" sc="iets" sense="iets" status="vol" vwtype="onbep" word="iets"/>
+          <node aform="base" begin="3" buiging="met-s" end="4" frame="post_adjective(no_e)" graad="basis" his="normal" his_1="Adj-s" id="9" iets="true" infl="no_e" lcat="ap" lemma="algemeen" pos="adj" positie="postnom" postag="ADJ(postnom,basis,met-s)" pt="adj" rel="mod" root="algemeen" sense="algemeen" special="iets" vform="adj" word="algemeens"/>
+        </node>
+      </node>
+      <node begin="5" cat="smain" end="9" id="10" rel="cnj">
+        <node begin="5" end="6" frame="noun(het,mass,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="bestaan" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="su" rnum="sg" root="bestaan" sense="bestaan" word="bestaan"/>
+        <node begin="6" end="7" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="12" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+        <node begin="7" end="8" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="13" infl="het" lcat="np" lemma="dit" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="predc" rnum="sg" root="dit" sense="dit" status="vol" vwtype="aanw" wh="nwh" word="dit"/>
+        <node begin="8" end="9" frame="adverb" his="normal" his_1="normal" id="14" lcat="advp" lemma="eveneens" pos="adv" postag="BW()" pt="bw" rel="mod" root="eveneens" sense="eveneens" word="eveneens"/>
+      </node>
+      <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="15" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+      <node begin="11" cat="smain" end="20" id="16" rel="cnj">
+        <node begin="11" cat="np" end="16" id="17" rel="su">
+          <node begin="11" buiging="met-e" end="12" frame="determiner(de,nwh,nmod,pro,yparg)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="gene" naamval="stan" npagr="rest" pdtype="det" pos="det" positie="prenom" postag="VNW(aanw,det,stan,prenom,met-e,rest)" pt="vnw" rel="det" root="gene" sense="gene" vwtype="aanw" wh="nwh" word="geene"/>
+          <node aform="compar" begin="12" buiging="met-e" end="13" frame="adjective(ere)" graad="basis" his="normal" his_1="normal" id="19" infl="e" lcat="ap" lemma="ander" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="ander" sense="ander" vform="adj" word="andere"/>
+          <node begin="13" cat="ap" end="15" id="20" rel="mod">
+            <node begin="13" end="14" frame="tmp_adverb" his="normal" his_1="normal" id="21" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="mod" root="dan" sense="dan" special="tmp" word="dan"/>
+            <node aform="base" begin="14" buiging="met-e" end="15" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="22" infl="e" lcat="ap" lemma="algemeen" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="hd" root="algemeen" sense="algemeen" vform="adj" word="algemeene"/>
+          </node>
+          <node begin="15" end="16" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="normal" his_1="normal" id="23" lcat="np" lemma="eigenschap" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="eigenschap" sense="eigenschap" word="eigenschappen"/>
+        </node>
+        <node begin="16" end="17" frame="verb(unacc,pl,copula)" his="normal" his_1="normal" id="24" infl="pl" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,mv)" pt="ww" pvagr="mv" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="zijn" wvorm="pv"/>
+        <node begin="17" cat="pp" end="19" id="25" rel="mod">
+          <node begin="17" end="18" frame="preposition(op,[af,na])" his="normal" his_1="normal" id="26" lcat="pp" lemma="op" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="op" sense="op" vztype="init" word="op"/>
+          <node begin="18" end="19" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="aarde" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="aarde" sense="aarde" word="aarde"/>
+        </node>
+        <node aform="base" begin="19" buiging="zonder" end="20" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="28" infl="no_e" lcat="ap" lemma="werkzaam" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="werkzaam" sense="werkzaam" vform="adj" word="werkzaam"/>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(punt)" his="normal" his_1="normal" id="29" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="21" end="22" frame="punct(aanhaal_both)" his="skip" id="30" lcat="--" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="47-9">Misdaad is iets algemeens , bestaan is dit eveneens , en geene andere dan algemeene eigenschappen zijn op aarde werkzaam . &quot;</sentence>
+  <comments>
+    <comment>Q#47-9|Misdaad is iets algemeens , bestaan is dit eveneens , en [ @alt gene geene ] andere dan [ @alt algemene algemeene ] eigenschappen zijn op aarde werkzaam . &quot;|1|1|-0.3845401406999971</comment>
+  </comments>
+</alpino_ds>

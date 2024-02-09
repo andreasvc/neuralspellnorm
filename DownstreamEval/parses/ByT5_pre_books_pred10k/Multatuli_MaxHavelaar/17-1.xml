@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:40" cats="1" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(staand_streep)" his="robust_skip" id="1" lcat="--" lemma="|" pos="punct" postag="LET()" pt="let" rel="--" root="|" sense="|" special="staand_streep" word="|"/>
+    <node begin="1" cat="np" end="4" id="2" rel="--">
+      <node begin="1" end="2" frame="noun(de,count,pl)" gen="de" getal="mv" graad="basis" his="special" his_1="decap" his_1_1="normal" id="3" lcat="np" lemma="makelaar" ntype="soort" num="pl" pos="noun" postag="N(soort,mv,basis)" pt="n" rel="hd" rnum="pl" root="makelaar" sense="makelaar" word="MAKELAARS"/>
+      <node begin="2" cat="pp" end="4" id="4" rel="mod">
+        <node begin="2" end="3" frame="preposition(in,[])" his="special" his_1="decap" his_1_1="normal" id="5" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="IN"/>
+        <node begin="3" end="4" frame="noun(de,mass,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="6" lcat="np" lemma="koffie" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="koffie" sense="koffie" word="koffie"/>
+      </node>
+    </node>
+    <node begin="4" end="5" frame="punct(staand_streep)" his="robust_skip" id="7" lcat="--" lemma="|" pos="punct" postag="LET()" pt="let" rel="--" root="|" sense="|" special="staand_streep" word="|"/>
+  </node>
+  <sentence sentid="17-1">| MAKELAARS IN koffie |</sentence>
+  <comments>
+    <comment>Q#17-1|__ MAKELAARS IN koffie __|1|1|1.5556813299</comment>
+  </comments>
+</alpino_ds>

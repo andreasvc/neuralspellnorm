@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:56" cats="2" skips="0" />
+  <node begin="0" cat="top" end="5" id="0" rel="top">
+    <node begin="0" cat="du" end="5" id="1" rel="--">
+      <node begin="0" cat="du" end="4" id="2" rel="dp">
+        <node aform="base" begin="0" buiging="zonder" end="1" frame="adjective(end(both))" his="normal" his_1="decap" his_1_1="V-d" his_1_1_1="normal" id="3" infl="no_e" lcat="ppres" lemma="zwijgen" pos="adj" positie="vrij" postag="WW(od,vrij,zonder)" pt="ww" rel="dp" root="zwijg" sense="zwijg" vform="gerund" word="Zwijgend" wvorm="od"/>
+        <node begin="1" cat="pp" end="4" id="4" rel="dp">
+          <node begin="1" end="2" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="5" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+          <node begin="2" cat="np" end="4" id="6" rel="obj1">
+            <node begin="2" end="3" frame="determiner(de)" his="normal" his_1="normal" id="7" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="den"/>
+            <node begin="3" end="4" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="oever" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="oever" sense="oever" word="oever"/>
+          </node>
+        </node>
+      </node>
+      <node begin="4" dropped_agr="sg" end="5" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="9" infl="sg" lcat="sv1" lemma="staan" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="dp" root="sta" sc="intransitive" sense="sta" stype="topic_drop" tense="past" v_per="thi;fir" word="stond" wvorm="pv"/>
+    </node>
+  </node>
+  <sentence sentid="108-1">Zwijgend aan den oever stond</sentence>
+  <comments>
+    <comment>Q#108-1|Zwijgend aan [ @alt de den ] oever stond|1|2|5.181063172300002</comment>
+  </comments>
+</alpino_ds>

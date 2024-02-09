@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="2" />
+  <node begin="0" cat="top" end="6" id="0" rel="top">
+    <node begin="0" conjtype="onder" end="1" frame="complementizer" his="robust_skip" id="1" lcat="--" lemma="toen" pos="comp" postag="VG(onder)" pt="vg" rel="--" root="toen" sense="toen" word="Toen"/>
+    <node begin="1" end="2" frame="het_noun" his="robust_skip" id="2" lcat="--" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="noun" postag="LID(bep,stan,evon)" pt="lid" rel="--" root="het" sense="het" special="het" word="het"/>
+    <node begin="2" cat="pp" end="5" id="3" rel="--">
+      <node begin="2" end="3" frame="preposition(aan,[vooraf])" his="normal" his_1="normal" id="4" lcat="pp" lemma="aan" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="aan" sense="aan" vztype="init" word="aan"/>
+      <node begin="3" cat="np" end="5" id="5" rel="obj1">
+        <node begin="3" end="4" frame="determiner(de)" his="normal" his_1="normal" id="6" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+        <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="compound" his_1="2" id="7" lcat="np" lemma="moeder_borst" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="moeder_borst" sense="moeder_borst" word="moederborst"/>
+      </node>
+    </node>
+    <node begin="5" end="6" frame="punct(komma)" his="skip" id="8" lcat="--" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="179-1">Toen het aan de moederborst ,</sentence>
+  <comments>
+    <comment>Q#179-1|Toen het aan de moederborst ,|1|3|1.170447437</comment>
+  </comments>
+</alpino_ds>

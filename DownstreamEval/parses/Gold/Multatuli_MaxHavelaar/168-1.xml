@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:28" cats="2" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" cat="du" end="6" id="2" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="3" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" cat="ap" end="6" id="4" rel="nucl">
+          <node begin="1" end="2" frame="adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="zo" pos="adv" postag="BW()" pt="bw" rel="mod" root="zo" sense="zo" word="zoo"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="6" infl="no_e" lcat="ap" lemma="trouw" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="trouw" sense="trouw" vform="adj" word="trouw"/>
+          <node begin="3" cat="pp" end="6" id="7" rel="mod">
+            <node begin="3" end="4" frame="preposition(in,[])" his="normal" his_1="normal" id="8" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+            <node begin="4" cat="np" end="6" id="9" rel="obj1">
+              <node begin="4" end="5" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="10" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="&apos;t"/>
+              <node begin="5" end="6" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="11" lcat="np" lemma="hart" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hart" sense="hart" word="hart"/>
+            </node>
+          </node>
+        </node>
+      </node>
+      <node begin="6" dropped_agr="sg" end="7" frame="verb(hebben,past(sg),intransitive)" his="normal" his_1="normal" id="12" infl="sg" lcat="sv1" lemma="bewaren" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="dp" root="bewaar" sc="intransitive" sense="bewaar" stype="topic_drop" tense="past" v_per="thi;fir" word="bewaarde" wvorm="pv"/>
+    </node>
+    <node begin="7" end="8" frame="punct(hellip)" his="robust_skip" id="13" lcat="--" lemma="..." pos="punct" postag="LET()" pt="let" rel="--" root="..." sense="..." special="hellip" word="..."/>
+  </node>
+  <sentence sentid="168-1">En zoo trouw in &apos;t hart bewaarde ...</sentence>
+  <comments>
+    <comment>Q#168-1|En [ @alt zo zoo ] trouw in &apos;t hart bewaarde ...|1|2|5.165292562700001</comment>
+  </comments>
+</alpino_ds>

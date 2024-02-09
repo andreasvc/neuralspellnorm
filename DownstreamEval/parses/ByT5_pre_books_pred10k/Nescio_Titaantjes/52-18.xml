@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T16:53" cats="1" skips="0" />
+  <node begin="0" cat="top" end="16" id="0" rel="top">
+    <node begin="0" cat="du" end="15" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="conj" end="15" id="3" rel="nucl">
+        <node begin="1" cat="smain" end="7" id="4" rel="cnj">
+          <node begin="1" end="2" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="5" index="1" lcat="np" lemma="Hoyer" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="Hoyer" sense="Hoyer" word="Hoyer"/>
+          <node begin="2" end="3" frame="verb(hebben,sg3,np_pc_pp(uit))" his="normal" his_1="normal" id="6" infl="sg3" lcat="smain" lemma="leren" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="leer" sc="np_pc_pp(uit)" sense="leer-uit" tense="present" v_per="thi" word="leert" wvorm="pv"/>
+          <node begin="3" end="4" frame="determiner(het,nwh,nmod,pro,nparg)" getal="ev" his="normal" his_1="normal" id="7" infl="het" lcat="np" lemma="dat" naamval="stan" pdtype="pron" persoon="3o" pos="det" postag="VNW(aanw,pron,stan,vol,3o,ev)" pt="vnw" rel="obj1" rnum="sg" root="dat" sense="dat" status="vol" vwtype="aanw" wh="nwh" word="dat"/>
+          <node begin="4" cat="pp" end="7" id="8" rel="pc">
+            <node begin="4" end="5" frame="preposition(uit,[vandaan])" his="normal" his_1="normal" id="9" lcat="pp" lemma="uit" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="uit" sense="uit" vztype="init" word="uit"/>
+            <node begin="5" cat="np" end="7" id="10" rel="obj1">
+              <node begin="5" buiging="zonder" end="6" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="11" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z&apos;n"/>
+              <node begin="6" end="7" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="12" lcat="np" lemma="hoofd" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="hoofd" sense="hoofd" word="hoofd"/>
+            </node>
+          </node>
+        </node>
+        <node begin="7" conjtype="neven" end="8" frame="conj(en)" his="normal" his_1="normal" id="13" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="1" cat="smain" end="15" id="14" rel="cnj">
+          <node begin="1" end="2" id="15" index="1" rel="su"/>
+          <node begin="8" end="9" frame="verb(hebben,sg3,subj_control(wk_te))" his="normal" his_1="normal" id="16" infl="sg3" lcat="smain" lemma="lopen" pos="verb" postag="WW(pv,tgw,met-t)" pt="ww" pvagr="met-t" pvtijd="tgw" rel="hd" root="loop" sc="subj_control(wk_te)" sense="loop" tense="present" v_per="thi" word="loopt" wvorm="pv"/>
+          <node begin="1" cat="ti" end="13" id="17" rel="vc">
+            <node begin="11" end="12" frame="complementizer(te)" his="normal" his_1="normal" id="18" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+            <node begin="1" cat="inf" end="13" id="19" rel="body">
+              <node begin="1" end="2" id="20" index="1" rel="su"/>
+              <node begin="9" cat="pp" end="11" id="21" rel="pc">
+                <node begin="9" end="10" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="22" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="obj1" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+                <node begin="10" end="11" frame="preposition(over,[heen])" his="normal" his_1="normal" id="23" lcat="pp" lemma="over" pos="prep" postag="VZ(fin)" pt="vz" rel="hd" root="over" sense="over" vztype="fin" word="over"/>
+              </node>
+              <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,pc_pp(over))" his="normal" his_1="normal" id="24" infl="inf" lcat="inf" lemma="zwetsen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="zwets" sc="pc_pp(over)" sense="zwets-over" word="zwetsen" wvorm="inf"/>
+            </node>
+          </node>
+          <node begin="13" cat="pp" end="15" id="25" rel="mod">
+            <node begin="13" end="14" frame="preposition(tegen,[aan,in,op])" his="normal" his_1="normal" id="26" lcat="pp" lemma="tegen" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="tegen" sense="tegen" vztype="init" word="tegen"/>
+            <node begin="14" end="15" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="27" lcat="np" lemma="Bekker" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="obj1" rnum="sg" root="Bekker" sense="Bekker" word="Bekker"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="15" end="16" frame="punct(punt)" his="normal" his_1="normal" id="28" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="52-18">En Hoyer leert dat uit z&apos;n hoofd en loopt er over te zwetsen tegen Bekker .</sentence>
+  <comments>
+    <comment>Q#52-18|En Hoyer leert dat uit z&apos;n hoofd en loopt er over te zwetsen tegen Bekker .|1|1|-6.3292793115</comment>
+  </comments>
+</alpino_ds>

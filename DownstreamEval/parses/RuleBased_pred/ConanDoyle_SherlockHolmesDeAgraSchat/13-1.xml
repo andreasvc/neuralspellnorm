@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:08" cats="1" skips="0" />
+  <node begin="0" cat="top" end="12" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(haak_open)" his="normal" his_1="normal" id="1" lcat="punct" lemma="(" pos="punct" postag="LET()" pt="let" rel="--" root="(" sense="(" special="haak_open" word="("/>
+    <node begin="3" end="4" frame="punct(dubb_punt)" his="normal" his_1="normal" id="2" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="1" cat="du" end="10" id="3" rel="--">
+      <node begin="1" cat="np" end="3" id="4" rel="nucl">
+        <node begin="1" end="2" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="np" lemma="voetnoot" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="voetnoot" sense="voetnoot" word="Voetnoot"/>
+        <node begin="2" end="3" frame="number(hoofd(sg_num))" his="normal" his_1="number_expression" id="6" infl="sg_num" lcat="detp" lemma="1" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="app" root="1" sense="1" word="1"/>
+      </node>
+      <node begin="4" cat="pp" end="10" id="7" rel="sat">
+        <node begin="4" end="5" frame="preposition(te,[],nodet)" his="normal" his_1="decap" his_1_1="normal" id="8" lcat="pp" lemma="te" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="te" sc="nodet" sense="te" vztype="init" word="Te"/>
+        <node begin="5" cat="np" end="10" id="9" rel="obj1">
+          <node begin="5" end="6" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="10" lcat="np" lemma="Amsterdam" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Amsterdam" sense="Amsterdam" word="Amsterdam"/>
+          <node begin="6" cat="pp" end="10" id="11" rel="mod">
+            <node begin="6" end="7" frame="preposition(bij,[vandaan])" his="normal" his_1="normal" id="12" lcat="pp" lemma="bij" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="bij" sense="bij" vztype="init" word="bij"/>
+            <node begin="7" cat="mwu" end="10" his="normal" his_1="names_dictionary" id="13" rel="obj1">
+              <node begin="7" end="8" frame="proper_name(sg,'PER')" id="14" lcat="np" lemma="N." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="N." sense="N." spectype="deeleigen" word="N."/>
+              <node begin="8" end="9" frame="proper_name(sg,'PER')" id="15" lcat="np" lemma="J." neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="J." sense="J." spectype="deeleigen" word="J."/>
+              <node begin="9" end="10" frame="proper_name(sg,'PER')" id="16" lcat="np" lemma="Boon" neclass="PER" num="sg" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" rnum="sg" root="Boon" sense="Boon" spectype="deeleigen" word="Boon"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="10" end="11" frame="punct(punt)" his="normal" his_1="normal" id="17" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="11" end="12" frame="punct(haak_sluit)" his="normal" his_1="normal" id="18" lcat="punct" lemma=")" pos="punct" postag="LET()" pt="let" rel="--" root=")" sense=")" special="haak_sluit" word=")"/>
+  </node>
+  <sentence sentid="13-1">( Voetnoot 1 : Te Amsterdam bij N. J. Boon . )</sentence>
+  <comments>
+    <comment>Q#13-1|( Voetnoot 1 : Te Amsterdam bij N. J. Boon . )|1|1|3.0156429569999985</comment>
+  </comments>
+</alpino_ds>

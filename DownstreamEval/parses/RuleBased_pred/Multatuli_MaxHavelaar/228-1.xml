@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T14:29" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="smain" end="7" id="1" rel="--">
+      <node begin="0" case="nom" def="def" end="1" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="abbreviation" his_1_1="normal" id="2" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,red,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="red" vwtype="pers" wh="nwh" word="&apos;k"/>
+      <node begin="1" end="2" frame="verb(hebben,past(sg),aci)" his="normal" his_1="decap" his_1_1="normal" id="3" infl="sg" lcat="smain" lemma="voelen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="voel" sc="aci" sense="voel" stype="declarative" tense="past" v_per="fir" word="Voelde" wvorm="pv"/>
+      <node aform="base" begin="2" end="3" frame="adjective(pred(adv))" his="normal" his_1="normal" id="4" infl="pred" lcat="ap" lemma="wel" pos="adj" postag="BW()" pt="bw" rel="mod" root="wel" sense="wel" vform="adj" word="wel"/>
+      <node begin="3" cat="np" end="5" id="5" index="1" rel="obj1">
+        <node begin="3" end="4" frame="determiner(een)" his="normal" his_1="normal" id="6" infl="een" lcat="detp" lemma="een" lwtype="onbep" naamval="stan" npagr="agr" pos="det" postag="LID(onbep,stan,agr)" pt="lid" rel="det" root="een" sense="een" word="een"/>
+        <node begin="4" end="5" frame="noun(de,both,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="7" lcat="np" lemma="zucht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="zucht" sense="zucht" word="zucht"/>
+      </node>
+      <node begin="3" cat="inf" end="7" id="8" rel="vc">
+        <node begin="3" end="5" id="9" index="1" rel="su"/>
+        <node begin="5" case="dat_acc" def="def" end="6" frame="pronoun(nwh,fir,sg,de,dat_acc,def,wkpro)" gen="de" getal="ev" his="normal" his_1="normal" id="10" lcat="np" lemma="me" naamval="obl" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pr,pron,obl,red,1,ev)" pt="vnw" rel="obj2" rnum="sg" root="me" sense="me" special="wkpro" status="red" vwtype="pr" wh="nwh" word="me"/>
+        <node begin="6" buiging="zonder" end="7" frame="verb(unacc,inf,so_np)" his="normal" his_1="normal" id="11" infl="inf" lcat="inf" lemma="ontglippen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="ontglip" sc="so_np" sense="ontglip" word="ontglippen" wvorm="inf"/>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="12" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+  </node>
+  <sentence sentid="228-1">&apos;k Voelde wel een zucht me ontglippen ,</sentence>
+  <comments>
+    <comment>Q#228-1|&apos;k Voelde wel een zucht me ontglippen ,|1|1|-5.782650027</comment>
+  </comments>
+</alpino_ds>

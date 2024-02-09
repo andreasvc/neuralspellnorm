@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-x86_64-linux-glibc2.5-git20240131.103019-sicstus" date="2024-02-08T17:05" cats="1" skips="0" />
+  <node begin="0" cat="top" end="4" id="0" rel="top">
+    <node begin="0" cat="du" end="2" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node aform="compar" begin="1" buiging="zonder" end="2" frame="adjective(er(tmpadv))" graad="comp" his="normal" his_1="normal" id="3" infl="no_e" lcat="ap" lemma="laat" pos="adj" positie="vrij" postag="ADJ(vrij,comp,zonder)" pt="adj" rel="nucl" root="laat" sense="laat" vform="adj" word="later"/>
+    </node>
+    <node begin="2" cat="mwu" end="4" his="mwu_alt" his_1="normal" id="4" rel="--">
+      <node begin="2" end="3" frame="punct(hellip)" id="5" lcat="punct" lemma="..." pos="punct" postag="LET()" pt="let" rel="mwp" root="..." sense="..." special="hellip" word="..."/>
+      <node begin="3" end="4" frame="punct(hellip)" id="6" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="mwp" root="." sense="." special="hellip" word="."/>
+    </node>
+  </node>
+  <sentence sentid="94-8">En later ... .</sentence>
+  <comments>
+    <comment>Q#94-8|En later [ @mwu_alt .... ... . ]|1|1|-0.46898112000000003</comment>
+  </comments>
+</alpino_ds>
