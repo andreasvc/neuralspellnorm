@@ -1,24 +1,24 @@
 # Historical Dutch Spelling Normalization with Pre-trained Language Models
 
-## This repository contains the following directories:
+This repository contains the following directories:
 
-### Evaluation
+### Evaluation/
 
 This directory contains the Python notebook (`evaluation.ipynb`) and file (`evaluate_functions.py`) used to evaluate the predictions for each trained model. 
 The different subdirectories contain three .txt files; these are the predictions for that specific model on the three test novels.
 
-### Gold-Data
+### Gold-Data/
 
 This directory contains the separate gold novels used for the validation and test set.
 The `Annotation_Guidelines_19th_Dutch_Spelling.pdf` file contains the guidelines for annotating or correcting 19th-century Dutch novels.
 
-### Silver-Data
+### Silver-Data/
 
 This directory contains the automatically annotated novels as .txt files for the 5k and 10k finetuning datasets.
 The `training_data10k.txt` and `training_data5k.txt` are the novels combined and cleaned.
 The `literature_list.txt` contains the names of all the novels taken from Project Gutenberg.
 
-### Training
+### Training/
 
 This directory contains the code used for finetuning and testing the different T5 versions. 
 Where `T5Trainer` and `T5Predict` are used to train and test the models.
@@ -39,7 +39,7 @@ See `T5Predict` for a full explanation of each of the arguments.
 `Gutenberg_Data.ipynb` is the notebook used to extract and download novels from Project Gutenberg.
 This notebook uses the [Dutch Literature Pipeline](https://github.com/andreasvc/dutchlitpreproc) repository from van Cranenburgh.  
 
-### Pretraining
+### Pretraining/
 
 This directory contains the code used to further pretrain ByT5.
 The `pretrain_jax.py` is the Python file to pretrain the model, which uses custom (hyper)parameters; see [run_t5_mlm_flax.py](https://github.com/huggingface/transformers/blob/main/examples/flax/language-modeling/run_t5_mlm_flax.py) for further explanation.
@@ -79,7 +79,7 @@ The `convert_jax_to_torch.py` is the script used to convert the pretrained weigh
 
 A pretrained and finetuned model is available at https://huggingface.co/AWolters/ByT5_DutchSpellingNormalization
 
-### DownstreamEval
+### DownstreamEval/
 
 Scripts to run the evaluation on downstream tasks. See the README for more information.
 
@@ -88,7 +88,7 @@ Scripts to run the evaluation on downstream tasks. See the README for more infor
 If you use this data or model for research, please cite [the paper](https://clinjournal.org/clinj/article/view/178):
 
 ```bibtex
-    @article{wolters2022neuralspellnorm,
+@article{wolters2022neuralspellnorm,
     author={Wolters, Andre  and  van Cranenburgh, Andreas},
     year={2023},
     title={Historical Dutch Spelling Normalization with Pre-trained Language Models},
