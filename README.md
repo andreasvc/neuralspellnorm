@@ -77,7 +77,24 @@ the `train_file` and `validation_file` arguments are where the training and vali
 The `create_data.ipynb` notebook is used to convert Dutch data into a single train and validation file.
 The `convert_jax_to_torch.py` is the script used to convert the pretrained weights in Flax format into a Pytorch format.
 
+A pretrained and finetuned model is available at https://huggingface.co/AWolters/ByT5_DutchSpellingNormalization
+
 ### DownstreamEval
 
 Scripts to run the evaluation on downstream tasks. See the README for more information.
 
+## Reference
+
+If you use this data or model for research, please cite [the paper](https://clinjournal.org/clinj/article/view/178):
+
+```bibtex
+    @article{wolters2022neuralspellnorm,
+    author={Wolters, Andre  and  van Cranenburgh, Andreas},
+    year={2023},
+    title={Historical Dutch Spelling Normalization with Pre-trained Language Models},
+    journal={Computational Linguistics in the Netherlands Journal},
+    volume={13},
+    pages={147--171},
+    url={https://clinjournal.org/clinj/article/view/178},
+}
+```
